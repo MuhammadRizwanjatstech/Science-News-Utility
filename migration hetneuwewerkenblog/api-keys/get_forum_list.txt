@@ -1,0 +1,1 @@
+{"message": [{"created_at": "2010-02-16 07:01:58.589608", "shortname": "hnwblog", "id": "289440", "name": "Het Nieuwe Werken Blog"}, {"created_at": "2010-02-16 08:51:49.806619", "shortname": "hetnieuwewerkenblog", "id": "289498", "name": "Het Nieuwe Werken Blog"}], "code": "ok", "succeeded": true}

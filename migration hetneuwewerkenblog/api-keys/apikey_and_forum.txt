@@ -1,0 +1,12 @@
+HNWBLOG API KEY: J02qcLb3NIgHS06Ow5CD5xEPXwyRuZjYBNPM4hVxf7pX01w3lcectGqlpPyMBcz5
+
+hnwblog Forum: 289440
+
+hnwblog forum api key: 4D66JyvFcMsw1mz2waYeri9N0xEHl07Kr4fhMEBt1yO2JV7PFVYQ50yLPJC9jbeB
+
+
+
+// used http://mikkel.hoegh.org/blog/2009/sep/15/how-get-your-disqus-api-keys/
+
+
+http://disqus.com/api/get_forum_list/?user_api_key=J02qcLb3NIgHS06Ow5CD5xEPXwyRuZjYBNPM4hVxf7pX01w3lcectGqlpPyMBcz5

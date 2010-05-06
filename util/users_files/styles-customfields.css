@@ -1,0 +1,94 @@
+/* - edit_field.tmpl */
+#tag-field .spinner { 
+    margin-left: -5px;
+}
+
+#tag-field .spinner p { 
+    margin: 10px 0 0;
+    padding: 5px;
+}
+
+#tag-field .spinner img { 
+    background-image: url(../../images/spinner-right.gif);
+}
+
+.active#tag-field .spinner img {
+    background-image: url(../../images/spinner-bottom.gif);
+}
+
+.active#tag-field #code { 
+    display: block;
+    margin-top: 0;
+}
+
+#tag-field #code { 
+    display: none;
+}
+
+#edit_field #basename-field .field-content #basename-lock { 
+    float: none;
+}
+
+#edit_field #basename-lock { 
+    display: inline;
+}
+
+/* - date-picker.tmpl */
+.field-content input.entry-date { 
+    width: 7em;
+}
+.field-content input.entry-time { 
+    width: 5.5em;
+}
+
+
+/* - reorder_fields.tmpl */
+#customfields-reorder-widget .widget-header a { 
+    background: url(../../images/spinner-right.gif) no-repeat left center;
+    padding-left: 11px;
+}
+#customfields-reorder-widget.active .widget-header a { 
+    background-image: url(../../images/spinner-bottom.gif);
+}
+
+#customfields-reorder-widget .widget-content { 
+    display: none;
+}
+
+#customfields-reorder-widget.active .widget-content { 
+    display: block;
+}
+
+.dbx-clone { 
+    position: absolute;
+    visibility: hidden;
+}
+.dbx-clone, .dbx-clone .dbx-handle-cursor { 
+    cursor: move !important;
+}
+.dbx-dummy { 
+    display: block;
+    width: 0;
+    height: 0;
+    overflow: hidden;
+}
+.dbx-group, .dbx-box, .dbx-handle { 
+    position: relative;
+    display: block;
+}
+.dbx-box { 
+    margin: 0;
+    padding: 0;
+    border: none;
+    zoom: 1; /* for IE haslayout */
+}
+.dbx-handle { 
+    border: 1px solid #c8c2be;
+    line-height: 1.2;
+    padding: 3px;
+    font-size: 11px;
+    cursor: pointer;
+    margin-bottom: 5px;
+    text-align: left;
+    background-color: #dcdddd;
+}
