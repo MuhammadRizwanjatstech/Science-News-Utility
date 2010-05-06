@@ -2,6 +2,8 @@
 import sys
 import cPickle
 import urlparse
+import pprint
+import urllib2 as urllib
 from GenericAPIWrapper import GenericAPIWrapper
 from datetime import datetime
 from BeautifulSoup import BeautifulStoneSoup
@@ -10,25 +12,38 @@ API_URL = "http://disqus.com/api/%s/"
 API_VERSION = "1.1"
 API_KEY = 'J02qcLb3NIgHS06Ow5CD5xEPXwyRuZjYBNPM4hVxf7pX01w3lcectGqlpPyMBcz5'
 forum_api_key = None
-forum_index = 1 
+forum_index = 0 
 globalparams = {'api_version': API_VERSION,
                 'user_api_key': API_KEY}
 inputfile = 'hetnieuwewerkenblog.nl-comments.xml' 
-api = GenericAPIWrapper(debug_level=1)
+api = GenericAPIWrapper(debug_level=0)
+pp = pprint.PrettyPrinter(indent=4)
+tab = '  '
 
 def get_forum_api_key():
     params = globalparams.copy()
-    params['forum_id'] = forum_index
-    print api.FetchUrl(API_URL % 'get_forum_api_key', parameters=params)
+    url = API_URL % 'get_forum_list'
+    data,headers = api.FetchUrl(url, parameters=params)
+    forum = data['message'][forum_index]
+    #pp.pprint(forum)
+    params['forum_id'] = forum['id']
+    params['filter'] = 'approved'
+    url = API_URL % 'get_forum_api_key'
+    data, headers = api.FetchUrl(url, parameters=params)
+    global forum_api_key
+    forum_api_key = data['message']
+    print 'Forum',forum['name'],'('+forum['shortname']+')'
 
 def parse_threads(refresh=False, cachefile='soup.cPickle'):
     if refresh:
+        print 'Deleting cache file',cachefile
         try:
             os.remove(cachefile)
         except os.OSError:
             pass
     try:
         threads = cPickle.load(open(cachefile,'r'))
+        print 'Threads loaded from cache',cachefile
     except IOError:
         soup = BeautifulStoneSoup(open(inputfile))
         print 'Parsing xml file',inputfile
@@ -67,8 +82,33 @@ def parse_threads(refresh=False, cachefile='soup.cPickle'):
                     com['parent'] = None
                 comments.append(com)
             threads.append((link, comments))
+        threads = process_threads(threads)
         cPickle.dump(threads, open(cachefile,'w'))
+        print 'Parsed threads cached to',cachefile
     return threads
+
+def process_threads(threads):
+    """consolidate duplicate urls and translate ?p=# urls to prettified wp
+    permalinks"""
+    print 'Consolidating threads and resolving thread urls...'
+    newthreads = {}
+    nrenamed = 0
+    for thread in threads:
+        url,comments = thread
+        if '/p=' in url:
+            url = url.replace('/p=','/?p=')
+            nrenamed += 1
+        #print url
+        url = get_wp_permalink(url)
+        print url
+        newthreads[url] = comments
+    print len(threads),'threads consolidated to ',len(newthreads),'threads;',
+    print nrenamed,'thread urls renamed.'
+    return newthreads
+
+def get_wp_permalink(url):
+    response = urllib.urlopen(url)
+    return response.geturl()
 
 def dsq_threadcheck():
     get_forum_api_key()
@@ -76,8 +116,8 @@ def dsq_threadcheck():
     ids = {}
     print 'Checking threads...'
     f = open('threadlog.txt','w')
-    for thread in threads:
-        url,comments = thread
+    for url in threads:
+        comments = threads[url]
         print url
         # put parents before children
         sort_by_date(comments)
@@ -85,17 +125,34 @@ def dsq_threadcheck():
         s = urlparse.urlsplit(url)
         host = s.hostname
         path = s.path
+        path = path.rstrip('/')
+        if path == '':
+            path = '/'
         # get thread by url
-        dsqthread = get_thread_by_url(url)
-        print 'get_thread_by_url:'
+        data, headers = get_thread_by_url(url)
+        dsqthread = data['message']
         print dsqthread
+        print 'get_thread_by_url:'
+        if dsqthread:
+            #pp.pprint(data)
+            id = dsqthread['id']
+            identifier = dsqthread['identifier']
+            print 'id:',
+            pp.pprint(id)
+            print 'identifier:',
+            pp.pprint(identifier)
+        else:
+            print 'No thread found. Creating one...'
+        break
+
 
 def get_thread_by_url(url):
-    params = copy(globalparams)
+    params = globalparams.copy()
+    params['url'] = url
+    params['forum_api_key'] = forum_api_key
     return api.FetchUrl(API_URL % 'get_thread_by_url', parameters=params)
 
 def dsq_import():
-    dsq_setup()
     threads = parse_threads()
     ids = {}
     for thread in threads:
