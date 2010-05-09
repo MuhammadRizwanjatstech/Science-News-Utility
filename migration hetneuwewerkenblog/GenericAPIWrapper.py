@@ -166,7 +166,10 @@ class GenericAPIWrapper:
 
     def _Encode(self, s):
         if self._input_encoding:
-            return unicode(s, self._input_encoding).encode('utf-8')
+            if self._input_encoding == 'utf-8':
+                return s
+            else:
+                return unicode(s, self._input_encoding).encode('utf-8')
         else:
             return unicode(s).encode('utf-8')
 
@@ -212,7 +215,8 @@ class GenericAPIWrapper:
                  auth_cookie=None,
                  dry_run=False,
                  no_cache=True,
-                 convert_data=True):
+                 convert_data=True,
+                 verbose=False):
         '''Fetch a URL, optionally caching for a specified time.
 
         Args:
@@ -240,7 +244,7 @@ class GenericAPIWrapper:
 
         # Add key/value parameters to the query string of the url
         url = self._BuildUrl(url, extra_params=extra_params)
-        if self._debug_level > 0:
+        if self._debug_level > 0 or verbose:
             print 'Request sent:',url
 
         # Just testing, don't need to return data
