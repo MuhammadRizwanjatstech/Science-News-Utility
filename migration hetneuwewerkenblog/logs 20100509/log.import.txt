@@ -1,0 +1,934 @@
+Forum Het Nieuwe Werken Blog (hnwblog)
+Threads loaded from cache soup.cPickle
+Importing comments to Disqus...
+http://hetnieuwewerkenblog.nl/samenwerken-zonder-email-videocolumn-sam-van-buuren/
+Fetching thread http://hetnieuwewerkenblog.nl/samenwerken-zonder-email-videocolumn-sam-van-buuren/
+id:u'67339640'
+identifier:[u'2134 http://hetnieuwewerkenblog.nl/?p=2134']
+Disqus comment created: 49200606 (JSK id: jsid-1260748322-294)
+Disqus comment created: 49200607 (JSK id: jsid-1260829473-226)
+Disqus comment created: 49200608 (JSK id: jsid-1261053770-120)
+Disqus comment created: 49200609 (JSK id: jsid-1261424797-80)
+Disqus comment created: 49200610 (JSK id: jsid-1261427334-484)
+Disqus comment created: 49200611 (JSK id: jsid-1261428402-585)
+Disqus comment created: 49200613 (JSK id: jsid-1261430896-557)
+Disqus comment created: 49200615 (JSK id: jsid-1261433887-613)
+http://hetnieuwewerkenblog.nl/ook-obama-maakt-gebruikt-een-virtuele-assistent/
+Fetching thread http://hetnieuwewerkenblog.nl/ook-obama-maakt-gebruikt-een-virtuele-assistent/
+id:u'67327862'
+identifier:[u'1929 http://hetnieuwewerkenblog.nl/?p=1929']
+Disqus comment created: 49200617 (JSK id: jsid-1260183967-805)
+Disqus comment created: 49200618 (JSK id: jsid-1260197120-334)
+Disqus comment created: 49200619 (JSK id: jsid-1260261843-323)
+Disqus comment created: 49200622 (JSK id: jsid-1260274432-653)
+Disqus comment created: 49200623 (JSK id: jsid-1260720256-276)
+Disqus comment created: 49200624 (JSK id: jsid-1260724783-22)
+http://hetnieuwewerkenblog.nl/casanova-informatiewerker/
+Fetching thread http://hetnieuwewerkenblog.nl/casanova-informatiewerker/
+id:u'90252707'
+identifier:[]
+Disqus comment created: 49200626 (JSK id: jsid-1269425177-505)
+http://hetnieuwewerkenblog.nl/wake-call-tijd-voor-nieuwe-leiders/
+Fetching thread http://hetnieuwewerkenblog.nl/wake-call-tijd-voor-nieuwe-leiders/
+id:u'89492528'
+identifier:[u'3637 http://hetnieuwewerkenblog.nl/?p=3637']
+Disqus comment created: 49200627 (JSK id: jsid-1268569912-41)
+Disqus comment created: 49200628 (JSK id: jsid-1268601423-539)
+Disqus comment created: 49200629 (JSK id: jsid-1268736578-572)
+Disqus comment created: 49200630 (JSK id: jsid-1268817192-284)
+Disqus comment created: 49200631 (JSK id: jsid-1269115886-116)
+http://hetnieuwewerkenblog.nl/recensie-connect-menno-lanting/
+Fetching thread http://hetnieuwewerkenblog.nl/recensie-connect-menno-lanting/
+id:u'67339748'
+identifier:[u'2992 http://hetnieuwewerkenblog.nl/?p=2992']
+Disqus comment created: 49200632 (JSK id: jsid-1266759093-379)
+Disqus comment created: 49200635 (JSK id: jsid-1266880050-390)
+Disqus comment created: 49200637 (JSK id: jsid-1270981336-117)
+Disqus comment created: 49200638 (JSK id: jsid-1271021601-884)
+Disqus comment created: 49200639 (JSK id: jsid-1271022304-293)
+Disqus comment created: 49200642 (JSK id: jsid-1271022364-218)
+http://hetnieuwewerkenblog.nl/roi-social-enterprise/
+Fetching thread http://hetnieuwewerkenblog.nl/roi-social-enterprise/
+id:u'89490660'
+identifier:[]
+Disqus comment created: 49200644 (JSK id: jsid-1266474449-400)
+Disqus comment created: 49200645 (JSK id: jsid-1266487499-846)
+Disqus comment created: 49200646 (JSK id: jsid-1266528564-693)
+Disqus comment created: 49200647 (JSK id: jsid-1266619489-950)
+Disqus comment created: 49200648 (JSK id: jsid-1267167835-899)
+Disqus comment created: 49200649 (JSK id: jsid-1267444417-38)
+Disqus comment created: 49200650 (JSK id: jsid-1267603117-413)
+http://hetnieuwewerkenblog.nl/fasten-seat-belts/
+Fetching thread http://hetnieuwewerkenblog.nl/fasten-seat-belts/
+id:u'67327968'
+identifier:[]
+Disqus comment created: 49200651 (JSK id: jsid-1264162349-115)
+Disqus comment created: 49200652 (JSK id: jsid-1264172316-549)
+Disqus comment created: 49200654 (JSK id: jsid-1264253090-46)
+Disqus comment created: 49200655 (JSK id: jsid-1264681600-288)
+http://hetnieuwewerkenblog.nl/altijd-online-continue-bereikbaar/
+Fetching thread http://hetnieuwewerkenblog.nl/altijd-online-continue-bereikbaar/
+id:u'67327665'
+identifier:[]
+Disqus comment created: 49200656 (JSK id: jsid-1255951738-642)
+Disqus comment created: 49200659 (JSK id: jsid-1256301289-916)
+Disqus comment created: 49200661 (JSK id: jsid-1256477654-433)
+Disqus comment created: 49200662 (JSK id: jsid-1256895245-887)
+http://hetnieuwewerkenblog.nl/onzin-misverstanden-het-nieuwe-werken/
+Fetching thread http://hetnieuwewerkenblog.nl/onzin-misverstanden-het-nieuwe-werken/
+id:u'67327718'
+identifier:[u'456 http://hetnieuwewerkenblog.nl/?p=456']
+Disqus comment created: 49200664 (JSK id: jsid-1250234889-7993)
+Disqus comment created: 49200665 (JSK id: jsid-1250244134-1181)
+Disqus comment created: 49200666 (JSK id: jsid-1264518298-278)
+Disqus comment created: 49200668 (JSK id: jsid-1264534406-499)
+http://hetnieuwewerkenblog.nl/technische-ontwikkelingen-het-nieuwe-werken/
+Fetching thread http://hetnieuwewerkenblog.nl/technische-ontwikkelingen-het-nieuwe-werken/
+id:u'67327826'
+identifier:[]
+Disqus comment created: 49200669 (JSK id: jsid-1258978886-703)
+Disqus comment created: 49200671 (JSK id: jsid-1258993570-490)
+Disqus comment created: 49200673 (JSK id: jsid-1258999330-36)
+Disqus comment created: 49200674 (JSK id: jsid-1259010285-845)
+Disqus comment created: 49200676 (JSK id: jsid-1259495824-358)
+Disqus comment created: 49200677 (JSK id: jsid-1268391792-397)
+http://hetnieuwewerkenblog.nl/grote-veranderingen-beginnen-klein/
+Fetching thread http://hetnieuwewerkenblog.nl/grote-veranderingen-beginnen-klein/
+id:u'89493045'
+identifier:[u'3155 http://hetnieuwewerkenblog.nl/?p=3155']
+Disqus comment created: 49200678 (JSK id: jsid-1267004759-906)
+Disqus comment created: 49200679 (JSK id: jsid-1267052240-539)
+Disqus comment created: 49200680 (JSK id: jsid-1267290027-711)
+http://hetnieuwewerkenblog.nl/upgrade-your-life-actie-het-nieuwe-werken-blog/
+Fetching thread http://hetnieuwewerkenblog.nl/upgrade-your-life-actie-het-nieuwe-werken-blog/
+id:u'67327680'
+identifier:[]
+Disqus comment created: 49200681 (JSK id: jsid-1257881744-427)
+Disqus comment created: 49200683 (JSK id: jsid-1257884000-212)
+Disqus comment created: 49200684 (JSK id: jsid-1258028084-773)
+Disqus comment created: 49200685 (JSK id: jsid-1258033226-336)
+http://hetnieuwewerkenblog.nl/het-nieuwe-werken-wolken-wat-de-impact-van-cloud-computing/
+Fetching thread http://hetnieuwewerkenblog.nl/het-nieuwe-werken-wolken-wat-de-impact-van-cloud-computing/
+id:u'67339577'
+identifier:[u'1321 http://hetnieuwewerkenblog.nl/?p=1321']
+Disqus comment created: 49200687 (JSK id: jsid-1256920877-143)
+Disqus comment created: 49200688 (JSK id: jsid-1257074781-107)
+Disqus comment created: 49200689 (JSK id: jsid-1257176755-385)
+Disqus comment created: 49200690 (JSK id: jsid-1257517874-937)
+Disqus comment created: 49200692 (JSK id: jsid-1257526857-596)
+Disqus comment created: 49200693 (JSK id: jsid-1257538384-907)
+Disqus comment created: 49200694 (JSK id: jsid-1257538962-802)
+Disqus comment created: 49200695 (JSK id: jsid-1258115344-722)
+http://hetnieuwewerkenblog.nl/win-klein-receptenboek-nieuwe-werken-49-recepten/
+Fetching thread http://hetnieuwewerkenblog.nl/win-klein-receptenboek-nieuwe-werken-49-recepten/
+id:u'67327650'
+identifier:[u'2553 http://hetnieuwewerkenblog.nl/?p=2553']
+Disqus comment created: 49200698 (JSK id: jsid-1263196652-487)
+Disqus comment created: 49200699 (JSK id: jsid-1263199651-312)
+Disqus comment created: 49200700 (JSK id: jsid-1264503080-902)
+http://hetnieuwewerkenblog.nl/hnwblog-6-maanden-cijfers-plannen-partners/
+Fetching thread http://hetnieuwewerkenblog.nl/hnwblog-6-maanden-cijfers-plannen-partners/
+id:u'89490734'
+identifier:[u'4014 http://hetnieuwewerkenblog.nl/?p=4014']
+Disqus comment created: 49200701 (JSK id: jsid-1271337221-111)
+http://hetnieuwewerkenblog.nl/het-nieuwe-werken-overheid/
+Fetching thread http://hetnieuwewerkenblog.nl/het-nieuwe-werken-overheid/
+id:u'90252726'
+identifier:[]
+Disqus comment created: 49200703 (JSK id: jsid-1269255235-610)
+http://hetnieuwewerkenblog.nl/zelfstandigen-loonslaven/
+Fetching thread http://hetnieuwewerkenblog.nl/zelfstandigen-loonslaven/
+id:u'90252757'
+identifier:[]
+Disqus comment created: 49200704 (JSK id: jsid-1269240774-264)
+Disqus comment created: 49200705 (JSK id: jsid-1269246475-180)
+Disqus comment created: 49200707 (JSK id: jsid-1269246516-987)
+Disqus comment created: 49200708 (JSK id: jsid-1269336566-376)
+Disqus comment created: 49200710 (JSK id: jsid-1269848506-94)
+http://hetnieuwewerkenblog.nl/ben-jij-een-kenniswerker/
+Fetching thread http://hetnieuwewerkenblog.nl/ben-jij-een-kenniswerker/
+id:u'67327610'
+identifier:[]
+Disqus comment created: 49200711 (JSK id: jsid-1240639314-8856)
+Disqus comment created: 49200712 (JSK id: jsid-1241341318-3059)
+Disqus comment created: 49200713 (JSK id: jsid-1241679722-5071)
+http://hetnieuwewerkenblog.nl/korting-congres-kluwer-over-het-nieuwe-werken/
+Fetching thread http://hetnieuwewerkenblog.nl/korting-congres-kluwer-over-het-nieuwe-werken/
+id:u'67327697'
+identifier:[]
+Disqus comment created: 49200715 (JSK id: jsid-1258114910-929)
+Disqus comment created: 49200716 (JSK id: jsid-1258544033-370)
+http://hetnieuwewerkenblog.nl/het-nieuwe-werken-interview-maarten-korz-rabobank/
+Fetching thread http://hetnieuwewerkenblog.nl/het-nieuwe-werken-interview-maarten-korz-rabobank/
+id:u'67327673'
+identifier:[]
+Disqus comment created: 49200717 (JSK id: jsid-1259915087-82)
+Disqus comment created: 49200718 (JSK id: jsid-1259957750-987)
+Disqus comment created: 49200719 (JSK id: jsid-1267712162-288)
+Disqus comment created: 49200721 (JSK id: jsid-1267740085-892)
+http://hetnieuwewerkenblog.nl/het-nieuwe-werken-een-probaat-geneesmiddel-met-bijwerkingen-2/
+Fetching thread http://hetnieuwewerkenblog.nl/het-nieuwe-werken-een-probaat-geneesmiddel-met-bijwerkingen-2/
+id:u'67327922'
+identifier:[u'2194 http://hetnieuwewerkenblog.nl/?p=2194']
+Disqus comment created: 49200723 (JSK id: jsid-1263890749-132)
+http://hetnieuwewerkenblog.nl/het-nieuwe-werken-van-hype-naar-duurzame-ontwikkeling/
+Fetching thread http://hetnieuwewerkenblog.nl/het-nieuwe-werken-van-hype-naar-duurzame-ontwikkeling/
+id:u'67327855'
+identifier:[u'1723 http://hetnieuwewerkenblog.nl/?p=1723']
+Disqus comment created: 49200724 (JSK id: jsid-1259757199-394)
+Disqus comment created: 49200725 (JSK id: jsid-1259762413-431)
+Disqus comment created: 49200726 (JSK id: jsid-1259765847-721)
+Disqus comment created: 49200727 (JSK id: jsid-1259780403-235)
+Disqus comment created: 49200728 (JSK id: jsid-1259782883-125)
+Disqus comment created: 49200729 (JSK id: jsid-1259826619-889)
+Disqus comment created: 49200730 (JSK id: jsid-1259945435-998)
+Disqus comment created: 49200731 (JSK id: jsid-1260563843-2)
+http://hetnieuwewerkenblog.nl/voordelen-nadelen-cloud-computing/
+Fetching thread http://hetnieuwewerkenblog.nl/voordelen-nadelen-cloud-computing/
+id:u'67327623'
+identifier:[u'210 http://hetnieuwewerkenblog.nl/de-voor-en-nadelen-van-cloud-computing/']
+Disqus comment created: 49200732 (JSK id: jsid-1248437087-2935)
+http://hetnieuwewerkenblog.nl/het-nieuwe-werken-interview-roland-hameeteman-video/
+Fetching thread http://hetnieuwewerkenblog.nl/het-nieuwe-werken-interview-roland-hameeteman-video/
+id:u'67327840'
+identifier:[]
+Disqus comment created: 49200734 (JSK id: jsid-1259146108-906)
+Disqus comment created: 49200736 (JSK id: jsid-1259166769-736)
+http://hetnieuwewerkenblog.nl/kenniswerk-goedkoper/
+Fetching thread http://hetnieuwewerkenblog.nl/kenniswerk-goedkoper/
+id:u'67327845'
+identifier:[u'170 http://hetnieuwewerkenblog.nl/?p=170']
+Disqus comment created: 49200738 (JSK id: jsid-1245135152-8702)
+Disqus comment created: 49200739 (JSK id: jsid-1245157217-7410)
+Disqus comment created: 49200740 (JSK id: jsid-1245227679-268)
+Disqus comment created: 49200741 (JSK id: jsid-1245330943-9436)
+Disqus comment created: 49200743 (JSK id: jsid-1245423503-6080)
+http://hetnieuwewerkenblog.nl/kromme-tenen-van-getronics/
+Fetching thread http://hetnieuwewerkenblog.nl/kromme-tenen-van-getronics/
+id:u'67327869'
+identifier:[u'2721 http://hetnieuwewerkenblog.nl/?p=2721']
+Disqus comment created: 49200745 (JSK id: jsid-1264401038-295)
+Disqus comment created: 49200746 (JSK id: jsid-1264410034-677)
+Disqus comment created: 49200748 (JSK id: jsid-1264411428-416)
+Disqus comment created: 49200749 (JSK id: jsid-1264415046-176)
+Disqus comment created: 49200751 (JSK id: jsid-1264436740-791)
+Disqus comment created: 49200752 (JSK id: jsid-1264489898-928)
+Disqus comment created: 49200754 (JSK id: jsid-1264495566-137)
+Disqus comment created: 49200755 (JSK id: jsid-1264501303-996)
+Disqus comment created: 49200756 (JSK id: jsid-1264512891-643)
+Disqus comment created: 49200757 (JSK id: jsid-1264512942-902)
+Disqus comment created: 49200758 (JSK id: jsid-1264535437-21)
+Disqus comment created: 49200760 (JSK id: jsid-1264535786-221)
+Disqus comment created: 49200761 (JSK id: jsid-1264588379-597)
+Disqus comment created: 49200762 (JSK id: jsid-1264589338-341)
+Disqus comment created: 49200763 (JSK id: jsid-1265191873-703)
+http://hetnieuwewerkenblog.nl/leren-wouter-bos-camiel-eurlings/
+Fetching thread http://hetnieuwewerkenblog.nl/leren-wouter-bos-camiel-eurlings/
+id:u'89490722'
+identifier:[]
+Disqus comment created: 49200764 (JSK id: jsid-1270047110-942)
+http://hetnieuwewerkenblog.nl/geheim-y-generatie-einstein/
+Fetching thread http://hetnieuwewerkenblog.nl/geheim-y-generatie-einstein/
+id:u'67327739'
+identifier:[u'1090 http://hetnieuwewerkenblog.nl/?p=1090']
+Disqus comment created: 49200765 (JSK id: jsid-1254334164-41)
+Disqus comment created: 49200766 (JSK id: jsid-1254350671-903)
+Disqus comment created: 49200768 (JSK id: jsid-1254405762-970)
+Disqus comment created: 49200769 (JSK id: jsid-1254426258-690)
+Disqus comment created: 49200771 (JSK id: jsid-1254553684-858)
+Disqus comment created: 49200773 (JSK id: jsid-1254556501-236)
+Disqus comment created: 49200774 (JSK id: jsid-1254570182-74)
+Disqus comment created: 49200775 (JSK id: jsid-1254570902-362)
+Disqus comment created: 49200777 (JSK id: jsid-1254656635-635)
+Disqus comment created: 49200778 (JSK id: jsid-1254751272-37)
+Disqus comment created: 49200779 (JSK id: jsid-1254755724-425)
+Disqus comment created: 49200780 (JSK id: jsid-1255183036-806)
+Disqus comment created: 49200782 (JSK id: jsid-1255547331-476)
+Disqus comment created: 49200783 (JSK id: jsid-1255547801-675)
+Disqus comment created: 49200784 (JSK id: jsid-1255548801-8)
+http://hetnieuwewerkenblog.nl/wijzer-met-informatie/
+Fetching thread http://hetnieuwewerkenblog.nl/wijzer-met-informatie/
+id:u'89490684'
+identifier:[]
+Disqus comment created: 49200785 (JSK id: jsid-1267174409-546)
+Disqus comment created: 49200788 (JSK id: jsid-1267189039-71)
+Disqus comment created: 49200790 (JSK id: jsid-1267214036-748)
+Disqus comment created: 49200791 (JSK id: jsid-1267434541-654)
+Disqus comment created: 49200792 (JSK id: jsid-1267692194-522)
+Disqus comment created: 49200793 (JSK id: jsid-1268052953-561)
+Disqus comment created: 49200795 (JSK id: jsid-1268157731-350)
+Disqus comment created: 49200797 (JSK id: jsid-1268158699-777)
+Disqus comment created: 49200798 (JSK id: jsid-1268230795-43)
+Disqus comment created: 49200799 (JSK id: jsid-1268724422-33)
+Disqus comment created: 49200801 (JSK id: jsid-1269081324-278)
+http://hetnieuwewerkenblog.nl/het-nieuwe-werken-juist-ook-voor-verwerkende-medewerkers/
+Fetching thread http://hetnieuwewerkenblog.nl/het-nieuwe-werken-juist-ook-voor-verwerkende-medewerkers/
+id:u'67339727'
+identifier:[]
+Disqus comment created: 49200802 (JSK id: jsid-1265098862-613)
+Disqus comment created: 49200803 (JSK id: jsid-1265362909-275)
+http://hetnieuwewerkenblog.nl/zo-ongeveer-150-mensen/
+Fetching thread http://hetnieuwewerkenblog.nl/zo-ongeveer-150-mensen/
+id:u'67339753'
+identifier:[u'2912 http://hetnieuwewerkenblog.nl/?p=2912']
+Disqus comment created: 49200805 (JSK id: jsid-1265869924-25)
+http://hetnieuwewerkenblog.nl/brutaal-veranderen/
+Fetching thread http://hetnieuwewerkenblog.nl/brutaal-veranderen/
+id:u'90252837'
+identifier:[u'4119 http://hetnieuwewerkenblog.nl/?p=4119']
+Disqus comment created: 49200807 (JSK id: jsid-1271329318-991)
+Disqus comment created: 49200809 (JSK id: jsid-1271368219-492)
+http://hetnieuwewerkenblog.nl/co-creatie-multitouch/
+Fetching thread http://hetnieuwewerkenblog.nl/co-creatie-multitouch/
+id:u'67327943'
+identifier:[]
+Disqus comment created: 49200810 (JSK id: jsid-1263772947-485)
+Disqus comment created: 49200811 (JSK id: jsid-1263803125-749)
+Disqus comment created: 49200812 (JSK id: jsid-1264016656-391)
+http://hetnieuwewerkenblog.nl/business-modellen-het-nieuwe-werken/
+Fetching thread http://hetnieuwewerkenblog.nl/business-modellen-het-nieuwe-werken/
+id:u'90237393'
+identifier:[u'4581 http://hetnieuwewerkenblog.nl/?p=4581']
+Disqus comment created: 49200813 (JSK id: jsid-1272375616-343)
+Disqus comment created: 49200814 (JSK id: jsid-1272399447-525)
+Disqus comment created: 49200815 (JSK id: jsid-1272914152-359)
+http://hetnieuwewerkenblog.nl/betekenis-organisatie-het-nieuwe-werken/
+Fetching thread http://hetnieuwewerkenblog.nl/betekenis-organisatie-het-nieuwe-werken/
+id:u'67327795'
+identifier:[u'232 http://hetnieuwewerkenblog.nl/?p=232']
+Disqus comment created: 49200816 (JSK id: jsid-1247128686-3638)
+http://hetnieuwewerkenblog.nl/belonen-prestatie-resultaat-je-krijgt-waar-je-voor-betaald/
+Fetching thread http://hetnieuwewerkenblog.nl/belonen-prestatie-resultaat-je-krijgt-waar-je-voor-betaald/
+id:u'93624192'
+identifier:[u'4723 http://hetnieuwewerkenblog.nl/?p=4723']
+Disqus comment created: 49200817 (JSK id: jsid-1273247282-317)
+Disqus comment created: 49200818 (JSK id: jsid-1273270451-307)
+http://hetnieuwewerkenblog.nl/radicale-omslag-van-tekort-aan-banen-naar-tekort-aan-mensen/
+Fetching thread http://hetnieuwewerkenblog.nl/radicale-omslag-van-tekort-aan-banen-naar-tekort-aan-mensen/
+id:u'67327951'
+identifier:[]
+Disqus comment created: 49200819 (JSK id: jsid-1264144029-410)
+Disqus comment created: 49200820 (JSK id: jsid-1264149464-948)
+Disqus comment created: 49200821 (JSK id: jsid-1264150188-514)
+Disqus comment created: 49200822 (JSK id: jsid-1264150620-116)
+Disqus comment created: 49200823 (JSK id: jsid-1264157800-135)
+Disqus comment created: 49200824 (JSK id: jsid-1264170748-129)
+Disqus comment created: 49200825 (JSK id: jsid-1264239263-565)
+Disqus comment created: 49200826 (JSK id: jsid-1264424397-651)
+Disqus comment created: 49200827 (JSK id: jsid-1264499776-144)
+http://hetnieuwewerkenblog.nl/het-nieuwe-werken-vijf-prikkelende-stellingen/
+Fetching thread http://hetnieuwewerkenblog.nl/het-nieuwe-werken-vijf-prikkelende-stellingen/
+id:u'67327744'
+identifier:[u'161 http://hetnieuwewerkenblog.nl/?p=161']
+HTTP Error 500: INTERNAL SERVER ERROR
+{'name': u'Alexander Cr\xe9pin', 'parent': None, 'created': datetime.datetime(2009, 5, 11, 7, 10, 48), 'url': None, 'ip': '255.255.255.0', 'email': u'Alexander_Cr\xe9pin@jskit.hetnieuwewerkenblog.nl', 'msg': u'Beste Sam, ik denk dat je een aantal goede argumenten aanvoert. Ik zou mij er echter niet al te druk om maken welke benaming wordt gehanteerd. Het is naar mijn idee effectiever om aan te sluiten op de term die gemeengoed is geworden en daarbij een fris geluid te laten horen, dan te proberen een nieuwe term te introduceren die later ook weer achterhaald zal worden. Ik spreek op mijn Ailo.nl blog over Talent 2.0 en Outplacement 2.0. Outplacement is eigenlijk achterhaald begrip in het licht van "het nieuwe werken". Maar iedereen begrijpt wel wat je ongeveer te bieden hebt, maar dan in een 2.0 versie. Op inHR.nl schrijf ik over de wereld in verandering, wellicht leuk voor jou om kennis van te nemen. Groeten, Alexander Cr\xe9pin ', 'id': u'jsid-1242025848-8342'}
+Disqus comment created: 49200829 (JSK id: jsid-1242026152-1119)
+Disqus comment created: 49200830 (JSK id: jsid-1242111956-2523)
+Disqus comment created: 49200831 (JSK id: jsid-1242113759-9722)
+Disqus comment created: 49200834 (JSK id: jsid-1242115863-3869)
+Disqus comment created: 49200835 (JSK id: jsid-1242119347-3695)
+Disqus comment created: 49200836 (JSK id: jsid-1242119858-2629)
+Disqus comment created: 49200837 (JSK id: jsid-1242198550-3205)
+Disqus comment created: 49200839 (JSK id: jsid-1242994154-5692)
+Disqus comment created: 49200841 (JSK id: jsid-1242997758-7772)
+http://hetnieuwewerkenblog.nl/het-nieuwe-werken-waar-komt-de-term-vandaan/
+Fetching thread http://hetnieuwewerkenblog.nl/het-nieuwe-werken-waar-komt-de-term-vandaan/
+id:u'67327720'
+identifier:[u'873 http://hetnieuwewerkenblog.nl/?p=873']
+Disqus comment created: 49200842 (JSK id: jsid-1253765709-535)
+Disqus comment created: 49200843 (JSK id: jsid-1254137944-489)
+http://hetnieuwewerkenblog.nl/unified-communications-kilometerheffing/
+Fetching thread http://hetnieuwewerkenblog.nl/unified-communications-kilometerheffing/
+id:u'67327819'
+identifier:[]
+Disqus comment created: 49200844 (JSK id: jsid-1258790850-817)
+http://hetnieuwewerkenblog.nl/lucas-wensing-communicatietechnologie-het-nieuwe-werken/
+Fetching thread http://hetnieuwewerkenblog.nl/lucas-wensing-communicatietechnologie-het-nieuwe-werken/
+id:u'89490713'
+identifier:[]
+Disqus comment created: 49200845 (JSK id: jsid-1269263595-918)
+http://hetnieuwewerkenblog.nl/het-nieuwe-werken-congres-5-opvallende-uitspraken/
+Fetching thread http://hetnieuwewerkenblog.nl/het-nieuwe-werken-congres-5-opvallende-uitspraken/
+id:u'67339599'
+identifier:[u'1656 http://hetnieuwewerkenblog.nl/?p=1656']
+Disqus comment created: 49200847 (JSK id: jsid-1258788838-536)
+http://hetnieuwewerkenblog.nl/hnw-bloggers-debat-2-dik-bijl-marianne-sturman/
+Fetching thread http://hetnieuwewerkenblog.nl/hnw-bloggers-debat-2-dik-bijl-marianne-sturman/
+id:u'90252823'
+identifier:[]
+Disqus comment created: 49200848 (JSK id: jsid-1271023254-529)
+http://hetnieuwewerkenblog.nl/verandering-door-sociale-netwerken-leiden-to-ander-leiderschap-en-een-andere-organisatie/
+Fetching thread http://hetnieuwewerkenblog.nl/verandering-door-sociale-netwerken-leiden-to-ander-leiderschap-en-een-andere-organisatie/
+id:u'67327915'
+identifier:[u'2376 http://hetnieuwewerkenblog.nl/?p=2376']
+Disqus comment created: 49200850 (JSK id: jsid-1262261389-695)
+http://hetnieuwewerkenblog.nl/het-nieuwe-werken-met-zelfstandigen/
+Fetching thread http://hetnieuwewerkenblog.nl/het-nieuwe-werken-met-zelfstandigen/
+id:u'89490742'
+identifier:[u'4099 http://hetnieuwewerkenblog.nl/?p=4099']
+Disqus comment created: 49200852 (JSK id: jsid-1271143381-883)
+Disqus comment created: 49200853 (JSK id: jsid-1271144193-298)
+Disqus comment created: 49200854 (JSK id: jsid-1271146070-947)
+Disqus comment created: 49200856 (JSK id: jsid-1271154913-476)
+Disqus comment created: 49200857 (JSK id: jsid-1271155137-534)
+Disqus comment created: 49200858 (JSK id: jsid-1271229129-256)
+Disqus comment created: 49200859 (JSK id: jsid-1271229205-445)
+http://hetnieuwewerkenblog.nl/het-nieuwe-werken-maakt-u-deze-fout/
+Fetching thread http://hetnieuwewerkenblog.nl/het-nieuwe-werken-maakt-u-deze-fout/
+id:u'67327690'
+identifier:[u'1124 http://hetnieuwewerkenblog.nl/?p=1124']
+Disqus comment created: 49200860 (JSK id: jsid-1254992021-409)
+Disqus comment created: 49200862 (JSK id: jsid-1255072123-566)
+Disqus comment created: 49200864 (JSK id: jsid-1255176342-170)
+Disqus comment created: 49200865 (JSK id: jsid-1255344941-812)
+Disqus comment created: 49200866 (JSK id: jsid-1255420681-876)
+Disqus comment created: 49200867 (JSK id: jsid-1255612746-86)
+Disqus comment created: 49200868 (JSK id: jsid-1256290818-271)
+http://hetnieuwewerkenblog.nl/uitdaging-van-communiceren-op-afstand/
+Fetching thread http://hetnieuwewerkenblog.nl/uitdaging-van-communiceren-op-afstand/
+id:u'67327990'
+identifier:[]
+Disqus comment created: 49200870 (JSK id: jsid-1264784720-153)
+Disqus comment created: 49200874 (JSK id: jsid-1264933708-518)
+Disqus comment created: 49200876 (JSK id: jsid-1264952930-736)
+Disqus comment created: 49200877 (JSK id: jsid-1264973328-49)
+Disqus comment created: 49200878 (JSK id: jsid-1265108843-359)
+Disqus comment created: 49200879 (JSK id: jsid-1265191526-622)
+Disqus comment created: 49200880 (JSK id: jsid-1265618872-222)
+Disqus comment created: 49200882 (JSK id: jsid-1265725492-32)
+Disqus comment created: 49200883 (JSK id: jsid-1266389537-541)
+http://hetnieuwewerkenblog.nl/10-tips-het-nieuwe-werken-meer-profijt/
+Fetching thread http://hetnieuwewerkenblog.nl/10-tips-het-nieuwe-werken-meer-profijt/
+id:u'67327889'
+identifier:[]
+Disqus comment created: 49200886 (JSK id: jsid-1261466664-237)
+Disqus comment created: 49200887 (JSK id: jsid-1261471363-390)
+Disqus comment created: 49200888 (JSK id: jsid-1261497493-906)
+Disqus comment created: 49200889 (JSK id: jsid-1261564976-887)
+Disqus comment created: 49200891 (JSK id: jsid-1262618723-41)
+http://hetnieuwewerkenblog.nl/cisco-hnwblogtv/
+Fetching thread http://hetnieuwewerkenblog.nl/cisco-hnwblogtv/
+id:u'89490623'
+identifier:[u'3463 http://hetnieuwewerkenblog.nl/?p=3463']
+Disqus comment created: 49200895 (JSK id: jsid-1268493001-539)
+Disqus comment created: 49200897 (JSK id: jsid-1268918210-280)
+http://hetnieuwewerkenblog.nl/stelling-het-nieuwe-werken-15-minuten-aan-de-slag/
+Fetching thread http://hetnieuwewerkenblog.nl/stelling-het-nieuwe-werken-15-minuten-aan-de-slag/
+id:u'90252883'
+identifier:[u'4471 http://hetnieuwewerkenblog.nl/?p=4471']
+Disqus comment created: 49200898 (JSK id: jsid-1271430248-966)
+Disqus comment created: 49200899 (JSK id: jsid-1271446410-376)
+http://hetnieuwewerkenblog.nl/effectief-communiceren-systeem/
+Fetching thread http://hetnieuwewerkenblog.nl/effectief-communiceren-systeem/
+id:u'67327779'
+identifier:[u'358 http://hetnieuwewerkenblog.nl/?p=358']
+Disqus comment created: 49200902 (JSK id: jsid-1254303458-673)
+http://hetnieuwewerkenblog.nl/voordelen-cloud-computing-mkb/
+Fetching thread http://hetnieuwewerkenblog.nl/voordelen-cloud-computing-mkb/
+id:u'90252691'
+identifier:[]
+Disqus comment created: 49200903 (JSK id: jsid-1268861314-34)
+Disqus comment created: 49200904 (JSK id: jsid-1268901603-646)
+Disqus comment created: 49200906 (JSK id: jsid-1269280775-599)
+Disqus comment created: 49200908 (JSK id: jsid-1269334783-139)
+Disqus comment created: 49200909 (JSK id: jsid-1269335100-458)
+Disqus comment created: 49200910 (JSK id: jsid-1269336964-754)
+http://hetnieuwewerkenblog.nl/het-nieuwe-werken-en-hr/
+Fetching thread http://hetnieuwewerkenblog.nl/het-nieuwe-werken-en-hr/
+id:u'67327703'
+identifier:[]
+Disqus comment created: 49200911 (JSK id: jsid-1245394153-8)
+HTTP Error 500: INTERNAL SERVER ERROR
+{'name': u'Alexander Cr\xe9pin', 'parent': None, 'created': datetime.datetime(2009, 6, 19, 13, 49, 17), 'url': None, 'ip': '255.255.255.0', 'email': u'Alexander_Cr\xe9pin@jskit.hetnieuwewerkenblog.nl', 'msg': u"Beste Geert Jan, het boeiende van deze tijd is, dat de technologie niet langer vanuit het bedrijfsleven in ons leven komt. Mobile telefonie en (mobiel) breedband internet draaien de zaken om. Daar zit naar mijn idee de kern van de ontwikkelingen die we zien. Het bedrijfsleven is niet meer per definitie in control. Betaalbare toegang tot internet zorgt er voor dat de kansen die jij signaleert ook gegrepen zullen worden omdat de gebruiker ze gaat gebruiken en zich daarbij (met alle security vraagstukken vandien) weinig tot niets aantrekt van de IT afdeling. Een shared doc opzetten op je google docs omgeving verlangt geen IT support. Een project wiki opzetten en forum starten, etc etc. It happens of het nu op de agenda's komt of niet. (beter van wel natuurlijk) Groeten, Alexander Cr\xe9pin blog: inhr.nl en Ailo.nl ", 'id': u'jsid-1245419357-998'}
+Disqus comment created: 49200913 (JSK id: jsid-1253733465-320)
+Disqus comment created: 49200914 (JSK id: jsid-1253817145-724)
+http://hetnieuwewerkenblog.nl/enterprise-social-media-nederland/
+Fetching thread http://hetnieuwewerkenblog.nl/enterprise-social-media-nederland/
+id:u'93640130'
+identifier:[u'4729 http://hetnieuwewerkenblog.nl/?p=4729']
+Disqus comment created: 49200915 (JSK id: jsid-1273038472-527)
+Disqus comment created: 49200916 (JSK id: jsid-1273216989-288)
+Disqus comment created: 49200917 (JSK id: jsid-1273223271-20)
+http://hetnieuwewerkenblog.nl/tfmm-doel-leidinggevenden/
+Fetching thread http://hetnieuwewerkenblog.nl/tfmm-doel-leidinggevenden/
+id:u'67327752'
+identifier:[]
+Disqus comment created: 49200919 (JSK id: jsid-1253566776-66)
+Disqus comment created: 49200920 (JSK id: jsid-1253602042-687)
+Disqus comment created: 49200921 (JSK id: jsid-1253623144-3072)
+http://hetnieuwewerkenblog.nl/180-graden-anders/
+Fetching thread http://hetnieuwewerkenblog.nl/180-graden-anders/
+id:u'90252745'
+identifier:[]
+Disqus comment created: 49200922 (JSK id: jsid-1269342126-165)
+Disqus comment created: 49200924 (JSK id: jsid-1269848000-693)
+http://hetnieuwewerkenblog.nl/het-nieuwe-werken-fictie-werkelijkheid/
+Fetching thread http://hetnieuwewerkenblog.nl/het-nieuwe-werken-fictie-werkelijkheid/
+id:u'67328005'
+identifier:[]
+Disqus comment created: 49200925 (JSK id: jsid-1265184189-558)
+Disqus comment created: 49200926 (JSK id: jsid-1265185341-739)
+Disqus comment created: 49200927 (JSK id: jsid-1265189448-119)
+Disqus comment created: 49200931 (JSK id: jsid-1265191635-982)
+Disqus comment created: 49200932 (JSK id: jsid-1265199825-377)
+Disqus comment created: 49200933 (JSK id: jsid-1265747755-98)
+Disqus comment created: 49200934 (JSK id: jsid-1266397871-906)
+Disqus comment created: 49200936 (JSK id: jsid-1266424671-387)
+Disqus comment created: 49200939 (JSK id: jsid-1266433782-239)
+Disqus comment created: 49200941 (JSK id: jsid-1266436799-66)
+http://hetnieuwewerkenblog.nl/social-computing-sharepoint-2010/
+Fetching thread http://hetnieuwewerkenblog.nl/social-computing-sharepoint-2010/
+id:u'67339695'
+identifier:[u'2789 http://hetnieuwewerkenblog.nl/?p=2789']
+Disqus comment created: 49200943 (JSK id: jsid-1264332993-573)
+Disqus comment created: 49200944 (JSK id: jsid-1264339870-568)
+Disqus comment created: 49200946 (JSK id: jsid-1264339972-911)
+Disqus comment created: 49200947 (JSK id: jsid-1264340662-981)
+Disqus comment created: 49200949 (JSK id: jsid-1264449854-935)
+Disqus comment created: 49200950 (JSK id: jsid-1264588850-786)
+HTTP Error 500: INTERNAL SERVER ERROR
+{'name': u'\uf8ff Mischa Coster', 'parent': None, 'created': datetime.datetime(2010, 1, 27, 16, 32, 41), 'url': None, 'ip': u'80.101.234.112', 'email': u'\uf8ff_Mischa_Coster@jskit.hetnieuwewerkenblog.nl', 'msg': u"Ik snap MS wel. Er zijn veel (en soms ook grote) bedrijven die momenteel al op SP draaien. Voor deze clubs is het een stap voorwaarts om nu binnen dezelfde (beheerde) omgeving ook social networking-achtige functionaliteit te hebben. Op een manier dat hun (helaas altijd veel te behoudende) IT Beheer-afdeling het ook nog kan 'slikken'. Voor dit soort clubs lijkt het een prima oplossing.\n\nDaarnaast zijn er bedrijven die SP bijvoorbeeld gebruiken als e-learning oplossing en daar al zwaar in ge\xefnvesteerd hebben. Ook voor die bedrijven kan de stap naar SP2010 aantrekkelijk zijn in plaats van losse services te gebruiken. Op die manier kan een coach of begeleider ook daadwerkelijk zien wat er binnen en tussen teams gebeurt zonder daar talloze accounts bij diverse services voor te hoeven hebben. Kan trouwens voor de eindgebruiker (of in dit geval deelnemer) ook handiger zijn.\n\nMaar: Ik zou als kleinere MKB'er nooit kiezen voor een hosted sharepoint omgeving. Er zijn individuele services die veel meer dedicated/uitgebreid/intu\xeftief/etc zijn dan SP en waarbij het voor een ZP'er of kleine organisatie sneller, makkelijker en goedkoper is om daarvan gebruik te maken.\n\nMet andere woorden: als je als (grotere) organisatie SP-minded bent, management informatie daaruit wilt krijgen, de koppeling met Office 2010 om wat voor reden dan ook nodig hebt en/of e-learning trajecten reeds in SP hebt ingericht is SP2010 een prima oplossing. (alhoewel het migratie-verhaal je ook nog een 2e keer over het gebruik van SP als e-learning omgeving doet nadenken, je hele investering opnieuw?). Als je daarentegen nog niet met SP werkt, maar vnl op zoek bent naar samenwerkings- en social media functionaliteit, ga dan shoppen bij basecamp/twitter/zoho/googledocs etc.", 'id': u'jsid-1264609961-178'}
+Disqus comment created: 49200952 (JSK id: jsid-1264619088-577)
+http://calories.ru/_course_.htm
+Fetching thread http://calories.ru/_course_.htm
+id:u'67327837'
+identifier:[]
+Disqus comment created: 49200954 (JSK id: jsid-1250144569-399)
+Disqus comment created: 49200956 (JSK id: jsid-1250494254-4057)
+Disqus comment created: 49200958 (JSK id: jsid-1250680559-8881)
+Disqus comment created: 49200959 (JSK id: jsid-1251106563-3429)
+http://hetnieuwewerkenblog.nl/vier-mythes-het-nieuwe-werken/
+Fetching thread http://hetnieuwewerkenblog.nl/vier-mythes-het-nieuwe-werken/
+id:u'67339688'
+identifier:[u'2601 http://hetnieuwewerkenblog.nl/?p=2601']
+Disqus comment created: 49200961 (JSK id: jsid-1263968950-908)
+Disqus comment created: 49200962 (JSK id: jsid-1263980273-153)
+http://hetnieuwewerkenblog.nl/stad-van-morgen-duurzaamheid-vooruitgang/
+Fetching thread http://hetnieuwewerkenblog.nl/stad-van-morgen-duurzaamheid-vooruitgang/
+id:u'89490731'
+identifier:[]
+Disqus comment created: 49200965 (JSK id: jsid-1270624594-827)
+Disqus comment created: 49200967 (JSK id: jsid-1270649560-804)
+http://hetnieuwewerkenblog.nl/niet-elke-nieuwe-werken-een-zzper/
+Fetching thread http://hetnieuwewerkenblog.nl/niet-elke-nieuwe-werken-een-zzper/
+id:u'89490668'
+identifier:[u'3116 http://hetnieuwewerkenblog.nl/?p=3116']
+Disqus comment created: 49200968 (JSK id: jsid-1266825866-932)
+Disqus comment created: 49200969 (JSK id: jsid-1266826878-891)
+Disqus comment created: 49200970 (JSK id: jsid-1266828454-346)
+Disqus comment created: 49200972 (JSK id: jsid-1267180004-735)
+Disqus comment created: 49200973 (JSK id: jsid-1267188750-639)
+Disqus comment created: 49200974 (JSK id: jsid-1267637875-328)
+http://hetnieuwewerkenblog.nl/werk-storing/
+Fetching thread http://hetnieuwewerkenblog.nl/werk-storing/
+id:u'67327792'
+identifier:[u'201 http://hetnieuwewerkenblog.nl/?p=201']
+Disqus comment created: 49200975 (JSK id: jsid-1247904952-3894)
+http://hetnieuwewerkenblog.nl/4-windstreken-het-westen/
+Fetching thread http://hetnieuwewerkenblog.nl/4-windstreken-het-westen/
+id:u'67327637'
+identifier:[u'1423 http://hetnieuwewerkenblog.nl/?p=1423']
+Disqus comment created: 49200976 (JSK id: jsid-1257672227-402)
+http://hetnieuwewerkenblog.nl/succesfactor-het-nieuwe-werken-omgevingsfactoren-individuele-training/
+Fetching thread http://hetnieuwewerkenblog.nl/succesfactor-het-nieuwe-werken-omgevingsfactoren-individuele-training/
+id:u'67327932'
+identifier:[u'2430 http://hetnieuwewerkenblog.nl/?p=2430']
+Disqus comment created: 49200977 (JSK id: jsid-1262184902-703)
+http://hetnieuwewerkenblog.nl/generatie-y-generatie-einstein-het-nieuwe-werken/
+Fetching thread http://hetnieuwewerkenblog.nl/generatie-y-generatie-einstein-het-nieuwe-werken/
+id:u'67327897'
+identifier:[u'2280 http://hetnieuwewerkenblog.nl/?p=2280']
+Disqus comment created: 49200978 (JSK id: jsid-1261553510-815)
+Disqus comment created: 49200979 (JSK id: jsid-1261556718-197)
+Disqus comment created: 49200980 (JSK id: jsid-1261559671-980)
+Disqus comment created: 49200982 (JSK id: jsid-1261560957-636)
+Disqus comment created: 49200983 (JSK id: jsid-1261569951-275)
+Disqus comment created: 49200984 (JSK id: jsid-1261584616-160)
+Disqus comment created: 49200986 (JSK id: jsid-1261585017-398)
+Disqus comment created: 49200987 (JSK id: jsid-1261639772-309)
+Disqus comment created: 49200989 (JSK id: jsid-1261644027-377)
+Disqus comment created: 49200991 (JSK id: jsid-1261644380-260)
+Disqus comment created: 49200992 (JSK id: jsid-1261645167-832)
+Disqus comment created: 49200994 (JSK id: jsid-1261645288-449)
+Disqus comment created: 49200996 (JSK id: jsid-1261646119-775)
+Disqus comment created: 49200998 (JSK id: jsid-1261646378-976)
+Disqus comment created: 49201000 (JSK id: jsid-1261648590-667)
+Disqus comment created: 49201001 (JSK id: jsid-1261651476-249)
+Disqus comment created: 49201002 (JSK id: jsid-1261653355-383)
+Disqus comment created: 49201003 (JSK id: jsid-1261656358-745)
+Disqus comment created: 49201005 (JSK id: jsid-1262080978-996)
+Disqus comment created: 49201007 (JSK id: jsid-1262092274-742)
+Disqus comment created: 49201011 (JSK id: jsid-1262962961-794)
+Disqus comment created: 49201012 (JSK id: jsid-1262965705-985)
+Disqus comment created: 49201013 (JSK id: jsid-1263543964-246)
+http://hetnieuwewerkenblog.nl/videoconferencing-voorbereiding/
+Fetching thread http://hetnieuwewerkenblog.nl/videoconferencing-voorbereiding/
+id:u'67327800'
+identifier:[]
+Disqus comment created: 49201014 (JSK id: jsid-1258628841-421)
+Disqus comment created: 49201016 (JSK id: jsid-1260392342-99)
+http://hetnieuwewerkenblog.nl/win-laat-de-klant-naar-jou-komen/
+Fetching thread http://hetnieuwewerkenblog.nl/win-laat-de-klant-naar-jou-komen/
+id:u'67328018'
+identifier:[u'2875 http://hetnieuwewerkenblog.nl/?p=2875']
+Disqus comment created: 49201017 (JSK id: jsid-1265613921-772)
+Disqus comment created: 49201019 (JSK id: jsid-1265616824-424)
+Disqus comment created: 49201020 (JSK id: jsid-1265899818-786)
+Disqus comment created: 49201021 (JSK id: jsid-1266159450-663)
+http://hetnieuwewerkenblog.nl/presenteer-met-impact-vijf-tips/
+Fetching thread http://hetnieuwewerkenblog.nl/presenteer-met-impact-vijf-tips/
+id:u'67327936'
+identifier:[]
+Disqus comment created: 49201023 (JSK id: jsid-1262851948-109)
+HTTP Error 500: INTERNAL SERVER ERROR
+{'name': u'\uf8ff Mischa Coster', 'parent': None, 'created': datetime.datetime(2010, 1, 7, 9, 11, 30), 'url': None, 'ip': u'80.101.91.26', 'email': u'\uf8ff_Mischa_Coster@jskit.hetnieuwewerkenblog.nl', 'msg': u"Betrokkenheid, energie en authenticiteit. Volgens mij vallen jouw punten hier allemaal onder. Wat betreft authenticiteit sluit ik me aan bij Arjan, zoek een stijl die bij je past.\n\nDaarnaast: geef alleen een presentatie als je 'boven de materie' staat. Dan pas kan je je richten op vorm. Anders ben je teveel met inhoud bezig. Dit stelt je ook in staat je slides interessanter/grafischer te maken in plaats van een soort groot spiekscherm voor de presentator zelf. Die heb je dan nl niet nodig.\n\nEen presentatie die mij is bijgebleven is die van Pepperminds door Arjan Vergeer en  David de Kock tijdens het Fris in je Hoofd event van Mindz. Energiek, positief, beginnen met opzwepende muziek, interactief, korte 'gekke' oefening om je even uit je mindset te halen. Top!", 'id': u'jsid-1262855490-739'}
+Disqus comment created: 49201027 (JSK id: jsid-1262855573-574)
+Disqus comment created: 49201028 (JSK id: jsid-1262861497-262)
+Disqus comment created: 49201029 (JSK id: jsid-1262876920-632)
+Disqus comment created: 49201030 (JSK id: jsid-1262904498-971)
+Disqus comment created: 49201031 (JSK id: jsid-1263139786-798)
+Disqus comment created: 49201032 (JSK id: jsid-1263159600-581)
+Disqus comment created: 49201033 (JSK id: jsid-1263325901-220)
+Disqus comment created: 49201034 (JSK id: jsid-1265365261-979)
+Disqus comment created: 49201035 (JSK id: jsid-1266068545-165)
+http://hetnieuwewerkenblog.nl/juridisch-perspectief-het-nieuwe-werken/
+Fetching thread http://hetnieuwewerkenblog.nl/juridisch-perspectief-het-nieuwe-werken/
+id:u'67327646'
+identifier:[]
+Disqus comment created: 49201037 (JSK id: jsid-1255687337-558)
+http://hetnieuwewerkenblog.nl/voor-ons-het-nieuwe-werken-geen-optie/
+Fetching thread http://hetnieuwewerkenblog.nl/voor-ons-het-nieuwe-werken-geen-optie/
+id:u'67327713'
+identifier:[u'2651 http://hetnieuwewerkenblog.nl/?p=2651']
+Disqus comment created: 49201038 (JSK id: jsid-1264493176-345)
+Disqus comment created: 49201039 (JSK id: jsid-1264494131-783)
+Disqus comment created: 49201040 (JSK id: jsid-1264505150-710)
+Disqus comment created: 49201041 (JSK id: jsid-1264507534-995)
+Disqus comment created: 49201042 (JSK id: jsid-1264514053-523)
+Disqus comment created: 49201043 (JSK id: jsid-1264514470-382)
+Disqus comment created: 49201044 (JSK id: jsid-1264514860-278)
+Disqus comment created: 49201045 (JSK id: jsid-1264514882-599)
+Disqus comment created: 49201048 (JSK id: jsid-1264587734-245)
+Disqus comment created: 49201049 (JSK id: jsid-1264616429-319)
+Disqus comment created: 49201050 (JSK id: jsid-1265617262-855)
+Disqus comment created: 49201051 (JSK id: jsid-1265649531-314)
+Disqus comment created: 49201053 (JSK id: jsid-1266222776-742)
+http://hetnieuwewerkenblog.nl/informatiegedrag-mensen-actie/
+Fetching thread http://hetnieuwewerkenblog.nl/informatiegedrag-mensen-actie/
+id:u'89494067'
+identifier:[u'3362 http://hetnieuwewerkenblog.nl/?p=3362']
+Disqus comment created: 49201054 (JSK id: jsid-1268134942-8)
+http://hetnieuwewerkenblog.nl/groene-it-wat-iedereen-moet-weten/
+Fetching thread http://hetnieuwewerkenblog.nl/groene-it-wat-iedereen-moet-weten/
+id:u'67327730'
+identifier:[u'910 http://hetnieuwewerkenblog.nl/?p=910']
+Disqus comment created: 49201055 (JSK id: jsid-1253739464-506)
+Disqus comment created: 49201057 (JSK id: jsid-1253807905-308)
+http://hetnieuwewerkenblog.nl/communicatie-het-nieuwe-werken/
+Fetching thread http://hetnieuwewerkenblog.nl/communicatie-het-nieuwe-werken/
+id:u'89493795'
+identifier:[u'4538 http://hetnieuwewerkenblog.nl/?p=4538']
+Disqus comment created: 49201058 (JSK id: jsid-1272277832-227)
+http://hetnieuwewerkenblog.nl/geen-tuin-je-kantoor-maar-een-kantoor-je-tuin-hoe-doe-je-dat/
+Fetching thread http://hetnieuwewerkenblog.nl/geen-tuin-je-kantoor-maar-een-kantoor-je-tuin-hoe-doe-je-dat/
+id:u'67339551'
+identifier:[u'958 http://hetnieuwewerkenblog.nl/?p=958']
+Disqus comment created: 49201059 (JSK id: jsid-1254169978-291)
+Disqus comment created: 49201061 (JSK id: jsid-1254227805-824)
+Disqus comment created: 49201062 (JSK id: jsid-1254231361-429)
+Disqus comment created: 49201063 (JSK id: jsid-1254255890-70)
+Disqus comment created: 49201065 (JSK id: jsid-1254261815-686)
+Disqus comment created: 49201066 (JSK id: jsid-1254310903-194)
+Disqus comment created: 49201068 (JSK id: jsid-1259852307-564)
+http://hetnieuwewerkenblog.nl/zelfstandig-ondernemerschap-risico-zzp/
+Fetching thread http://hetnieuwewerkenblog.nl/zelfstandig-ondernemerschap-risico-zzp/
+id:u'89490636'
+identifier:[]
+Disqus comment created: 49201070 (JSK id: jsid-1268305179-558)
+Disqus comment created: 49201071 (JSK id: jsid-1268415475-965)
+Disqus comment created: 49201072 (JSK id: jsid-1268726489-818)
+Disqus comment created: 49201073 (JSK id: jsid-1268765012-609)
+Disqus comment created: 49201074 (JSK id: jsid-1269116656-221)
+http://hetnieuwewerkenblog.nl/onderwijs-terug-naar-het-oude-werken/
+Fetching thread http://hetnieuwewerkenblog.nl/onderwijs-terug-naar-het-oude-werken/
+id:u'67327980'
+identifier:[]
+Disqus comment created: 49201077 (JSK id: jsid-1264597289-123)
+Disqus comment created: 49201079 (JSK id: jsid-1264598358-615)
+Disqus comment created: 49201080 (JSK id: jsid-1264601278-303)
+Disqus comment created: 49201081 (JSK id: jsid-1266168187-521)
+http://hetnieuwewerkenblog.nl/het-nieuwe-werken-een-probaat-geneesmiddel-met-bijwerkingen-1/
+Fetching thread http://hetnieuwewerkenblog.nl/het-nieuwe-werken-een-probaat-geneesmiddel-met-bijwerkingen-1/
+id:u'67327880'
+identifier:[u'2183 http://hetnieuwewerkenblog.nl/?p=2183']
+Disqus comment created: 49201082 (JSK id: jsid-1261576308-407)
+http://hetnieuwewerkenblog.nl/leermomenten-werken-nieuwe-stijl/
+Fetching thread http://hetnieuwewerkenblog.nl/leermomenten-werken-nieuwe-stijl/
+id:u'89490754'
+identifier:[u'4459 http://hetnieuwewerkenblog.nl/?p=4459']
+Disqus comment created: 49201083 (JSK id: jsid-1271841043-536)
+Disqus comment created: 49201085 (JSK id: jsid-1271841932-771)
+http://hetnieuwewerkenblog.nl/eckarts-notes-de-managementfilosofie-van-eckart-wintzen/
+Fetching thread http://hetnieuwewerkenblog.nl/eckarts-notes-de-managementfilosofie-van-eckart-wintzen/
+id:u'89490646'
+identifier:[u'2968 http://hetnieuwewerkenblog.nl/?p=2968']
+Disqus comment created: 49201086 (JSK id: jsid-1266401264-643)
+Disqus comment created: 49201088 (JSK id: jsid-1266481842-308)
+Disqus comment created: 49201089 (JSK id: jsid-1266483743-427)
+Disqus comment created: 49201090 (JSK id: jsid-1266491957-293)
+Disqus comment created: 49201091 (JSK id: jsid-1266523443-336)
+Disqus comment created: 49201092 (JSK id: jsid-1266523576-502)
+Disqus comment created: 49201093 (JSK id: jsid-1266530326-322)
+Disqus comment created: 49201094 (JSK id: jsid-1266565388-478)
+Disqus comment created: 49201095 (JSK id: jsid-1266673241-407)
+Disqus comment created: 49201096 (JSK id: jsid-1266673829-20)
+Disqus comment created: 49201098 (JSK id: jsid-1267656697-807)
+Disqus comment created: 49201099 (JSK id: jsid-1267903877-547)
+Disqus comment created: 49201100 (JSK id: jsid-1268172583-832)
+http://hetnieuwewerkenblog.nl/waar-draait-het-nieuwe-werken-om/
+Fetching thread http://hetnieuwewerkenblog.nl/waar-draait-het-nieuwe-werken-om/
+id:u'67339505'
+identifier:[u'354 http://hetnieuwewerkenblog.nl/?p=354']
+Disqus comment created: 49201102 (JSK id: jsid-1271406658-541)
+http://hetnieuwewerkenblog.nl/auteursrecht-vernieuwen/
+Fetching thread http://hetnieuwewerkenblog.nl/auteursrecht-vernieuwen/
+id:u'67327639'
+identifier:[u'189 http://hetnieuwewerkenblog.nl/?p=189']
+Disqus comment created: 49201104 (JSK id: jsid-1246088417-5082)
+Disqus comment created: 49201105 (JSK id: jsid-1246092321-3277)
+Disqus comment created: 49201106 (JSK id: jsid-1246182645-9020)
+Disqus comment created: 49201108 (JSK id: jsid-1246434629-4630)
+Disqus comment created: 49201109 (JSK id: jsid-1246524033-3802)
+Disqus comment created: 49201110 (JSK id: jsid-1246538437-5184)
+http://hetnieuwewerkenblog.nl/interview-de-mkbcoperatie-het-nieuwe-werken-voorbij/
+Fetching thread http://hetnieuwewerkenblog.nl/interview-de-mkbcoperatie-het-nieuwe-werken-voorbij/
+id:u'67338847'
+identifier:[u'2877 http://hetnieuwewerkenblog.nl/?p=2877']
+Disqus comment created: 49201112 (JSK id: jsid-1265877052-934)
+Disqus comment created: 49201113 (JSK id: jsid-1265895971-56)
+Disqus comment created: 49201115 (JSK id: jsid-1268131838-766)
+http://hetnieuwewerkenblog.nl/het-nieuwe-werken-typologie/
+Fetching thread http://hetnieuwewerkenblog.nl/het-nieuwe-werken-typologie/
+id:u'89490701'
+identifier:[]
+Disqus comment created: 49201116 (JSK id: jsid-1269117102-729)
+Disqus comment created: 49201117 (JSK id: jsid-1269124150-440)
+Disqus comment created: 49201118 (JSK id: jsid-1269128925-209)
+Disqus comment created: 49201119 (JSK id: jsid-1269151735-517)
+Disqus comment created: 49201120 (JSK id: jsid-1269160733-149)
+Disqus comment created: 49201121 (JSK id: jsid-1271766582-470)
+http://hetnieuwewerkenblog.nl/kerstactie/
+Fetching thread http://hetnieuwewerkenblog.nl/kerstactie/
+id:u'67327686'
+identifier:[]
+Disqus comment created: 49201122 (JSK id: jsid-1261570238-130)
+http://hetnieuwewerkenblog.nl/roland-hameeteman-yellow-blue/
+Fetching thread http://hetnieuwewerkenblog.nl/roland-hameeteman-yellow-blue/
+id:u'90252673'
+identifier:[]
+Disqus comment created: 49201123 (JSK id: jsid-1268815342-290)
+Disqus comment created: 49201124 (JSK id: jsid-1268815724-542)
+Disqus comment created: 49201125 (JSK id: jsid-1268845980-350)
+http://hetnieuwewerkenblog.nl/het-nieuwe-werken-iets-voor-jou/
+Fetching thread http://hetnieuwewerkenblog.nl/het-nieuwe-werken-iets-voor-jou/
+id:u'67327654'
+identifier:[u'1318 http://hetnieuwewerkenblog.nl/?p=1318']
+Disqus comment created: 49201127 (JSK id: jsid-1257172019-931)
+Disqus comment created: 49201129 (JSK id: jsid-1257180721-941)
+Disqus comment created: 49201131 (JSK id: jsid-1257248971-223)
+Disqus comment created: 49201132 (JSK id: jsid-1257883126-154)
+Disqus comment created: 49201133 (JSK id: jsid-1257921445-975)
+Disqus comment created: 49201135 (JSK id: jsid-1260447298-441)
+http://hetnieuwewerkenblog.nl/het-nieuwe-werken-in-5-stappen/
+Fetching thread http://hetnieuwewerkenblog.nl/het-nieuwe-werken-in-5-stappen/
+id:u'67327710'
+identifier:[u'428 http://hetnieuwewerkenblog.nl/?p=428']
+Disqus comment created: 49201137 (JSK id: jsid-1252324039-7131)
+Disqus comment created: 49201138 (JSK id: jsid-1253623152-8489)
+Disqus comment created: 49201139 (JSK id: jsid-1253631795-1608)
+Disqus comment created: 49201141 (JSK id: jsid-1254152167-84)
+Disqus comment created: 49201143 (JSK id: jsid-1256656880-138)
+http://hetnieuwewerkenblog.nl/aansturen-zonder-toezicht/
+Fetching thread http://hetnieuwewerkenblog.nl/aansturen-zonder-toezicht/
+id:u'67327772'
+identifier:[]
+Disqus comment created: 49201145 (JSK id: jsid-1253623148-8925)
+Disqus comment created: 49201147 (JSK id: jsid-1253708505-364)
+http://hetnieuwewerkenblog.nl/het-nieuwe-werken-langste-tijd-gehad-video/
+Fetching thread http://hetnieuwewerkenblog.nl/het-nieuwe-werken-langste-tijd-gehad-video/
+id:u'93651954'
+identifier:[u'4715 http://hetnieuwewerkenblog.nl/?p=4715']
+Disqus comment created: 49201148 (JSK id: jsid-1272871438-719)
+Disqus comment created: 49201149 (JSK id: jsid-1272912859-88)
+http://hetnieuwewerkenblog.nl/meer-productiviteit-met-minder/
+Fetching thread http://hetnieuwewerkenblog.nl/meer-productiviteit-met-minder/
+id:u'67327617'
+identifier:[]
+Disqus comment created: 49201150 (JSK id: jsid-1240562817-4133)
+Disqus comment created: 49201151 (JSK id: jsid-1240563961-9510)
+http://hetnieuwewerkenblog.nl/review-werken-nieuwe-stijl-bas-van-de-haterd/
+Fetching thread http://hetnieuwewerkenblog.nl/review-werken-nieuwe-stijl-bas-van-de-haterd/
+id:u'89487785'
+identifier:[u'4313 http://hetnieuwewerkenblog.nl/?p=4313']
+Disqus comment created: 49201152 (JSK id: jsid-1271173994-471)
+Disqus comment created: 49201153 (JSK id: jsid-1271184578-894)
+Disqus comment created: 49201154 (JSK id: jsid-1271191732-616)
+Disqus comment created: 49201155 (JSK id: jsid-1271193797-984)
+Disqus comment created: 49201156 (JSK id: jsid-1271194622-306)
+Disqus comment created: 49201157 (JSK id: jsid-1271195064-931)
+Disqus comment created: 49201158 (JSK id: jsid-1271230812-638)
+Disqus comment created: 49201159 (JSK id: jsid-1271233079-949)
+Disqus comment created: 49201160 (JSK id: jsid-1271260344-422)
+Disqus comment created: 49201162 (JSK id: jsid-1271269237-119)
+Disqus comment created: 49201164 (JSK id: jsid-1271276116-565)
+Disqus comment created: 49201165 (JSK id: jsid-1271280640-498)
+Disqus comment created: 49201166 (JSK id: jsid-1271334441-444)
+http://hetnieuwewerkenblog.nl/ondernemerschap-bepalend-voor-succesvolle-invoering-van-het-nieuwe-werken/
+Fetching thread http://hetnieuwewerkenblog.nl/ondernemerschap-bepalend-voor-succesvolle-invoering-van-het-nieuwe-werken/
+id:u'93612926'
+identifier:[u'4751 http://hetnieuwewerkenblog.nl/?p=4751']
+Disqus comment created: 49201167 (JSK id: jsid-1273216635-649)
+Disqus comment created: 49201168 (JSK id: jsid-1273220429-98)
+Disqus comment created: 49201169 (JSK id: jsid-1273223390-918)
+http://hetnieuwewerkenblog.nl/aandachtspunten-invoeren-het-nieuwe-werken/
+Fetching thread http://hetnieuwewerkenblog.nl/aandachtspunten-invoeren-het-nieuwe-werken/
+id:u'67327626'
+identifier:[]
+Disqus comment created: 49201171 (JSK id: jsid-1263380792-103)
+Disqus comment created: 49201172 (JSK id: jsid-1263502918-29)
+Disqus comment created: 49201173 (JSK id: jsid-1263573040-904)
+Disqus comment created: 49201174 (JSK id: jsid-1263573238-241)
+Disqus comment created: 49201175 (JSK id: jsid-1263721737-575)
+http://hetnieuwewerkenblog.nl/apollo-11-waar-het-begon/
+Fetching thread http://hetnieuwewerkenblog.nl/apollo-11-waar-het-begon/
+id:u'89490606'
+identifier:[u'3219 http://hetnieuwewerkenblog.nl/?p=3219']
+Disqus comment created: 49201176 (JSK id: jsid-1267879452-67)
+http://hetnieuwewerkenblog.nl/hnwblog-debat-roland-hameeteman-henny-egmond/
+Fetching thread http://hetnieuwewerkenblog.nl/hnwblog-debat-roland-hameeteman-henny-egmond/
+id:u'90252799'
+identifier:[]
+Disqus comment created: 49201177 (JSK id: jsid-1270196243-955)
+Disqus comment created: 49201178 (JSK id: jsid-1270198913-167)
+http://hetnieuwewerkenblog.nl/mkb-het-nieuwe-werken-digitale-mobiliteit/
+Fetching thread http://hetnieuwewerkenblog.nl/mkb-het-nieuwe-werken-digitale-mobiliteit/
+id:u'89490725'
+identifier:[]
+Disqus comment created: 49201180 (JSK id: jsid-1271259733-432)
+http://hetnieuwewerkenblog.nl/huisvesting-slim-gebruik/
+Fetching thread http://hetnieuwewerkenblog.nl/huisvesting-slim-gebruik/
+id:u'67327866'
+identifier:[]
+Disqus comment created: 49201182 (JSK id: jsid-1260570638-280)
+Disqus comment created: 49201183 (JSK id: jsid-1260903030-935)
+Disqus comment created: 49201184 (JSK id: jsid-1264426157-813)
+http://hetnieuwewerkenblog.nl/waarom-organisaties-starten-met-het-nieuwe-werken/
+Fetching thread http://hetnieuwewerkenblog.nl/waarom-organisaties-starten-met-het-nieuwe-werken/
+id:u'67328010'
+identifier:[u'2961 http://hetnieuwewerkenblog.nl/?p=2961']
+Disqus comment created: 49201186 (JSK id: jsid-1266229581-906)
+HTTP Error 500: INTERNAL SERVER ERROR
+{'name': u'\uf8ff Michel', 'parent': None, 'created': datetime.datetime(2010, 2, 15, 10, 32, 1), 'url': None, 'ip': u'94.211.47.253', 'email': u'\uf8ff_Michel@jskit.hetnieuwewerkenblog.nl', 'msg': u"Mark, interessant artikel. Ik denk dat de thema's de waarom vraag voor het grootste gedeelte beantwoorden. Aansluitend op het laatste thema:\n\nIk denk dat het voor een aantal, name internationaal opererende bedrijven, ook een noodzaak is (of kan zijn) om slimmer om te gaan met resources om er zo voor te zorgen dat ze mee kunnen blijven schakelen in deze platte wereld en hun global reach kunnen verstevigen en uitbreiden. \n\nBinnen ons bedrijf (int. Duitse IT provider) worden we haast gedwongen het 9-6 juk af te gooien door de geografische verspreiding van zowel klant als onze eigen (operationele) teams, en tijd en plaatsonafhankerlijker te gaan werken. Mijn klant, Nederlandse Oil company, zit met name in de UK en US - onze operationele teams in Maleisie. Door bewust de werktijden te laten aansluiten op de behoefte van de klant, verhogen we (virtuele) beschikbaarheid en bereikbaarheid. Concreet betekent dit dat ik overdag bv boodschappen kan doen, en in de avond mee kan vergaderen met klant-collega's in de US. Of juist vroeg op te staan om met collega's in Maleisie te kunnen werken, en de dag wat vroeger te eindigen. \n\nVoor het bedrijf een absolute manier om kosten te besparen: een vergadering om 22.00 is geen 'overwerk' meer, er is geen (of minder) fysieke presence nodig van verschillende rollen in verschillende regios (Americas, EMEA, APAC), verlaging van internationale reiskosten, maar wellicht nog belangrijker: vehoogde klanttevredenheid.", 'id': u'jsid-1266229921-451'}
+Disqus comment created: 49201189 (JSK id: jsid-1266244724-493)
+Disqus comment created: 49201190 (JSK id: jsid-1266245400-982)
+Disqus comment created: 49201191 (JSK id: jsid-1266262599-284)
+Disqus comment created: 49201192 (JSK id: jsid-1266332325-871)
+Disqus comment created: 49201194 (JSK id: jsid-1266352971-786)
+Disqus comment created: 49201196 (JSK id: jsid-1266353530-757)
+Disqus comment created: 49201197 (JSK id: jsid-1266925954-953)
+http://hetnieuwewerkenblog.nl/erik-de-weerd-social-software-lotus-connections/
+Fetching thread http://hetnieuwewerkenblog.nl/erik-de-weerd-social-software-lotus-connections/
+id:u'90252652'
+identifier:[]
+Disqus comment created: 49201198 (JSK id: jsid-1268123371-363)
+http://hetnieuwewerkenblog.nl/verbind-je-klant/
+Fetching thread http://hetnieuwewerkenblog.nl/verbind-je-klant/
+id:u'67327884'
+identifier:[u'2976 http://hetnieuwewerkenblog.nl/?p=2976']
+Disqus comment created: 49201199 (JSK id: jsid-1265703055-248)
+Disqus comment created: 49201201 (JSK id: jsid-1265746993-746)
+Disqus comment created: 49201203 (JSK id: jsid-1265921957-402)
+Disqus comment created: 49201204 (JSK id: jsid-1265922117-835)
+http://hetnieuwewerkenblog.nl/buzzcuit-de-nieuwe-manier-om-de-koffiehoek-met-elkaar-verbonden-te-blijven/
+Fetching thread http://hetnieuwewerkenblog.nl/buzzcuit-de-nieuwe-manier-om-de-koffiehoek-met-elkaar-verbonden-te-blijven/
+id:u'67339591'
+identifier:[u'1569 http://hetnieuwewerkenblog.nl/?p=1569']
+Disqus comment created: 49201206 (JSK id: jsid-1258368800-472)
+Disqus comment created: 49201208 (JSK id: jsid-1258381217-369)
+Disqus comment created: 49201209 (JSK id: jsid-1258404942-770)
+Disqus comment created: 49201210 (JSK id: jsid-1258443651-624)
+Disqus comment created: 49201211 (JSK id: jsid-1258448000-26)
+Disqus comment created: 49201212 (JSK id: jsid-1258450502-51)
+Disqus comment created: 49201213 (JSK id: jsid-1258535963-732)
+Disqus comment created: 49201215 (JSK id: jsid-1258538481-273)
+Disqus comment created: 49201217 (JSK id: jsid-1258546029-832)
+Disqus comment created: 49201218 (JSK id: jsid-1258550825-551)
+http://hetnieuwewerkenblog.nl
+Fetching thread http://hetnieuwewerkenblog.nl
+id:u'67327647'
+identifier:[]
+http://hetnieuwewerkenblog.nl/technologie-sleutel-nieuwe-werken-hnwblog-tv/
+Fetching thread http://hetnieuwewerkenblog.nl/technologie-sleutel-nieuwe-werken-hnwblog-tv/
+id:u'93755822'
+identifier:[u'4644 http://hetnieuwewerkenblog.nl/?p=4644']
+Disqus comment created: 49201220 (JSK id: jsid-1272640640-135)
+http://hetnieuwewerkenblog.nl/het-nieuwe-werken-kantoor-locatie-gebouw/
+Fetching thread http://hetnieuwewerkenblog.nl/het-nieuwe-werken-kantoor-locatie-gebouw/
+id:u'89490691'
+identifier:[u'3182 http://hetnieuwewerkenblog.nl/?p=3182']
+Disqus comment created: 49201221 (JSK id: jsid-1267435272-521)
+Disqus comment created: 49201222 (JSK id: jsid-1267455644-460)
+Disqus comment created: 49201223 (JSK id: jsid-1267521212-872)
+Disqus comment created: 49201224 (JSK id: jsid-1267654370-741)
+Disqus comment created: 49201225 (JSK id: jsid-1267654633-733)
+Disqus comment created: 49201227 (JSK id: jsid-1267654871-85)
+Disqus comment created: 49201230 (JSK id: jsid-1267794900-179)
+http://hetnieuwewerkenblog.nl/meest-gelezen-artikelen-van-2009/
+Fetching thread http://hetnieuwewerkenblog.nl/meest-gelezen-artikelen-van-2009/
+id:u'67327965'
+identifier:[]
+Disqus comment created: 49201232 (JSK id: jsid-1264150908-482)
+http://hetnieuwewerkenblog.nl/het-nieuwe-werken-interview-aart-bos-boer-en-croon/
+Fetching thread http://hetnieuwewerkenblog.nl/het-nieuwe-werken-interview-aart-bos-boer-en-croon/
+id:u'67327859'
+identifier:[]
+Disqus comment created: 49201234 (JSK id: jsid-1259844807-744)
+http://hetnieuwewerkenblog.nl/hnw-een-probaat-geneesmiddel-met-bijwerkingen-deel-3/
+Fetching thread http://hetnieuwewerkenblog.nl/hnw-een-probaat-geneesmiddel-met-bijwerkingen-deel-3/
+id:u'67327934'
+identifier:[u'2505 http://hetnieuwewerkenblog.nl/?p=2505']
+Disqus comment created: 49201235 (JSK id: jsid-1263552818-943)
+Disqus comment created: 49201237 (JSK id: jsid-1263891049-59)
+http://hetnieuwewerkenblog.nl/het-nieuwe-werken-roland-hameeteman/
+Fetching thread http://hetnieuwewerkenblog.nl/het-nieuwe-werken-roland-hameeteman/
+id:u'67327806'
+identifier:[u'111 http://hetnieuwewerkenblog.nl/?p=111']
+Disqus comment created: 49201238 (JSK id: jsid-1253283002-4623)
+Disqus comment created: 49201239 (JSK id: jsid-1253532933-8172)
+http://hetnieuwewerkenblog.nl/technologie-sleutel-het-nieuwe-werken-deel-2/
+Fetching thread http://hetnieuwewerkenblog.nl/technologie-sleutel-het-nieuwe-werken-deel-2/
+id:u'67327760'
+identifier:[u'424 http://hetnieuwewerkenblog.nl/?p=424']
+Disqus comment created: 49201241 (JSK id: jsid-1253602587-415)
+Disqus comment created: 49201243 (JSK id: jsid-1253623156-27)
+http://hetnieuwewerkenblog.nl/compleet-van-de-wereld/
+Fetching thread http://hetnieuwewerkenblog.nl/compleet-van-de-wereld/
+id:u'89490266'
+identifier:[u'4396 http://hetnieuwewerkenblog.nl/?p=4396']
+Disqus comment created: 49201245 (JSK id: jsid-1271231934-571)
+Disqus comment created: 49201246 (JSK id: jsid-1271234020-802)
+Disqus comment created: 49201247 (JSK id: jsid-1271245584-822)
+Disqus comment created: 49201250 (JSK id: jsid-1271245764-671)
+http://hetnieuwewerkenblog.nl/pim-fortuyn-het-nieuwe-werken/
+Fetching thread http://hetnieuwewerkenblog.nl/pim-fortuyn-het-nieuwe-werken/
+id:u'90252789'
+identifier:[u'3848 http://hetnieuwewerkenblog.nl/3848/']
+Disqus comment created: 49201251 (JSK id: jsid-1269523066-310)
+Disqus comment created: 49201252 (JSK id: jsid-1269525814-370)
+http://hetnieuwewerkenblog.nl/ebook-dik-bijl-het-nieuwe-werken-aan-de-slag/
+Fetching thread http://hetnieuwewerkenblog.nl/ebook-dik-bijl-het-nieuwe-werken-aan-de-slag/
+id:u'67327734'
+identifier:[u'196 http://hetnieuwewerkenblog.nl/?p=196']
+Disqus comment created: 49201254 (JSK id: jsid-1248939305-893)
+Disqus comment created: 49201255 (JSK id: jsid-1252326914-6076)
+Processing complete.
