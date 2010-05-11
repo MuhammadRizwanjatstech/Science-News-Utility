@@ -1,0 +1,51 @@
+/scienceinsider/anthropology/
+Pageviews: 9356
+/scienceinsider/asia/
+Pageviews: 2410
+/scienceinsider/biomedicine/
+Pageviews: 10098
+/scienceinsider/budget/
+Pageviews: 1744
+/scienceinsider/defense/
+Pageviews: 4216
+/scienceinsider/ecology/
+Pageviews: 5194
+/scienceinsider/education/
+Pageviews: 5092
+/scienceinsider/energy/
+Pageviews: 6117
+/scienceinsider/environmentclimate/
+Pageviews: 7942
+/scienceinsider/europe/
+Pageviews: 1555
+/scienceinsider/physical-science/
+Pageviews: 6993
+/scienceinsider/physics/
+Pageviews: 6772
+/scienceinsider/space/
+Pageviews: 8044
+/scienceinsider/swine-flu/
+Pageviews: 4747
+/scienceinsider/technology/
+Pageviews: 6445
+/scienceinsider/top-story/
+Pageviews: 6074
+/scienceinsider/white-house/
+Pageviews: 2013
+Anthropology	9356
+Asia	2410
+Biomedicine	10098
+Budget	1744
+Defense	4216
+Ecology	5194
+Education	5092
+Energy	6117
+Environment/Climate	7942
+Europe	1555
+Physical Science	6993
+Physics	6772
+Space	8044
+Swine Flu	4747
+Technology	6445
+Top Story	6074
+White House	2013

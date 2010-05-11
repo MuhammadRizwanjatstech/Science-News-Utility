@@ -1,0 +1,130 @@
+Cache file links.cpickle loaded.
+/sciencenow/anatomy-morphology-biomechanics/
+Pageviews: 32548
+/sciencenow/anthropology/
+Pageviews: 33464
+/sciencenow/applied-physics/
+Pageviews: 36056
+/sciencenow/asiapacific/
+Pageviews: 11868
+/sciencenow/astronomy/
+Pageviews: 47234
+/sciencenow/atmospheric-science/
+Pageviews: 17121
+/sciencenow/biochemistry/
+Pageviews: 25827
+/sciencenow/botany/
+Pageviews: 19593
+/sciencenow/cell-biology/
+Pageviews: 30073
+/sciencenow/chemistry/
+Pageviews: 23271
+/sciencenow/computers-mathematics/
+Pageviews: 37096
+/sciencenow/development/
+Pageviews: 19029
+/sciencenow/earth-science/
+Pageviews: 36361
+/sciencenow/ecology/
+Pageviews: 25129
+/sciencenow/economics/
+Pageviews: 11475
+/sciencenow/education/
+Pageviews: 9952
+/sciencenow/engineering/
+Pageviews: 26565
+/sciencenow/epidemiology/
+Pageviews: 13333
+/sciencenow/europe/
+Pageviews: 10748
+/sciencenow/evolution/
+Pageviews: 43232
+/sciencenow/genetics/
+Pageviews: 33944
+/sciencenow/geochemistry-geophysics/
+Pageviews: 14165
+/sciencenow/history-and-philosophy-of-science/
+Pageviews: 22395
+/sciencenow/immunology/
+Pageviews: 18128
+/sciencenow/latin-america/
+Pageviews: 9909
+/sciencenow/materials-science/
+Pageviews: 17230
+/sciencenow/medicine/
+Pageviews: 26965
+/sciencenow/microbiology/
+Pageviews: 15627
+/sciencenow/molecular-biology/
+Pageviews: 16357
+/sciencenow/neuroscience/
+Pageviews: 32526
+/sciencenow/oceanography/
+Pageviews: 18339
+/sciencenow/paleontology/
+Pageviews: 20589
+/sciencenow/pharmacology-toxicology/
+Pageviews: 14918
+/sciencenow/physics/
+Pageviews: 34329
+/sciencenow/physiology/
+Pageviews: 15201
+/sciencenow/planetary-science/
+Pageviews: 24653
+/sciencenow/psychology/
+Pageviews: 33388
+/sciencenow/science-and-business/
+Pageviews: 10330
+/sciencenow/science-policy/
+Pageviews: 6190
+/sciencenow/scientific-community/
+Pageviews: 8775
+/sciencenow/sociology/
+Pageviews: 17848
+/sciencenow/virology/
+Pageviews: 13566
+/sciencenow/zoology/
+Pageviews: 23849
+Anatomy, Morphology, Biomechanics	32548
+Anthropology	33464
+Applied Physics	36056
+Asia/Pacific	11868
+Astronomy	47234
+Atmospheric Science	17121
+Biochemistry	25827
+Botany	19593
+Cell Biology	30073
+Chemistry	23271
+Computers, Mathematics	37096
+Development	19029
+Earth Science	36361
+Ecology	25129
+Economics	11475
+Education	9952
+Engineering	26565
+Epidemiology	13333
+Europe	10748
+Evolution	43232
+Genetics	33944
+Geochemistry, Geophysics	14165
+History and Philosophy of Science	22395
+Immunology	18128
+Latin America	9909
+Materials Science	17230
+Medicine	26965
+Microbiology	15627
+Molecular Biology	16357
+Neuroscience	32526
+Oceanography	18339
+Paleontology	20589
+Pharmacology, Toxicology	14918
+Physics	34329
+Physiology	15201
+Planetary Science	24653
+Psychology	33388
+Science and Business	10330
+Science Policy	6190
+Scientific Community	8775
+Sociology	17848
+Virology	13566
+Zoology	23849
