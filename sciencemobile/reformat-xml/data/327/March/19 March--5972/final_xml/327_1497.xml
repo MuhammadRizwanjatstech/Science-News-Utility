@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="research-article" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title><issn pub-type="ppub">0036-8075</issn><issn pub-type="epub">1095-9203</issn>
+<publisher><publisher-name>American Association for the Advancement of Science</publisher-name></publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">1184406</article-id>
+<article-id pub-id-type="doi">10.1126/science.1184406</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>Report</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Reports</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>reports</subject></subj-group>
+<subj-group subj-group-type="field"><subject>GEOCHEM PHYS</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>The Climatic Signature of Incised River Meanders</article-title>
+</title-group>
+<contrib-group><contrib contrib-type="author" corresp="yes"><name><surname>Stark</surname><given-names>Colin P.</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="corresp" rid="cor1">*</xref></contrib><contrib contrib-type="author"><name><surname>Barbour</surname><given-names>Jonathan R.</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib><contrib contrib-type="author"><name><surname>Hayakawa</surname><given-names>Yuichi S.</given-names></name><xref ref-type="aff" rid="aff2"><sup>2</sup></xref></contrib><contrib contrib-type="author"><name><surname>Hattanji</surname><given-names>Tsuyoshi</given-names></name><xref ref-type="aff" rid="aff3"><sup>3</sup></xref></contrib><contrib contrib-type="author"><name><surname>Hovius</surname><given-names>Niels</given-names></name><xref ref-type="aff" rid="aff4"><sup>4</sup></xref></contrib><contrib contrib-type="author"><name><surname>Chen</surname><given-names>Hongey</given-names></name><xref ref-type="aff" rid="aff5"><sup>5</sup></xref></contrib><contrib contrib-type="author"><name><surname>Lin</surname><given-names>Ching-Weei</given-names></name><xref ref-type="aff" rid="aff6"><sup>6</sup></xref></contrib><contrib contrib-type="author"><name><surname>Horng</surname><given-names>Ming-Jame</given-names></name><xref ref-type="aff" rid="aff7"><sup>7</sup></xref></contrib><contrib contrib-type="author"><name><surname>Xu</surname><given-names>Kai-Qin</given-names></name><xref ref-type="aff" rid="aff8"><sup>8</sup></xref><xref ref-type="aff" rid="aff9"><sup>9</sup></xref></contrib><contrib contrib-type="author"><name><surname>Fukahata</surname><given-names>Yukitoshi</given-names></name><xref ref-type="aff" rid="aff10"><sup>10</sup></xref></contrib>
+<aff id="aff1"><label>1</label>Lamont-Doherty Earth Observatory of Columbia University, Palisades, New York 10964, USA.</aff>
+<aff id="aff2"><label>2</label>Center for Spatial Information Science, University of Tokyo, 5-1-5 Kashiwanoha, Kashiwa, Chiba 277-8568, Japan.</aff>
+<aff id="aff3"><label>3</label>Graduate School of Life and Environmental Sciences, University of Tsukuba, Ibaraki 305-8572, Japan.</aff>
+<aff id="aff4"><label>4</label>Department of Earth Sciences, University of Cambridge, Downing Street, Cambridge CB2 3EQ, UK.</aff>
+<aff id="aff5"><label>5</label>Department of Geosciences, National Taiwan University, No. 1, Sec. 4, Roosevelt Road, Taipei 10617, Taiwan.</aff>
+<aff id="aff6"><label>6</label>Department of Earth Sciences, National Cheng Kung University, Tainan, Taiwan.</aff>
+<aff id="aff7"><label>7</label>Water Resources Agency, Ministry of Economic Affairs, Hsin-Yi Road, Taipei, Taiwan.</aff>
+<aff id="aff8"><label>8</label>National Institute for Environmental Studies, 16-2 Onogawa, Tsukuba 305-8506, Japan.</aff>
+<aff id="aff9"><label>9</label>State Key Laboratory of Water Resources and Hydropower Engineering Science, Wuhan University, Wuhan 430072, China.</aff>
+<aff id="aff10"><label>10</label>Disaster Prevention Research Institute, Kyoto University, Gokasyo, Uji, Kyoto 611-0011, Japan.</aff></contrib-group>
+<author-notes>
+<corresp id="cor1"><label>*</label>To whom correspondence should be addressed. E-mail: 
+<email xlink:href="cstark@ldeo.columbia.edu">cstark@ldeo.columbia.edu</email></corresp></author-notes>
+<pub-date pub-type="ppub"><day>19</day><month>03</month><year>2010</year></pub-date>
+<volume>327</volume>
+<issue>5972</issue>
+<fpage>1497</fpage>
+<lpage>1501</lpage>
+<history><date date-type="received"><day>09</day><month>11</month><year>2009</year></date><date date-type="accepted"><day>05</day><month>02</month><year>2010</year></date></history>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2010, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2010</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder></permissions>
+<abstract abstract-type="editor"><title>Messy Mountain Meandering</title><p>Predicting the influence of climate on landscapes is sometimes straightforward; for example, river deposits might grow with increased rainfall because erosion rates and sediment transport increase. However, long-term tectonic processes complicate the geomorphic signatures of more gradual climate-related phenomena that reconfigure landscapes. By correlating a decades-long record of typhoon rainfall in Japan with digital elevation models, <bold>Stark <italic>et al.</italic></bold> (p. <related-article related-article-type="in-this-issue" vol="327" page="1497">1497</related-article>) show that climate directly influences the extent of river meandering. When expanded to a larger region of the western North Pacific, this analysis revealed a strong climatic imprint on the landscape of humid mountainous areas. The region-wide analysis also revealed that underlying bedrock strength, as opposed to tectonic uplift, acts as a secondary control.</p></abstract>
+<abstract abstract-type="teaser"><p>Typhoon frequency and bedrock strength influence river meandering in mountain environments.</p></abstract>
+<abstract>
+<p>Climate controls landscape evolution, but quantitative signatures of climatic drivers have yet to be found in topography on a broad scale. Here we describe how a topographic signature of typhoon rainfall is recorded in the meandering of incising mountain rivers in the western North Pacific. Spatially averaged river sinuosity generated from digital elevation data peaks in the typhoon-dominated subtropics, where extreme rainfall and flood events are common, and decreases toward the equatorial tropics and mid-latitudes, where such extremes are rare. Once climatic trends are removed, the primary control on sinuosity is rock weakness. Our results indicate that the weakness of bedrock channel walls and their weakening by heavy rainfall together modulate rates of meander propagation and sinuosity development in incising rivers.</p>
+</abstract>
+<custom-meta-wrap><custom-meta><meta-name>Editor</meta-name><meta-value>Nick Wigginton</meta-value></custom-meta><custom-meta><meta-name>Copyeditor</meta-name><meta-value>Cara Tate</meta-value></custom-meta></custom-meta-wrap>
+</article-meta>
+</front>
+<body>
+<p>In humid, rapidly eroding (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>) montane environments such as the Cascades (<xref ref-type="bibr" rid="R2"><italic>2</italic></xref>), Japan (<xref ref-type="bibr" rid="R3"><italic>3</italic></xref>), and Taiwan (<xref ref-type="bibr" rid="R4"><italic>4</italic></xref>), lateral erosion along the banks and walls of bedrock-floored river channels (<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>&#x2013;<xref ref-type="bibr" rid="R13"><italic>13</italic></xref>) can be as important a process as vertical incision. Rates of lateral erosion can exceed down-cutting rates by over 10 times as a bedrock channel widens (<xref ref-type="bibr" rid="R11"><italic>11</italic></xref>, <xref ref-type="bibr" rid="R12"><italic>12</italic></xref>) or meanders (<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>&#x2013;<xref ref-type="bibr" rid="R10"><italic>10</italic></xref>, <xref ref-type="bibr" rid="R13"><italic>13</italic></xref>, <xref ref-type="bibr" rid="R14"><italic>14</italic></xref>). With time, such horizontal cutting is known to generate sinuous channels (<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>&#x2013;<xref ref-type="bibr" rid="R10"><italic>10</italic></xref>, <xref ref-type="bibr" rid="R13"><italic>13</italic></xref>&#x2013;<xref ref-type="bibr" rid="R20"><italic>20</italic></xref>), very broad channels (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>, <xref ref-type="bibr" rid="R9"><italic>9</italic></xref>), bedrock-floored cut (strath) terraces (<xref ref-type="bibr" rid="R2"><italic>2</italic></xref>, <xref ref-type="bibr" rid="R5"><italic>5</italic></xref>, <xref ref-type="bibr" rid="R6"><italic>6</italic></xref>, <xref ref-type="bibr" rid="R13"><italic>13</italic></xref>, <xref ref-type="bibr" rid="R21"><italic>21</italic></xref>), asymmetric valleys (<xref ref-type="bibr" rid="R7"><italic>7</italic></xref>, <xref ref-type="bibr" rid="R17"><italic>17</italic></xref>&#x2013;<xref ref-type="bibr" rid="R19"><italic>19</italic></xref>), and even meander cut-off loops (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>&#x2013;<xref ref-type="bibr" rid="R10"><italic>10</italic></xref>, <xref ref-type="bibr" rid="R13"><italic>13</italic></xref>, <xref ref-type="bibr" rid="R15"><italic>15</italic></xref>&#x2013;<xref ref-type="bibr" rid="R20"><italic>20</italic></xref>). In particular, field observations (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>&#x2013;<xref ref-type="bibr" rid="R10"><italic>10</italic></xref>) and theoretical considerations (<xref ref-type="bibr" rid="R22"><italic>22</italic></xref>, <xref ref-type="bibr" rid="R23"><italic>23</italic></xref>) indicate that the majority of the meanders and high sinuosities seen in such bedrock rivers are actively generated by erosive lateral channel motion (<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>&#x2013;<xref ref-type="bibr" rid="R9"><italic>9</italic></xref>), although there are certainly cases in which meandering forms are inherited (<xref ref-type="bibr" rid="R15"><italic>15</italic></xref>) as channels maintain their sinuous shape during down-cutting (<xref ref-type="bibr" rid="R19"><italic>19</italic></xref>, <xref ref-type="bibr" rid="R20"><italic>20</italic></xref>).</p>
+<p>Three key factors determine the rate of lateral channel erosion: (i) flood shear (<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>, <xref ref-type="bibr" rid="R6"><italic>6</italic></xref>, <xref ref-type="bibr" rid="R10"><italic>10</italic></xref>&#x2013;<xref ref-type="bibr" rid="R12"><italic>12</italic></xref>) and particle momentum flux (<xref ref-type="bibr" rid="R24"><italic>24</italic></xref>) on the channel walls, which induce bedrock wear (<xref ref-type="bibr" rid="R12"><italic>12</italic></xref>, <xref ref-type="bibr" rid="R14"><italic>14</italic></xref>, <xref ref-type="bibr" rid="R25"><italic>25</italic></xref>, <xref ref-type="bibr" rid="R26"><italic>26</italic></xref>) and remove debris dumped from adjacent hill slopes; (ii) bedrock weakness (<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>, <xref ref-type="bibr" rid="R6"><italic>6</italic></xref>, <xref ref-type="bibr" rid="R9"><italic>9</italic></xref>, <xref ref-type="bibr" rid="R25"><italic>25</italic></xref>, <xref ref-type="bibr" rid="R26"><italic>26</italic></xref>), which sets both the basic rate of flow-driven wear (<xref ref-type="bibr" rid="R25"><italic>25</italic></xref>) and the instability of channel bedrock walls and hill slopes (<xref ref-type="bibr" rid="R27"><italic>27</italic></xref>); and (iii) rainfall intensity and duration, which modulate bedrock instability and adjust the rate of wall erosion by rock falls and landslides (<xref ref-type="bibr" rid="R27"><italic>27</italic></xref>). Transient alluvial cover of the bedrock bed is also important, but only in the relative sense (<xref ref-type="bibr" rid="R14"><italic>14</italic></xref>, <xref ref-type="bibr" rid="R21"><italic>21</italic></xref>) of reducing down-cutting rates while leaving wall erosion rates unaffected.</p>
+<p>These observations led us to pose two hypotheses: (i) The degree of sinuosity development in a network of bedrock rivers may provide a quantifiable measure of the rate of lateral channel erosion; and (ii) catchment-scale averaged sinuosity in humid mountain rivers should correlate on a regional scale both with rock type and with rainfall and flood frequency and magnitude. Underpinning these hypotheses is the observation (<italic>19</italic>) (fig. S2) that a range of phenomena&#x2014;fluxes of debris from adjoining hill slopes, differential erosion into heterogeneous bedrock, big shifts in formative discharge through stream capture, catchment growth or shrinkage, and climate change, not to mention necking and loop cut-off&#x2014;act to disrupt meander growth and ultimately limit the development of sinuosity. Over time, competition between lateral channel erosion and meander-limiting processes yields a spread of reach sinuosities across a catchment whose average is expected to depend on bedrock erodibility and climatic conditions.</p>
+<p>Previous support for the two hypotheses comes from studies of laterally mobile bedrock rivers in Japan (<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>&#x2013;<xref ref-type="bibr" rid="R7"><italic>7</italic></xref>), where flood shear and rock strength were found to correlate well with horizontal erosion and lateral channel migration during 30,000 years of vertical incision. However, no studies of sinuosity have been attempted at a scale large enough to identify climatic trends, chiefly because the necessary data have not been available in consistent digital form at a regional scale. With the recent availability of 3&#x2013;arc sec Shuttle Radar Topography Mission (SRTM) digital elevation model data for much of the globe, as well as digital geology maps and archives of meteorological and hydrologic data, this impediment no longer exists.</p>
+<p>To test the two hypotheses, we quantified upland river sinuosity (<xref ref-type="fig" rid="F1">Fig. 1, A and B</xref>) in the western North Pacific using SRTM data. We initially focused on Japan because of its broad dynamic range of storm rainfall. We processed a seamless, high-resolution, vector geology map of Japan (<italic>3</italic>) (<xref ref-type="fig" rid="F1">Fig. 1, C and D</xref>) to identify incising bedrock channels, segment them into reaches between stream junctions, and group them into five broad lithological classes (<xref ref-type="bibr" rid="R28"><italic>28</italic></xref>) that span areas sufficient for statistical analysis. Channel-reach sinuosities <italic>s</italic> for each of the five classes were then aggregated within 100-km moving windows and converted into gridded maps of regionalized average sinuosity &#x03C7; (<xref ref-type="bibr" rid="R28"><italic>28</italic></xref>).</p>
+<fig id="F1" position="float" fig-type="figure"><label>Fig. 1</label><caption><p>(<bold>A</bold>) Drainage delineation and sinuosity calculation. (<bold>B</bold>) A zoom shows how each reach sinuosity <italic>s = l/L</italic> is the ratio of along-stream <italic>l</italic> to the distance the crow flies <italic>L</italic> between channel junctions. Regionalized sinuosity &#x03C7; is the weighted sum (<xref ref-type="bibr" rid="R28"><italic>28</italic></xref>) of the link sinuosities within the 100-km-diameter circle in (A) and (<bold>C</bold>); &#x03C7; is gridded at a resolution of 20 km. (<bold>D</bold>) Simplified bedrock geology of Japan based on a 1:200,000 synthesis carried out by the Geological Survey of Japan. Large contiguous areas of Quaternary sediments are indicated in gray, as are metamorphic rocks, which represent a very small fraction of total bedrock exposure; both are excluded from sinuosity analysis. Regionalized sinuosity &#x03C7; was mapped by delineating reach sinuosities on each lithology mask separately.</p>
+</caption>
+<graphic xlink:href="327_1497_F1"></graphic></fig>
+<p>Next, we correlated &#x03C7; with daily rainfall statistics, generated from 20- to 30-year records from a dense network of 1666 stations (<xref ref-type="fig" rid="F2">Fig. 2A</xref>) across the archipelago (<xref ref-type="bibr" rid="R28"><italic>28</italic></xref>), to assess the dual influences of lithology and climate on sinuosity on a subregional scale. Scaling up to the western North Pacific, we generated a single grid of sinuosity &#x03C7; for a group of lithologies chosen from the Japan analysis for their similar apparent erodibility (<xref ref-type="fig" rid="F2">Fig. 2B</xref>). Finally, we correlated the sinuosity grid with typhoon-track (<xref ref-type="fig" rid="F3">Fig. 3</xref>), stream-gauge, and rain-gauge data (<xref ref-type="fig" rid="F4">Fig. 4</xref>) around the western Pacific Rim (<xref ref-type="bibr" rid="R28"><italic>28</italic></xref>).</p>
+<fig id="F2" position="float" fig-type="figure"><label>Fig. 2</label><caption><p>(<bold>A</bold>) Sinuosity &#x03C7; versus storminess expressed as the frequency <italic>F</italic><sub>rx</sub> at which rainfall accumulation exceeds 50 mm in 24 hours; (<bold>B</bold>) PDFs of detrended sinuosity <italic>p</italic>(&#x03C7;<italic>|F</italic><sub>rx</sub><italic> = </italic>10), generated by projecting each value of &#x03C7;(<italic>F</italic><sub>rx</sub>) onto &#x03C7;(10) along lines with a common origin at &#x03C7; = 1.16 (the estimated average for all the data combined). Blue diamonds, accretionary complex; green squares, nonaccretionary complex sedimentary rock; yellow triangles, plutonics; orange triangles, felsic and alkali mafic volcanics; purple circles, nonalkali mafic volcanics; dashed lines, linear regressions. Error bars are 1&#x03C3; SDs.</p>
+</caption>
+<graphic xlink:href="327_1497_F2"></graphic></fig>
+<fig id="F3" position="float" fig-type="figure"><label>Fig. 3</label><caption><p>(<bold>A</bold>) Regionalized sinuosity &#x03C7; (green/yellow/red for range 1 to 1.5) and typhoon strike frequency (blue contour intervals of 0.25 per year) across the western North Pacific. The studied islands are shown as follows: (<bold>B</bold>) the Philippines (green), (<bold>C</bold>) Japan (dark blue), (<bold>D</bold>) Borneo (brown), (<bold>E</bold>) Taiwan (purple), and (<bold>F</bold>) New Guinea (cyan). Analysis was restricted to high-relief areas on subduction complex lithologies chosen from the Japan analysis for similarity in their apparent erodibility; masked-out regions are shown in gray.</p>
+</caption>
+<graphic xlink:href="327_1497_F3"></graphic></fig>
+<fig id="F4" position="float" fig-type="figure"><label>Fig. 4</label><caption><p>Regional correlation analyses of sinuosity &#x03C7;. Colors and symbols are as follows: dark blue circles, Japan; purple diamonds, Taiwan; green squares, the Philippines; brown downward triangles, Borneo; cyan upward triangles, New Guinea. (<bold>A</bold>) With coefficient of variation <italic>R</italic><sub>cv</sub><italic> = R</italic><sub>&#x03C3;</sub><italic>/R</italic><sub>&#x03BC;</sub> (where &#x03C3; is standard deviation and &#x03BC; is the mean) of monthly rainfall at 169 rain gauges across the western North Pacific (&#x03C4;<sub>k</sub> = 0.44, <italic>r</italic><sup>2</sup> = 0.40). Symbol sizes correspond to typhoon strike frequency. (<bold>B</bold>) With relative flood intensity <italic>Q</italic><sub>99</sub>/<italic>A</italic> (99th percentile discharge normalized by catchment area <italic>A</italic>) measured at 38 river gauges across the western North Pacific (&#x03C4;<sub>k</sub> = 0.48, <italic>r</italic><sup>2</sup> = 0.42). (<bold>C</bold>) With typhoon strike frequency (&#x03C4;<sub>k</sub> = 0.50, <italic>r</italic><sup>2</sup> = 0.45; excluding Borneo and New Guinea where typhoons are absent). (<bold>D</bold>) With latitude, showing a peak in the typhoon-dominated subtropics.</p>
+</caption>
+<graphic xlink:href="327_1497_F4"></graphic></fig>
+<p>In the Japan analysis, spatial correlation of the sinuosity &#x03C7; grid with station rainfall statistics [such as frequency of rainfall exceedance <italic>F</italic><sub>rx</sub> of 50 mm/day (<xref ref-type="bibr" rid="R28"><italic>28</italic></xref>)] revealed approximately linear trends (table S1) for almost all rock types (<xref ref-type="fig" rid="F2">Fig. 2A</xref>), with sinuosity &#x03C7; rising with increasing &#x201C;storminess&#x201D; from north to south. To isolate the dependence on rock type (<xref ref-type="fig" rid="F2">Fig. 2</xref>), values of &#x03C7; were projected from a common origin onto a reference <italic>F</italic><sub>rx</sub> =10 year<sup>&#x2212;1</sup>, and a probability density function (PDF) <italic>p</italic>(&#x03C7;) was generated for each lithology class.</p>
+<p>The PDFs show (<xref ref-type="fig" rid="F2">Fig. 2B</xref>) that the most sinuous incising rivers are found in accretionary complex lithologies (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>, <xref ref-type="bibr" rid="R9"><italic>9</italic></xref>). These rocks are predominantly low-strength, highly erodible (<xref ref-type="bibr" rid="R6"><italic>6</italic></xref>, <xref ref-type="bibr" rid="R8"><italic>8</italic></xref>, <xref ref-type="bibr" rid="R9"><italic>9</italic></xref>), silt and fine-sand turbidites with intermittent coarser, stronger units; channels cut into these rocks are known for their high degree of meandering (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>, <xref ref-type="bibr" rid="R9"><italic>9</italic></xref>). The least sinuous incising rivers are found in generally erosion-resistant (<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>), nonalkali mafic volcanics, which include rocks ranging in strength from very strong, fresh basaltic lavas to weathered, unwelded, much weaker tuffs (<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>). The greatest regional variation in sinuosity &#x03C7; and its strongest correlation with <italic>F</italic><sub>rx</sub> are seen in the weak accretionary complex rocks, whereas the strong, nonalkali mafic volcanics show the least variation in &#x03C7; and its weakest correlation with <italic>F</italic><sub>rx</sub> (<xref ref-type="fig" rid="F2">Fig. 2A</xref> and table S1).</p>
+<p>When combined with past studies of erosion rates and fractured rock strength in Japan (<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>, <xref ref-type="bibr" rid="R6"><italic>6</italic></xref>), our results (<xref ref-type="fig" rid="F2">Fig. 2</xref> and table S1) indicate that rock erodibility (<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>, <xref ref-type="bibr" rid="R6"><italic>6</italic></xref>, <xref ref-type="bibr" rid="R9"><italic>9</italic></xref>, <xref ref-type="bibr" rid="R25"><italic>25</italic></xref>) is the primary control on sinuosity development and incised meandering (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>, <xref ref-type="bibr" rid="R9"><italic>9</italic></xref>). Heavy rainfall frequency or storminess exerts a clear secondary control on sinuosity development, particularly in weaker rock types.</p>
+<p>Next we examined sinuosity correlations on a subhemispheric scale. By combining the high-resolution geology data in Japan with low-resolution digital geology for the western North Pacific, we were able to restrict &#x03C7; mapping to a subset of lithologies (mafic and nonmafic volcanics, plutonics, and sedimentary rocks) with broadly similar sensitivity of sinuosity to storm frequency <italic>F</italic><sub>rx</sub> (<xref ref-type="fig" rid="F2">Fig. 2</xref>). We excluded geological formations dissimilar to those found in Japan (such as those in southern Borneo), whose sinuosity sensitivity was not calibrated by the Japan analysis. The resulting clipping mask for this geological assemblage was used to prune the stream networks and generate another map of sinuosity &#x03C7; spanning an area from the equatorial tropics to the mid-latitudes (<xref ref-type="fig" rid="F3">Fig. 3</xref>).</p>
+<p>We correlated (<xref ref-type="fig" rid="F4">Fig. 4</xref>) the regional sinuosity &#x03C7; grid with records of monthly mean rainfall, daily river discharge data, and a spatial PDF of typhoon strike frequency (<xref ref-type="fig" rid="F3">Fig. 3</xref>) generated from tropical cyclone track records (<xref ref-type="bibr" rid="R28"><italic>28</italic></xref>). We found roughly linear trends in sinuosity with both rainfall variability, expressed as the coefficient of variation <italic>R</italic><sub>cv</sub> [<xref ref-type="fig" rid="F4">Fig. 4A</xref>; Kendall&#x2019;s rank correlation coefficient (&#x03C4;<sub>k</sub>) = 0.44, Pearson&#x2019;s correlation coefficient (<italic>r</italic><sup>2</sup>) = 0.40], and with relative flood intensity, expressed as the 99th percentile discharge normalized by catchment area <italic>Q</italic><sub>99</sub><italic> /A</italic> (<xref ref-type="fig" rid="F4">Fig. 4B</xref>; &#x03C4;<sub>k</sub> = 0.48, <italic>r</italic><sup>2</sup> = 0.42). Sinuosity is highest in the monsoonal, typhoon-prone northern Philippines, southern Japan, and Taiwan, where heavy rainfall frequency and flood intensity are highest (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>, <xref ref-type="bibr" rid="R3"><italic>3</italic></xref>, <xref ref-type="bibr" rid="R4"><italic>4</italic></xref>, <xref ref-type="bibr" rid="R29"><italic>29</italic></xref>). Low-sinuosity rivers are more commonly found in mid-latitude northern Japan and in the equatorial tropics, where extremely heavy storms are far less frequent and flood variability is much lower. This regional dependence on storm climatology is confirmed by the correlation seen between sinuosity and typhoon strike frequency (<xref ref-type="fig" rid="F4">Fig. 4C</xref>; &#x03C4;<sub>k</sub> = 0.50, <italic>r</italic><sup>2</sup> = 0.45) and is corroborated by the peaked relationship seen between sinuosity and latitude (<xref ref-type="fig" rid="F4">Fig. 4D</xref>).</p>
+<p>Our combined results show that once account is taken of rock type, sinuosity records a measurable signature of storminess&#x2014;a key factor in climate-landscape dynamics (<xref ref-type="bibr" rid="R30"><italic>30</italic></xref>). Conversely, our observations show that if the modulating effect of storminess is removed, sinuosity provides a proxy measure for bedrock erodibility.</p>
+<p>This dependence of sinuosity &#x03C7; on bedrock erodibility (<xref ref-type="fig" rid="F2">Fig. 2</xref>), as well as the ubiquitous association of incised meanders with weak bedrock (<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>, <xref ref-type="bibr" rid="R6"><italic>6</italic></xref>, <xref ref-type="bibr" rid="R8"><italic>8</italic></xref>&#x2013;<xref ref-type="bibr" rid="R10"><italic>10</italic></xref>, <xref ref-type="bibr" rid="R13"><italic>13</italic></xref>, <xref ref-type="bibr" rid="R20"><italic>20</italic></xref>), indicates that horizontal channel erosion rates are much more sensitive to greater rock erodibility than are vertical channel erosion rates. This asymmetry lies in the dual control of lateral channel motion by both flow-driven wear of the channel wall (<xref ref-type="bibr" rid="R12"><italic>12</italic></xref>, <xref ref-type="bibr" rid="R24"><italic>24</italic></xref>, <xref ref-type="bibr" rid="R26"><italic>26</italic></xref>) and mass-wasting erosion of the adjoining hill slope, versus the single control on vertical incision by flow-driven wear of the bed alone (<xref ref-type="bibr" rid="R14"><italic>14</italic></xref>, <xref ref-type="bibr" rid="R25"><italic>25</italic></xref>). Bed sediment cover augments the asymmetry (<xref ref-type="bibr" rid="R14"><italic>14</italic></xref>) but is not its cause.</p>
+<p>The climatic signature expressed in sinuosity comes from an amplification of this asymmetric sensitivity. More frequent heavy rainfall means that channel walls and adjoining hill slopes are destabilized more often and are more prone to lateral erosion (<xref ref-type="bibr" rid="R27"><italic>27</italic></xref>); it also means an increase in flood frequency, flow shear, and sediment momentum flux on both channel walls and beds. The combined effect is to raise wall erosion rates more than bed erosion rates and to accelerate sinuosity development (fig. S2). In the western North Pacific, this phenomenon ultimately leads to a correlation between typhoon strike frequency and incised channel sinuosity.</p>
+<p>The strength of the observed climatic signature underlines the strong coupling between climate and erosion in these island mountain landscapes (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>, <xref ref-type="bibr" rid="R4"><italic>4</italic></xref>, <xref ref-type="bibr" rid="R29"><italic>29</italic></xref>, <xref ref-type="bibr" rid="R30"><italic>30</italic></xref>) and the extent to which their morphology reflects recent [late Pleistocene to present (<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>, <xref ref-type="bibr" rid="R6"><italic>6</italic></xref>, <xref ref-type="bibr" rid="R13"><italic>13</italic></xref>)] climatic conditions. This coupling is much weaker where erosion rates are much lower, and therefore sinuosity development in such environments [such as the Colorado Plateau (<xref ref-type="bibr" rid="R20"><italic>20</italic></xref>)] will reflect a much longer-term integration of weather patterns.</p>
+<p>Even for the western North Pacific there is significant disparity between the brief time span of available meteorological and hydrologic data [~20 to 60 years (<xref ref-type="bibr" rid="R28"><italic>28</italic></xref>)] versus the time scale over which bedrock meanders have evolved [~1000 to ~100,000 years (<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>, <xref ref-type="bibr" rid="R6"><italic>6</italic></xref>, <xref ref-type="bibr" rid="R13"><italic>13</italic></xref>)]. We nevertheless have confidence that our correlations with storminess have meaning, because the regional pattern of storminess is so strongly tied to the average distribution of typhoon tracks (<xref ref-type="fig" rid="F3">Figs. 3</xref> and <xref ref-type="fig" rid="F4">4</xref>). The shape of this distribution is determined by the location of tropical cyclogenesis (currently between 8&#x00B0;N and 25&#x00B0;N in the western North Pacific) and by the steering effect of the large-scale circulation of the atmosphere (<xref ref-type="bibr" rid="R31"><italic>31</italic></xref>). Both undoubtedly change on interannual to multimillenial time scales, but it is reasonable to infer that the broad latitudinal trend in typhoon strikes, with its peak in the subtropics (<xref ref-type="fig" rid="F4">Fig. 4D</xref>), has remained roughly constant since the current plate-tectonic configuration of the western North Pacific was established several million years ago.</p>
+<p>The studied landscapes and their high sediment fluxes also exhibit a strong coupling with tectonics (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>, <xref ref-type="bibr" rid="R4"><italic>4</italic></xref>, <xref ref-type="bibr" rid="R30"><italic>30</italic></xref>), but our results suggest that rock uplift rate is a much less plausible explanatory variable for sinuosity &#x03C7; than climate. Sinuosities are highest in the northern Philippines (Luzon; <xref ref-type="fig" rid="F3">Figs. 3</xref> and <xref ref-type="fig" rid="F4">4</xref>) and second highest in Taiwan, which is consistent with our observation that typhoon strike frequencies and storminess measures are highest in Luzon and second highest in Taiwan, but is inconsistent with the relatively low late Pleistocene&#x2013;Holocene uplift rates seen in Luzon (~1 mm/year) (<xref ref-type="bibr" rid="R32"><italic>32</italic></xref>) as compared with those in Taiwan [~6 mm/year (<xref ref-type="bibr" rid="R4"><italic>4</italic></xref>, <xref ref-type="bibr" rid="R30"><italic>30</italic></xref>, <xref ref-type="bibr" rid="R33"><italic>33</italic></xref>)]. Similarly, the north-south trend in increasing sinuosity seen in Japan (<xref ref-type="fig" rid="F2">Fig. 2A</xref>) is not expressed in the regional pattern of uplift rates inferred from marine isotope stage 5.5 marine terrace elevations (<xref ref-type="bibr" rid="R33"><italic>33</italic></xref>). If uplift rate does play a role, it may be in modulating channel steepness as a function of sinuosity (fig. S3).</p>
+</body>
+<back>
+<app-group>
+<app>
+<title>Supporting Online Material</title>
+<supplementary-material>
+<p><ext-link ext-link-type="uri" xlink:href="http://www.sciencemag.org/cgi/content/full/327/5972/1497/DC1">www.sciencemag.org/cgi/content/full/327/5972/1497/DC1</ext-link></p>
+<p>Methods</p>
+<p>Figs. S1 to S3</p>
+<p>Table S1</p>
+</supplementary-material></app></app-group>
+<ref-list>
+<title>References and Notes</title>
+<ref id="R1"><label>1</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Milliman</surname><given-names>J. D.</given-names></name><name><surname>Syvitski</surname><given-names>J. P. M.</given-names></name></person-group>, 
+<article-title>Geomorphic/tectonic control of sediment discharge to the ocean: The importance of small mountainous rivers</article-title>. 
+<source>J. Geol.</source> 
+<volume>100</volume>, 
+<fpage>525</fpage> (<year>1992</year>). 
+<pub-id pub-id-type="doi">10.1086/629606</pub-id></citation></ref>
+<ref id="R2"><label>2</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Pazzaglia</surname><given-names>F. J.</given-names></name><name><surname>Brandon</surname><given-names>M. T.</given-names></name></person-group>, 
+<article-title>A fluvial record of long-term steady-state uplift and erosion across the Cascadia forearc high, western Washington State</article-title>. 
+<source>Am. J. Sci.</source> 
+<volume>301</volume>, 
+<fpage>385</fpage> (<year>2001</year>). 
+<pub-id pub-id-type="doi">10.2475/ajs.301.4-5.385</pub-id></citation></ref>
+<ref id="R3"><label>3</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Hayakawa</surname><given-names>Y. S.</given-names></name><name><surname>Oguchi</surname><given-names>T.</given-names></name></person-group>, 
+<article-title>GIS analysis of fluvial knickzone distribution in Japanese mountain watersheds</article-title>. 
+<source>Geomorphology</source> 
+<volume>111</volume>, 
+<fpage>27</fpage> (<year>2009</year>). 
+<pub-id pub-id-type="doi">10.1016/j.geomorph.2007.11.016</pub-id></citation></ref>
+<ref id="R4"><label>4</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Dadson</surname><given-names>S. J.</given-names></name><etal /></person-group>., 
+<article-title>Links between erosion, runoff variability and seismicity in the Taiwan orogen.</article-title> 
+<source>Nature</source> 
+<volume>426</volume>, 
+<fpage>648</fpage> (<year>2003</year>). 
+<pub-id pub-id-type="doi">10.1038/nature02150</pub-id>
+<pub-id pub-id-type="pmid">14668860</pub-id></citation></ref>
+<ref id="R5"><label>5</label><citation citation-type="other">T. Suzuki, <italic>Trans. Jpn. Geomorphol. Union</italic> <bold>3-1</bold>, 1 (1982).</citation></ref>
+<ref id="R6"><label>6</label><citation citation-type="other">T. Suzuki, <italic>Trans. Jpn. Geomorphol. Union</italic> <bold>4-1</bold>, 33 (1983).</citation></ref>
+<ref id="R7"><label>7</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Hirano</surname><given-names>M.</given-names></name></person-group>, 
+<source>Trans. Jpn. Geomorphol. Union</source> 
+<volume>1-2</volume>, 
+<fpage>117</fpage> (<year>1981</year>).</citation></ref>
+<ref id="R8"><label>8</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Yagi</surname><given-names>R.</given-names></name><name><surname>Ikeda</surname><given-names>H.</given-names></name></person-group>, 
+<source>Bull. Environ. Res. Center Univ. Tsukuba</source> 
+<volume>22</volume>, 
+<fpage>1</fpage> (<year>1997</year>).</citation></ref>
+<ref id="R9"><label>9</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Nakano</surname><given-names>A.</given-names></name><name><surname>Ikeda</surname><given-names>H.</given-names></name></person-group>, 
+<source>Bull. Environ. Res. Center Univ.Tsukuba</source> 
+<volume>24</volume>, 
+<fpage>1</fpage> (<year>1999</year>).</citation></ref>
+<ref id="R10"><label>10</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Barbour</surname><given-names>J. R.</given-names></name><etal /></person-group>., 
+<article-title>Magnitude-frequency distributions of boundary shear stress along a rapidly eroding bedrock river</article-title>. 
+<source>Geophys. Res. Lett.</source> 
+<volume>36</volume>, 
+<fpage>L04401</fpage> (<year>2009</year>). 
+<pub-id pub-id-type="doi">10.1029/2008GL035786</pub-id></citation></ref>
+<ref id="R11"><label>11</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Stark</surname><given-names>C. P.</given-names></name></person-group>, 
+<article-title>A self-regulating model of bedrock river channel geometry</article-title>. 
+<source>Geophys. Res. Lett.</source> 
+<volume>33</volume>, 
+<fpage>L04402</fpage> (<year>2006</year>). 
+<pub-id pub-id-type="doi">10.1029/2005GL023193</pub-id></citation></ref>
+<ref id="R12"><label>12</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Turowski</surname><given-names>J. M.</given-names></name><name><surname>Lague</surname><given-names>D.</given-names></name><name><surname>Hovius</surname><given-names>N.</given-names></name></person-group>, 
+<article-title>Response of bedrock channel width to tectonic forcing: Insights from a numerical model, theoretical considerations, and comparison with field data</article-title>. 
+<source>J. Geophys. Res.</source> 
+<volume>114</volume> (
+<supplement>F3</supplement>), 
+<fpage>F03016</fpage> (<year>2009</year>). 
+<pub-id pub-id-type="doi">10.1029/2008JF001133</pub-id></citation></ref>
+<ref id="R13"><label>13</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Shyu</surname><given-names>J. B. H.</given-names></name><name><surname>Sieh</surname><given-names>K.</given-names></name><name><surname>Avouac</surname><given-names>J.-P.</given-names></name><name><surname>Chen</surname><given-names>W.-S.</given-names></name><name><surname>Chen</surname><given-names>Y.-G.</given-names></name></person-group>, 
+<article-title>Millennial slip rate of the Longitudinal Valley fault from river terraces: Implications for convergence across the active suture of eastern Taiwan</article-title>. 
+<source>J. Geophys. Res.</source> 
+<volume>111</volume> (
+<supplement>B8</supplement>), 
+<fpage>B08403</fpage> (<year>2006</year>). 
+<pub-id pub-id-type="doi">10.1029/2005JB003971</pub-id></citation></ref>
+<ref id="R14"><label>14</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Turowski</surname><given-names>J. M.</given-names></name><name><surname>Lague</surname><given-names>D.</given-names></name><name><surname>Hovius</surname><given-names>N.</given-names></name></person-group>, 
+<article-title>Cover effect in bedrock abrasion: A new derivation and its implications for the modeling of bedrock channel morphology</article-title>. 
+<source>J. Geophys. Res.</source> 
+<volume>112</volume>, (
+<supplement>F4</supplement>), 
+<fpage>F04006</fpage> (<year>2007</year>). 
+<pub-id pub-id-type="doi">10.1029/2006JF000697</pub-id></citation></ref>
+<ref id="R15"><label>15</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Davis</surname><given-names>W. M.</given-names></name></person-group>, 
+<article-title>The topographic maps of the United States Geological Survey.</article-title> 
+<source>Science</source> 
+<volume>21</volume>, 
+<fpage>225</fpage> (<year>1893</year>). 
+<pub-id pub-id-type="doi">10.1126/science.ns-21.534.225</pub-id>
+<pub-id pub-id-type="pmid">17773906</pub-id></citation></ref>
+<ref id="R16"><label>16</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Winslow</surname><given-names>A.</given-names></name></person-group>, 
+<article-title>The Osage River and its meanders.</article-title> 
+<source>Science</source> 
+<volume>22</volume>, 
+<fpage>31</fpage> (<year>1893</year>). 
+<pub-id pub-id-type="doi">10.1126/science.ns-22.546.31</pub-id>
+<pub-id pub-id-type="pmid">17733392</pub-id></citation></ref>
+<ref id="R17"><label>17</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Mahard</surname><given-names>R. H.</given-names></name></person-group>, 
+<source>J. Geomorphol.</source> 
+<volume>5</volume>, 
+<fpage>32</fpage> (<year>1942</year>).</citation></ref>
+<ref id="R18"><label>18</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Blank</surname><given-names>H.</given-names></name></person-group>, 
+<article-title>Incised meanders in Mason County, Texas</article-title>. 
+<source>Geol. Soc. Am. Bull.</source> 
+<volume>81</volume>, 
+<fpage>3135</fpage> (<year>1970</year>). 
+<pub-id pub-id-type="doi">10.1130/0016-7606(1970)81[3135:IMIMCT]2.0.CO;2</pub-id></citation></ref>
+<ref id="R19"><label>19</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Dury</surname><given-names>G. H.</given-names></name></person-group>, 
+<source>Am. J. Sci.</source> 
+<volume>252</volume>, 
+<fpage>193</fpage> (<year>1954</year>).</citation></ref>
+<ref id="R20"><label>20</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Harden</surname><given-names>D. R.</given-names></name></person-group>, 
+<article-title>Controlling factors in the distribution and development of incised meanders in the central Colorado Plateau</article-title>. 
+<source>Geol. Soc. Am. Bull.</source> 
+<volume>102</volume>, 
+<fpage>233</fpage> (<year>1990</year>). 
+<pub-id pub-id-type="doi">10.1130/0016-7606(1990)102&lt;0233:CFITDA&gt;2.3.CO;2</pub-id></citation></ref>
+<ref id="R21"><label>21</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Hancock</surname><given-names>G. S.</given-names></name><name><surname>Anderson</surname><given-names>R. S.</given-names></name></person-group>, 
+<source>Geol. Soc. Am. Bull.</source> 
+<volume>114</volume>, 
+<fpage>1131</fpage> (<year>2002</year>).</citation></ref>
+<ref id="R22"><label>22</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Ikeda</surname><given-names>S.</given-names></name><name><surname>Parker</surname><given-names>G.</given-names></name><name><surname>Sawai</surname><given-names>K.</given-names></name></person-group>, 
+<article-title>Bend theory of river meanders. Part 1. Linear development</article-title>. 
+<source>J. Fluid Mech.</source> 
+<volume>112</volume>, 
+<fpage>363</fpage> (<year>1981</year>). 
+<pub-id pub-id-type="doi">10.1017/S0022112081000451</pub-id></citation></ref>
+<ref id="R23"><label>23</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Seminara</surname><given-names>G.</given-names></name></person-group>, 
+<article-title>Meanders</article-title>. 
+<source>J. Fluid Mech.</source> 
+<volume>554</volume>, 
+<fpage>271</fpage> (<year>2006</year>). 
+<pub-id pub-id-type="doi">10.1017/S0022112006008925</pub-id></citation></ref>
+<ref id="R24"><label>24</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Bitter</surname><given-names>J. G. A.</given-names></name></person-group>, 
+<article-title>A study of erosion phenomenaPart II</article-title>. 
+<source>Wear</source> 
+<volume>6</volume>, 
+<fpage>169</fpage> (<year>1963</year>). 
+<pub-id pub-id-type="doi">10.1016/0043-1648(63)90073-5</pub-id></citation></ref>
+<ref id="R25"><label>25</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Sklar</surname><given-names>L. S.</given-names></name><name><surname>Dietrich</surname><given-names>W. E.</given-names></name></person-group>, 
+<article-title>Sediment and rock strength controls on river incision into bedrock</article-title>. 
+<source>Geology</source> 
+<volume>29</volume>, 
+<fpage>1087</fpage> (<year>2001</year>). 
+<pub-id pub-id-type="doi">10.1130/0091-7613(2001)029&lt;1087:SARSCO&gt;2.0.CO;2</pub-id></citation></ref>
+<ref id="R26"><label>26</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Hartshorn</surname><given-names>K.</given-names></name><name><surname>Hovius</surname><given-names>N.</given-names></name><name><surname>Dade</surname><given-names>W. B.</given-names></name><name><surname>Slingerland</surname><given-names>R. L.</given-names></name></person-group>, 
+<article-title>Climate-driven bedrock incision in an active mountain belt.</article-title> 
+<source>Science</source> 
+<volume>297</volume>, 
+<fpage>2036</fpage> (<year>2002</year>). 
+<pub-id pub-id-type="doi">10.1126/science.1075078</pub-id>
+<pub-id pub-id-type="pmid">12242438</pub-id></citation></ref>
+<ref id="R27"><label>27</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Guzzetti</surname><given-names>F.</given-names></name><name><surname>Peruccacci</surname><given-names>S.</given-names></name><name><surname>Rossi</surname><given-names>M.</given-names></name><name><surname>Stark</surname><given-names>C. P.</given-names></name></person-group>, 
+<article-title>Rainfall thresholds for the initiation of landslides in central and southern Europe</article-title>. 
+<source>Meteorol. Atmos. Phys.</source> 
+<volume>98</volume>, 
+<fpage>239</fpage> (<year>2007</year>). 
+<pub-id pub-id-type="doi">10.1007/s00703-007-0262-7</pub-id></citation></ref>
+<ref id="R28">
+<note><label>28</label><p>See supporting material on <italic>Science</italic> Online.</p>
+</note></ref>
+<ref id="R29"><label>29</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Galewsky</surname><given-names>J.</given-names></name><etal /></person-group>., 
+<article-title>Tropical cyclone triggering of sediment discharge in Taiwan</article-title>. 
+<source>J. Geophys. Res.</source> 
+<volume>111</volume> (
+<supplement>F3</supplement>), 
+<fpage>F03014</fpage> (<year>2006</year>). 
+<pub-id pub-id-type="doi">10.1029/2005JF000428</pub-id></citation></ref>
+<ref id="R30"><label>30</label><citation citation-type="book">S. D. Willett <italic>et al</italic>., Eds., <italic>GSA Spec. Pap. 398, Penrose Conf. Ser.</italic> (2006).</citation></ref>
+<ref id="R31"><label>31</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Chan</surname><given-names>J. C. L.</given-names></name></person-group>, 
+<article-title>The physics of tropical cyclone motion</article-title>. 
+<source>Annu. Rev. Fluid Mech.</source> 
+<volume>37</volume>, 
+<fpage>99</fpage> (<year>2005</year>). 
+<pub-id pub-id-type="doi">10.1146/annurev.fluid.37.061903.175702</pub-id></citation></ref>
+<ref id="R32"><label>32</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Maeda</surname><given-names>Y.</given-names></name><etal /></person-group>., 
+<article-title>Higher-than-present Holocene mean sea levels in Ilocos, Palawan and Samar, Philippines</article-title>. 
+<source>Quat. Int.</source> 
+<volume>115&#x2013;116</volume>, 
+<fpage>15</fpage> (<year>2004</year>). 
+<pub-id pub-id-type="doi">10.1016/S1040-6182(03)00093-4</pub-id></citation></ref>
+<ref id="R33"><label>33</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Ota</surname><given-names>Y.</given-names></name><name><surname>Yamaguchi</surname><given-names>M.</given-names></name></person-group>, 
+<article-title>Holocene coastal uplift in the western Pacific Rim in the context of late Quaternary uplift</article-title>. 
+<source>Quat. Int.</source> 
+<volume>120</volume>, 
+<fpage>105</fpage> (<year>2004</year>). 
+<pub-id pub-id-type="doi">10.1016/j.quaint.2004.01.010</pub-id></citation></ref></ref-list>
+<ack><label>34</label>
+<p>This study was supported by NASA , NSF (Earth Sciences Division, Geomorphology and Land-use Dynamics Program), and the Taiwan National Science Council. We thank W. E. Dietrich, G. Parker, and E. E. Wohl for enlightening discussions and C.-H. Jen, C. Huang, T.-C. Yi, and M. Tajikara for help in the field.</p>
+</ack></back>
+</article>

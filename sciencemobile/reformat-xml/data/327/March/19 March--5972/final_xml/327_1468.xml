@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="article-commentary" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML"><front>
+<journal-meta><journal-id journal-id-type="publisher-id">SCIENCE</journal-id><journal-title>Science</journal-title><abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title><issn pub-type="ppub">0036-8075</issn><issn pub-type="epub">1095-9203</issn>
+<publisher>
+<publisher-name>American Association for the Advancement of Science</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta><article-id pub-id-type="publisher-id">1186766</article-id><article-id pub-id-type="doi">10.1126/science.1186766</article-id><article-categories>
+<subj-group subj-group-type="article-type"><subject>Perspective</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Perspectives</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>perspective</subject></subj-group>
+<subj-group subj-group-type="overline"><subject>Materials Science</subject></subj-group>
+<subj-group subj-group-type="field"><subject>MAT SCI</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Expanding the Repertoire of Shape Memory Alloys</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes"><name><surname>Ma</surname><given-names>Ji</given-names></name></contrib>
+<contrib contrib-type="author" corresp="yes"><name><surname>Karaman</surname><given-names>Ibrahim</given-names></name></contrib>
+<aff id="aff1">Materials Science and Engineering Interdisciplinary Program and Department of Mechanical Engineering, Texas A&amp;M University, College Station, TX 77843, USA.</aff>
+</contrib-group>
+<author-notes>
+<corresp>E-mail: <email>ikaraman@tamu.edu</email>; <email>jm@neo.tamu.edu</email></corresp>
+</author-notes><pub-date pub-type="ppub">
+<day>19</day>
+<month>03</month>
+<year>2010</year>
+</pub-date><volume>327</volume><issue>5972</issue><fpage>1468</fpage><lpage>1469</lpage><permissions>
+<copyright-statement>Copyright &#x00A9; 2010, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2010</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<abstract abstract-type="teaser">
+<p>An iron alloy may open up new applications for strong materials that are also capable of large reversible shape changes.</p>
+</abstract>
+<abstract abstract-type="excerpt">
+<p>The exceptional properties of many materials often come at the expense of limited performance in other areas. For example, conventional metals and their alloys are strong&#x2014;they are good at resisting stress (i.e., an applied load)&#x2014;but they tolerate only a very small amount of strain (i.e., deformation) before they are irreversibly deformed. Rubber can easily return to its original shape, even after large deformations, but is much weaker than conventional metals. However, some metal alloys exhibit &#x201C;shape memory&#x201D;; they are strong but can recover from being deformed when heated. This process seems counterintuitive, but these alloys take advantage of solid-to-solid &#x201C;diffusionless&#x201D; phase transitions: The atoms rearrange how they pack into crystals in an orderly fashion, and this process changes the material's macroscopic shape. Few other materials possess this combination of strength and flexibility (see the figure), and clever engineering has exploited these properties&#x2014;for example, in implanted medical devices such as stents. On page 1488 of this issue, Tanaka <italic>et al.</italic> (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>) report on a superelastic alloy that almost doubles the useful range of deformation that can be induced in such alloys.</p>
+</abstract><custom-meta-wrap><custom-meta><meta-name>Editor</meta-name><meta-value>Phillip D. Szuromi</meta-value></custom-meta><custom-meta><meta-name>Copyeditor</meta-name><meta-value>Jeff Cook</meta-value></custom-meta></custom-meta-wrap></article-meta>
+</front>
+<body>
+<p>The exceptional properties of many materials often come at the expense of limited performance in other areas. For example, conventional metals and their alloys are strong&#x2014;they are good at resisting stress (i.e., an applied load)&#x2014;but they tolerate only a very small amount of strain (i.e., deformation) before they are irreversibly deformed. Rubber can easily return to its original shape, even after large deformations, but is much weaker than conventional metals. However, some metal alloys exhibit &#x201C;shape memory&#x201D;; they are strong but can recover from being deformed when heated. This process seems counterintuitive, but these alloys take advantage of solid-to-solid &#x201C;diffusionless&#x201D; phase transitions: The atoms rearrange how they pack into crystals in an orderly fashion, and this process changes the material's macroscopic shape. Few other materials possess this combination of strength and flexibility (see the figure), and clever engineering has exploited these properties&#x2014;for example, in implanted medical devices such as stents. On page <related-article related-article-type="in-this-issue" vol="327" page="1488" issue="5972">1488</related-article> of this issue, Tanaka <italic>et al.</italic> (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>) report on a superelastic alloy that almost doubles the useful range of deformation that can be induced in such alloys.</p>
+<p>Superelasticity is the term used to describe a particular mechanical response of shape memory alloys, or SMAs. When a stress is applied to an SMA&#x2014;for example, through pulling or bending&#x2014;a phase transition is induced, most commonly from a high-symmetry solid called austenite to a solid with lower symmetry, called martensite. When this applied stress is removed, the material fully recovers its original shape. Because superelasticity is stress-driven, it must compete with other deformation mechanisms such as dislocation motion and deformation twinning. The victor will be the process that is triggered by the least amount of stress.</p>
+<p>Superelasticity appears only when the temperature is high enough for austenite to become more stable than martensite, but any further increase above this temperature will also raise the stress needed to trigger the transformation. With a sufficient increase in deformation temperature, plasticity sets in and full strain recovery is no longer possible. Thus, superelasticity is restricted to a temperature range or &#x201C;superelastic window&#x201D; (<xref ref-type="bibr" rid="R2"><italic>2</italic></xref>). In reality, large and fully recoverable superelasticity remains rare.</p>
+<p>Nonetheless, Tanaka <italic>et al.</italic> discovered an iron-based SMA showing almost full recovery of shape change around 15% strain. Such remarkably high recoverable strain has never been observed in polycrystalline SMAs. It dwarfs the 8% recoverable strain of the most successful superelastic alloys: the nickel-titanium, or Nitinol, SMAs (<xref ref-type="bibr" rid="R3"><italic>3</italic></xref>). Furthermore, the strength of the new alloy exceeds 1 GPa, which is stronger than Nitinol and is on par with high-strength industrial alloys (see the figure). Its greater strength allows the use of smaller cross sections, an advantage both in cost and design flexibility. It is also extremely ductile, so a roll mill can reduce its thickness by more than 90% at room temperature without cracking, a feature that conventional Nitinol and copper-based SMAs lack.</p>
+<fig id="F1" position="float">
+<caption>
+<title>Strong and shapely.</title>
+<p>Different materials can be characterized by their strength and their recovery from deformation. Strength is plotted as the stress limit, the maximum pulling force per unit area that a material can withstand without permanently changing shape. Deformation resistance is plotted as the strain&#x2014;the percentage change in length of the material as it is pulled apart&#x2014;that a material can take and still recover its original shape. Most strong materials, such as steels, do not easily recover their shape; most materials that recover shape readily, such as rubbers (elastomers), are not that strong. Shape memory alloys can combine both properties, and the iron alloy described by Tanaka <italic>et al.</italic> has pushed their limits even further. The values for metals and ceramics are for either polycrystalline or amorphous structures; some data were taken from (<xref ref-type="bibr" rid="R12"><italic>12</italic></xref>).</p>
+</caption>
+<graphic xlink:href="327_1468_F1" /></fig>
+<p>Engineers have exploited shape memory and superelasticity to execute assembly steps in remote locations, especially in implanted medical devices. Parts are fabricated and then stored at low temperatures; the final shape is recovered when the part is warmed by the body. Examples of the utility of superelasticity include stents in arteries that can open to a larger size, and medical guide wires that unfold. The iron alloy developed by Tanaka <italic>et al.</italic> may allow for smaller devices or greater ranges of motion.</p>
+<p>Another use for SMAs is in energy damping&#x2014;that is, dissipating energy through thermal and mechanical cycling. The movement of atoms during the phase transition of SMAs generates friction, so during each superelastic cycle, some energy is lost as heat or acoustic emissions. Many SMAs can dissipate energy better than ordinary metals and polymers can, and hence they are used in blast protection, shock absorption, vibration isolation, and noise reduction. Application areas are as diverse as aerospace and defense systems, seismic hazard mitigation, and passive and active control of civil structures (<xref ref-type="bibr" rid="R4"><italic>4</italic></xref>, <xref ref-type="bibr" rid="R5"><italic>5</italic></xref>). The iron-based SMA possesses energy-damping capacity several times that of Nitinol, making it a particularly attractive damping material, especially for large displacements.</p>
+<p>Finally, this truly multifunctional alloy is also a strong ferromagnet in its martensite phase, making it a particularly capable ferromagnetic SMA. Ferromagnetic SMAs (<xref ref-type="bibr" rid="R6"><italic>6</italic></xref>, <xref ref-type="bibr" rid="R7"><italic>7</italic></xref>) couple mechanical energy to magnetic energy and enable a number of applications. They can quickly change their shape as a response to a change in the external magnetic field, or they can be used to sense mechanical deformation or harvest energy from mechanical motion, such as human motion during walking (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>&#x2013;<xref ref-type="bibr" rid="R10"><italic>10</italic></xref>). Applying and removing a load to this material switches its phase between the weakly magnetized austenite and the strongly magnetized martensite. Changes in the materials' magnetization track the extent of the phase transformation and provide a measure of the strain on the alloy. The result is a noncontact, solid-state strain sensor that is highly compliant and can detect even large displacements. Alternatively, if a pickup coil is wrapped around the alloy, the changes in field from deformation generate electrical current in the coil (<xref ref-type="bibr" rid="R10"><italic>10</italic></xref>). This iron-based SMA may also be able to harvest waste mechanical vibration energy at much lower frequencies than what can be achieved with piezoelectric materials.</p>
+<p>The alloy developed by Tanaka <italic>et al.</italic> combines high strength and superelastic strain, good ductility, high damping capacity, and mechanical-magnetic coupling. Each of these properties would be a valuable addition to the metallurgist's toolbox; together, they form a metallurgist's &#x201C;Swiss army knife&#x201D; that could allow functions to work in concert. For example, a stent might be able to report that it is starting to fail to keep the artery open. A damper on a bridge in an earthquake-prone area could report the structural deflection as well as its own condition.</p>
+<p>Although these potential applications are exciting, several technical and economic challenges must be met before this new alloy reaches commercialization. High strength, ductility, and recoverable strain require precise control of microstructure and crystallographic texture. It is not possible to make use of damping capacity unless the component undergoes relatively large deformation, and high compliance and reversible strain are needed, such as for blast protection or shock absorption or in civil structures for seismic hazard mitigation. Sensing and energy harvesting in ferromagnetic SMAs often require a high biasing magnetic field (<xref ref-type="bibr" rid="R9"><italic>9</italic></xref>, <xref ref-type="bibr" rid="R10"><italic>10</italic></xref>).</p>
+<p>Fortunately, there are ways to further optimize this SMA. Microstructure can be controlled completely by conventional cold-working processes (such as rolling, extruding, or wire drawing) and heat treatments. Some properties, such as damping, may already be adequate. Energy harvesting may be low, but self-powered devices often have minimal requirements. The iron-based SMA reported by Tanaka <italic>et al.</italic> is another example in which materials are no longer just a passive support (<xref ref-type="bibr" rid="R11"><italic>11</italic></xref>). By becoming multifunctional, they can take on more (and even all) of the active roles in complex systems.</p>
+</body>
+<back>
+<ref-list>
+<title>References</title>
+<ref id="R1">
+<label>1</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Tanaka</surname><given-names>Y.</given-names></name><etal/></person-group>., <source>Science</source>
+<volume>327</volume>, <fpage>1488</fpage> (<year>2010</year>).</citation>
+</ref>
+<ref id="R2">
+<label>2</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Liu</surname><given-names>Y.</given-names></name><name><surname>Galvin</surname><given-names>S. P.</given-names></name></person-group>, <source>Acta Mater.</source>
+<volume>45</volume>, <fpage>4431</fpage> (<year>1997</year>).</citation>
+</ref>
+<ref id="R3">
+<label>3</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Otsuka</surname><given-names>K.</given-names></name><name><surname>Ren</surname><given-names>X.</given-names></name></person-group>, <source>Prog. Mater. Sci.</source>
+<volume>50</volume>, <fpage>511</fpage> (<year>2005</year>).</citation>
+</ref>
+<ref id="R4">
+<label>4</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Desroches</surname><given-names>R.</given-names></name><name><surname>Smith</surname><given-names>B.</given-names></name></person-group>, <source>J. Earthquake Eng.</source>
+<volume>8</volume>, <fpage>415</fpage> (<year>2004</year>).</citation>
+</ref>
+<ref id="R5">
+<label>5</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Fosdick</surname><given-names>R.</given-names></name><name><surname>Ketema</surname><given-names>Y.</given-names></name><name><surname>Yu</surname><given-names>J. H.</given-names></name></person-group>, <source>Int. J. Solids Struct.</source>
+<volume>35</volume>, <fpage>403</fpage> (<year>1998</year>).</citation>
+</ref>
+<ref id="R6">
+<label>6</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Kainuma</surname><given-names>R.</given-names></name><etal/></person-group>., <source>Nature</source>
+<volume>439</volume>, <fpage>957</fpage> (<year>2006</year>).</citation>
+</ref>
+<ref id="R7">
+<label>7</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Takeuchi</surname><given-names>I.</given-names></name><etal/></person-group>., <source>Nat. Mater.</source>
+<volume>2</volume>, <fpage>180</fpage> (<year>2003</year>).</citation>
+</ref>
+<ref id="R8">
+<label>8</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Chmielus</surname><given-names>M.</given-names></name><etal/></person-group>., <source>Nat. Mater.</source>
+<volume>8</volume>, <fpage>863</fpage> (<year>2009</year>).</citation>
+</ref>
+<ref id="R9">
+<label>9</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Sarawate</surname><given-names>N. N.</given-names></name><name><surname>Dapino</surname><given-names>M. J.</given-names></name></person-group>, <source>Appl. Phys. Lett.</source>
+<volume>93</volume>, <fpage>062501</fpage> (<year>2008</year>).</citation>
+</ref>
+<ref id="R10">
+<label>10</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Karaman</surname><given-names>I.</given-names></name><etal/></person-group>., <source>Appl. Phys. Lett.</source>
+<volume>90</volume>, <fpage>172505</fpage> (<year>2007</year>).</citation>
+</ref>
+<ref id="R11">
+<label>11</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Christodoulou</surname><given-names>L.</given-names></name><name><surname>Venables</surname><given-names>J. D.</given-names></name></person-group>, <source>JOM</source>
+<volume>55</volume>, <fpage>39</fpage> (<year>2003</year>).</citation>
+</ref>
+<ref id="R12">
+<label>12</label>
+<citation citation-type="book">
+<person-group person-group-type="author"><name><surname>Ashby</surname><given-names>M. F.</given-names></name></person-group>, <source>Materials Selection in Mechanical Design</source> (<publisher-name>Butterworth-Heinemann</publisher-name>, <publisher-loc>Amsterdam</publisher-loc>, <year>2005</year>).</citation>
+</ref>
+</ref-list>
+</back>
+</article>

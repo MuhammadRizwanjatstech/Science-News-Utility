@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="research-article" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title><issn pub-type="ppub">0036-8075</issn><issn pub-type="epub">1095-9203</issn>
+<publisher><publisher-name>American Association for the Advancement of Science</publisher-name></publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">1183169</article-id>
+<article-id pub-id-type="doi">10.1126/science.1183169</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>Report</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Reports</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>reports</subject></subj-group>
+<subj-group subj-group-type="field"><subject>MAT SCI</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Ferrous Polycrystalline Shape-Memory Alloy Showing Huge Superelasticity</article-title>
+</title-group>
+<contrib-group><contrib contrib-type="author"><name><surname>Tanaka</surname><given-names>Y.</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib><contrib contrib-type="author"><name><surname>Himuro</surname><given-names>Y.</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib><contrib contrib-type="author" corresp="yes"><name><surname>Kainuma</surname><given-names>R.</given-names></name><xref ref-type="aff" rid="aff2"><sup>2</sup></xref><xref ref-type="corresp" rid="cor1">*</xref></contrib><contrib contrib-type="author"><name><surname>Sutou</surname><given-names>Y.</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib><contrib contrib-type="author"><name><surname>Omori</surname><given-names>T.</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib><contrib contrib-type="author"><name><surname>Ishida</surname><given-names>K.</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib>
+<aff id="aff1"><label>1</label>Department of Materials Science, Graduate School of Engineering, Tohoku University, Sendai 980-8579, Japan.</aff>
+<aff id="aff2"><label>2</label>Institute of Multidisciplinary Research for Advanced Materials, Tohoku University, Sendai 980-8579, Japan.</aff></contrib-group>
+<author-notes>
+<corresp id="cor1"><label>*</label>To whom correspondence should be addressed. E-mail: 
+<email xlink:href="kainuma@tagen.tohoku.ac.jp">kainuma@tagen.tohoku.ac.jp</email></corresp></author-notes>
+<pub-date pub-type="ppub"><day>19</day><month>03</month><year>2010</year></pub-date>
+<volume>327</volume>
+<issue>5972</issue>
+<fpage>1488</fpage>
+<lpage>1490</lpage>
+<history><date date-type="received"><day>12</day><month>10</month><year>2009</year></date><date date-type="accepted"><day>25</day><month>01</month><year>2010</year></date></history>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2010, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2010</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder></permissions>
+<abstract abstract-type="editor"><title>Ferrous Shape Memory Alloy</title><p>So-called shape memory alloys &#x201C;remember&#x201D; the shape they are processed into, and can return to that shape after being deformed by heat. A limitation for most metal-based shape memory alloys is the extent to which they can be deformed elastically. <bold>Tanaka <italic>et al.</italic></bold> (p. <related-article related-article-type="in-this-issue" vol="327" page="1488">1488</related-article>; see the Perspective by <bold><related-article related-article-type="in-this-issue" vol="327" page="1468" issue="5972">Ma and Karaman</related-article></bold>) demonstrate an iron-based alloy that shows much higher levels of superelastic strain, surpassing the performance of nickel-titanium alloys. In addition to high superelastic strain, this ferrous shape memory alloy has much higher strength than NiTi and copper-based shape memory alloys and, consequently, a high-energy absorption capability. These properties may allow shape memory alloys to be exploited as strain sensors or energy dampers.</p></abstract>
+<abstract abstract-type="teaser"><p>A shape-memory alloy has been prepared with high mechanical energy absorption capability and reversible magnetization change.</p></abstract>
+<abstract>
+<p>Shape-memory alloys, such as Ni-Ti and Cu-Zn-Al, show a large reversible strain of more than several percent due to superelasticity. In particular, the Ni-Ti&#x2013;based alloy, which exhibits some ductility and excellent superelastic strain, is the only superelastic material available for practical applications at present. We herein describe a ferrous polycrystalline, high-strength, shape-memory alloy exhibiting a superelastic strain of more than 13%, with a tensile strength above 1 gigapascal, which is almost twice the maximum superelastic strain obtained in the Ni-Ti alloys. Furthermore, this ferrous alloy has a very large damping capacity and exhibits a large reversible change in magnetization during loading and unloading. This ferrous shape-memory alloy has great potential as a high-damping and sensor material.</p>
+</abstract>
+<custom-meta-wrap><custom-meta><meta-name>Editor</meta-name><meta-value>Marc Lavine</meta-value></custom-meta><custom-meta><meta-name>Copyeditor</meta-name><meta-value>Alexis Mogul</meta-value></custom-meta></custom-meta-wrap>
+</article-meta>
+</front>
+<body>
+<p>Elastic strain in metallic materials is usually limited to about 0.2%, and application of stress over a critical value causes plastic deformation due to slip or twin boundary motion. Many shape-memory alloys (SMAs), such as Ni-Ti and Cu-Zn-Al, show a large reversible strain of greater than several percent due to &#x201C;pseudoelasticity&#x201D; or &#x201C;superelasticity&#x201D; (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>). This strain relies on the occurrence of a thermoelastic martensitic transformation and arises from a combination of stress-induced transformation upon loading and its reverse transformation upon unloading. However, most polycrystalline SMAs that have an atomically ordered structure are extremely brittle. Exhibiting some ductility and a superelastic strain of more than 7%, the Ni-Ti&#x2013;based polycrystalline SMAs are used for many products, such as cellular phone antennae, spectacle frames, medical guidewires, and stents. However, Ni-Ti&#x2013;based polycrystalline SMA specimens are easily fractured, for example, by large deformations of over 30% that occur after cold rolling without intermediate annealing. Furthermore, their ductility is not sufficient for most applications. Reduced productivity and the high cost of fabrication caused by the low cold-workability impede further application of these materials to other fields.</p>
+<p>Polycrystalline alloys, such as Fe-Mn-Si (<xref ref-type="bibr" rid="R2"><italic>2</italic></xref>, <xref ref-type="bibr" rid="R3"><italic>3</italic></xref>), Fe-Ni-C (<xref ref-type="bibr" rid="R4"><italic>4</italic></xref>), and Fe-Ni-Co-Ti (<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>&#x2013;<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>), have been developed as &#x201C;ferrous SMAs,&#x201D; which, because of their better workability and lower cost, are commercially more attractive than the Ni-Ti&#x2013;based SMAs. The Fe-Mn-Si&#x2013;based alloys are now used for pipe couplings and fishplates. One drawback of existing ferrous SMAs is that superelasticity can barely be obtained at room temperature, because their martensitic transformations&#x2014;&#x03B3; [face-centered cubic (fcc)]/&#x03B5; [hexagonal close-packed (hcp)] and &#x03B3;/&#x03B1;&#x2032; [body-centered cubic (bcc) or body-centered tetragonal (bct)], are basically nonthermoelastic. Maki and others have succeeded in obtaining a thermoelastic &#x03B3;/&#x03B1;&#x2032; (bct) transformation in a polycrystalline Fe-Ni-Co-Ti alloy by the precipitation of a &#x03B3;&#x2032;-(Ni,Fe,Co)<sub>3</sub>Ti phase with a L1<sub>2</sub> structure (<xref ref-type="bibr" rid="R6"><italic>6</italic></xref>). However, the superelastic strain obtained by a bending test at 240 K is only 0.7% (<xref ref-type="bibr" rid="R7"><italic>7</italic></xref>), which is insufficient for practical use. It is known that Fe-Pd (<xref ref-type="bibr" rid="R9"><italic>9</italic></xref>) and Fe-Pt (<xref ref-type="bibr" rid="R10"><italic>10</italic></xref>) alloys exhibit a thermoelastic fcc/face-centered tetragonal (fct) transformation, but in spite of extensive studies, no superelasticity at room temperature has been reported since the discovery of Fe-Ni-Co-Ti alloy in 1984.</p>
+<p>We present here a ferrous polycrystalline SMA showing a large superelastic strain of over 13% at room temperature due to a thermoelastic &#x03B3;/&#x03B1;&#x2032; transformation. This ferrous superelastic alloy with a composition of Fe-28Ni-17Co-11.5Al-2.5Ta-0.05B [atomic percent (at.%); hereafter notated as NCATB] is mechanically strengthened by fine and coherent precipitates of a &#x03B3;&#x2032;-(Ni,Fe,Co)<sub>3</sub>(Al, Ta) phase with a L1<sub>2</sub> structure due to aging (fig. S1) and a strong recrystallization {035}&lt;100&gt; texture obtained by thermomechanical treatment. Here, the texture intensity of the &lt;100&gt;<sub>&#x03B3;</sub> component in the rolling direction is 25.4 (fig. S2). It is known that in the Fe-Ni-Al ternary alloy, the &#x03B3;&#x2032;-phase with the L1<sub>2</sub> structure coherently precipitates in the &#x03B3; matrix by aging (<xref ref-type="bibr" rid="R11"><italic>11</italic></xref>, <xref ref-type="bibr" rid="R12"><italic>12</italic></xref>), as well as in the Fe-Ni-Co-Ti alloy, although the &#x03B3;/&#x03B1;&#x2032; martensitic transformation in this system is not thermoelastic. Before the present study, we examined the effects of alloying elements and of microstructures controlled by various thermomechanical treatments on the ductility and the superelasticity for the Fe-Ni-Al alloys. We have now found a combination of composition and microstructure suitable to obtain the high level of superelasticity [supporting online material (SOM) text].</p>
+<p>The cyclic tensile stress-strain (SS) curves obtained at room temperature for NCATB superelastic alloy are shown in <xref ref-type="fig" rid="F1">Fig. 1, A to C</xref> (<xref ref-type="bibr" rid="R13"><italic>13</italic></xref>). An SS curve obtained from a commercial Ni-Ti superelastic wire (Ni-49.4 at.% Ti) is also presented in <xref ref-type="fig" rid="F1">Fig. 1C</xref>. <xref ref-type="fig" rid="F1">Figure 1E</xref> shows a series of optical micrographs taken from the NCATB alloy during 11% tensile strain cycle (movie S1). The microstructural evolution indicates that stress-induced &#x03B1;&#x2032; martensites appear and vanish during the strain cycle and that this pseudoelastic behavior is caused by stress-induced thermoelastic transformation. For applied strains up to approximately 15%, the NCATB exhibits almost complete superelasticity (<xref ref-type="fig" rid="F1">Fig. 1B</xref>). The maximum superelastic strain obtained is about 13.5%, which is approximately 20 times larger than that obtained in the Fe-Ni-Co-Ti alloy and almost twice that of the commercial Ni-Ti alloy. The NCATB alloy shows a very high tensile strength of 1200 MPa.</p>
+<fig id="F1" position="float" fig-type="figure"><label>Fig. 1</label><caption>
+<p>Tensile SS curves at room temperature obtained in the NCATB alloy (<bold>A</bold> to <bold>C</bold>) with strong {035}&lt;100&gt; texture and (<bold>D</bold>) with random texture and [inset of (C)] commercial Ni-Ti superelastic wire (Ni-49.4 at.% Ti). The tensile direction is parallel to the rolling direction, that is, the &lt;100&gt;<sub>&#x03B3;</sub> direction of the {035}&lt;100&gt; textured sheet. (<bold>E</bold>) A series of optical micrographs taken from the NCATB superelastic alloy during the 11% tensile strain cycle, showing stress-induced martensite and its reverse transformation.</p>
+</caption><graphic xlink:href="327_1488_F1"></graphic></fig>
+<p><xref ref-type="fig" rid="F2">Figure 2A</xref> shows an electrical resistivity curve for the NCATB superelastic alloy in the temperature region of the martensitic transformation. The martensitic transformation start temperature <italic>M</italic><sub>s</sub> and the reverse transformation finish temperature <italic>A</italic><sub>f</sub> are 187 and 211 K, respectively. The thermal hysteresis of the transformation, defined as <italic>T</italic><sub>h</sub> &#x2261; <italic>A</italic><sub>f</sub> &#x2013; <italic>M</italic><sub>s</sub>, is only 24 K, which is significantly smaller than that of nonthermoelastic transformations in steels and general ferrous alloys (~400 K) but is comparable to that reported in the Fe-Ni-Co-Ti alloy (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>), which has a thermoelastic transformation. The origin of the thermoelastic transformation observed in the NCATB alloy can be understood on the basis of the arguments put forward by Maki and others for the Fe-Ni-Co-Ti alloy (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>, <xref ref-type="bibr" rid="R6"><italic>6</italic></xref>, <xref ref-type="bibr" rid="R14"><italic>14</italic></xref>), namely, high hardness (Vickers hardness = 402) large tetragonality of the bct martensite phase (<italic>c</italic>/<italic>a</italic> = 1.11, where <italic>c</italic> and <italic>a</italic> are the lattice parameters for the <italic>c</italic> and <italic>a</italic> axes, respectively.), and the partial atomic ordering of the parent phase because of coherent precipitates of the &#x03B3;&#x2032;-(Ni,Fe,Co)<sub>3</sub>(Al, Ta)&#x2013;ordered fcc phase (table S1).</p>
+<fig id="F2" position="float" fig-type="figure"><label>Fig. 2</label><caption>
+<p>Electrical resistance curves obtained from (<bold>A</bold>) NCATB sheet with strong {035}&lt;100&gt; texture, (<bold>B</bold>) NCA, and (<bold>C</bold>) NCAT sheets with random texture. The electrical resistivity ratio at 298 K is scaled as 1.0. The optical micrographs taken from the random and {035}&lt;100&gt; textured NCATB alloys are shown in the inset of (A), and that from the random textured NCAT alloy is in the inset of (C).</p>
+</caption><graphic xlink:href="327_1488_F2"></graphic></fig>
+<p>In the present alloy, additions of Ta and B are necessary for obtaining excellent superelastic properties. <xref ref-type="fig" rid="F2">Figure 2, B and C</xref>, shows the electrical resistivity curves for Fe-28Ni-17Co-11.5Al (NCA) and Fe-28Ni-17Co-11.5Al-2.5Ta (NCAT) alloys, respectively. In the NCA quaternary alloy shown in <xref ref-type="fig" rid="F2">Fig. 2B</xref>, the &#x03B3;/&#x03B1;&#x2032; transformation is nonthermoelastic, exhibiting a large thermal hysteresis greater than 500 K. Therefore, superelasticity cannot be obtained. The appearance of the nonthermoelastic transformation is a result of its low hardness and small tetragonality of martensite, which may be due to a small amount of the &#x03B3;&#x2032; precipitates because of its low &#x03B3;&#x2032; solvus temperature (table S1). The addition of Ta, a strong &#x03B3;&#x2032;-forming element, increases the volume fraction of the &#x03B3;&#x2032; phase and heightens the hardness and tetragonality of martensite (table S1), which drastically changes the transformation behavior from nonthermoelastic to thermoelastic (<xref ref-type="fig" rid="F2">Fig. 2C</xref>). However, in the B-free NCAT alloy, &#x03B2;-NiAl&#x2013;ordered bcc phase precipitates along the grain boundaries in the matrix phase (<xref ref-type="fig" rid="F2">Fig. 2C</xref>, inset), and the ductility of the alloy rapidly decreases because of intergranular fracture. The addition of a small amount of boron results in a drastic suppression of the undesirable &#x03B2; phase, although the precipitation of the &#x03B2; phase cannot be completely suppressed at high-angle boundaries (<xref ref-type="fig" rid="F2">Fig. 2A</xref>, inset). The NCATB alloy with a random texture, where most of the grain boundaries (about 90%) are composed of high-angle boundaries covered by the &#x03B2; phase, is still brittle and fractures before showing superelasticity (<xref ref-type="fig" rid="F1">Fig. 1D</xref>).</p>
+<p>It is known that sheet specimens with a strong texture have many low-energy grain boundaries, such as small-angle and coincidence grain boundaries (<xref ref-type="bibr" rid="R15"><italic>15</italic></xref>). In the NCATB alloy, the fraction of high-angle boundaries (about 40%) could be lowered by a strong {035}&lt;100&gt; recrystalization texture developed because of thermomechanical treatment (fig. S2). Consequently, improvement in the mechanical properties was obtained by the suppression of the grain boundary precipitation of the &#x03B2; phase (<xref ref-type="fig" rid="F2">Fig. 2A</xref>, inset). Although the strong {035}&lt;100&gt; texture develops due to a similar thermomechanical treatment in the B-free NCAT alloy, the grain boundary precipitation of the &#x03B2; phase cannot be suppressed without the doping of boron.</p>
+<p>It is known that both the shape memory and superelastic properties are also influenced by control of the texture, because the transformation strain is strongly dependent on the deformation direction in crystals (<xref ref-type="bibr" rid="R16"><italic>16</italic></xref>&#x2013;<xref ref-type="bibr" rid="R19"><italic>19</italic></xref>). The lattice parameters of the &#x03B3; and &#x03B1;&#x2032; phases of NCATB, as determined by x-ray diffraction, are <italic>a</italic><sub>0</sub> = 0.3604 nm and <italic>a</italic> = 0.2771 nm, <italic>c</italic> = 0.3069 nm, respectively, producing a volume change due to the transformation of +0.68%. Hence, the tensile superelastic strain expected in the &lt;100&gt;<sub>&#x03B3;</sub> direction is simply evaluated from the lattice correspondence by</p>
+<disp-formula id="E1"><mml:math display="block" id="m1"><mml:semantics><mml:mrow><mml:msubsup><mml:mi>&#x03B5;</mml:mi><mml:mrow><mml:mn>100</mml:mn></mml:mrow><mml:mrow><mml:mi>max</mml:mi><mml:mo>&#x2061;</mml:mo></mml:mrow></mml:msubsup><mml:mo>&#x2248;</mml:mo><mml:mfrac><mml:mrow><mml:msqrt><mml:mn>2</mml:mn></mml:msqrt><mml:mi>a</mml:mi><mml:mo>&#x2212;</mml:mo><mml:msub><mml:mi>a</mml:mi><mml:mn>0</mml:mn></mml:msub></mml:mrow><mml:mrow><mml:msub><mml:mi>a</mml:mi><mml:mn>0</mml:mn></mml:msub></mml:mrow></mml:mfrac></mml:mrow></mml:semantics></mml:math><label>(1)</label></disp-formula>
+<p>In the case of single crystal NCATB, the <inline-formula><mml:math display="inline" id="m2"><mml:semantics><mml:mrow><mml:msubsup><mml:mi>&#x03B5;</mml:mi><mml:mrow><mml:mn>100</mml:mn></mml:mrow><mml:mrow><mml:mi>max</mml:mi><mml:mo>&#x2061;</mml:mo></mml:mrow></mml:msubsup></mml:mrow></mml:semantics></mml:math></inline-formula> is 8.7%. According to theoretical calculation based on a phenomenological theory, the superelastic strains expected in directions &lt;110&gt;<sub>&#x03B3;</sub> and &lt;111&gt;<sub>&#x03B3;</sub> are about 4.1 and 2.1%, respectively, and the strain in the direction &lt;100&gt;<sub>&#x03B3;</sub> has a maximum value (fig S3). The result for the &lt;100&gt;<sub>&#x03B3;</sub> direction, however, does not agree with the superelastic strain of 13.5% experimentally obtained in the rolling direction &lt;100&gt;<sub>&#x03B3;</sub> for the {035}&lt;100&gt; textured sheet (<xref ref-type="fig" rid="F1">Fig. 1C</xref>). One possible explanation for this discrepancy is the occurrence of a two-step transformation, fcc &#x2192; bct (<italic>c</italic>/<italic>a</italic> = 1.11) &#x2192; bcc. If the bcc martensite appearing in the final stage has the same molar volume as that of the bct martensite, the lattice parameter of the bcc phase is <italic>a</italic> = 0.2867 nm and the <inline-formula><mml:math display="inline" id="m3"><mml:semantics><mml:mrow><mml:msubsup><mml:mi>&#x03B5;</mml:mi><mml:mrow><mml:mn>100</mml:mn></mml:mrow><mml:mrow><mml:mi>max</mml:mi><mml:mo>&#x2061;</mml:mo></mml:mrow></mml:msubsup></mml:mrow></mml:semantics></mml:math></inline-formula> becomes 12.5%, which is almost comparable to the experimental value. Furthermore, the gradient of the superelastic curve in the plateau region drastically changes at a strain of &#x03B5;<sub>c1</sub> (<xref ref-type="fig" rid="F1">Fig. 1B</xref>), and the strain region with the low gradient given by &#x2206;&#x03B5;<sub>01</sub> = &#x03B5;<sub>c1</sub> &#x2013; &#x03B5;<sub>c0</sub>, where &#x03B5;<sub>c0</sub> is the critical strain of stress-induced transformation, is about 8.5%. This value is roughly the same as the theoretical value for the &lt;100&gt;<sub>&#x03B3;</sub> direction in the bct martensite. These results support the conjecture that the origin of the large superelastic strain is due to the two-step transformation. The two-step transformation caused by the appearance of a second martensite phase, however, has not been observed, as shown in comparison between the micrographs 4 and 5 with 10.3 and 11.0% strains, respectively (<xref ref-type="fig" rid="F1">Fig. 1E</xref> and movie S1). There is a possibility that in the second stage over the &#x03B5;<sub>c1</sub> of about 10%, the <italic>c</italic>/<italic>a</italic> ratio of the bct &#x03B1;&#x2032; martensite continuously decreases with applying stress, which yields the recoverable strain, but further work is required to confirm this.</p>
+<p>In contrast to the Ni-Ti&#x2013;based SMAs, the NCATB alloy has many physical properties besides the large superelastic strain that are useful for practical applications. One of them is an excellent mechanical damping property due to the large energy absorption in the superelastic cycle. The superelastic Ni-Ti alloys have drawn attention as high-damping materials with a recentering capacity due to their superelasticity. Because they absorb a large amount of energy during a superelastic cycle, where the absorbed energy corresponds to the area enclosed by hysteresis loop in the SS curve, they have been considered for seismic applications such as dampers in buildings and bridges (<xref ref-type="bibr" rid="R20"><italic>20</italic></xref>&#x2013;<xref ref-type="bibr" rid="R22"><italic>22</italic></xref>). The hysteresis in the SS curves of the NCATB superelastic alloy is considerably larger than that of the Ni-Ti superelastic alloys (<xref ref-type="fig" rid="F1">Fig. 1A</xref>). Plotted in <xref ref-type="fig" rid="F3">Fig. 3</xref> is the energy absorbed by a superelastic cycle per unit volume as a function of applied tensile strain for the NCATB superelastic alloy, compared with those for conventional superelastic nonferrous polycrystalline SMAs (<xref ref-type="bibr" rid="R17"><italic>17</italic></xref>, <xref ref-type="bibr" rid="R23"><italic>23</italic></xref>). The maximum energy absorbed by a complete superelastic cycle for the present ferrous alloy with applied strains up to 15% is 81 MJ/m<sup>3</sup>, which is more than twice as large as that in the Ni-Ti-Nb alloy, which shows the largest energy absorption of all nonferrous SMAs (38 MJ/m<sup>3</sup> in 8% superelastic cycle) (<xref ref-type="bibr" rid="R23"><italic>23</italic></xref>) and is also almost five times larger than that in the Ni-Ti alloy (16 MJ/m<sup>3</sup> in 8% superelastic cycle).</p>
+<fig id="F3" position="float" fig-type="figure"><label>Fig. 3</label><caption>
+<p>Energy absorbed by one superelastic cycle at room temperature as a function of applied tensile strain for NCATB, Ni-49.4 at.% Ti, Ni-46.4 at.% Ti-6Nb (<xref ref-type="bibr" rid="R23"><italic>23</italic></xref>), and Cu-16.5 at.% Mn-9.2Al-3Ni (<xref ref-type="bibr" rid="R17"><italic>17</italic></xref>) superelastic polycrystalline SMAs.</p>
+</caption><graphic xlink:href="327_1488_F3"></graphic></fig>
+<p>The NCATB superelastic alloy also undergoes a large change in spontaneous magnetization induced by the martensitic transformation. No apparent change in magnetization due to thermal martensitic transformation was detected in the thermomagnetization curves (fig. S4), because the transformation hardly proceeds during cooling (<xref ref-type="fig" rid="F2">Fig. 2A</xref>). <xref ref-type="fig" rid="F4">Figure 4</xref> shows the magnetization-versus&#x2013;magnetic field curves at room temperature obtained under some fixed tensile strains for an NCATB superelastic sheet specimen, where the magnetic field was applied in the direction perpendicular to the tensile direction. It is seen that the spontaneous magnetization drastically increases with increasing applied strain and reaches 140 electromagnetic units (emu)/g at a strain of 12%, which is about 3.5 times larger than that before loading. The spontaneous magnetization decreases during unloading. The magnetization after unloading is almost the same as that before loading, although there is some residual strain perhaps due to slip deformation. Thus, the stress-induced &#x03B1;&#x2032; martensite has a spontaneous magnetization larger than 140 emu/g at room temperature, and the change in magnetization of the alloy in the superelastic cycle is reversible, whereas some hysteresis occurs between the loading and unloading curves. This physical property can be used practically as a noncontact strain sensor covering a large repeatable strain of over 10% and is detectable in the magnetization. If this alloy is used as a mechanical damper in constructions, one can nondestructively and noncontactually monitor the strain in the damper through magnetization measurements.</p>
+<fig id="F4" position="float" fig-type="figure"><label>Fig. 4</label><caption>
+<p>Magnetization curves examined at room temperature under some fixed tensile strains for NCATB superelastic alloy. Solid lines, loading process; dotted lines, unloading process.</p>
+</caption><graphic xlink:href="327_1488_F4"></graphic></fig>
+<p>This alloy also has excellent cold-workability. The polycrystalline specimens before aging are not fractured, even by a 99% reduction in cold rolling without intermediate annealing. Therefore, various shapes, such as wires, tubes, and thin foils, can be obtained more easily compared with the Ni-Ti alloys fractured by deformation of over 30%, and the costs for fabrication can be lowered because of the advantages of the processing cost.</p>
+<p>The NCATB alloy sheet with a strong texture exhibits an excellent superelastic effect of more than 13%. This alloy shows several unique physical properties, such as a large superelastic hysteresis, a large change in magnetization and electric resistance during loading, and an excellent ductility. Given these properties, the present ferrous superelastic alloy is expected to be used for many practical applications such as superelastic materials, damping materials, and sensor materials in various fields.</p>
+</body>
+<back>
+<app-group>
+<app>
+<title>Supporting Online Material</title>
+<supplementary-material>
+<p><ext-link ext-link-type="uri" xlink:href="http://www.sciencemag.org/cgi/content/full/327/5972/1488/DC1">www.sciencemag.org/cgi/content/full/327/5972/1488/DC1</ext-link></p>
+<p>Materials and Methods</p>
+<p>SOM Text</p>
+<p>Figs. S1 to S4</p>
+<p>Table S1</p>
+<p>References</p>
+<p>Movie S1</p>
+</supplementary-material></app></app-group>
+<ref-list>
+<title>References and Notes</title>
+<ref id="R1"><label>1</label><citation citation-type="book">K. Otsuka, C. M. Wayman, Eds., <italic>Shape Memory Materials</italic> (Cambridge Univ. Press, Cambridge, 1998).</citation></ref>
+<ref id="R2"><label>2</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Sato</surname><given-names>A.</given-names></name><name><surname>Chishima</surname><given-names>E.</given-names></name><name><surname>Soma</surname><given-names>K.</given-names></name><name><surname>Mori</surname><given-names>T.</given-names></name></person-group>, 
+<article-title>Shape memory effect in &#x03B3;&rlarr;&#x03F5; transformation in Fe-30Mn-1Si alloy single crystals</article-title>. 
+<source>Acta Metall.</source> 
+<volume>30</volume>, 
+<fpage>1177</fpage> (<year>1982</year>). 
+<pub-id pub-id-type="doi">10.1016/0001-6160(82)90011-6</pub-id></citation></ref>
+<ref id="R3"><label>3</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Kajiwara</surname><given-names>S.</given-names></name><name><surname>Baruj</surname><given-names>A.</given-names></name><name><surname>Kikuchi</surname><given-names>T.</given-names></name><name><surname>Shinya</surname><given-names>N.</given-names></name></person-group>, 
+<source>Proc. SPIE</source> 
+<volume>5053</volume>, 
+<fpage>250</fpage> (<year>2003</year>).</citation></ref>
+<ref id="R4"><label>4</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Kajiwara</surname><given-names>S.</given-names></name><name><surname>Kikuchi</surname><given-names>T.</given-names></name></person-group>, 
+<article-title>Shape memory effect and related transformation behavior in Fe---Ni---C alloys</article-title>. 
+<source>Acta Metall.</source> 
+<volume>38</volume>, 
+<fpage>847</fpage> (<year>1990</year>). 
+<pub-id pub-id-type="doi">10.1016/0956-7151(90)90038-I</pub-id></citation></ref>
+<ref id="R5"><label>5</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Ganzula</surname><given-names>N. N.</given-names></name><name><surname>Koval</surname><given-names>Y. N.</given-names></name><name><surname>Kokorin</surname><given-names>V. V.</given-names></name></person-group>, 
+<source>Phys. Met. Metall.</source> 
+<volume>47</volume>, 
+<fpage>186</fpage> (<year>1979</year>).</citation></ref>
+<ref id="R6"><label>6</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Maki</surname><given-names>T.</given-names></name><name><surname>Kobayashi</surname><given-names>K.</given-names></name><name><surname>Minato</surname><given-names>M.</given-names></name><name><surname>Tamura</surname><given-names>I.</given-names></name></person-group>, 
+<article-title>Thermoelastic martensite in an ausaged Fe---Ni---Ti---Co alloy</article-title>. 
+<source>Scr. Metall.</source> 
+<volume>18</volume>, 
+<fpage>1105</fpage> (<year>1984</year>). 
+<pub-id pub-id-type="doi">10.1016/0036-9748(84)90187-X</pub-id></citation></ref>
+<ref id="R7"><label>7</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Kokorin</surname><given-names>V. V.</given-names></name><name><surname>Samsonov</surname><given-names>Yu. I.</given-names></name><name><surname>Chernenko</surname><given-names>V. A.</given-names></name><name><surname>Shevchenko</surname><given-names>O. M.</given-names></name></person-group>, 
+<source>Phys. Met. Metall.</source> 
+<volume>67</volume>, 
+<fpage>202</fpage> (<year>1989</year>).</citation></ref>
+<ref id="R8"><label>8</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Kakeshita</surname><given-names>T.</given-names></name><etal /></person-group>., 
+<article-title>Magnetoelastic martensitic transformation in an ausaged Fe---Ni---Co---Ti alloy</article-title>. 
+<source>Scr. Metall.</source> 
+<volume>19</volume>, 
+<fpage>973</fpage> (<year>1985</year>). 
+<pub-id pub-id-type="doi">10.1016/0036-9748(85)90294-7</pub-id></citation></ref>
+<ref id="R9"><label>9</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Sohmura</surname><given-names>T.</given-names></name><name><surname>Oshima</surname><given-names>R.</given-names></name><name><surname>Fujita</surname><given-names>F. E.</given-names></name></person-group>, 
+<article-title>Thermoelastic FCC-FCT martensitic transformation in Fe---Pd alloy</article-title>. 
+<source>Scr. Metall.</source> 
+<volume>14</volume>, 
+<fpage>855</fpage> (<year>1980</year>). 
+<pub-id pub-id-type="doi">10.1016/0036-9748(80)90304-X</pub-id></citation></ref>
+<ref id="R10"><label>10</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Dunne</surname><given-names>D. P.</given-names></name><name><surname>Wayman</surname><given-names>C. M.</given-names></name></person-group>, 
+<article-title>The effect of austenite ordering on the martensite transformation in Fe-Pt alloys near the composition Fe3Pt: I. Morphology and transformation characteristics</article-title>. 
+<source>Metall. Trans.</source> 
+<volume>4</volume>, 
+<fpage>137</fpage> (<year>1973</year>). 
+<pub-id pub-id-type="doi">10.1007/BF02649612</pub-id></citation></ref>
+<ref id="R11"><label>11</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Hornbogen</surname><given-names>E.</given-names></name><name><surname>Mayer</surname><given-names>W. M.</given-names></name></person-group>, 
+<article-title>Martensitische Umwandlung von Mischkristallen mit koh&#x00E4;renten Teilchen</article-title>. 
+<source>Acta Metall.</source> 
+<volume>15</volume>, 
+<fpage>584</fpage> (<year>1967</year>). 
+<pub-id pub-id-type="doi">10.1016/0001-6160(67)90099-5</pub-id></citation></ref>
+<ref id="R12"><label>12</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Hornbogen</surname><given-names>E.</given-names></name><name><surname>Mayer</surname><given-names>W. M.</given-names></name></person-group>, 
+<source>Z. Metallk.</source> 
+<volume>58</volume>, 
+<fpage>372</fpage> (<year>1967</year>).</citation></ref>
+<ref id="R13">
+<note><label>13</label><p>Materials and methods are available as supporting material on <italic>Science</italic> Online.</p>
+</note></ref>
+<ref id="R14"><label>14</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Kajiwara</surname><given-names>S.</given-names></name></person-group>, 
+<article-title>Characteristic features of shape memory effect and related transformation behavior in Fe-based alloys</article-title>. 
+<source>Mater. Sci. Eng. A</source> 
+<volume>273&#x2013;275</volume>, 
+<fpage>67</fpage> (<year>1999</year>). 
+<pub-id pub-id-type="doi">10.1016/S0921-5093(99)00290-7</pub-id></citation></ref>
+<ref id="R15"><label>15</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Watanabe</surname><given-names>T.</given-names></name><name><surname>Fujii</surname><given-names>H.</given-names></name><name><surname>Oikawa</surname><given-names>H.</given-names></name><name><surname>Arai</surname><given-names>K. I.</given-names></name></person-group>, 
+<article-title>Grain boundaries in rapidly solidified and annealed Fe-6.5 mass% Si polycrystalline ribbons with high ductility</article-title>. 
+<source>Acta Metall.</source> 
+<volume>37</volume>, 
+<fpage>941</fpage> (<year>1989</year>). 
+<pub-id pub-id-type="doi">10.1016/0001-6160(89)90021-7</pub-id></citation></ref>
+<ref id="R16"><label>16</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Shu</surname><given-names>Y. C.</given-names></name><name><surname>Bhatacharya</surname><given-names>K.</given-names></name></person-group>, 
+<source>Acta Metall.</source> 
+<volume>46</volume>, 
+<fpage>5457</fpage> (<year>1998</year>).</citation></ref>
+<ref id="R17"><label>17</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Sutou</surname><given-names>Y.</given-names></name><name><surname>Omori</surname><given-names>T.</given-names></name><name><surname>Kainuma</surname><given-names>R.</given-names></name><name><surname>Ono</surname><given-names>N.</given-names></name><name><surname>Ishida</surname><given-names>K.</given-names></name></person-group>, 
+<article-title>Metal.</article-title> 
+<source>Mater. Trans.</source> 
+<volume>33A</volume>, 
+<fpage>2817</fpage> (<year>2002</year>).</citation></ref>
+<ref id="R18"><label>18</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Sehitoglu</surname><given-names>H.</given-names></name><etal /></person-group>., 
+<source>Acta Metall.</source> 
+<volume>48</volume>, 
+<fpage>3311</fpage> (<year>2000</year>).</citation></ref>
+<ref id="R19"><label>19</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Dadda</surname><given-names>J.</given-names></name><etal /></person-group>., 
+<article-title><italic>Metal.</italic></article-title> 
+<source>Mater. Trans.</source> 
+<volume>39A</volume>, 
+<fpage>2026</fpage> (<year>2008</year>).</citation></ref>
+<ref id="R20"><label>20</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>McCormik</surname><given-names>J.</given-names></name><name><surname>Tyber</surname><given-names>J.</given-names></name><name><surname>DesRoches</surname><given-names>R.</given-names></name><name><surname>Gall</surname><given-names>K.</given-names></name><name><surname>Maier</surname><given-names>H. J.</given-names></name></person-group>, 
+<article-title>Structural Engineering with NiTi. II: Mechanical Behavior and Scaling</article-title>. 
+<source>J. Eng. Mech.</source> 
+<volume>133</volume>, 
+<fpage>1019</fpage> (<year>2007</year>). 
+<pub-id pub-id-type="doi">10.1061/(ASCE)0733-9399(2007)133:9(1019)</pub-id></citation></ref>
+<ref id="R21"><label>21</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>DesRoches</surname><given-names>R.</given-names></name><name><surname>Delemont</surname><given-names>M.</given-names></name></person-group>, 
+<article-title>Seismic retrofit of simply supported bridges using shape memory alloys</article-title>. 
+<source>Eng. Structures</source> 
+<volume>24</volume>, 
+<fpage>325</fpage> (<year>2002</year>). 
+<pub-id pub-id-type="doi">10.1016/S0141-0296(01)00098-0</pub-id></citation></ref>
+<ref id="R22"><label>22</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Di Sarno</surname><given-names>L.</given-names></name><name><surname>Elnashai</surname><given-names>A. S.</given-names></name></person-group>, 
+<article-title>Special metals for seismic retrofitting of steel buildings</article-title>. 
+<source>Prog. Struct. Eng. Mater.</source> 
+<volume>5</volume>, 
+<fpage>60</fpage> (<year>2003</year>). 
+<pub-id pub-id-type="doi">10.1002/pse.143</pub-id></citation></ref>
+<ref id="R23"><label>23</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Takagi</surname><given-names>T.</given-names></name><name><surname>Sutou</surname><given-names>Y.</given-names></name><name><surname>Kainuma</surname><given-names>R.</given-names></name><name><surname>Yamauchi</surname><given-names>K.</given-names></name><name><surname>Ishida</surname><given-names>K.</given-names></name></person-group>, 
+<article-title>Effect of prestrain on martensitic transformation in a Ti46.4Ni47.6Nb6.0 superelastic alloy and its application to medical stents</article-title>. 
+<source>Appl. Biomater.</source> 
+<volume>76B</volume>, 
+<fpage>179</fpage> (<year>2006</year>). 
+<pub-id pub-id-type="doi">10.1002/jbm.b.30415</pub-id></citation></ref></ref-list>
+<ack><label>24</label><p>The authors are grateful to K. R. Ziebeck at Cambridge University for his help in critical reading. This work was supported by Grant-in-Aids from the Japanese Society for the Promotion of Science (JSPS), New Energy and Industrial Technology Development Organization (NEDO), Core Research for Evolutional Science and Technology (CREST), Japan Science and Technology Agency (JST), and Global COE Program, Tohoku University, MEXT, Japan.</p>
+</ack></back>
+</article>

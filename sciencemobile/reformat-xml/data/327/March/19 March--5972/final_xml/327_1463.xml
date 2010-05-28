@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="article-commentary" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML"><front>
+<journal-meta><journal-id journal-id-type="publisher-id">SCIENCE</journal-id><journal-title>Science</journal-title><abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title><issn pub-type="ppub">0036-8075</issn><issn pub-type="epub">1095-9203</issn>
+<publisher>
+<publisher-name>American Association for the Advancement of Science</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta><article-id pub-id-type="publisher-id">1187920</article-id><article-id pub-id-type="doi">10.1126/science.1187920</article-id><article-categories>
+<subj-group subj-group-type="article-type"><subject>Perspective</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Perspectives</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>perspective</subject></subj-group>
+<subj-group subj-group-type="overline"><subject>Neuroscience</subject></subj-group>
+<subj-group subj-group-type="field"><subject>NEUROSCIENCE</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>AMPA Receptors&#x2014;Another Twist?</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes"><name><surname>Farrant</surname><given-names>Mark</given-names></name></contrib>
+<contrib contrib-type="author" corresp="yes"><name><surname>Cull-Candy</surname><given-names>Stuart G.</given-names></name></contrib>
+<aff id="aff1">Department of Neuroscience, Physiology, and Pharmacology, University College London, Gower Street, London WC1E 6BT, UK.</aff>
+</contrib-group>
+<author-notes>
+<corresp>E-mail: <email>m.farrant@ucl.ac.uk</email>; <email>s.cull-candy@ucl.ac.uk</email></corresp>
+</author-notes><pub-date pub-type="ppub">
+<day>19</day>
+<month>03</month>
+<year>2010</year>
+</pub-date><volume>327</volume><issue>5972</issue><fpage>1463</fpage><lpage>1465</lpage><permissions>
+<copyright-statement>Copyright &#x00A9; 2010, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2010</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<abstract abstract-type="teaser">
+<p>A protein expressed in brain controls the plasticity of synaptic transmission by regulating the properties of a neurotransmitter receptor.</p>
+</abstract>
+<abstract abstract-type="excerpt">
+<p>Neurons in the brain can alter their responsiveness to signals from other neurons, a flexibility that contributes to the richness of neuronal communication and underlies the fundamental processes of information transfer, learning, and memory. The most important receptive elements that allow neurons to &#x201C;listen&#x201D; to one another are ligand-gated transmembrane ion channels, and those that enable fast excitatory communication belong to the AMPA receptor subtype. When the neurotransmitter glutamate is released from a presynaptic neuron, it activates postsynaptic AMPA receptors, allowing cations to enter, causing depolarization that triggers an action potential in the postsynaptic neuron. On page 1518 of this issue, von Engelhardt <italic>et al.</italic> (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>) use a proteomic approach to identify an auxiliary protein that regulates AMPA receptor activity.</p>
+</abstract><custom-meta-wrap><custom-meta><meta-name>Editor</meta-name><meta-value>Lisa D. Chong</meta-value></custom-meta><custom-meta><meta-name>Copyeditor</meta-name><meta-value>Harry Jach</meta-value></custom-meta></custom-meta-wrap></article-meta>
+</front>
+<body>
+<p>Neurons in the brain can alter their responsiveness to signals from other neurons, a flexibility that contributes to the richness of neuronal communication and underlies the fundamental processes of information transfer, learning, and memory. The most important receptive elements that allow neurons to &#x201C;listen&#x201D; to one another are ligand-gated transmembrane ion channels, and those that enable fast excitatory communication belong to the AMPA receptor subtype. When the neurotransmitter glutamate is released from a presynaptic neuron, it activates postsynaptic AMPA receptors, allowing cations to enter, causing depolarization that triggers an action potential in the postsynaptic neuron. On page <related-article related-article-type="in-this-issue" vol="327" page="1518" issue="5972">1518</related-article> of this issue, von Engelhardt <italic>et al.</italic> (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>) use a proteomic approach to identify an auxiliary protein that regulates AMPA receptor activity.</p>
+<p>AMPA receptors are homo- or heterotetramers assembled from subunits GluA1 to 4. AMPA receptor&#x2013;mediated excitation is regulated by numerous processes that influence biophysical properties of the receptors (including affinity for glutamate, ionic selectivity, conductance, and gating) or their location and stability within the cell membrane. These changes arise through developmental or activity-driven alteration in AMPA receptor subunit composition, and by posttranscriptional or posttranslational modifications such as alternative RNA splicing, RNA editing, and protein phosphorylation, glycosylation, or palmitoylation. The discovery that transmembrane AMPA receptor regulatory proteins (TARPs; &#x03B3;-2, -3, -4, -5, -7, and -8) act as auxiliary subunits that affect receptor trafficking and function (<xref ref-type="bibr" rid="R2"><italic>2</italic></xref>&#x2013;<xref ref-type="bibr" rid="R6"><italic>6</italic></xref>) revealed even greater capacity for variation in receptor regulation. TARP-like molecules also exist in invertebrates, indicating evolutionarily conserved roles for such proteins (<xref ref-type="bibr" rid="R7"><italic>7</italic></xref>). Recently, cornichon proteins (CNIH-2 and -3) were identified as another distinct class of AMPA receptor regulatory proteins (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>).</p>
+<p>Using mass spectrometry to analyze GluA1-containing AMPA receptor complexes isolated from mouse forebrain, von Engelhardt <italic>et al.</italic> identified a protein they call cystine-knot AMPA receptor modulating protein (CKAMP, with a predicted mass of 44 kD; also known as mouse shisa homolog 9) (see the figure). CKAMP44 has a single transmembrane domain and an intracellular PDZ motif that could anchor the molecule at the membrane. Intriguingly, like certain other proteins or polypeptide neurotoxins that interact with ion channels, the extracellular domain of CKAMP44 has a cysteine-rich region. This is similar to the cystine-knot motifs found in cone snail toxins that affect certain voltage-gated channels (<xref ref-type="bibr" rid="R9"><italic>9</italic></xref>) and in a conotoxin that modifies AMPA receptor function (<xref ref-type="bibr" rid="R10"><italic>10</italic></xref>). Related motifs are present in the snake toxin &#x03B1;-bungarotoxin and the Ly-6 protein lynx1, both of which interact with nicotinic acetylcholine receptors (<xref ref-type="bibr" rid="R11"><italic>11</italic></xref>). A Ly-6 protein also modifies Shaker-type K<sup>+</sup> channels in the fly <italic>Drosophila melanogaster</italic> (<xref ref-type="bibr" rid="R12"><italic>12</italic></xref>).</p>
+<fig id="F1" position="float">
+<caption>
+<title>Three classes of AMPA receptor&#x2013;interacting proteins.</title>
+<p>Von Engelhardt <italic>et al.</italic> identified TARPs (&#x03B3;-2 and -8) and CKAMP44, but not CNIH-2 or -3, in AMPA receptor complexes (containing GluA1 receptor subunits). In the schematic, no particular stoichiometry of association with AMPA receptors is implied.</p>
+</caption>
+<graphic xlink:href="327_1463_F1" />
+<attrib>CREDIT: C. BICKEL/<italic>SCIENCE</italic></attrib>
+</fig>
+<p>CKAMP44 is most abundant in the hippocampus, specifically in the granule cell layer of the dentate gyrus. Subcellular fractionation of mouse forebrain identified CKAMP44 within membranes of post-synaptic neurons (the postsynaptic density region that contains AMPA receptors). When expressed in hippocampal neurons in culture, CKAMP44 localized to the surface membrane of dendritic spine heads, opposite presynaptic release sites. These observations suggested a role for CKAMP44 as a modulator of synaptic AMPA receptors. However, von Engelhardt <italic>et al.</italic> found that unlike TARP proteins, such as stargazin (TARP &#x03B3;-2), that enhance steady-state AMPA receptor responses, CKAMP44 decreased such responses. TARPs increase the surface expression of AMPA receptors, slow receptor deactivation (delay channel closure after glutamate is removed), decrease their desensitization (reduce the decline in response seen in the continued presence of glutamate), and increase channel conductance (<xref ref-type="bibr" rid="R2"><italic>2</italic></xref>&#x2013;<xref ref-type="bibr" rid="R4"><italic>4</italic></xref>). Although CKAMP44 reduces steady-state currents, it does not affect AMPA receptor surface expression. Instead, it increases, and slows recovery from, desensitization. Exactly how CKAMP44 modifies AMPA receptor behavior is not clear, but by analogy with effects caused by receptor subunit mutations (<xref ref-type="bibr" rid="R13"><italic>13</italic></xref>), the authors suggest that CKAMP44 might stabilize the closed conformation of the glutamate-binding cleft, most likely by interacting with the extracellular domain of the AMPA receptor.</p>
+<p>What does this mean for synaptic function? Von Engelhardt <italic>et al.</italic> examined miniature excitatory postsynaptic currents (mEPSCs) that result from the release of glutamate from individual vesicles in the presynaptic neuron. Whereas TARPs shape both the time course and amplitude of mEPSCs (<xref ref-type="bibr" rid="R14"><italic>14</italic></xref>), CKAMP44 did not. Thus, in CA1 pyramidal cells of the mouse hippocampus, neither the removal nor overexpression of CKAMP44 affected mEPSCs. A modulatory action of CKAMP44 became apparent only during high-frequency transmission. When evoking pairs of EPSCs in CA1 pyramidal cells in which CKAMP44 was overexpressed, the normally observed increase in EPSC amplitude from the second of two closely timed stimuli (a form of synaptic plasticity termed short-term facilitation) was eliminated for AMPA receptor.mediated responses, but responses from a different glutamate receptor type [<italic>N</italic>-methyl-<sc>d</sc>-aspartate (NMDA) receptor] were unchanged. In CA1 pyramidal cells, CKAMP44 abundance is relatively low, whereas in dentate gyrus granule cells, it is high. In the latter, increasing CKAMP44 expression had no effect, but removal of CKAMP44 enhanced short-term facilitation. Thus, CKAMP44 may play a role in setting the extent of short-term plasticity at different synapses.</p>
+<p>How does this alter our understanding of such plasticity? At &#x201C;facilitating&#x201D; synapses, the increase in EPSC amplitude reflects a short-lived enhancement of neurotransmitter release brought about, in part, by an increase in the concentration of calcium in the presynaptic terminal. Ordinarily, desensitization of postsynaptic AMPA receptors, which opposes such facilitation (by depressing postsynaptic responsiveness), plays little part, as recovery is rapid. Von Engelhardt <italic>et al.</italic> demonstrate that CKAMP44 attenuates facilitation of the postsynaptic response by slowing this recovery from desensitization. Likewise, synapses that normally show short-term depression exhibit facilitation in the absence of CKAMP44.</p>
+<p>At hippocampal synapses, CKAMP44 is differentially expressed&#x2014;but is this expression dynamically or developmentally regulated? Indeed, why is CKAMP44 necessary? Recovery from desensitization, and, by implication, short-term facilitation, might equally well depend on AMPA receptor subunit composition and the nature of any associated TARP. Understanding these issues will require investigation of the stoichiometry of the interaction between CKAMP44, the various AMPA receptor subunits, and TARPs.</p>
+</body>
+<back>
+<ref-list>
+<title>References and Notes</title>
+<ref id="R1">
+<label>1</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Engelhardt</surname><given-names>J. von</given-names></name><etal/></person-group>., <source>Science</source>
+<volume>327</volume>, <fpage>1518</fpage> (<year>2010</year>).</citation>
+</ref>
+<ref id="R2">
+<label>2</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Priel</surname><given-names>A.</given-names></name><etal/></person-group>., <source>J. Neurosci.</source>
+<volume>25</volume>, <fpage>2682</fpage> (<year>2005</year>).</citation>
+</ref>
+<ref id="R3">
+<label>3</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Tomita</surname><given-names>S.</given-names></name><name><surname>Stein</surname><given-names>V.</given-names></name><name><surname>Stocker</surname><given-names>T. J.</given-names></name><name><surname>Nicoll</surname><given-names>R. A.</given-names></name><name><surname>Bredt</surname><given-names>D. S.</given-names></name></person-group>, <source>Neuron</source>
+<volume>45</volume>, <fpage>269</fpage> (<year>2005</year>).</citation>
+</ref>
+<ref id="R4">
+<label>4</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Turetsky</surname><given-names>D.</given-names></name><name><surname>Garringer</surname><given-names>E.</given-names></name><name><surname>Patneau</surname><given-names>D. K.</given-names></name></person-group>, <source>J. Neurosci.</source>
+<volume>25</volume>, <fpage>7438</fpage> (<year>2005</year>).</citation>
+</ref>
+<ref id="R5">
+<label>5</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Kato</surname><given-names>A. S.</given-names></name><etal/></person-group>., <source>J. Neurosci.</source>
+<volume>27</volume>, <fpage>4969</fpage> (<year>2007</year>).</citation>
+</ref>
+<ref id="R6">
+<label>6</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Soto</surname><given-names>D.</given-names></name><etal/></person-group>., <source>Nat. Neurosci.</source>
+<volume>12</volume>, <fpage>277</fpage> (<year>2009</year>).</citation>
+</ref>
+<ref id="R7">
+<label>7</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>R.</given-names></name><etal/></person-group>., <source>Neuron</source>
+<volume>59</volume>, <fpage>997</fpage> (<year>2008</year>).</citation>
+</ref>
+<ref id="R8">
+<label>8</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Schwenk</surname><given-names>J.</given-names></name><etal/></person-group>., <source>Science</source>
+<volume>323</volume>, <fpage>1313</fpage> (<year>2009</year>).</citation>
+</ref>
+<ref id="R9">
+<label>9</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Heinemann</surname><given-names>S. H.</given-names></name><name><surname>Leipold</surname><given-names>E.</given-names></name></person-group>, <source>Cell. Mol. Life Sci.</source>
+<volume>64</volume>, <fpage>1329</fpage> (<year>2007</year>).</citation>
+</ref>
+<ref id="R10">
+<label>10</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Walker</surname><given-names>C. S.</given-names></name><etal/></person-group>., <source>Curr. Biol.</source>
+<volume>19</volume>, <fpage>900</fpage> (<year>2009</year>).</citation>
+</ref>
+<ref id="R11">
+<label>11</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Iba&#x00F1;ez-Tallon</surname><given-names>I.</given-names></name><etal/></person-group>., <source>Neuron</source>
+<volume>33</volume>, <fpage>893</fpage> (<year>2002</year>).</citation>
+</ref>
+<ref id="R12">
+<label>12</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Wu</surname><given-names>M. N.</given-names></name><etal/></person-group>., <source>Nat. Neurosci.</source>
+<volume>13</volume>, <fpage>69</fpage> (<year>2010</year>).</citation>
+</ref>
+<ref id="R13">
+<label>13</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Weston</surname><given-names>M. C.</given-names></name><name><surname>Gertler</surname><given-names>C.</given-names></name><name><surname>Mayer</surname><given-names>M. L.</given-names></name><name><surname>Rosenmund</surname><given-names>C.</given-names></name></person-group>, <source>J. Neurosci.</source>
+<volume>26</volume>, <fpage>7650</fpage> (<year>2006</year>).</citation>
+</ref>
+<ref id="R14">
+<label>14</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Cho</surname><given-names>C. H.</given-names></name><name><surname>St-Gelais</surname><given-names>F.</given-names></name><name><surname>Zhang</surname><given-names>W.</given-names></name><name><surname>Tomita</surname><given-names>S.</given-names></name><name><surname>Howe</surname><given-names>J. R.</given-names></name></person-group>, <source>Neuron</source>
+<volume>55</volume>, <fpage>890</fpage> (<year>2007</year>).</citation>
+</ref>
+</ref-list>
+<ack>
+<label>15</label><p>The authors are supported by the Wellcome Trust.</p>
+</ack>
+</back>
+</article>

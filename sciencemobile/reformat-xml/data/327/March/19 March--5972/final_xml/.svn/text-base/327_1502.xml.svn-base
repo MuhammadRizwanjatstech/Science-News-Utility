@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="research-article" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title><issn pub-type="ppub">0036-8075</issn><issn pub-type="epub">1095-9203</issn>
+<publisher><publisher-name>American Association for the Advancement of Science</publisher-name></publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">1182767</article-id>
+<article-id pub-id-type="doi">10.1126/science.1182767</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>Report</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Reports</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>reports</subject></subj-group>
+<subj-group subj-group-type="field"><subject>CHEMISTRY</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Mechanosensitive Self-Replication Driven by Self-Organization</article-title>
+</title-group>
+<contrib-group><contrib contrib-type="author"><name><surname>Carnall</surname><given-names>Jacqui M. A.</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib><contrib contrib-type="author"><name><surname>Waudby</surname><given-names>Christopher A.</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="aff" rid="aff2"><sup>2</sup></xref></contrib><contrib contrib-type="author"><name><surname>Belenguer</surname><given-names>Ana M.</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib><contrib contrib-type="author"><name><surname>Stuart</surname><given-names>Marc C. A.</given-names></name><xref ref-type="aff" rid="aff3"><sup>3</sup></xref><xref ref-type="aff" rid="aff4"><sup>4</sup></xref></contrib><contrib contrib-type="author"><name><surname>Peyralans</surname><given-names>J&#x00E9;r&#x00F4;me J.-P.</given-names></name><xref ref-type="aff" rid="aff4"><sup>4</sup></xref></contrib><contrib contrib-type="author" corresp="yes"><name><surname>Otto</surname><given-names>Sijbren</given-names></name><xref ref-type="aff" rid="aff4"><sup>4</sup></xref><xref ref-type="corresp" rid="cor1">*</xref></contrib>
+<aff id="aff1"><label>1</label>University of Cambridge, Department of Chemistry, Lensfield Road, Cambridge CB2 1EW, UK.</aff>
+<aff id="aff2"><label>2</label>Department of Structural and Molecular Biology, University College London, London WC1E 6BT, UK.</aff>
+<aff id="aff3"><label>3</label>Groningen Biomolecular Sciences and Biotechnology Institute, University of Groningen, Nijenborgh 4, 9747 AG Groningen, Netherlands.</aff>
+<aff id="aff4"><label>4</label>Centre for Systems Chemistry, Stratingh Institute, University of Groningen, Nijenborgh 4, 9747 AG Groningen, Netherlands.</aff></contrib-group>
+<author-notes>
+<corresp id="cor1"><label>*</label>To whom correspondence should be addressed. E-mail: 
+<email xlink:href="s.otto@rug.nl">s.otto@rug.nl</email>.</corresp></author-notes>
+<pub-date pub-type="ppub"><day>19</day><month>03</month><year>2010</year></pub-date>
+<volume>327</volume>
+<issue>5972</issue>
+<fpage>1502</fpage>
+<lpage>1506</lpage>
+<history><date date-type="received"><day>01</day><month>10</month><year>2009</year></date><date date-type="accepted"><day>10</day><month>02</month><year>2010</year></date></history>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2010, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2010</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder></permissions>
+<abstract abstract-type="editor"><title>At Sixes and Sevens</title><p>Molecular synthesis and macroscopic aggregation have often been regarded as entirely separate processes. From the researcher's standpoint, once reagents have been mixed, synthesis is largely passive, whereas processes such as crystallization can be more actively manipulated. <bold>Carnall <italic>et al.</italic></bold> (p. <related-article related-article-type="in-this-issue" vol="327" page="1502">1502</related-article>) characterized an unusual system in which the formation of aggregated cyclic macromolecules (macrocycles) from small peptide-based building blocks was governed by intimately interdependent factors ranging from the scale of covalent bond formation all the way to micron scale fiber growth. As the macrocycles stacked against one another to form the fibers, they remained loosely bonded enough internally to incorporate or expel individual building blocks. Varying the type of mechanical force applied to the growing fibers (either through shaking or stirring the solution), alternately favored formation of either 6-membered or 7-membered covalent macrocycles.</p></abstract>
+<abstract abstract-type="teaser"><p>The type of mechanical agitation applied to a solution influences which of two molecular products dominate.</p></abstract>
+<abstract>
+<p>Self-replicating molecules are likely to have played an important role in the origin of life, and a small number of fully synthetic self-replicators have already been described. Yet it remains an open question which factors most effectively bias the replication toward the far-from-equilibrium distributions characterizing even simple organisms. We report here two self-replicating peptide-derived macrocycles that emerge from a small dynamic combinatorial library and compete for a common feedstock. Replication is driven by nanostructure formation, resulting from the assembly of the peptides into fibers held together by &#x03B2; sheets. Which of the two replicators becomes dominant is influenced by whether the sample is shaken or stirred. These results establish that mechanical forces can act as a selection pressure in the competition between replicators and can determine the outcome of a covalent synthesis.</p>
+</abstract>
+<custom-meta-wrap><custom-meta><meta-name>Editor</meta-name><meta-value>Jake Yeston</meta-value></custom-meta><custom-meta><meta-name>Copyeditor</meta-name><meta-value>Cynthia Howe</meta-value></custom-meta></custom-meta-wrap></article-meta>
+</front>
+<body>
+<p>The ability to replicate is an essential component of evolvable life, yet how replication emerged during the origin of life remains an unanswered question (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>&#x2013;<xref ref-type="bibr" rid="R3"><italic>3</italic></xref>). The experimental approach to this subject has focused largely on kinetically controlled autocatalysis, whereby a molecule is able to catalyze its own formation from a set of precursors. This outcome has been achieved using both biological molecules&#x2014;such as DNA (<xref ref-type="bibr" rid="R4"><italic>4</italic></xref>, <xref ref-type="bibr" rid="R5"><italic>5</italic></xref>), RNA (<xref ref-type="bibr" rid="R6"><italic>6</italic></xref>) and &#x03B1;-helical peptides (<xref ref-type="bibr" rid="R7"><italic>7</italic></xref>, <xref ref-type="bibr" rid="R8"><italic>8</italic></xref>)&#x2014;and nonbiological molecules (<xref ref-type="bibr" rid="R9"><italic>9</italic></xref>&#x2013;<xref ref-type="bibr" rid="R12"><italic>12</italic></xref>). Also, cross-catalytic systems have been reported wherein two or more sets of compounds induce one another&#x2019;s synthesis (<xref ref-type="bibr" rid="R13"><italic>13</italic></xref>, <xref ref-type="bibr" rid="R14"><italic>14</italic></xref>). These relatively simple systems are still far from the complexity exhibited by contemporary organisms, which can undergo Darwinian evolution and exhibit a complex internal organization.</p>
+<p>We previously proposed that it should be possible to use dynamic combinatorial libraries to develop molecules capable of promoting their own formation, while forming extended assemblies at the same time (<xref ref-type="bibr" rid="R15"><italic>15</italic></xref>). Dynamic combinatorial libraries are created by mixing building blocks that can react with each other through the formation of reversible covalent bonds, leading to a mixture of products that are all in rapid equilibrium. We reasoned that if two or more molecules of a particular product could stabilize one another through noncovalent binding, the equilibrium would shift toward formation of this product at the expense of the other library members. A number of examples have very recently appeared that exploit this principle. Giuseppone described a dynamic equivalent of the Rebek replicator (<xref ref-type="bibr" rid="R16"><italic>16</italic></xref>) as well as an autopoietic system where reversible formation of an amphiphilic molecule was able to promote the formation of more amphiphile by accelerating dissolution of the starting material (<xref ref-type="bibr" rid="R17"><italic>17</italic></xref>). Sadownik and Philp coupled an established replicating system to a small dynamic combinatorial library of starting materials and competing reagents (<xref ref-type="bibr" rid="R18"><italic>18</italic></xref>). Ulijn and colleagues have reported an enzyme-mediated peptide synthesis in which gelation drives formation of a single product from a dynamic mixture (<xref ref-type="bibr" rid="R19"><italic>19</italic></xref>).</p>
+<p>We now report the results of our own efforts using small dynamic combinatorial libraries made from self-binding building block <bold>1</bold> (<xref ref-type="fig" rid="F1">Fig. 1A</xref>), which features a peptide sequence with alternating hydrophobic (leucine) and hydrophilic (lysine) &#x03B1;-amino acids. Peptides with such characteristics have a high propensity to assemble noncovalently into a &#x03B2;-sheet structure (<xref ref-type="bibr" rid="R20"><italic>20</italic></xref>, <xref ref-type="bibr" rid="R21"><italic>21</italic></xref>). Molecules of <bold>1</bold> can also bond covalently to one another through oxidative disulfide formation from their pendant thiol groups, producing a mixture of different macrocycles in the presence of oxygen from the air (<xref ref-type="bibr" rid="R22"><italic>22</italic></xref>).</p>
+<fig id="F1" position="float" fig-type="figure"><label>Fig. 1</label><caption><p>(<bold>A</bold>) Schematic illustration of a small dynamic combinatorial library made from dithiol building blocks. High-performance liquid chromatography analyses (monitored at 254 nm) of product mixtures obtained by oxidation of (<bold>B</bold>) building block <bold>2</bold> (3.8 mM) after stirring at 1200 rpm for 15 days; (<bold>C</bold>) building block <bold>1</bold> (3.8 mM) after stirring at 1200 rpm for 15 days; (<bold>D</bold>) building block <bold>1</bold> (3.8 mM) after 16 days with no agitation; and (<bold>E</bold>) building block <bold>1</bold> (3.8 mM) after shaking at 500 rpm for 20 days. Evolution of the product distribution with time upon agitating a solution of <bold>1</bold> (3.8 mM) by (<bold>F</bold>) shaking (500 rpm) or (<bold>G</bold>) stirring (1200 rpm). Mass spectra of the material corresponding to the peaks in the chromatograms are shown in fig. S1. Growth of cyclic hexamer (circles) and heptamer (squares) upon seeding an immature small dynamic combinatorial library made from building block <bold>1</bold> (3.8 mM) with (<bold>H</bold>) 5 mole percent (mol %) of <bold>1</bold><sub>6</sub> followed by shaking at 1200 rpm or (<bold>I</bold>) 5 mol % of <bold>1</bold><sub>7</sub> followed by stirring at 1200 rpm.</p>
+</caption>
+<graphic xlink:href="327_1502_F1"></graphic></fig>
+<p>At approximately neutral pH the resulting product mixture would normally be expected to be under thermodynamic control with a ring size distribution reflecting the extent to which intermolecular peptide-peptide interactions stabilize each macrocycle. However, kinetically controlled processes can also determine which products are formed, as we show herein. We first performed a control experiment in which we observed by liquid chromatography&#x2013;mass spectrometry (LC-MS) the product distribution resulting from stirring dithiol <bold>2</bold>, which does not feature a peptide chain, in borate buffer at pH 8.0 (<xref ref-type="bibr" rid="R23"><italic>23</italic></xref>). The final composition, a mixture of cyclic trimer and tetramer (<xref ref-type="fig" rid="F1">Fig. 1B</xref>), remained unchanged over a period of 15 days. The same experiment with peptide-functionalized building block <bold>1</bold> was also monitored by LC-MS and gave very similar behavior during the first 4 days. However, after that period a sudden change in composition occurred and the cyclic heptamer rapidly became the dominant product, consuming most of the trimer and tetramer in the process (<xref ref-type="fig" rid="F1">Fig. 1C</xref>). This behavior depends critically on the mode of agitation. Repeating the experiment with peptide <bold>1</bold> in the absence of mechanical agitation resulted in a mixture containing mostly trimer and tetramer that remained unchanged over a period of 7.5 months, similar to the behavior of control compound <bold>2</bold> (<xref ref-type="fig" rid="F1">Fig. 1D</xref>). Remarkably, repeating the experiment with peptide <bold>1</bold> using shaking rather than stirring as the mode of agitation induced the preferential formation of cyclic hexamer (<xref ref-type="fig" rid="F1">Fig. 1E</xref>).</p>
+<p>The sigmoidal nature of the growth of the hexamer and heptamer in the above experiments (<xref ref-type="fig" rid="F1">Fig. 1, F and G</xref>) suggests that these macrocycles are able to promote their own formation, which we confirmed in two separate experiments: We added a small amount of hexamer to a sample of <bold>1</bold> that was then shaken for 9 days (<xref ref-type="fig" rid="F1">Fig. 1H</xref>) and also a small amount of heptamer to a sample of <bold>1</bold> that was then stirred for 6 days (<xref ref-type="fig" rid="F1">Fig. 1I</xref>). In both cases, the samples consisted mostly of trimer and tetramer at the point of addition. The addition of a small amount of hexamer or heptamer clearly induced the formation of more of the respective macrocycles.</p>
+<p>We have characterized the solutions of hexamer and heptamer using cryogenic transmission electron microscopy (cryo-TEM) and circular dichroism (CD), Fourier transform infrared (FTIR), ultraviolet (UV), and fluorescence spectroscopy. In both solutions, long thin fibers are clearly visible by cryo-TEM (<xref ref-type="fig" rid="F2">Fig. 2, A and B</xref>). These fibers are up to 1 to 2 &#x03BC;m in length. The hexamer and heptamer fibers have comparable diameters in the range of 4.7 to 4.9 nm. These dimensions are in agreement with the diameter of a single macrocycle with peptide chains extending radially from the core in a &#x03B2;-sheet conformation, as determined from inspection of Corey Pauling Koltun (CPK) models.</p>
+<fig id="F2" position="float" fig-type="figure"><label>Fig. 2</label><caption><p>Cryo-TEM images of (<bold>A</bold>) <bold>1</bold><sub>6</sub>; (<bold>B</bold>) <bold>1</bold><sub>7</sub> (inset: magnified view of representative fibers); (<bold>C</bold>) circular dichroism spectra of <bold>1</bold><sub>6</sub> (solid line), <bold>1</bold><sub>7</sub> (dashed line), and a mixture of <bold>1</bold><sub>3</sub> and <bold>1</bold><sub>4</sub> (dotted line); (<bold>D</bold>) schematic representation of the proposed formation of fibers of <bold>1</bold><sub>6</sub>. The benzenedithiol core of building block <bold>1</bold> is shown in yellow and the peptide chain in blue. Stacks of hexamer are held together by the assembly of the peptide chains into elongated cross-&#x03B2; sheets. The stacks grow from their ends, which increase in number through stack fragmentation, enabling exponential growth.</p>
+</caption>
+<graphic xlink:href="327_1502_F2"></graphic></fig>
+<p>Having established the existence of fibers, we next investigated the nature of the interactions holding them together. The CD spectra of solutions containing mainly hexamer (solid line in <xref ref-type="fig" rid="F2">Fig. 2C</xref>) or heptamer (dashed line) show most of the features typical for &#x03B2;-sheet formation (i.e., maximum at 200 nm, minimum at 220 nm), whereas the spectrum of a solution containing mostly trimer and tetramer (dotted line) shows features typical for random-coil peptides (i.e., minimum at 200 nm, low ellipticity above 215 nm) (<xref ref-type="bibr" rid="R24"><italic>24</italic></xref>).</p>
+<p>Further evidence for the formation of &#x03B2;-sheet&#x2013;type structures in the samples dominated by hexamer and heptamer was obtained by fluorescence spectroscopy using thioflavin T. This dye exhibits an increased fluorescence when bound to peptides that form extended &#x03B2; sheets (i.e., amyloid fibers) (<xref ref-type="bibr" rid="R25"><italic>25</italic></xref>). Figure S2 shows fluorescence for hexamer and heptamer samples but not for a sample containing trimer and tetramer. We also used Congo red, which shows characteristic apple-green birefringence and a red shift in its UV/visible spectrum when bound to amyloid fibers (<xref ref-type="bibr" rid="R26"><italic>26</italic></xref>, <xref ref-type="bibr" rid="R27"><italic>27</italic></xref>), and observed both effects for samples of hexamer and heptamer (figs. S3 and S4). Additionally, samples of both hexamer and heptamer were examined by FTIR spectroscopy (fig. S5), and C=O absorbance bands were observed at 1634 cm<sup>&#x2212;1</sup> and 1627 cm<sup>&#x2212;1</sup>, respectively. These values are within the range expected for &#x03B2;-sheet peptides (<xref ref-type="bibr" rid="R28"><italic>28</italic></xref>).</p>
+<p>Indirect evidence for the importance of &#x03B2;-sheet formation in the production of hexamer and heptamer was obtained from a study of control peptide <bold>3</bold> (<xref ref-type="fig" rid="F1">Fig. 1A</xref>), which features the same &#x03B1;-amino-acid residues as <bold>1</bold> but in a different sequence. Building block <bold>3</bold> produced a mixture dominated by cyclic trimer and tetramer independent of the mode of agitation (fig. S6). The CD spectrum of this mixture resembles that of random-coil peptide (fig. S7). The absence of substantial amounts of hexamer or heptamer for this peptide indicates that formation of these large macrocycles requires a specific peptide sequence.</p>
+<p>Based on the evidence for &#x03B2;-sheet formation and the cryo-TEM images, we propose that the hexamer and heptamer self-organize as shown schematically for the hexamer in <xref ref-type="fig" rid="F2">Fig. 2D</xref>.</p>
+<p>The formation of fibers by the hexamer and heptamer may explain the mechanosensitivity (<xref ref-type="bibr" rid="R29"><italic>29</italic></xref>&#x2013;<xref ref-type="bibr" rid="R32"><italic>32</italic></xref>) observed during their formation. Indeed, it is known that the assembly and morphology of amyloid fibers can be influenced by mechanical energy (<xref ref-type="bibr" rid="R33"><italic>33</italic></xref>). Three phases can be distinguished during the growth of the hexamer or heptamer: an initial nucleation phase, a growth phase in which the concentration of these macrocycles increases exponentially, and a third phase in which the rate of growth levels off until most of the dithiol building block is consumed (<xref ref-type="fig" rid="F1">Fig. 1, F and G</xref>). It is likely that the fibers grow from their two ends. As long as sufficient monomer is available, this process would result in a constant rate of formation of hexamer or heptamer (linear growth). For hexamer and heptamer concentrations to increase exponentially, as observed, such simple growth from the fiber ends is not sufficient. More growing ends need to be generated as more hexamer or heptamer is being produced. This may be achieved by the breaking of fibers through mechanical agitation. Indeed, clear evidence was obtained that mechanical agitation induces fiber breakage. <xref ref-type="fig" rid="F3">Figure 3</xref> shows the length distributions determined by cryo-TEM of samples of hexamer and heptamer fibers, respectively, that were not agitated (A and D), stirred (B and E) or shaken (C and F). Cumulative length distributions are provided in fig. S8. These distributions indicate an increased degree of fragmentation upon agitation. The hexamer and heptamer fibers were fragmented to a comparable extent by stirring, whereas shaking appeared more efficient in fragmenting hexamer fibers than heptamer fibers.</p>
+<fig id="F3" position="float" fig-type="figure"><label>Fig. 3</label><caption><p>Distributions of the fiber lengths from cryo-TEM analysis of samples of hexamer (left) and heptamer (right) after (<bold>A</bold> and <bold>D</bold>) 48 hours without agitation, (<bold>B</bold> and <bold>E</bold>) stirring for 48 hours, and (<bold>C</bold> and <bold>F</bold>) shaking for 48 hours.</p>
+</caption>
+<graphic xlink:href="327_1502_F3"></graphic></fig>
+<p>Control experiments confirmed that the rate of seeded fiber growth is influenced by the number of fiber ends contained in the seed. We divided a seed solution dominated by hexamer fibers in three portions: One was shaken for 48 hours to induce fiber fragmentation, another was shaken for 48 hours and then sonicated for 5 min, and the third was not agitated. We then divided a nonagitated solution made from <bold>1</bold>&#x2014;containing, besides remaining thiols, mostly trimer and tetramer macrocycles&#x2014;into three portions. We seeded one portion with the shaken hexamer sample, the second with the sonicated sample, and the third with the nonagitated sample. Subsequent hexamer growth was faster in the samples containing the agitated and hence fragmented fibers, as compared with that containing the nonagitated seed (fig. S9).</p>
+<p>Shaking and stirring differ in the magnitude and localization of the induced shear stress. We estimate (<xref ref-type="bibr" rid="R23"><italic>23</italic></xref>) that the maximum shear stress produced by the rotating stir bar in our experiments is on the order of 3 &#x00D7; 10<sup>2</sup> Nm<sup>&#x2212;2</sup>, assuming that the stir bar is separated from the bottom of the vial by a layer of fluid with a thickness on the order of 1 &#x03BC;m (<xref ref-type="bibr" rid="R34"><italic>34</italic></xref>). In contrast, the maximum shear stress experienced by a fluid on the bottom of a cylinder undergoing orbital shaking under the conditions of our experiments is estimated to be on the order of 2 Nm<sup>&#x2212;2</sup> (<xref ref-type="bibr" rid="R23"><italic>23</italic></xref>). Although the maximum shear stress induced by shaking is substantially less than that induced by stirring, shaking can still be more efficient than stirring in fragmenting the hexamer fibers, because it acts on a larger fraction of the sample volume. The shearing upon stirring is localized in the small part of the solution between stir bar and vial bottom, rather than caused by bulk fluid dynamics, as evident from the following experiment: Three sample vials containing identical solutions of <bold>1</bold> were stacked on top of each other, each equipped with a stir bar and stirred on a magnetic stirrer. All three samples produced heptamer, but the rate of growth diminished with increasing distance from the stirrer plate (fig. S10). The rate of stirring in each sample was examined using a high-speed camera and was confirmed to be identical in the three samples, which must therefore exhibit comparable bulk fluid dynamics. The difference between the three samples is the force that pulls the magnet toward the bottom of the sample vial, reducing the average distance between stir bar and vial bottom, hence increasing local shear stress. Indeed, similar trends were observed when we compared how the force pulling the magnet to the bottom of the vial and the apparent rate constant for the exponential phase of heptamer growth depend on the distance between stir bar and stir plate (fig. S11).</p>
+<p>To further investigate the link between agitation and product selectivity (i.e., hexamer formation upon shaking and heptamer formation upon stirring), we performed a series of competition experiments in which the hexamer and heptamer competed for building block <bold>1</bold> under a variety of agitation conditions. In these experiments, the nucleation phase was bypassed by adding equal amounts of hexamer and heptamer to a solution that contained mostly trimer and tetramer. These experiments were set up using three different agitation modes&#x2014;shaking, stirring, and no agitation&#x2014;and the compositions of the samples were monitored over time using LC-MS. The results (<xref ref-type="fig" rid="F4">Fig. 4</xref>) show that once present, the heptamer is able to propagate even in the absence of agitation, that is, when fragmentation plays a reduced role in fiber growth (<xref ref-type="fig" rid="F4">Fig. 4A</xref>). The absence of substantial hexamer growth in the same sample indicates that the growth of pre-existing fibers is faster for the heptamer than for the hexamer under these conditions. Heptamer growth is even more efficient when the sample is stirred (<xref ref-type="fig" rid="F4">Fig. 4B</xref>). The heptamer out-competes the hexamer under both of these conditions, and only shaking allows the hexamer to grow at a competitive rate (<xref ref-type="fig" rid="F4">Fig. 4C</xref>). This final observation is consistent with shaking being more efficient than the other agitation conditions in causing the breakage of fibers of the hexamer (<xref ref-type="fig" rid="F3">Fig. 3</xref>). The data in <xref ref-type="fig" rid="F4">Fig. 4B</xref> show that fibers of hexamer, when subject to stirring, are not consumed and converted to heptamer. The same conclusion was reached in a separate experiment in which a solution made from <bold>1</bold> was seeded with only hexamer and subjected to different agitation conditions (fig. S12). Similarly, <xref ref-type="fig" rid="F4">Fig. 4C</xref> shows that fibers of heptamer persist when shaken. These observations suggest that the selectivity in forming the larger macrocycles is kinetically determined during the fiber growth process. Depending on the history of the sample (shaking, stirring, or no agitation), we obtained hexamer, heptamer, or a mixture of trimer and tetramer, respectively. No subsequent change of any of these samples to produce some common thermodynamically controlled distribution could be observed even after 3 months without agitation.</p>
+<fig id="F4" position="float" fig-type="figure"><label>Fig. 4</label><caption><p>Growth curves for <bold>1<sub>6</sub></bold> (circles) and <bold>1<sub>7</sub></bold> (squares) from three solutions seeded at <italic>t</italic> = 0 with a mixture of hexamer and heptamer (5 mol % of each) and subjected to different agitation conditions: (<bold>A</bold>) no agitation, (<bold>B</bold>) stirring at 1200 rpm, and (<bold>C</bold>) shaking at 1200 rpm.</p>
+</caption>
+<graphic xlink:href="327_1502_F4"></graphic></fig>
+<p>The above data support a model for mechanosensitive fiber growth that involves two processes: elongation of fibers (i.e., linear growth) and breakage of fibers to produce more growing ends (which enables exponential growth). It is clear that fiber breakage through mechanical force is critical to the formation of substantial quantities of fibers, because in the absence of mechanical force no fibers of hexamer or heptamer could be observed. The outcome of the competition between hexamer and heptamer is primarily determined by differences in their exponential growth rates, that is, by differences in the efficiency of fiber fragmentation. However, when the two competing fiber populations possess comparable rates of fragmentation, the outcome can instead be determined by the relative efficiencies of their linear growth processes. Under stirring conditions, the hexamer and the heptamer fibers are fragmented to a comparable degree (<xref ref-type="fig" rid="F3">Fig. 3</xref>). The heptamer dominates, however, because this compound is more efficient at elongating its fibers through linear growth (as evident from <xref ref-type="fig" rid="F4">Fig. 4A</xref>). Shaking is more effective at fragmenting hexamer fibers than heptamer fibers (<xref ref-type="fig" rid="F3">Fig. 3</xref>); hence, we obtain hexamer under these conditions. The greater susceptibility of the hexamer to fragmentation upon shaking can be rationalized, as the macrocycles in the hexamer fibers are able to form fewer &#x03B2; sheets than those in the heptamer fibers.</p>
+<p>The observation that hexamer (or heptamer) accelerates the formation of more of the like-sized macrocycle may be explained by the fibers acting as kinetic traps: Through the incorporation of hexamer or heptamer into fibers, their re-equilibration into different macrocycle sizes is inhibited and the overall distribution is shifted increasingly to the macrocycle size residing in the fibers. We cannot exclude the possibility that the fiber ends also actively accelerate the formation of like-sized macrocycles through an autocatalytic templating effect.</p>
+<p>The implication of our results for dynamic combinatorial chemistry is that this technique need not be limited to exploring the thermodynamic minima of molecular networks; kinetic control can dominate, provided that the noncovalent interactions are sufficiently strong and/or numerous. Our results further show that it is possible to obtain kinetic products from an assembly process where all the individual steps (covalent disulfide exchange and noncovalent peptide-peptide interactions) are reversible. Such a transition from thermodynamically controlled self-assembly to kinetic control must have been an important step in the origin of life, as life is far from equilibrium (<xref ref-type="bibr" rid="R35"><italic>35</italic></xref>). Finally, our approach represents a promising method for the discovery of self-synthesizing materials in general and noncovalent polymers in particular (<xref ref-type="bibr" rid="R36"><italic>36</italic></xref>).</p>
+</body>
+<back>
+<app-group>
+<app>
+<title>Supporting Online Material</title>
+<supplementary-material>
+<p><ext-link ext-link-type="uri" xlink:href="http://www.sciencemag.org/cgi/content/full/327/5972/1502/DC1">www.sciencemag.org/cgi/content/full/327/5972/1502/DC1</ext-link></p>
+<p>Materials and Methods</p>
+<p>Figs. S1 to S12</p>
+<p>References</p>
+</supplementary-material></app></app-group>
+<ref-list>
+<title>References and Notes</title>
+<ref id="R1"><label>1</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Orgel</surname><given-names>L. E.</given-names></name></person-group>, 
+<article-title>Molecular replication.</article-title> 	
+<source>Nature</source> 
+<volume>358</volume>, 
+<fpage>203</fpage> (<year>1992</year>). 
+<pub-id pub-id-type="doi">10.1038/358203a0</pub-id>
+<pub-id pub-id-type="pmid">1630488</pub-id></citation></ref>
+<ref id="R2"><label>2</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Orgel</surname><given-names>L. E.</given-names></name></person-group>, 
+<article-title>Unnatural selection in chemical systems.</article-title> 
+<source>Acc. Chem. Res.</source> 
+<volume>28</volume>, 
+<fpage>109</fpage> (<year>1995</year>). 
+<pub-id pub-id-type="doi">10.1021/ar00051a004</pub-id>
+<pub-id pub-id-type="pmid">11542502</pub-id></citation></ref>
+<ref id="R3"><label>3</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Szathm&#x00E1;ry</surname><given-names>E.</given-names></name><name><surname>Maynard Smith</surname><given-names>J.</given-names></name></person-group>, 
+<article-title>From replicators to reproducers: The first major transitions leading to life.</article-title> 
+<source>J. Theor. Biol.</source> 
+<volume>187</volume>, 
+<fpage>555</fpage> (<year>1997</year>). 
+<pub-id pub-id-type="doi">10.1006/jtbi.1996.0389</pub-id>
+<pub-id pub-id-type="pmid">9299299</pub-id></citation></ref>
+<ref id="R4"><label>4</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>von Kiedrowski</surname><given-names>G.</given-names></name></person-group>, 
+<article-title>A self-replicating hexadeoxynucleotide.</article-title> 
+<source>Angew. Chem. Int. Ed. Engl.</source> 
+<volume>25</volume>, 
+<fpage>932</fpage> (<year>1986</year>). 
+<pub-id pub-id-type="doi">10.1002/anie.198609322</pub-id></citation></ref>
+<ref id="R5"><label>5</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>von Kiedrowski</surname><given-names>G.</given-names></name><name><surname>Wlotzka</surname><given-names>B.</given-names></name><name><surname>Helbing</surname><given-names>J.</given-names></name><name><surname>Matzen</surname><given-names>M.</given-names></name><name><surname>Jordan</surname><given-names>S.</given-names></name></person-group>, 
+<article-title>Parabolic growth of a self-replicating hexadeoxynucleotide bearing a 3&#x2032;-5&#x2032;-phosphoamidate linkage.</article-title> 
+<source>Angew. Chem. Int. Ed. Engl.</source> 
+<volume>30</volume>, 
+<fpage>423</fpage> (<year>1991</year>). 
+<pub-id pub-id-type="doi">10.1002/anie.199104231</pub-id></citation></ref>
+<ref id="R6"><label>6</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Paul</surname><given-names>N.</given-names></name><name><surname>Joyce</surname><given-names>G. F.</given-names></name></person-group>, 
+<article-title>A self-replicating ligase ribozyme.</article-title> 
+<source>Proc. Natl. Acad. Sci. U.S.A.</source> 
+<volume>99</volume>, 
+<fpage>12733</fpage> (<year>2002</year>). 
+<pub-id pub-id-type="doi">10.1073/pnas.202471099</pub-id>
+<pub-id pub-id-type="pmid">12239349</pub-id></citation></ref>
+<ref id="R7"><label>7</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Lee</surname><given-names>D. H.</given-names></name><name><surname>Granja</surname><given-names>J. R.</given-names></name><name><surname>Martinez</surname><given-names>J. A.</given-names></name><name><surname>Severin</surname><given-names>K.</given-names></name><name><surname>Ghadri</surname><given-names>M. R.</given-names></name></person-group>, 
+<article-title>A self-replicating peptide.</article-title> 
+<source>Nature</source> 
+<volume>382</volume>, 
+<fpage>525</fpage> (<year>1996</year>). 
+<pub-id pub-id-type="doi">10.1038/382525a0</pub-id>
+<pub-id pub-id-type="pmid">8700225</pub-id></citation></ref>
+<ref id="R8"><label>8</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Yao</surname><given-names>S.</given-names></name><name><surname>Ghosh</surname><given-names>I.</given-names></name><name><surname>Zutshi</surname><given-names>R.</given-names></name><name><surname>Chmielewski</surname><given-names>J.</given-names></name></person-group>, 
+<article-title>A pH-modulated, self-replicating peptide.</article-title> 
+<source>J. Am. Chem. Soc.</source> 
+<volume>119</volume>, 
+<fpage>10559</fpage> (<year>1997</year>). 
+<pub-id pub-id-type="doi">10.1021/ja9710619</pub-id></citation></ref>
+<ref id="R9"><label>9</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Vidonne</surname><given-names>A.</given-names></name><name><surname>Philp</surname><given-names>D.</given-names></name></person-group>, 
+<article-title>Making molecules make themselves: The chemistry of artificial replicators.</article-title> 
+<source>Eur. J. Org. Chem.</source> 
+<volume>2009</volume>, 
+<fpage>593</fpage> (<year>2009</year>). 
+<pub-id pub-id-type="doi">10.1002/ejoc.200800827</pub-id></citation></ref>
+<ref id="R10"><label>10</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Tjivikua</surname><given-names>T.</given-names></name><name><surname>Ballester</surname><given-names>P.</given-names></name><name><surname>Rebek</surname><given-names>J.</given-names></name></person-group>, 
+<article-title>Self-replicating system.</article-title> 
+<source>J. Am. Chem. Soc.</source> 
+<volume>112</volume>, 
+<fpage>1249</fpage> (<year>1990</year>). 
+<pub-id pub-id-type="doi">10.1021/ja00159a057</pub-id></citation></ref>
+<ref id="R11"><label>11</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Rotello</surname><given-names>V.</given-names></name><name><surname>Hong</surname><given-names>J. I.</given-names></name><name><surname>Rebek</surname><given-names>J.</given-names></name></person-group>, 
+<article-title>Sigmoidal growth in a self-replicating system.</article-title> 
+<source>J. Am. Chem. Soc.</source> 
+<volume>113</volume>, 
+<fpage>9422</fpage> (<year>1991</year>). 
+<pub-id pub-id-type="doi">10.1021/ja00024a089</pub-id></citation></ref>
+<ref id="R12"><label>12</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>B.</given-names></name><name><surname>Sutherland</surname><given-names>I. O.</given-names></name></person-group>, 
+<article-title>Self-replication in a Diels-Alder reaction.</article-title> 
+<source>Chem. Commun. (Camb.)</source> 
+<volume>16</volume>, 
+<fpage>1495</fpage> (<year>1997</year>). 
+<pub-id pub-id-type="doi">10.1039/a701573i</pub-id></citation></ref>
+<ref id="R13"><label>13</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Pieters</surname><given-names>R. J.</given-names></name><name><surname>Huc</surname><given-names>I.</given-names></name><name><surname>Rebek</surname><given-names>J.</given-names></name></person-group>, 
+<article-title>Reciprocal template effects in a replication cycle.</article-title> 
+<source>Angew. Chem. Int. Ed. Engl.</source> 
+<volume>33</volume>, 
+<fpage>1579</fpage> (<year>1994</year>). 
+<pub-id pub-id-type="doi">10.1002/anie.199415791</pub-id></citation></ref>
+<ref id="R14"><label>14</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Lee</surname><given-names>D. H.</given-names></name><name><surname>Severin</surname><given-names>K.</given-names></name><name><surname>Yokobayashi</surname><given-names>Y.</given-names></name><name><surname>Ghadiri</surname><given-names>M. R.</given-names></name></person-group>, 
+<article-title>Emergence of symbiosis in peptide self-replication through a hypercyclic network.</article-title> 
+<source>Nature</source> 
+<volume>390</volume>, 
+<fpage>591</fpage> (<year>1997</year>). 
+<pub-id pub-id-type="doi">10.1038/37569</pub-id>
+<pub-id pub-id-type="pmid">9403686</pub-id></citation></ref>
+<ref id="R15"><label>15</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Corbett</surname><given-names>P. T.</given-names></name><etal /></person-group>., 
+<article-title>Dynamic combinatorial chemistry.</article-title> 
+<source>Chem. Rev.</source> 
+<volume>106</volume>, 
+<fpage>3652</fpage> (<year>2006</year>). 
+<pub-id pub-id-type="doi">10.1021/cr020452p</pub-id>
+<pub-id pub-id-type="pmid">16967917</pub-id></citation></ref>
+<ref id="R16"><label>16</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Xu</surname><given-names>S.</given-names></name><name><surname>Giuseppone</surname><given-names>N.</given-names></name></person-group>, 
+<article-title>Self-duplicating amplification in a dynamic combinatorial library.</article-title> 
+<source>J. Am. Chem. Soc.</source> 
+<volume>130</volume>, 
+<fpage>1826</fpage> (<year>2008</year>). 
+<pub-id pub-id-type="doi">10.1021/ja710248q</pub-id>
+<pub-id pub-id-type="pmid">18211071</pub-id></citation></ref>
+<ref id="R17"><label>17</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Nguyen</surname><given-names>R.</given-names></name><name><surname>Allouche</surname><given-names>L.</given-names></name><name><surname>Buhler</surname><given-names>E.</given-names></name><name><surname>Giuseppone</surname><given-names>N.</given-names></name></person-group>, 
+<article-title>Dynamic combinatorial evolution within self-replicating supramolecular assemblies.</article-title> 
+<source>Angew. Chem. Int. Ed.</source> 
+<volume>48</volume>, 
+<fpage>1093</fpage> (<year>2009</year>). 
+<pub-id pub-id-type="doi">10.1002/anie.200804602</pub-id></citation></ref>
+<ref id="R18"><label>18</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Sadownik</surname><given-names>J. W.</given-names></name><name><surname>Philp</surname><given-names>D.</given-names></name></person-group>, 
+<article-title>A simple synthetic replicator amplifies itself from a dynamic reagent pool.</article-title> 
+<source>Angew. Chem. Int. Ed.</source> 
+<volume>47</volume>, 
+<fpage>9965</fpage> (<year>2008</year>). 
+<pub-id pub-id-type="doi">10.1002/anie.200804223</pub-id></citation></ref>
+<ref id="R19"><label>19</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Williams</surname><given-names>R. J.</given-names></name><etal /></person-group>., 
+<article-title>Enzyme-assisted self-assembly under thermodynamic control.</article-title> 
+<source>Nat. Nanotechnol.</source> 
+<volume>4</volume>, 
+<fpage>19</fpage> (<year>2009</year>). 
+<pub-id pub-id-type="doi">10.1038/nnano.2008.378</pub-id>
+<pub-id pub-id-type="pmid">19119277</pub-id></citation></ref>
+<ref id="R20"><label>20</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>DeGrado</surname><given-names>W. F.</given-names></name><name><surname>Lear</surname><given-names>J. D.</given-names></name></person-group>, 
+<article-title>Induction of peptide conformation at apolar water interfaces. 1. A study with model peptides of defined hydrophobic periodicity.</article-title> 
+<source>J. Am. Chem. Soc.</source> 
+<volume>107</volume>, 
+<fpage>7684</fpage> (<year>1985</year>). 
+<pub-id pub-id-type="doi">10.1021/ja00311a076</pub-id></citation></ref>
+<ref id="R21"><label>21</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Krishnan-Ghosh</surname><given-names>Y.</given-names></name><name><surname>Balasubramanian</surname><given-names>S.</given-names></name></person-group>, 
+<article-title>Dynamic covalent chemistry on self-templating peptides: Formation of a disulfide-linked &#x03B2;-hairpin mimic.</article-title> 
+<source>Angew. Chem. Int. Ed.</source> 
+<volume>42</volume>, 
+<fpage>2171</fpage> (<year>2003</year>). 
+<pub-id pub-id-type="doi">10.1002/anie.200250551</pub-id></citation></ref>
+<ref id="R22"><label>22</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Otto</surname><given-names>S.</given-names></name><name><surname>Furlan</surname><given-names>R. L. E.</given-names></name><name><surname>Sanders</surname><given-names>J. K. M.</given-names></name></person-group>, 
+<article-title>Dynamic combinatorial libraries of macrocyclic disulfides in water.</article-title> 
+<source>J. Am. Chem. Soc.</source> 
+<volume>122</volume>, 
+<fpage>12063</fpage> (<year>2000</year>). 
+<pub-id pub-id-type="doi">10.1021/ja005507o</pub-id></citation></ref>
+<ref id="R23">
+<note><label>23</label><p>Materials and methods are available as supporting material on <italic>Science</italic> Online.</p>
+</note></ref>
+<ref id="R24"><label>24</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Greenfield</surname><given-names>N. J.</given-names></name></person-group>, 
+<article-title>Using circular dichroism spectra to estimate protein secondary structure.</article-title> 
+<source>Nat. Protoc.</source> 
+<volume>1</volume>, 
+<fpage>2876</fpage> (<year>2007</year>). 
+<pub-id pub-id-type="doi">10.1038/nprot.2006.202</pub-id>
+<pub-id pub-id-type="pmid">17406547</pub-id></citation></ref>
+<ref id="R25"><label>25</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>LeVine</surname><given-names>H.</given-names></name></person-group>,  III, 
+<article-title>Thioflavine T interaction with synthetic Alzheimer&#x2019;s disease beta-amyloid peptides: Detection of amyloid aggregation in solution.</article-title> 
+<source>Protein Sci.</source> 
+<volume>2</volume>, 
+<fpage>404</fpage> (<year>1993</year>).
+<pub-id pub-id-type="pmid">8453378</pub-id></citation></ref>
+<ref id="R26"><label>26</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Puchtler</surname><given-names>H.</given-names></name><name><surname>Sweat</surname><given-names>F.</given-names></name><name><surname>Levine</surname><given-names>M.</given-names></name></person-group>, 
+<article-title>On the binding of Congo red by amyloid.</article-title> 
+<source>J. Histochem. Cytochem.</source> 
+<volume>10</volume>, 
+<fpage>355</fpage> (<year>1962</year>).</citation></ref>
+<ref id="R27"><label>27</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Klunk</surname><given-names>W. E.</given-names></name><name><surname>Pettegrew</surname><given-names>J. W.</given-names></name><name><surname>Abraham</surname><given-names>D. J.</given-names></name></person-group>, 
+<article-title>Quantitative evaluation of congo red binding to amyloid-like proteins with a beta-pleated sheet conformation.</article-title> 
+<source>J. Histochem. Cytochem.</source> 
+<volume>37</volume>, 
+<fpage>1273</fpage> (<year>1989</year>).
+<pub-id pub-id-type="pmid">2666510</pub-id></citation></ref>
+<ref id="R28"><label>28</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Kong</surname><given-names>J.</given-names></name><name><surname>Yu</surname><given-names>S.</given-names></name></person-group>, 
+<article-title>Fourier transform infrared spectroscopic analysis of protein secondary structures.</article-title> 
+<source>Acta Biochim. Biophys. Sin. (Shanghai)</source> 
+<volume>39</volume>, 
+<fpage>549</fpage> (<year>2007</year>). 
+<pub-id pub-id-type="doi">10.1111/j.1745-7270.2007.00320.x</pub-id>
+<pub-id pub-id-type="pmid">17687489</pub-id></citation></ref>
+<ref id="R29">
+<note><label>29</label><p>Reports of molecular systems whose mechanosensitivity affects defined covalent transformations are rare. For examples of such systems, see (<xref ref-type="bibr" rid="R30"><italic>30</italic></xref>&#x2013;<xref ref-type="bibr" rid="R32"><italic>32</italic></xref>).</p>
+</note></ref>
+<ref id="R30"><label>30</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Hickenboth</surname><given-names>C. R.</given-names></name><etal /></person-group>., 
+<article-title>Biasing reaction pathways with mechanical force.</article-title> 
+<source>Nature</source> 
+<volume>446</volume>, 
+<fpage>423</fpage> (<year>2007</year>). 
+<pub-id pub-id-type="doi">10.1038/nature05681</pub-id>
+<pub-id pub-id-type="pmid">17377579</pub-id></citation></ref>
+<ref id="R31"><label>31</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Davis</surname><given-names>D. A.</given-names></name><etal /></person-group>., 
+<article-title>Force-induced activation of covalent bonds in mechanoresponsive polymeric materials.</article-title> 
+<source>Nature</source> 
+<volume>459</volume>, 
+<fpage>68</fpage> (<year>2009</year>). 
+<pub-id pub-id-type="doi">10.1038/nature07970</pub-id>
+<pub-id pub-id-type="pmid">19424152</pub-id></citation></ref>
+<ref id="R32"><label>32</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Piermattei</surname><given-names>A.</given-names></name><name><surname>Karthikeyan</surname><given-names>S.</given-names></name><name><surname>Sijbesma</surname><given-names>R. P.</given-names></name></person-group>, 
+<article-title>Activating catalysts with mechanical force.</article-title> 
+<source>Nat. Chem.</source> 
+<volume>1</volume>, 
+<fpage>133</fpage> (<year>2009</year>). 
+<pub-id pub-id-type="doi">10.1038/nchem.167</pub-id></citation></ref>
+<ref id="R33"><label>33</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Petkova</surname><given-names>A. T.</given-names></name><etal /></person-group>., 
+<article-title>Self-propagating, molecular-level polymorphism in Alzheimer&#x2019;s&#x00A0;amyloid fibrils.</article-title> 
+<source>Science</source> 
+<volume>307</volume>, 
+<fpage>262</fpage> (<year>2005</year>). 
+<pub-id pub-id-type="doi">10.1126/science.1105850</pub-id></citation></ref>
+<ref id="R34">
+<note><label>34</label><p>This estimate is based on the typical thickness of a layer of lubricant between sliding nonconformal contacts. See (<xref ref-type="bibr" rid="R37"><italic>37</italic></xref>).</p>
+</note></ref>
+<ref id="R35"><label>35</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Pross</surname><given-names>A.</given-names></name></person-group>, 
+<article-title>The driving force for life&#x2019;s emergence: Kinetic and thermodynamic considerations.</article-title> 
+<source>J. Theor. Biol.</source> 
+<volume>220</volume>, 
+<fpage>393</fpage> (<year>2003</year>). 
+<pub-id pub-id-type="doi">10.1006/jtbi.2003.3178</pub-id>
+<pub-id pub-id-type="pmid">12468287</pub-id></citation></ref>
+<ref id="R36"><label>36</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Brunsveld</surname><given-names>L.</given-names></name><name><surname>Folmer</surname><given-names>B. J. B.</given-names></name><name><surname>Meijer</surname><given-names>E. W.</given-names></name><name><surname>Sijbesma</surname><given-names>R. P.</given-names></name></person-group>, 
+<article-title>Supramolecular polymers.</article-title> 
+<source>Chem. Rev.</source> 
+<volume>101</volume>, 
+<fpage>4071</fpage> (<year>2001</year>). 
+<pub-id pub-id-type="doi">10.1021/cr990125q</pub-id>
+<pub-id pub-id-type="pmid">11740927</pub-id></citation></ref>
+<ref id="R37"><label>37</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Dwyer-Joyce</surname><given-names>R. S.</given-names></name><name><surname>Drinkwater</surname><given-names>B. W.</given-names></name><name><surname>Donohoe</surname><given-names>C. J.</given-names></name></person-group>, 
+<article-title>The measurement of lubricant-film thickness using ultrasound.</article-title> 
+<source>Proc. R. Soc. Lond. A</source> 
+<volume>459</volume>, 
+<fpage>957</fpage> (<year>2003</year>). 
+<pub-id pub-id-type="doi">10.1098/rspa.2002.1018</pub-id></citation></ref></ref-list>
+<ack><label>38</label>
+<p>We thank J. K. M. Sanders and J. B. F. N. Engberts for critical reading of the manuscript and C. M. Dobson for useful discussions. This research has been supported by the Engineering and Physical Sciences Research Council, the Royal Society, the Dynamic Combinatorial Chemistry Marie-Curie Research Training Network, and Cooperation in Science and Technology (COST) CM0703.</p>
+</ack></back>
+</article>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="letter" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML"><front>
+<journal-meta><journal-id journal-id-type="publisher-id">SCIENCE</journal-id><journal-title>Science</journal-title><abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title><issn pub-type="ppub">0036-8075</issn><issn pub-type="epub">1095-9203</issn>
+<publisher>
+<publisher-name>American Association for the Advancement of Science</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta><article-categories>
+<subj-group subj-group-type="article-type"><subject>Letter</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Letters</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>letters</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Unlocking the Door to Better Cybersecurity</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="editor"><name><surname>Sills</surname><given-names>Jennifer</given-names></name></contrib>
+<contrib contrib-type="author" corresp="yes"><name><surname>Wong</surname><given-names>Angus K. Y.</given-names></name></contrib>
+<aff id="aff1">Macao Polytechnic Institute, Rua de Luis Gonzaga Gomes, Macao.</aff>
+</contrib-group>
+<author-notes>
+<corresp>E-mail: <email>kywong@ipm.edu.mo</email></corresp>
+</author-notes><pub-date pub-type="ppub">
+<day>19</day>
+<month>03</month>
+<year>2010</year>
+</pub-date><volume>327</volume><issue>5972</issue><fpage seq="a">1451</fpage><lpage>1451</lpage><permissions>
+<copyright-statement>Copyright &#x00A9; 2010, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2010</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<self-uri xlink:title="pdf" xlink:href="letters.pdf" /></article-meta>
+</front>
+<body>
+<fig id="F1" position="float"><graphic xlink:href="327_1451a_F1" />
+<attrib>CREDIT: <ext-link ext-link-type="uri" xlink:href="http://ISTOCKPHOTOS.COM">ISTOCKPHOTOS.COM</ext-link></attrib>
+</fig>
+<p>In their Perspective (&#x201C;Reflections on cybersecurity,&#x201D; 13 November 2009, p. <related-article related-article-type="in-this-publication" vol="326" page="943" issue="5955">943</related-article>), W. A. Wulf and A. K. Jones claim that the perimeter defense model does not work. I agree with them that a perimeter has limitations. However, just as a lock on a front door is useful even though it can be broken, perimeters provide good, albeit imperfect, protection.</p>
+<p>Wulf and Jones propose an alternative approach in which a minimal mechanism enables multiple end-to-end security protocols. However, the reliance of the security of a communication solely on the end-to-end security protocols is dangerous, because if the protocols were to be broken, the communication would also be broken. The Transport Layer Security (TLS) protocol is one such example; it has been used for over a decade but was just recently discovered to have security flaws, permitting an attacker to inject data in an authenticated session (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>). Using multiple security protocols leads to the same problem. Moreover, using the public key for all objects in cyberspace is practically infeasible. Finally, cyber attacks include denial of service, and prevention of this type of attack is still very difficult, irrespective of how secure the end-to-end protocols are.</p>
+<p>I believe that to ensure security in the cyberspace, multiple mechanisms should be used, including perimeter defense, intrusion detection, and application-defined security. This concept is analogous to a treasury with a locked gate, surveillance equipment, and a guard who can identify authorized persons.</p>
+</body>
+<back>
+<ref-list>
+<title>Reference</title>
+<ref id="R1">
+<label>1</label>
+<citation citation-type="web">
+<collab collab-type="author">U.S. Department of Homeland Security, United States Computer Emergency Readiness Team</collab>, <comment>Vulnerability Note VU#120541</comment>, <article-title>&#x201C;SSL and TLS protocols renegotiation vulnerability&#x201D;</article-title> (<ext-link ext-link-type="uri" xlink:href="http://www.kb.cert.org/vuls/id/120541">www.kb.cert.org/vuls/id/120541</ext-link>).</citation>
+</ref>
+</ref-list>
+</back>
+</article>

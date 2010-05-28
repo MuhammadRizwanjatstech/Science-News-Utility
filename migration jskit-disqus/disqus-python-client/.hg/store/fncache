@@ -1,0 +1,13 @@
+data/.hgignore.i
+data/README.i
+data/disqus/__init__.py.i
+data/disqus/tlslite/__init__.py.i
+data/disqus/tlslite/utils/__init__.py.i
+data/disqus/tlslite/utils/dateFuncs.py.i
+data/ez_setup.py.i
+data/setup.cfg.i
+data/setup.py.i
+data/src/disqus/__init__.py.i
+data/src/tlslite/__init__.py.i
+data/src/tlslite/utils/__init__.py.i
+data/src/tlslite/utils/dateFuncs.py.i

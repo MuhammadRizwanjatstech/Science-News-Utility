@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="research-article" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title><issn pub-type="ppub">0036-8075</issn><issn pub-type="epub">1095-9203</issn>
+<publisher><publisher-name>American Association for the Advancement of Science</publisher-name></publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">1186091</article-id>
+<article-id pub-id-type="doi">10.1126/science.1186091</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>Report</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Reports</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>reports</subject></subj-group>
+<subj-group subj-group-type="field"><subject>APP PHYSICS</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Eliminating Turbulence in Spatially Intermittent Flows</article-title>
+</title-group>
+<contrib-group><contrib contrib-type="author" corresp="yes"><name><surname>Hof</surname><given-names>Bj&#x00F6;rn</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="corresp" rid="cor1">*</xref></contrib><contrib contrib-type="author"><name><surname>de Lozar</surname><given-names>Alberto</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib><contrib contrib-type="author"><name><surname>Avila</surname><given-names>Marc</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib><contrib contrib-type="author"><name><surname>Tu</surname><given-names>Xiaoyun</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="fn" rid="afn1">&#x2020;</xref></contrib><contrib contrib-type="author"><name><surname>Schneider</surname><given-names>Tobias M.</given-names></name><xref ref-type="aff" rid="aff2"><sup>2</sup></xref></contrib>
+<aff id="aff1"><label>1</label>Max Planck Institute for Dynamics and Self-Organisation, Bunsenstrasse 10, 37073 G&#x00F6;ttingen, Germany.</aff>
+<aff id="aff2"><label>2</label>School of Engineering and Applied Sciences, Harvard University, 29 Oxford Street, Cambridge, MA 02138, USA.</aff></contrib-group>
+<author-notes>
+<corresp id="cor1"><label>*</label>To whom correspondence should be addressed. E-mail: 
+<email xlink:href="bhof@gwdg.de">bhof@gwdg.de</email></corresp>
+<fn id="afn1"><label>&#x2020;</label><p>Present address: LaVision GmbH, 37081 G&#x00F6;ttingen, Germany.</p>
+</fn></author-notes>
+<pub-date pub-type="ppub"><day>19</day><month>03</month><year>2010</year></pub-date>
+<volume>327</volume>
+<issue>5972</issue>
+<fpage>1491</fpage>
+<lpage>1494</lpage>
+<history><date date-type="received"><day>17</day><month>12</month><year>2009</year></date><date date-type="accepted"><day>04</day><month>02</month><year>2010</year></date></history>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2010, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2010</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder></permissions>
+<abstract abstract-type="editor"><title>Taming Turbulence</title><p>When fluid flows through a pipe, if the inertial forces are increased or the viscosity is decreased, the flow will become increasing noisy and will shift from being laminar to turbulent. Turbulence can be triggered by roughness in the pipe or other irregularities, which cause local eddies that grow into full-scale disruption of the otherwise smooth flow. <bold>Hof <italic>et al.</italic></bold> (p. <related-article related-article-type="in-this-issue" vol="327" page="1491">1491</related-article>; see the Perspective by <bold><related-article related-article-type="in-this-issue" vol="327" page="1462" issue="5972">McKeon</related-article></bold>) show that a continuous turbulent eddy, downstream, eliminates the growth of upstream disturbances and can prevent the overall flow from becoming turbulent. Unlike many other control methods, the energy cost for implementing this strategy is less than the benefit gained by maintaining a laminar flow.</p></abstract>
+<abstract abstract-type="teaser"><p>Injection of jets of water is used to control the transition from laminar to turbulent flow in pipes.</p></abstract>
+<abstract>
+<p>Flows through pipes and channels are the most common means to transport fluids in practical applications and equally occur in numerous natural systems. In general, the transfer of fluids is energetically far more efficient if the motion is smooth and laminar because the friction losses are lower. However, even at moderate velocities pipe and channel flows are sensitive to minute disturbances, and in practice most flows are turbulent. Investigating the motion and spatial distribution of vortices, we uncovered an amplification mechanism that constantly feeds energy from the mean shear into turbulent eddies. At intermediate flow rates, a simple control mechanism suffices to intercept this energy transfer by reducing inflection points in the velocity profile. When activated, an immediate collapse of turbulence is observed, and the flow relaminarizes.</p>
+</abstract>
+<custom-meta-wrap><custom-meta><meta-name>Editor</meta-name><meta-value>Marc Lavine</meta-value></custom-meta><custom-meta><meta-name>Copyeditor</meta-name><meta-value>Chris Filiatreau</meta-value></custom-meta></custom-meta-wrap>
+</article-meta>
+</front>
+<body>
+<p>At low velocities, the motion of fluids is well ordered and takes the form of parallel layers that progress downstream without mixing. Once flow rates are sufficiently large, however, this laminar flow gives way to highly disordered turbulent dynamics. The likelihood of a flow to be turbulent can be estimated from the Reynolds (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>) number Re = <italic>&#x016A;D</italic>/<italic>v</italic>, which is a measure of the ratio of inertial to viscous forces [<italic>&#x016A;</italic> and <italic>D</italic> (the pipe diameter) are a typical velocity and length scale of the flow, respectively, and <italic>v</italic> is the kinematic viscosity of the fluid (<xref ref-type="bibr" rid="R2"><italic>2</italic></xref>)]. Consequently, large-scale flows with high velocities (such as wind gusts or ocean currents) are strongly turbulent, whereas flows at low velocities or on small scales are laminar. For turbulence to arise, an instability mechanism is required that transfers kinetic energy from the mean flow into eddies and cross flows. For convective or rotating systems, such instabilities can often be directly deduced from the linearized governing equations. However, for many shear flows (such as pipe, duct, or channel flows) the same approach has failed to predict the experimentally observed transition to turbulence (<xref ref-type="bibr" rid="R3"><italic>3</italic></xref>&#x2013;<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>). It has been shown that the transition process strongly depends on the magnitude of perturbations (<xref ref-type="bibr" rid="R6"><italic>6</italic></xref>&#x2013;<xref ref-type="bibr" rid="R9"><italic>9</italic></xref>), but a detailed understanding of the underlying energy transfer mechanism is still lacking.</p>
+<p>In natural and industrial processes, turbulence can have unfavorable and even detrimental effects, so means of suppressing the accompanying erratic velocity and pressure fluctuations have important practical implications. The energy dissipation and skin friction of turbulent flows are much larger than those of laminar ones, and consequently the fluid transport is far less efficient if flows are turbulent. Particularly large pressure and shear stress fluctuations occur in the transitional regime, in which the flow switches intermittently between turbulence and laminar. This erratic dynamical behavior can lead to increased structural vibrations (<xref ref-type="bibr" rid="R10"><italic>10</italic></xref>) and the damaging of equipment; in the case of arterial blood flows, this behavior is believed to be one cause for the growth and ultimately the rupture of aneurysms (<xref ref-type="bibr" rid="R11"><italic>11</italic></xref>, <xref ref-type="bibr" rid="R12"><italic>12</italic></xref>). For shear flows, a number of active and passive control strategies (<xref ref-type="bibr" rid="R13"><italic>13</italic></xref>&#x2013;<xref ref-type="bibr" rid="R18"><italic>18</italic></xref>) have been suggested in the past in an effort to reduce the turbulent drag toward its laminar value. Although many of the concepts are very promising and locally lead to a drag reduction, the control costs are typically much higher than the energy gain, and to our knowledge none have led to a complete relaminarization of turbulence in practice. Evidence that such a transition from turbulent to laminar flow may even be achieved at minimal energy cost was found in recent studies (<xref ref-type="bibr" rid="R19"><italic>19</italic></xref>, <xref ref-type="bibr" rid="R20"><italic>20</italic></xref>) that surprisingly show turbulence can decay after extremely long times. These observations suggest that the turbulent and laminar states may remain dynamically connected instead of being separated by a large potential well as previously believed. The aim of this study is to extract the instability mechanism regenerating turbulent eddies in spatially intermittent flows and to force turbulence to decay by intercepting this mechanism.</p>
+<p>In smooth pipes of circular cross-section, turbulent flow structures with an appreciable lifetime can first be observed at Reynolds numbers of ~1700 (<xref ref-type="bibr" rid="R19"><italic>19</italic></xref>, <xref ref-type="bibr" rid="R20"><italic>20</italic></xref>). In this transitional regime, turbulence occurs in localized patches, or &#x201C;puffs&#x201D; (<xref ref-type="bibr" rid="R21"><italic>21</italic></xref>), which have a length of about 30 <italic>D</italic> and are advected downstream at a fixed velocity (close to the mean flow velocity <italic>&#x016A;</italic>). In laboratory experiments, the velocity field of such puffs can be recorded by using a stereoscopic particle image velocimetry (PIV) system (LaVision GmbH, G&#x00F6;ttingen, Germany). A cross-sectional plane of the pipe (normal to the axial direction) is illuminated by a laser light sheet, and the fluid is seeded with spherical, neutrally buoyant particles (~13 &#x03BC;m in diameter). The measurement technique is identical to that described in (<xref ref-type="bibr" rid="R22"><italic>22</italic></xref>, <xref ref-type="bibr" rid="R23"><italic>23</italic></xref>), and in the present setup all three velocity components could be obtained instantaneously at approximately 2000 points equally spaced over the cross section. The pipe has a total length of 12 m and is made of 1-m-long segments of precision glass tubing with an inner diameter of <italic>D</italic> = 30 (&#x00B1; 0.01) mm.</p>
+<p>The specially designed pipe inlet and the smooth connection between pipe pieces ensured that here, unlike in ordinary pipes, flows remained laminar for Re &lt; 5000. This allows the creation of turbulent puffs in a controlled manner by injecting a jet of water through a 1-mm hole in the pipe wall into the fully developed laminar flow. In order to ensure that any initial transients have decayed, the developing puff was left to evolve for 200 time units (<italic>D</italic>/<italic>&#x016A;</italic>) before PIV measurements were carried out at the corresponding downstream position. The axial velocity component at the pipe centerline (<italic>U</italic><sub>c</sub>) during the passage of a turbulent puff is shown in <xref ref-type="fig" rid="F1">Fig. 1A</xref>. Upstream of the turbulent puff [<italic>L</italic>/<italic>D</italic> &lt; &#x2013;5, where <italic>L</italic> is the axial distance (<xref ref-type="fig" rid="F1">Fig. 1A</xref>)], the flow is laminar and fully developed with <italic>U</italic><sub>c</sub> = 2<italic>&#x016A;</italic>. At the upstream (rear) laminar turbulent interface (<italic>L</italic>/<italic>D</italic> = 0), the centerline velocity drops very sharply and then fluctuates over a length of 5 to 10 <italic>L</italic>/<italic>D</italic>. Further downstream (<xref ref-type="fig" rid="F1">Fig. 1A</xref>, left), as the fluctuations cease <italic>U</italic><sub>c</sub> gradually returns to its laminar value of 2<italic>&#x016A;</italic>. As shown in <xref ref-type="fig" rid="F1">Fig. 1A</xref> (inset), across this interface the velocity profile adjusts from the upstream parabolic shape (shown in green) to the average turbulent profile (shown in red). The mismatch of the azimuthally averaged velocity profiles in the laminar (green) and turbulent (red) region strongly distorts the profile at the interface: The upstream laminar fluid has to decelerate in the central part of the pipe and accelerate close to the wall, which gives rise to inflection points in the velocity profile (<xref ref-type="fig" rid="F1">Fig. 1A</xref>, inset, blue profile). The latter fulfills Rayleigh&#x2019;s inflection point criterion (<xref ref-type="bibr" rid="R24"><italic>24</italic></xref>), thus suggesting a hydrodynamic instability (<xref ref-type="bibr" rid="R25"><italic>25</italic></xref>) which drives the turbulent dynamics. </p>
+<fig id="F1" position="float" fig-type="figure"><label>Fig. 1</label><caption><p>Instability mechanism. (<bold>A</bold> and <bold>B</bold>) Turbulent puff in the experiment at Re = 2000. The flow direction is from right to left. (A) Centerline velocity during the passage of the puff. (Inset) Azimuthally averaged velocity profiles at three positions. Although the profile at <italic>L</italic>/<italic>D</italic> &gt; 0 has the typical shape of an averaged turbulent velocity field, close to <italic>L</italic>/<italic>D</italic> = &#x2013;1 a strong inflection point is observed, and further upstream (<italic>L</italic>/<italic>D</italic> &lt; 0) the laminar parabolic flow is quickly recovered. (B) The vorticity transport shows that for <italic>L</italic>/<italic>D</italic> positive, vorticity moves downstream, whereas for <italic>L</italic>/<italic>D</italic> negative vorticity moves upstream. At <italic>L</italic>/<italic>D</italic> = 0 vorticity is created. (<bold>C</bold>) Time-averaged quantities for a numerically simulated puff (Re = 1900). Positions are given in the co-moving frame of reference so that the location of the vorticity source (dashed line) is fixed. The magnitude of the inflection point (<xref ref-type="bibr" rid="R26"><italic>26</italic></xref>) is shown in red, the vorticity transport in black, and the turbulent kinetic energy in green. The latter is plotted on a log-linear scale.</p>
+</caption>
+<graphic xlink:href="327_1491_F1"></graphic></fig>
+<p>At the location of the strongest inflection point, the centerline velocity shows a sudden drop (<xref ref-type="fig" rid="F1">Fig. 1A</xref>), whereas the turbulent kinetic energy shows a sharp increase (<xref ref-type="fig" rid="F1">Fig. 1C</xref>), supporting the proposed hydrodynamic instability. Close inspection reveals that streamwise vortices are generated at the same location (movie S1). In order to quantify the motion and production of such streamwise rolls within the turbulent puff, we considered the vorticity transport given by the cross-sectional average of the product of the magnitude of the axial vorticity and the motion in the axial direction relative to the mean velocity: <inline-formula><mml:math id="m1"><mml:semantics><mml:mrow><mml:mrow><mml:mo>&#x2329;</mml:mo> <mml:mrow><mml:mrow><mml:mo>|</mml:mo> <mml:mrow><mml:msub><mml:mi>&#x03C9;</mml:mi><mml:mi mathvariant="normal">z</mml:mi></mml:msub></mml:mrow> <mml:mo>|</mml:mo></mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:msub><mml:mi>u</mml:mi><mml:mi mathvariant="normal">z</mml:mi></mml:msub><mml:mo>&#x2212;</mml:mo><mml:mover accent="true"><mml:mi>U</mml:mi><mml:mo>&#x00AF;</mml:mo></mml:mover></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow> <mml:mo>&#x232A;</mml:mo></mml:mrow></mml:mrow></mml:semantics></mml:math></inline-formula> (<xref ref-type="fig" rid="F1">Fig. 1B</xref>). The zero crossing of this quantity [at <italic>L</italic>/<italic>D</italic> = 0 (<xref ref-type="fig" rid="F1">Fig. 1</xref>)] pinpoints the location of vorticity production: To the left of this point, vorticity travels downstream relative to the mean flow [<inline-formula><mml:math id="m2"><mml:semantics><mml:mrow><mml:mrow><mml:mo>&#x2329;</mml:mo> <mml:mrow><mml:mrow><mml:mo>|</mml:mo> <mml:mrow><mml:msub><mml:mi>&#x03C9;</mml:mi><mml:mi mathvariant="normal">z</mml:mi></mml:msub></mml:mrow> <mml:mo>|</mml:mo></mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:msub><mml:mi>u</mml:mi><mml:mi mathvariant="normal">z</mml:mi></mml:msub><mml:mo>&#x2212;</mml:mo><mml:mover accent="true"><mml:mi>U</mml:mi><mml:mo>&#x00AF;</mml:mo></mml:mover></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow> <mml:mo>&#x232A;</mml:mo></mml:mrow></mml:mrow></mml:semantics></mml:math></inline-formula> &gt; 0], whereas to the right eddies in the near-wall region move upstream [<inline-formula><mml:math id="m3"><mml:semantics><mml:mrow><mml:mrow><mml:mo>&#x2329;</mml:mo> <mml:mrow><mml:mrow><mml:mo>|</mml:mo> <mml:mrow><mml:msub><mml:mi>&#x03C9;</mml:mi><mml:mi mathvariant="normal">z</mml:mi></mml:msub></mml:mrow> <mml:mo>|</mml:mo></mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:msub><mml:mi>u</mml:mi><mml:mi mathvariant="normal">z</mml:mi></mml:msub><mml:mo>&#x2212;</mml:mo><mml:mover accent="true"><mml:mi>U</mml:mi><mml:mo>&#x00AF;</mml:mo></mml:mover></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow> <mml:mo>&#x232A;</mml:mo></mml:mrow></mml:mrow></mml:semantics></mml:math></inline-formula> &lt; 0] and penetrate and distort the ensuing laminar flow. In doing so, they sustain the inflection points, which in turn cause the instability (located at <italic>L</italic>/<italic>D</italic> = 0) that regenerates vorticity. Because the time evolution of the turbulent structure is not accessible in the experiment, highly resolved direct numerical simulations were carried out in a long periodic domain (50 <italic>L</italic>/<italic>D</italic>). This allows a detailed investigation of the instability mechanism and in particular enables time-averaging of the vorticity transport as well as the kinetic energy (<xref ref-type="fig" rid="F1">Fig. 1C</xref>). The strength of the inflection point was determined from the curvature change of the profile (<xref ref-type="bibr" rid="R26"><italic>26</italic></xref>). As shown in <xref ref-type="fig" rid="F1">Fig. 1C</xref>, the strongest inflection point indeed coincides with the location of the vorticity production and a very sharp increase in the turbulent kinetic energy, which reaches a peak ~2 <italic>D</italic> downstream. This confirms our proposition that turbulence is indeed sustained by an inflection point instability, and the localized nature of this process is substantiated by the clear exponential decrease of the kinetic energy in the up- and downstream direction (<xref ref-type="fig" rid="F1">Fig. 1C</xref>, green curve). Unlike the elongated turbulent eddies and streaks, the inflection point is spatially distinct, enabling a local manipulation of turbulence that potentially can be carried out at much lower energy costs.</p>
+<p>The currently believed mechanism (<xref ref-type="bibr" rid="R27"><italic>27</italic></xref>&#x2013;<xref ref-type="bibr" rid="R29"><italic>29</italic></xref>) driving turbulent spots and puffs is based on so-called parent-offspring scenarios (<xref ref-type="bibr" rid="R30"><italic>30</italic></xref>) for the vorticity production: Existing vortices seed new ones by means of roll-up or hairpin recreation processes. Some vortices indeed roll up at the upstream interface (<italic>L</italic>/<italic>D</italic> &lt; 0) and progress downstream, as suggested in (<xref ref-type="bibr" rid="R27"><italic>27</italic></xref>). The vast majority of vortices in this region (0 &lt; <italic>L</italic>/<italic>D</italic> &lt; &#x2013;5), however, are traveling upstream with respect to the mean flow (<xref ref-type="fig" rid="F1">Fig. 1C</xref> and movie S1) and are therefore not created through roll-up but instead emerge directly from the inflection point. Inflectional instabilities have been suggested to play an important role in several proposed turbulence regeneration mechanisms in higher Reynolds number flows (<xref ref-type="bibr" rid="R30"><italic>30</italic></xref>&#x2013;<xref ref-type="bibr" rid="R32"><italic>32</italic></xref>). Although they differ in various details (mainly the vortex regeneration), they also share certain features with the mechanism described here. In all cases, streamwise vortices distort the velocity profile by moving slow fluid from the wall to the center (lift-up mechanism), giving rise to inflectionally unstable streaks. The susceptibility of laminar pipe flow to inflection points and the resulting transition to turbulence via azimuthal modes (the direct creation of streamwise vortices at an inflectional instability) has been demonstrated in (<xref ref-type="bibr" rid="R33"><italic>33</italic></xref>) and is in excellent agreement with the vorticity production observed in the present study.</p>
+<p>To test the proposed manipulation of the localized instability, fully resolved computer simulations of a turbulent puff at Re = 1900 have been carried out. The simulations are based on a spectral code (<xref ref-type="bibr" rid="R34"><italic>34</italic></xref>) with more than 4 &#x00D7; 10<sup>6</sup> degrees of freedom for a 50-<italic>D</italic>-long pipe. This resolution ensures that all scales are fully resolved at the Reynolds numbers considered and, as demonstrated with a similar numerical scheme, that excellent agreement is found with experiments (<xref ref-type="bibr" rid="R35"><italic>35</italic></xref>). A localized forcing (<xref ref-type="bibr" rid="R26"><italic>26</italic></xref>) co-moving with the puff was employed at the rear turbulent-laminar interface. The forcing locally reduces the downstream velocity in the central part of the pipe and increases that in the near-wall region (keeping the mean velocity and thus Re constant). Hence, the parabolic profile is distorted to a plug-like profile, reducing the sudden change of the axial velocity across the rear of the puff. The forcing is active only over a section of less than 7 <italic>D</italic> in length, and the maximum change in the center line velocity in this region is 15%. The vorticity of the puff before applying the forcing is shown in <xref ref-type="fig" rid="F2">Fig. 2</xref> (top). The magnitude of the vortices decreased significantly 30 time units later [time (<italic>t</italic>) = 80 in <xref ref-type="fig" rid="F2">Fig. 2</xref>], and at <italic>t</italic> = 110 they almost completely disappeared. Equally, the turbulent kinetic energy (<xref ref-type="fig" rid="F2">Fig. 2</xref>, bottom) continuously decreases subsequent to the localized distortion of the velocity profile at the laminar turbulent interface. After 125 time units, the turbulence has diminished beyond recovery, and even when the forcing is switched off the flow continues to relaminarize.</p>
+<fig id="F2" position="float" fig-type="figure"><label>Fig. 2</label><caption><p>Control in the numerical simulations. An axially localized forcing is applied to the rear interface of a turbulent puff so as to distort the laminar profile. (<bold>Top</bold>) Snapshots of streamwise vorticity isocontours of the puff at time instants separated by 30 time units. (<bold>Bottom</bold>) Time-series of the turbulent energy of the puff. The red line corresponds to the puff when no control strategy is applied, whereas the black line shows the effect of applying the forcing (the circles correspond to the time instants when the snapshots of the top panel have been taken). The forcing is introduced at <italic>t</italic> = 50, and its intensity is exponentially increased until it saturates at about <italic>t</italic> = 100 (blue dashed line).</p>
+</caption>
+<graphic xlink:href="327_1491_F2"></graphic></fig>
+<p>Because in experiments a distortion of the profile at the turbulent laminar interface cannot be as readily implemented as in the simulations, we chose a different method. The velocity profile at the rear end of the puff was distorted by inducing a second turbulent puff several <italic>D</italic> upstream of the original one (<xref ref-type="fig" rid="F3">Fig. 3</xref>). Although the fluid in between the two puffs was not turbulent, the short distance between them was insufficient to allow a parabolic profile to fully develop. Directly upstream of the leading puff [<italic>L</italic>/<italic>D</italic> &#x2248; 6 (<xref ref-type="fig" rid="F3">Fig. 3</xref>)], the profile has a lower centerline velocity (<italic>U</italic><sub>c</sub> &lt; 2<italic>&#x016A;</italic>) than does a fully developed laminar flow. Hence, the sudden change in the axial velocity at the rear of the leading puff is reduced. As indicated by the dotted lines, the velocity changes are equivalent to those found when the forcing is applied in the numerical simulations. Comparing the azimuthally averaged velocity profile at the rear of the leading puff (<italic>L</italic>/<italic>D</italic> &#x2248; 6) with that of the upstream puff (<italic>L</italic>/<italic>D</italic> &#x2248; 12) (<xref ref-type="fig" rid="F3">Fig. 3B</xref>, left), it is evident that the inflection point at the rear of the downstream puff has diminished. As in the numerical simulations, the instability ceases, and the front puff eventually decays, whereas the rear one survives. The apparent dependence of spots of turbulence on adjacent laminar regions allows us to develop a control method for the spatially intermittent flow regime: By applying a sufficiently strong perturbation at a fixed location in the pipe, the laminar segments separating the turbulent spots are disturbed. As a result, the fluid at this &#x201C;control point&#x201D; is uniformly turbulent. As the turbulent eddies travel downstream, they are followed by equally turbulent fluid and are lacking any laminar turbulent interfaces in the vicinity where sufficiently strong inflection points could develop. Consequently, the energy transfer mechanism is subdued, which in turn leads to a steady decay of the turbulent intensity downstream of the control point.</p>
+<fig id="F3" position="float" fig-type="figure"><label>Fig. 3</label><caption><p>Interaction of two turbulent puffs in the experiment. (<bold>A</bold>) The solid line indicates the centerline velocity of a pipe flow at Re = 2000. The two puffs are separated by <italic>L</italic>/<italic>D</italic> = 6. The centerline velocity in between the puffs does not recover the value of the laminar Hagen-Poiseuille flow. The dotted lines indicate the centerline velocity at corresponding times in the numerical simulations for a puff before (blue) and after (red) the localized forcing has been applied. (<bold>B</bold>) (Left) The (azimuthally averaged) velocity profile at the rear of the upstream (second) puff (<italic>L</italic>/<italic>D</italic> = 12) shows a strong inflection point, whereas the inflection point at the rear of the downstream (first) puff (<italic>L</italic>/<italic>D</italic> = 6) is much weaker and strongly influenced by the presence of the upstream puff following it. Eventually, the front puff disappears, whereas the rear one remains unchanged. (Right) Qualitatively, the same reduction of the inflection point is observed in the numerical simulation when the forcing has been applied, again resulting in the decay of turbulence.</p>
+</caption>
+<graphic xlink:href="327_1491_F3"></graphic></fig>
+<p>In order to implement this control in the experiment, an intermittent flow was created at Re = 2000 by the addition of a small perturbation to the pipe inlet that periodically generates turbulent puffs. In ordinary pipes lacking the smooth inlet conditions of the laboratory setup, laminar-turbulent intermittency occurs naturally at 1700 &lt; Re &lt; 2500. These experiments were carried out in a <italic>D</italic> = 10 (&#x00B1;0.01) mm pipe of length <italic>L</italic>/<italic>D</italic> = 600, which otherwise was identical to the setup described above. To visualize the fluid motion, tracer particles were added to the water. Turbulent regions can be clearly distinguished from the laminar ones (<xref ref-type="fig" rid="F4">Fig. 4A</xref>). The time evolution of the intermittent flow was captured by sampling images 150 <italic>D</italic> downstream of the pipe entrance at 25 Hz, and the gray values of each image were averaged across the pipe radius and plotted in a space-time diagram (<xref ref-type="fig" rid="F4">Fig. 4B</xref>). The (almost) vertical stripes in <xref ref-type="fig" rid="F4">Fig. 4B</xref> constitute the periodic passage of turbulent puffs at this location (the slight tilt of the stripes results from the puff&#x2019;s advection velocity). A further 100 <italic>D</italic> downstream, the flow could be manipulated by the continuous injection and simultaneous withdrawal of water through two small holes in the wall (<xref ref-type="fig" rid="F4">Fig. 4</xref>). In the initial phase of the experiment, before the control had been actuated, turbulent puffs appeared periodically upstream (<xref ref-type="fig" rid="F4">Fig. 4B</xref>) as well as downstream (<xref ref-type="fig" rid="F4">Fig. 4C</xref>) of the injection point. The control was triggered after 40 s and kept on for the remainder of the experiment. The space-time diagram constructed from images captured 150 <italic>D</italic> downstream of the injection point (<xref ref-type="fig" rid="F4">Fig. 4C</xref>) reveals that initially turbulent puffs occur at the same rate as upstream of the control point. Shortly after the control is turned on, the fluid emerging from the manipulated zone is uniformly laminar, as revealed by the disappearance of the stripes in <xref ref-type="fig" rid="F4">Fig. 4C</xref>. The pressure difference required to pump fluid through the remainder of the pipe is reduced to the laminar value (<xref ref-type="fig" rid="F4">Fig. 4D</xref>), and the pressure fluctuations fully disappear. A similar drag reduction is achieved when applying the same method to an intermittent flow in a channel (of height <italic>H</italic> = 4 mm and width <italic>W</italic> = 120 mm) and a square duct (<italic>H</italic> = 8 mm) in the intermittent regime (<xref ref-type="fig" rid="F4">Fig. 4D</xref>). Because of its localized nature, the cost of this flow manipulation is low: The energy gained from eliminating turbulence is approximately five times larger than the cost, depending on Re and the details of the applied perturbation.</p>
+<fig id="F4" position="float" fig-type="figure"><label>Fig. 4</label><caption><p>Control in the experiment. (<bold>A</bold>) Flow visualization image of an axial cross section of a segment of the pipe in the intermittent regime at Re = 2000. The flow (from right to left) is laminar on the left and turbulent on the right. For the visualization, the water was seeded with 50-&#x03BC;m particles (Mearlmaid AA, Ludwigshafen, Germany). The particles are un-isotropic flat platelets that tend to align with the shear, resulting in a uniform light reflection when the flow is laminar and a patchy nonuniform one in the presence of turbulence. Images were recorded (at a frame rate of 25 Hz) at two locations: one 100 <italic>D</italic> upstream and the other 100 <italic>D</italic> downstream of the control point. (<bold>B</bold> and <bold>C</bold>) The laminar-turbulent intermittency in pipe flow is shown in space-time plots (B and C), whereas the gray values of the flow visualization images (A) are averaged along the pipe radius. The averaged gray values obtained for each flow-visualization image are then plotted as vertical lines, hence displaying the axial variation of the flow in the vertical direction and the time variation horizontally. The space-time plot resulting from the data sampled 100 <italic>D</italic> upstream of the control point is shown in (B) and that from data sampled 100 <italic>D</italic> downstream is shown in (C). Each occurrence of a turbulent puff in the observation section results in a dark, almost vertical band in the figures. Upstream (B) of the control point, turbulent puffs appear at regular intervals (every ~5 s). Downstream (C) of the control point, the vertical bands and hence the turbulence completely disappear shortly after the control has been actuated at <italic>t</italic> = 40 s. The broad darker and lighter horizontal stripes in (B) and (C) are due to intensity variations. (<bold>D</bold>) Pressure drop measured over ~250 <italic>D</italic> in pipe flow (Re = 2030) and ~250 <italic>H</italic> in plane channel flow (Re = 1400), and in a square duct (Re = 1740) relative to the pressure drop in laminar flow.</p>
+</caption>
+<graphic xlink:href="327_1491_F4"></graphic></fig>
+<p>Although this very simple strategy works well for sufficiently small Reynolds numbers (Re &lt; 2000 in pipes, Re &lt; 1400 in channels, and Re &lt; 1800 in ducts), it becomes less efficient as Re increases, and it fails once the regime of spatially expanding turbulence is reached (Re &#x2265; 2500 in pipes). In numerical simulations of pipe flow, however, it is possible to apply a volume forcing of larger amplitude along the entire pipe and turbulence still decays (fig. S3). The drag can be reduced by more than a factor of two, suggesting that even at these larger Reynolds numbers turbulence is still driven by inflectional instabilities. In laboratory experiments, such a spatially extended volume forcing is unfortunately not readily available, and hence the necessary distortion of the flow profile cannot be easily implemented in fully turbulent flows. An exception are electrically conducting fluids, such as liquid metals or plasmas, in which velocity profiles can be manipulated by magnetic fields.</p>
+<p>We have identified a mechanism that constantly converts energy from the mean shear into turbulent eddies, and these insights into the energy transfer have been exploited to eliminate turbulence in intermittent shear flows.</p>
+</body>
+<back>
+<app-group>
+<app>
+<title>Supporting Online Material</title>
+<supplementary-material>
+<p><ext-link ext-link-type="uri" xlink:href="http://www.sciencemag.org/cgi/content/full/327/5972/1491/DC1">www.sciencemag.org/cgi/content/full/327/5972/1491/DC1</ext-link></p>
+<p>Materials and Methods</p>
+<p>Figs. S1 to S3</p>
+<p>References</p>
+<p>Movie S1</p>
+</supplementary-material></app></app-group>
+<ref-list>
+<title>References and Notes</title>
+<ref id="R1"><label>1</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Reynolds</surname><given-names>O.</given-names></name></person-group>, 
+<article-title>An experimental investigation of the circumstances which determine whether the motion of water shall be direct or sinuous, and of the law of resistance in parallel channels</article-title>. 
+<source>Proc. R. Soc. Lond.</source> 
+<volume>35</volume>, 
+<fpage>84</fpage> (<year>1883</year>). 
+<pub-id pub-id-type="doi">10.1098/rspl.1883.0018</pub-id></citation></ref>
+<ref id="R2">
+<note><label>2</label><p>In our case, <italic>&#x016A;</italic> was chosen as the mean flow speed, and <italic>D</italic> was chosen depending on the geometry of either the diameter of the pipe or the channel (or duct) height. In all experiments, water was used as the working fluid and has a kinematic viscosity of <italic>v</italic> &#x2248; 1 mm<sup>2</sup>/s at 20&#x00B0;C. Mean velocities at Re = 2000 are therefore 6.7 cm/s in the 30-mm pipe, 25 cm/s in the duct, and 50 cm/s in the channel flow.</p>
+</note></ref>
+<ref id="R3"><label>3</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Grossmann</surname><given-names>S.</given-names></name></person-group>, 
+<article-title>The onset of shear flow turbulence</article-title>. 
+<source>Rev. Mod. Phys.</source> 
+<volume>72</volume>, 
+<fpage>603</fpage> (<year>2000</year>). 
+<pub-id pub-id-type="doi">10.1103/RevModPhys.72.603</pub-id></citation></ref>
+<ref id="R4"><label>4</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Eckhardt</surname><given-names>B.</given-names></name><name><surname>Schneider</surname><given-names>T. M.</given-names></name><name><surname>Hof</surname><given-names>B.</given-names></name><name><surname>Westerweel</surname><given-names>J.</given-names></name></person-group>, 
+<article-title>Turbulence transition in pipe flow</article-title>. 
+<source>Annu. Rev. Fluid Mech.</source> 
+<volume>39</volume>, 
+<fpage>447</fpage> (<year>2007</year>). 
+<pub-id pub-id-type="doi">10.1146/annurev.fluid.39.050905.110308</pub-id></citation></ref>
+<ref id="R5"><label>5</label><citation citation-type="book">P. G. Drazin, W. H. Reid, <italic>Hydrodynamic Stability</italic> (Cambridge Univ. Press, Cambridge, UK, 1981).</citation></ref>
+<ref id="R6"><label>6</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Darbyshire</surname><given-names>A. G.</given-names></name><name><surname>Mullin</surname><given-names>T.</given-names></name></person-group>, 
+<article-title>Transition to turbulence in constant-mass-flux pipe flow</article-title>. 
+<source>J. Fluid Mech.</source> 
+<volume>289</volume>, 
+<fpage>83</fpage> (<year>1995</year>). 
+<pub-id pub-id-type="doi">10.1017/S0022112095001248</pub-id></citation></ref>
+<ref id="R7"><label>7</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Draad</surname><given-names>A. A.</given-names></name><name><surname>Kuiken</surname><given-names>G. D. C.</given-names></name><name><surname>Nieuwstadt</surname><given-names>F. T. M.</given-names></name></person-group>, 
+<article-title>Laminar&#x2013;turbulent transition in pipe flow for Newtonian and non-Newtonian fluids</article-title>. 
+<source>J. Fluid Mech.</source> 
+<volume>377</volume>, 
+<fpage>267</fpage> (<year>1998</year>). 
+<pub-id pub-id-type="doi">10.1017/S0022112098003139</pub-id></citation></ref>
+<ref id="R8"><label>8</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Hof</surname><given-names>B.</given-names></name><name><surname>Juel</surname><given-names>A.</given-names></name><name><surname>Mullin</surname><given-names>T.</given-names></name></person-group>, 
+<article-title>Scaling of the turbulence transition threshold in a pipe</article-title>. 
+<source>Phys. Rev. Lett.</source> 
+<volume>91</volume>, 
+<fpage>244502</fpage> (<year>2003</year>). 
+<pub-id pub-id-type="doi">10.1103/PhysRevLett.91.244502</pub-id>
+<pub-id pub-id-type="pmid">14683129</pub-id></citation></ref>
+<ref id="R9"><label>9</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Mellibovsky</surname><given-names>F.</given-names></name><name><surname>Meseguer</surname><given-names>A.</given-names></name></person-group>, 
+<article-title>The role of streamwise perturbations in pipe flow transition</article-title>. 
+<source>Phys. Fluids</source> 
+<volume>18</volume>, 
+<fpage>074102</fpage> (<year>2006</year>). 
+<pub-id pub-id-type="doi">10.1063/1.2222376</pub-id></citation></ref>
+<ref id="R10"><label>10</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Park</surname><given-names>S.</given-names></name><name><surname>Lauchle</surname><given-names>G. C.</given-names></name></person-group>, 
+<article-title>Wall pressure fluctuation spectra due to boundary-layer transition</article-title>. 
+<source>J. Sound Vibrat.</source> 
+<volume>319</volume>, 
+<fpage>1067</fpage> (<year>2009</year>). 
+<pub-id pub-id-type="doi">10.1016/j.jsv.2008.06.030</pub-id></citation></ref>
+<ref id="R11"><label>11</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Khanafer</surname><given-names>K. M.</given-names></name><name><surname>Bull</surname><given-names>J. L.</given-names></name><name><surname>Upchurch</surname><given-names>G. R.</given-names><suffix>Jr.</suffix></name><name><surname>Berguer</surname><given-names>R.</given-names></name></person-group>, 
+<article-title>Turbulence significantly increases pressure and fluid shear stress in an aortic aneurysm model under resting and exercise flow conditions</article-title>. 
+<source>Ann. Vasc. Surg.</source> 
+<volume>21</volume>, 
+<fpage>67</fpage> (<year>2007</year>). 
+<pub-id pub-id-type="doi">10.1016/j.avsg.2006.10.009</pub-id>
+<pub-id pub-id-type="pmid">17349339</pub-id></citation></ref>
+<ref id="R12"><label>12</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Tan</surname><given-names>F. P. P.</given-names></name><etal /></person-group>., 
+<article-title>Analysis of flow patterns in a patient-specific thoracic aortic aneurysm model</article-title>. 
+<source>Comput. Struc.</source> 
+<volume>87</volume>, 
+<fpage>680</fpage> (<year>2009</year>). 
+<pub-id pub-id-type="doi">10.1016/j.compstruc.2008.09.007</pub-id></citation></ref>
+<ref id="R13"><label>13</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Sirovich</surname><given-names>L.</given-names></name><name><surname>Karisson</surname><given-names>S.</given-names></name></person-group>, 
+<source>Nature</source> 
+<volume>388</volume>, 
+<fpage>753</fpage> (<year>1997</year>). 
+<pub-id pub-id-type="doi">10.1038/41966</pub-id></citation></ref>
+<ref id="R14"><label>14</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Du</surname><given-names>Y.</given-names></name><name><surname>Karniadakis</surname><given-names>G. E.</given-names></name></person-group>, 
+<article-title>Suppressing wall turbulence by means of a transverse traveling wave</article-title>. 
+<source>Science</source> 
+<volume>288</volume>, 
+<fpage>1230</fpage> (<year>2000</year>). 
+<pub-id pub-id-type="doi">10.1126/science.288.5469.1230</pub-id>
+<pub-id pub-id-type="pmid">10817995</pub-id></citation></ref>
+<ref id="R15"><label>15</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Rathnasingham</surname><given-names>R.</given-names></name><name><surname>Breuer</surname><given-names>K. S.</given-names></name></person-group>, 
+<article-title>Active control of turbulent boundary layers</article-title>. 
+<source>J. Fluid Mech.</source> 
+<volume>495</volume>, 
+<fpage>209</fpage> (<year>2003</year>). 
+<pub-id pub-id-type="doi">10.1017/S0022112003006177</pub-id></citation></ref>
+<ref id="R16"><label>16</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Fransson</surname><given-names>J. H. M.</given-names></name><name><surname>Talamelli</surname><given-names>A.</given-names></name><name><surname>Brandt</surname><given-names>L.</given-names></name><name><surname>Cossu</surname><given-names>C.</given-names></name></person-group>, 
+<article-title>Delaying transition to turbulence by a passive mechanism</article-title>. 
+<source>Phys. Rev. Lett.</source> 
+<volume>96</volume>, 
+<fpage>064501</fpage> (<year>2006</year>). 
+<pub-id pub-id-type="doi">10.1103/PhysRevLett.96.064501</pub-id>
+<pub-id pub-id-type="pmid">16605999</pub-id></citation></ref>
+<ref id="R17"><label>17</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Kim</surname><given-names>J.</given-names></name><name><surname>Bewley</surname><given-names>T. R.</given-names></name></person-group>, 
+<article-title>A linear systems approach to flow control</article-title>. 
+<source>Annu. Rev. Fluid Mech.</source> 
+<volume>39</volume>, 
+<fpage>383</fpage> (<year>2007</year>). 
+<pub-id pub-id-type="doi">10.1146/annurev.fluid.39.050905.110153</pub-id></citation></ref>
+<ref id="R18"><label>18</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Hogberg</surname><given-names>M.</given-names></name><name><surname>Bewley</surname><given-names>T. R.</given-names></name><name><surname>Henningson</surname><given-names>D. S.</given-names></name></person-group>, 
+<article-title>Linear feedback control and estimation of transition in plane channel flow</article-title>. 
+<source>J. Fluid Mech.</source> 
+<volume>481</volume>, 
+<fpage>149</fpage> (<year>2003</year>). 
+<pub-id pub-id-type="doi">10.1017/S0022112003003823</pub-id></citation></ref>
+<ref id="R19"><label>19</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Hof</surname><given-names>B.</given-names></name><name><surname>Westerweel</surname><given-names>J.</given-names></name><name><surname>Schneider</surname><given-names>T. M.</given-names></name><name><surname>Eckhardt</surname><given-names>B.</given-names></name></person-group>, 
+<article-title>Finite lifetime of turbulence in shear flows</article-title>. 
+<source>Nature</source> 
+<volume>443</volume>, 
+<fpage>59</fpage> (<year>2006</year>). 
+<pub-id pub-id-type="doi">10.1038/nature05089</pub-id>
+<pub-id pub-id-type="pmid">16957725</pub-id></citation></ref>
+<ref id="R20"><label>20</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Hof</surname><given-names>B.</given-names></name><name><surname>de Lozar</surname><given-names>A.</given-names></name><name><surname>Kuik</surname><given-names>D. J.</given-names></name><name><surname>Westerweel</surname><given-names>J.</given-names></name></person-group>, 
+<article-title>Repeller or attractor? Selecting the dynamical model for the onset of turbulence in pipe flow</article-title>. 
+<source>Phys. Rev. Lett.</source> 
+<volume>101</volume>, 
+<fpage>214501</fpage> (<year>2008</year>). 
+<pub-id pub-id-type="doi">10.1103/PhysRevLett.101.214501</pub-id>
+<pub-id pub-id-type="pmid">19113412</pub-id></citation></ref>
+<ref id="R21"><label>21</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Wygnanski</surname><given-names>I. J.</given-names></name><name><surname>Champagne</surname><given-names>F. H.</given-names></name></person-group>, 
+<article-title>On transition in a pipe. Part 1. The origin of puffs and slugs and the flow in a turbulent slug</article-title>. 
+<source>J. Fluid Mech.</source> 
+<volume>59</volume>, 
+<fpage>281</fpage> (<year>1973</year>). 
+<pub-id pub-id-type="doi">10.1017/S0022112073001576</pub-id></citation></ref>
+<ref id="R22"><label>22</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Hof</surname><given-names>B.</given-names></name><etal /></person-group>., 
+<article-title>Experimental observation of nonlinear traveling waves in turbulent pipe flow</article-title>. 
+<source>Science</source> 
+<volume>305</volume>, 
+<fpage>1594</fpage> (<year>2004</year>). 
+<pub-id pub-id-type="doi">10.1126/science.1100393</pub-id>
+<pub-id pub-id-type="pmid">15361619</pub-id></citation></ref>
+<ref id="R23"><label>23</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Hof</surname><given-names>B.</given-names></name><name><surname>van Doorne</surname><given-names>C. W. H.</given-names></name><name><surname>Westerweel</surname><given-names>J.</given-names></name><name><surname>Nieuwstadt</surname><given-names>F. T. M.</given-names></name></person-group>, 
+<article-title>Turbulence regeneration in pipe flow at moderate Reynolds numbers</article-title>. 
+<source>Phys. Rev. Lett.</source> 
+<volume>95</volume>, 
+<fpage>214502</fpage> (<year>2005</year>). 
+<pub-id pub-id-type="doi">10.1103/PhysRevLett.95.214502</pub-id>
+<pub-id pub-id-type="pmid">16384146</pub-id></citation></ref>
+<ref id="R24"><label>24</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Rayleigh</surname><given-names>L.</given-names></name></person-group>, 
+<article-title>On the stability, or instability, of certain fluid motions</article-title>. 
+<source>Proc. Lond. Math. Soc.</source> 
+<volume>11</volume>, 
+<fpage>57</fpage> (<year>1880</year>). 
+<pub-id pub-id-type="doi">10.1112/plms/s1-11.1.57</pub-id></citation></ref>
+<ref id="R25">
+<note><label>25</label><p>The inflection point closest to the wall also fulfills the sufficient instability criterion for inviscid flows (Fjortoft&#x2019;s theorem).</p>
+</note></ref>
+<ref id="R26">
+<note><label>26</label><p>Materials and methods are available as supporting material on <italic>Science</italic> Online.</p>
+</note></ref>
+<ref id="R27"><label>27</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Bandyopadhyay</surname><given-names>P. R.</given-names></name></person-group>, 
+<article-title>Aspects of the equilibrium puff in transitional pipe flow</article-title>. 
+<source>J. Fluid Mech.</source> 
+<volume>163</volume>, 
+<fpage>439</fpage> (<year>1986</year>). 
+<pub-id pub-id-type="doi">10.1017/S0022112086002379</pub-id></citation></ref>
+<ref id="R28"><label>28</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>van Doorne</surname><given-names>C. W. H.</given-names></name><name><surname>Westerweel</surname><given-names>J.</given-names></name></person-group>, 
+<article-title>The flow structure of a puff</article-title>. 
+<source>Phil. Trans. R. Soc. A</source> 
+<volume>367</volume>, 
+<fpage>489</fpage> (<year>2009</year>). 
+<pub-id pub-id-type="doi">10.1098/rsta.2008.0227</pub-id>
+<pub-id pub-id-type="pmid">18990660</pub-id></citation></ref>
+<ref id="R29"><label>29</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Shimizu</surname><given-names>M.</given-names></name><name><surname>Kida</surname><given-names>S.</given-names></name></person-group>, 
+<article-title>A driving mechanism of a turbulent puff in pipe flow</article-title>. 
+<source>Fluid Dyn. Res.</source> 
+<volume>41</volume>, 
+<fpage>045501</fpage> (<year>2009</year>). 
+<pub-id pub-id-type="doi">10.1088/0169-5983/41/4/045501</pub-id></citation></ref>
+<ref id="R30"><label>30</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Schoppa</surname><given-names>W.</given-names></name><name><surname>Hussain</surname><given-names>F.</given-names></name></person-group>, 
+<article-title>Coherent structure generation in near-wall turbulence</article-title>. 
+<source>J. Fluid Mech.</source> 
+<volume>453</volume>, 
+<fpage>57</fpage> 
+(<year>2002</year>). 
+<pub-id pub-id-type="doi">10.1017/S002211200100667X</pub-id></citation></ref>
+<ref id="R31"><label>31</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Hamilton</surname><given-names>J. M.</given-names></name><name><surname>Kim</surname><given-names>J.</given-names></name><name><surname>Waleffe</surname><given-names>F.</given-names></name></person-group>, 
+<article-title>Regeneration mechanisms of near-wall turbulence structures</article-title>. 
+<source>J. Fluid Mech.</source> 
+<volume>287</volume>, 
+<fpage>317</fpage> (<year>1995</year>). 
+<pub-id pub-id-type="doi">10.1017/S0022112095000978</pub-id></citation></ref>
+<ref id="R32"><label>32</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Jimenez</surname><given-names>J.</given-names></name><name><surname>Pinelli</surname><given-names>A.</given-names></name></person-group>, 
+<article-title>The autonomous cycle of near-wall turbulence</article-title>. 
+<source>J. Fluid Mech.</source> 
+<volume>389</volume>, 
+<fpage>335</fpage> (<year>1999</year>). 
+<pub-id pub-id-type="doi">10.1017/S0022112099005066</pub-id></citation></ref>
+<ref id="R33"><label>33</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Gavarini</surname><given-names>M. I.</given-names></name><name><surname>Bottaro</surname><given-names>A.</given-names></name><name><surname>Nieuwstadt</surname><given-names>F. T. M.</given-names></name></person-group>, 
+<article-title>The initial stage of transition in pipe flow: Role of optimal base-flow distortions</article-title>. 
+<source>J. Fluid Mech.</source> 
+<volume>517</volume>, 
+<fpage>131</fpage> (<year>2004</year>). 
+<pub-id pub-id-type="doi">10.1017/S0022112004000825</pub-id></citation></ref>
+<ref id="R34"><label>34</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Meseguer</surname><given-names>A.</given-names></name><name><surname>Mellibovsky</surname><given-names>F.</given-names></name></person-group>, 
+<article-title>On a solenoidal Fourier&#x2013;Chebyshev spectral method for stability analysis of the Hagen&#x2013;Poiseuille flow</article-title>. 
+<source>Appl. Numer. Math.</source> 
+<volume>57</volume>, 
+<fpage>920</fpage> (<year>2007</year>). 
+<pub-id pub-id-type="doi">10.1016/j.apnum.2006.09.002</pub-id></citation></ref>
+<ref id="R35"><label>35</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Avila</surname><given-names>M.</given-names></name><name><surname>Willis</surname><given-names>A.</given-names></name><name><surname>Hof</surname><given-names>B.</given-names></name></person-group>, <source>J. Fluid Mech.</source> 
+<volume>646</volume>, 
+<fpage>127</fpage> (<year>2010</year>). 
+</citation></ref></ref-list>
+<ack><label>36</label><p>We thank F. Mellibovsky and A. Meseguer for sharing their spectral code. This research was supported by the Max Planck Society (B.H., A.dL., M.A., and X.T.), The Deutsche Forschungsgemeinschaft under grant Schn 1167/1-1, Kavli Institut for Bionano Science and Technology at Harvard, and Harvard Materials Research and Engineering Center (T.M.S.).</p>
+</ack></back>
+</article>

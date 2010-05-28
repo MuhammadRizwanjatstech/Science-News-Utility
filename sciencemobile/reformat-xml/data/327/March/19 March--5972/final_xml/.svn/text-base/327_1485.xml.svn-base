@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="research-article" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title><issn pub-type="ppub">0036-8075</issn><issn pub-type="epub">1095-9203</issn>
+<publisher><publisher-name>American Association for the Advancement of Science</publisher-name></publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">1185117</article-id>
+<article-id pub-id-type="doi">10.1126/science.1185117</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>Report</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Reports</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>reports</subject></subj-group>
+<subj-group subj-group-type="field"><subject>PHYSICS</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Design of Polymethine Dyes with Large Third-Order Optical Nonlinearities and Loss Figures of Merit</article-title>
+</title-group>
+<contrib-group><contrib contrib-type="author"><name><surname>Hales</surname><given-names>Joel M.</given-names></name><xref ref-type="fn" rid="afn1">*</xref></contrib><contrib contrib-type="author"><name><surname>Matichak</surname><given-names>Jonathan</given-names></name><xref ref-type="fn" rid="afn1">*</xref></contrib><contrib contrib-type="author"><name><surname>Barlow</surname><given-names>Stephen</given-names></name></contrib><contrib contrib-type="author"><name><surname>Ohira</surname><given-names>Shino</given-names></name></contrib><contrib contrib-type="author"><name><surname>Yesudas</surname><given-names>Kada</given-names></name></contrib><contrib contrib-type="author"><name><surname>Br&#x00E9;das</surname><given-names>Jean-Luc</given-names></name></contrib><contrib contrib-type="author" corresp="yes"><name><surname>Perry</surname><given-names>Joseph W.</given-names></name><xref ref-type="corresp" rid="cor1">&#x2020;</xref></contrib><contrib contrib-type="author" corresp="yes"><name><surname>Marder</surname><given-names>Seth R.</given-names></name><xref ref-type="corresp" rid="cor1">&#x2020;</xref></contrib>
+<aff id="aff1">School of Chemistry and Biochemistry and Center for Organic Photonics and Electronics, Georgia Institute of Technology, Atlanta, GA 30332, USA.</aff></contrib-group>
+<author-notes>
+<fn id="afn1"><label>*</label><p>These authors contributed equally to this work.</p>
+</fn>
+<corresp id="cor1"><label>&#x2020;</label>To whom correspondence should be addressed. E-mail: 
+<email xlink:href="seth.marder@chemistry.gatech.edu">seth.marder@chemistry.gatech.edu</email> (S.R.M.); 
+<email xlink:href="joe.perry@chemistry.gatech.edu">joe.perry@chemistry.gatech.edu</email> (J.W.P.)</corresp></author-notes>
+<pub-date pub-type="ppub"><day>19</day><month>03</month><year>2010</year></pub-date>
+<volume>327</volume>
+<issue>5972</issue>
+<fpage>1485</fpage>
+<lpage>1488</lpage>
+<history><date date-type="received"><day>24</day><month>11</month><year>2009</year></date><date date-type="accepted"><day>02</day><month>02</month><year>2010</year></date>
+<date date-type="epub"><day>18</day><month>02</month><year>2010</year></date></history>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2010, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2010</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder></permissions>
+<abstract abstract-type="editor"><title>Dying by Design</title><p>To make optical-switching applications a reality, losses from scattering and other absorption processes have to be minimized. <bold>Hales <italic>et al.</italic></bold> (p. <related-article related-article-type="in-this-issue" vol="327" page="1485">1485</related-article>, published online 18 February; see the Perspective by <bold><related-article related-article-type="in-this-issue" vol="327" page="1466" issue="5972"><bold>Haque and Nelson</bold></related-article></bold>) present a strategy to explore the refraction and absorption properties of a group of cyanine dyes for designing materials that have properties corresponding to technologically interesting telecommunications windows. The optical properties of the cyanine molecule was controlled by adding heavy chalcogen atoms (selenium) into the end groups of the molecular structure. While producing a series of molecules meeting criteria for feasible application, the work also demonstrates a route to improve the performance of nonlinear optical materials.</p></abstract>
+<abstract abstract-type="teaser"><p>Nonlinear optical materials are designed and characterized for potential applications in all-optical switching.</p></abstract>
+<abstract>
+<p>All-optical switching applications require materials with large third-order nonlinearities and low nonlinear optical losses. We present a design approach that involves enhancing the real part of the third-order polarizability (&#x03B3;) of cyanine-like molecules through incorporation of polarizable chalcogen atoms into terminal groups, while controlling the molecular length to obtain favorable one- and two-photon absorption resonances that lead to suitably low optical loss and appreciable dispersion enhancement of the real part of &#x03B3;. We implemented this strategy in a soluble bis(selenopyrylium) heptamethine dye that exhibits a real part of &#x03B3; that is exceptionally large throughout the wavelength range used for telecommunications, and an imaginary part of &#x03B3;, a measure of nonlinear loss, that is smaller by two orders of magnitude. This combination is critical in enabling low-power, high-contrast optical switching.</p>
+</abstract>
+<custom-meta-wrap><custom-meta><meta-name>Editor</meta-name><meta-value>Ian Osborne</meta-value></custom-meta><custom-meta><meta-name>Copyeditor</meta-name><meta-value>Jeff Cook</meta-value></custom-meta></custom-meta-wrap></article-meta>
+</front>
+<body>
+<p>The development of organic chromophores for nonlinear optical (NLO) applications has yielded advances in our understanding of how to optimize microscopic nonlinearities as a function of structure (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>, <xref ref-type="bibr" rid="R2"><italic>2</italic></xref>), to use chromophores with very large second-order polarizabilities for electro-optic switching (<xref ref-type="bibr" rid="R3"><italic>3</italic></xref>), and to achieve very large two-photon absorption (2PA) cross sections (<xref ref-type="bibr" rid="R4"><italic>4</italic></xref>). In contrast, third-order NLO chromophores with the characteristics necessary for low-power all-optical switching (AOS) in the telecommunications bands (1300 to 1550 nm) remain elusive (<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>). With recent developments in silicon-organic hybrid waveguide geometries (<xref ref-type="bibr" rid="R6"><italic>6</italic></xref>, <xref ref-type="bibr" rid="R7"><italic>7</italic></xref>), which provide a robust platform to make these applications feasible, the identification of optimal third-order NLO materials has become even more critical. Although structure-property guidelines have aided in the development of molecules with reasonably large third-order polarizabilities (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>), perhaps a greater obstacle is that most molecular materials examined to date exhibit unacceptable optical losses (<xref ref-type="bibr" rid="R9"><italic>9</italic></xref>&#x2013;<xref ref-type="bibr" rid="R11"><italic>11</italic></xref>) resulting from linear and/or nonlinear absorption (in particular, 2PA) as well as from scattering. It is relatively straightforward to avoid linear losses by working at energies well below that of the lowest-lying one-photon absorption (1PA) transition. However, addressing the issue of nonlinear loss presents much greater challenges, because 2PA can be appreciable at telecommunication wavelengths for materials with large third-order optical nonlinearities (<xref ref-type="bibr" rid="R10"><italic>10</italic></xref>, <xref ref-type="bibr" rid="R11"><italic>11</italic></xref>). Consequently, a challenge for AOS is to identify materials that possess good two-photon figures of merit (FOMs) (<xref ref-type="bibr" rid="R9"><italic>9</italic></xref>). At the molecular level, this implies that |Re(&#x03B3;)/Im(&#x03B3;)| &gt; 12 (<xref ref-type="bibr" rid="R12"><italic>12</italic></xref>), where Re(&#x03B3;) and Im(&#x03B3;) are the real and imaginary parts of the third-order polarizability, respectively.</p>
+<p>Although 2PA can be minimized in a similar manner to 1PA [i.e., one can work at photon energies (<italic>&#x0127;</italic>&#x03C9;) less than half the energy of the lowest-lying 2PA transition (<xref ref-type="bibr" rid="R7"><italic>7</italic></xref>) (<xref ref-type="fig" rid="F1">Fig. 1A</xref>)], the magnitude of Re(&#x03B3;) at this wavelength cannot reach its full potential. This is a consequence of a large energy-detuning term, &#x2206; = (<italic>E</italic> &#x2013; <italic>&#x0127;</italic>&#x03C9;), the reduction of which can lead to preresonant enhancement of &#x03B3; by well over an order of magnitude (<xref ref-type="bibr" rid="R13"><italic>13</italic></xref>). Although the detuning energy cannot be reduced indefinitely, because resonant excitation would eventually cause large linear losses, an alternative approach (<xref ref-type="fig" rid="F1">Fig. 1B</xref>) involves operating at photon energies near the lowest-lying 1PA transition, such that &#x03B3; can be preresonantly enhanced while twice the photon energy falls between the energies that would excite potentially detrimental 2PA. This latter approach requires a more careful molecular design strategy to achieve favorably spaced states and sufficiently narrow absorption features to minimize losses. We describe a series of efficient NLO molecules that satisfy these conditions and consequently possess very large nonresonant values of Re(&#x03B3;) and, for one member of the series, a ratio of |Re(&#x03B3;)/Im(&#x03B3;)| that exceeds 100 throughout the telecommunications spectral window from 1300 to 1550 nm.</p>
+<fig id="F1" position="float" fig-type="figure"><label>Fig. 1</label><caption>
+    <p>State energy schematics depicting conditions to avoid 2PA in organic chromophores. (<bold>A</bold>) Twice the excitation photon energy (2<italic>&#x0127;</italic>&#x03C9;) is less than the 2PA state energy (<italic>E</italic><sub>02</sub>). (<bold>B</bold>) <italic>&#x0127;</italic>&#x03C9; lies below <italic>E</italic><sub>01</sub> and 2<italic>&#x0127;</italic>&#x03C9; lies between two-photon state energies (<italic>E</italic><sub>02</sub> and <italic>E</italic><sub>03</sub>).</p>
+</caption><graphic xlink:href="327_1485_F1"></graphic></fig>
+<p>The linear and nonlinear polarizabilities of polyene and polymethine dyes have been shown to be highly correlated with the bond length alternation (BLA) between adjacent C&#x2013;C bonds in the conjugated chain (<xref ref-type="bibr" rid="R2"><italic>2</italic></xref>). The third-order polarizability shows two positive maxima as a function of BLA, but the largest magnitudes are associated with a negative peak in &#x03B3; at zero BLA (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>). Cyanine dyes possess vanishingly small BLA (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>), leading to &#x03B3; values that are dominated by the so-called N-term in the simplified perturbation theory expression for &#x03B3; (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>, <xref ref-type="bibr" rid="R2"><italic>2</italic></xref>, <xref ref-type="bibr" rid="R12"><italic>12</italic></xref>, <xref ref-type="bibr" rid="R13"><italic>13</italic></xref>), which suggests that they should possess the largest magnitude of &#x03B3; for a discrete polymethine molecule of a given chain length. Furthermore, this zero BLA and the associated broadened electronic potential energy surface (<xref ref-type="bibr" rid="R14"><italic>14</italic></xref>) allow cyanine-like dyes to be reasonably well described by simple free-electron theory (<xref ref-type="bibr" rid="R15"><italic>15</italic></xref>), giving rise to values of <italic>M</italic><sub>ge</sub> and 1/<italic>E</italic><sub>ge</sub> (the transition dipole moment and energy difference between the ground and excited state, respectively) that increase linearly with increasing conjugation length, <italic>L</italic> (<xref ref-type="bibr" rid="R15"><italic>15</italic></xref>). Given the strong dependence of the N-term on these values (&#x03B3;<sub>N</sub> &vprop; <italic>M</italic><sub>ge</sub><sup>4</sup>/<italic>E</italic><sub>ge</sub><sup>3</sup>), &#x03B3; is expected to exhibit a very steep power-law dependence on conjugation length. It has been shown experimentally that &#x03B3; evolves as <italic>L<sup>n</sup>,</italic> where <italic>n</italic> = 7 to 11, for different cyanine and cyanine-like systems (<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>, <xref ref-type="bibr" rid="R16"><italic>16</italic></xref>), implying that they are efficient NLO chromophores, particularly so when focusing on metrics such as nonlinearity per unit mass (<xref ref-type="bibr" rid="R17"><italic>17</italic></xref>) or number of &#x03C0;-electrons (<xref ref-type="bibr" rid="R18"><italic>18</italic></xref>).</p>
+<p>However, it has been shown both theoretically (<xref ref-type="bibr" rid="R19"><italic>19</italic></xref>) and experimentally (<xref ref-type="bibr" rid="R20"><italic>20</italic></xref>) that cyanine-type dyes are subject to a Peierls-type symmetry breaking at long chain lengths. Such a distortion leads to large deviations of BLA from zero, placing practical restrictions on the length of molecules in which one can achieve very large values of &#x03B3; (<xref ref-type="bibr" rid="R21"><italic>21</italic></xref>). Recently, we found that a bis(dioxaborine)-terminated anionic nonamethine (<bold>DOB-9C</bold>, <xref ref-type="fig" rid="F2">Fig. 2</xref>) resists symmetry breaking despite the reasonably long conjugation length and low-energy absorption (<xref ref-type="bibr" rid="R10"><italic>10</italic></xref>). Consequently, this chromophore exhibited sizable values of Re(&#x03B3;) (&#x2248; &#x2013;5 &#x00D7; 10<sup>&#x2212;32</sup> cm<sup>5</sup> statvolt<sup>2</sup> or esu) while maintaining a reasonable ratio of |Re(&#x03B3;)/Im(&#x03B3;)| (4 to 12) throughout the telecommunications spectral region.</p>
+<fig id="F2" position="float" fig-type="figure"><label>Fig. 2</label><caption>
+<p>Selenopyrylium- and bis(dioxaborine)-terminated polymethine dyes discussed in this study.</p>
+</caption><graphic xlink:href="327_1485_F2"></graphic></fig>
+<p>Another route for achieving large nonlinearities while avoiding symmetry breaking in polymethines is to adapt the energy terms to maximize Re(&#x03B3;) for a fixed conjugation length. This involves identifying cyanine-type dyes with absorptions that occur at low energy (small <italic>E</italic><sub>ge</sub>), even at moderate chain lengths, and are very strong (large <italic>M</italic><sub>ge</sub>). Although, to a first approximation, many polymethines meet these requirements, modification of the terminal groups in such systems can still profoundly affect the optical properties. An appropriate choice for a terminal group should provide good energy matching of terminal-group orbitals to those of both the highest occupied and lowest unoccupied &#x03C0;-orbitals of the polymethine bridge, as well as sufficient orbital overlap such that substantial mixing with the bridge &#x03C0;-electron wave function is possible. Thus, the terminal group could (i) participate effectively in extending the overall conjugation length, and (ii) increase the transition densities toward the periphery, thereby enhancing the transition dipole while maintaining a bridge of modest length that could help to prevent the onset of symmetry breaking. Heterocyclic end groups incorporating heavier chalcogens could enhance these properties, in part because of their moderate electronegativities and high polarizabilities; indeed, such end groups have been found to produce very low energy absorptions for a given chain length (<xref ref-type="bibr" rid="R22"><italic>22</italic></xref>). Accordingly, we synthesized (<xref ref-type="bibr" rid="R12"><italic>12</italic></xref>) selenopyrylium-terminated polymethines with varying bridge length, solubilizing 4-<italic>n-</italic>butylphenyl groups and tetrakis(3,5-bis(trifluoromethyl)phenyl)borate (BAr&#x2032;<sub>4</sub>) counterions (<xref ref-type="fig" rid="F2">Fig. 2</xref>), and characterized their third-order NLO properties.</p>
+<p>To assess the extent to which this choice of terminal group can afford large values of Re(&#x03B3;) at modest chain lengths, we compared the progression of <italic>E</italic><sub>ge</sub> and <italic>M</italic><sub>ge</sub> as a function of <italic>L</italic> for cyanine-like systems with various terminal units (fig. S5). Despite the variety of terminal groups sampled, the selenopyrylium-based systems were found to exhibit superior linear optical properties, particularly for short conjugation lengths. As shown in <xref ref-type="table" rid="T1">Table 1</xref>, the selenopyrylium-based dyes exhibit a strong bathochromic shift of their absorption bands with increasing length, typical of cyanines, and possess both very large transition dipole moments and low transition energies. These trends give no evidence of the onset of symmetry breaking, in contrast to other cyanine-like systems (<xref ref-type="bibr" rid="R20"><italic>20</italic></xref>) with longer polymethine chains but less favorable <italic>E</italic><sub>ge</sub> and <italic>M</italic><sub>ge</sub> values.</p>
+<table-wrap id="T1" position="float"><label>Table 1</label><caption>
+<p>Summary of linear and nonlinear optical properties of selenopyrylium polymethine chromophores shown in <xref ref-type="fig" rid="F2">Fig. 2</xref>. Linear and nonlinear optical properties were measured using solutions of the chromophores in chloroform.</p></caption>
+<table frame="void">
+<col width="12.44%" />
+<col width="12.78%" />
+<col width="10.95%" />
+<col width="16.44%" />
+<col width="12.76%" />
+<col width="16.44%" />
+<col width="18.19%" />
+<thead>
+<tr>
+<td valign="middle" align="center" scope="col"><bold>Molecule</bold></td>
+<td valign="middle" align="center" scope="col"><bold>Methine units</bold></td>
+<td valign="middle" align="center" scope="col"><bold>&#x03BB;<sub>max</sub> (nm)</bold></td>
+<td valign="middle" align="center" scope="col"><bold>&#x03B5;<sub>max</sub></bold>
+<break /><bold>(M<sup>&#x2212;1</sup> cm<sup>&#x2212;1</sup>)</bold></td>
+<td valign="middle" align="center" scope="col"><bold><italic>&#x039C;</italic><sub>ge</sub> (D)*</bold></td>
+<td valign="middle" align="center" scope="col"><bold>Re(&#x03B3;) (esu)&#x2020;</bold></td>
+<td valign="middle" align="center" scope="col"><bold>|Re(&#x03B3;)/Im(&#x03B3;)|&#x2020;</bold></td></tr></thead>
+<tbody>
+<tr>
+<td valign="middle" align="center" scope="row"><bold>Se-3C</bold></td>
+<td valign="middle" align="center">3</td>
+<td valign="middle" align="center">750</td>
+<td valign="middle" align="center">3.00 &#x00D7; 10<sup>5</sup></td>
+<td valign="middle" align="center">12.7</td>
+<td valign="middle" align="center">&#x2013;2.8 &#x00D7; 10<sup>&#x2212;33</sup></td>
+<td valign="middle" align="center">3.9</td></tr>
+<tr>
+<td valign="middle" align="center" scope="row"><bold>Se-5C</bold></td>
+<td valign="middle" align="center">5</td>
+<td valign="middle" align="center">946</td>
+<td valign="middle" align="center">3.60 &#x00D7; 10<sup>5</sup></td>
+<td valign="middle" align="center">16.4</td>
+<td valign="middle" align="center">&#x2013;2.3 &#x00D7; 10<sup>&#x2212;32</sup></td>
+<td valign="middle" align="center">95</td></tr>
+<tr>
+<td valign="middle" align="center" scope="row"><bold>Se-7C</bold></td>
+<td valign="middle" align="center">7</td>
+<td valign="middle" align="center">1081</td>
+<td valign="middle" align="center">3.90 &#x00D7; 10<sup>5</sup></td>
+<td valign="middle" align="center">19.4</td>
+<td valign="middle" align="center">&#x2013;2.2 &#x00D7; 10<sup>&#x2212;31</sup></td>
+<td valign="middle" align="center">190</td></tr></tbody></table>
+<table-wrap-foot>
+<p>*Obtained from integration of the absorption spectra (in debyes, D) as <italic>M</italic><sub>ge</sub> = 0.9584(&#x222B;&#x03B5;<italic> d&#x03BD;/&#x03BD;</italic><sub>max</sub>)<sup>0.5</sup>, where &#x03B5; is in M<sup>&#x2013;1</sup> cm<sup>&#x2013;1</sup> and &#x03BD; is in cm<sup>&#x2013;1</sup>.    &#x2020;Measurements performed using the femtosecond-pulsed Z-scan technique at &#x03BB;<sub>exc</sub> = 1300 nm. Experimental uncertainties were estimated to be &#x00B1;10%. Additional results for the spectral range 880 to 1940 nm are given in table S2.</p>
+</table-wrap-foot></table-wrap>
+<p>To further investigate the role Se plays in the linear and NLO properties of these systems, we performed quantum chemical calculations [symmetry adapted cluster/symmetry adapted cluster&#x2013;configuration interaction (SAC/SAC-CI) method] on model polymethines with selenium incorporated into the terminal pyrylium rings. Placing the polarizable chalcogens in the 4-position of the heterocycle was found to result in appreciable electron density in the frontier molecular orbitals of the terminal groups (fig. S3), indicating a sizable electronic mixing of the chalcogen p-orbitals with the relevant molecular orbitals of the &#x03C0;-system. The calculated magnitudes of <italic>E</italic><sub>ge</sub> and <italic>M</italic><sub>ge</sub> are comparable to the corresponding experimental values, and their evolution with molecular length (three, five, and seven methines) is also consistent with experiment. Finally, the calculated values of &#x03B3; (zero-frequency limit) scale in the expected manner, given the progression of the calculated linear optical properties and the dominance of the N-term discussed above. The observations (table S1) are consistent with the notions outlined above for the use of selenopyrylium terminal groups to increase &#x03B3; for a fixed conjugation length.</p>
+<p>We investigated the third-order NLO optical properties of the selenopyrylium-based dyes in chloroform solution, using the femtosecond-pulsed Z-scan technique [to determine Im(&#x03B3;) and Re(&#x03B3;)] and degenerate four-wave mixing (DFWM, to determine |&#x03B3;| and its temporal response) at several near-infrared wavelengths. The nonlinear optical properties of the compounds at 1300 nm are summarized in <xref ref-type="table" rid="T1">Table 1</xref>. Note that Re(&#x03B3;) increases by an order of magnitude with the addition of each vinylene group, leading to an exceptionally large negative value of &#x2013;2.2 &#x00D7; 10<sup>&#x2212;31</sup> esu for <bold>Se-7C</bold>. Calculations using the simplified expression for &#x03B3; and the linear optical properties in <xref ref-type="table" rid="T1">Table 1</xref> indicate that these very large negative contributions to Re(&#x03B3;) can be predicted and result from strong preresonance enhancement (table S3). Despite this enhancement, the temporal response of &#x03B3; remains ultrafast as indicated by time-resolved DFWM measurements (fig. S7), a critical characteristic for performance in AOS applications. These magnitudes of Re(&#x03B3;) compare very favorably to those reported for other organic systems in this spectral region (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>), including those for <bold>DOB-9C</bold> (<xref ref-type="bibr" rid="R10"><italic>10</italic></xref>), polarized carotenoids (<xref ref-type="bibr" rid="R23"><italic>23</italic></xref>), and a series of donor-acceptor substituted molecules shown to be highly efficient as measured by nonlinearity per unit mass (<xref ref-type="bibr" rid="R17"><italic>17</italic></xref>). A bis(porphyrin-ethynyl) carbocation (<xref ref-type="bibr" rid="R24"><italic>24</italic></xref>) possesses a comparable Re(&#x03B3;) at 1550 nm; however, this is accompanied by a relatively poor |Re(&#x03B3;)/Im(&#x03B3;)| ~ 4, due to large 2PA that leads to appreciable loss. In contrast, <bold>Se-5C</bold> and <bold>Se-7C</bold> exhibit exceptional values of |Re(&#x03B3;)/Im(&#x03B3;)| &gt;&gt; 12 at 1300 nm. <xref ref-type="fig" rid="F3">Figure 3A</xref> illustrates the dispersion of |Re(&#x03B3;)/Im(&#x03B3;)| from 1300 to 1550 nm for all the compounds shown in <xref ref-type="fig" rid="F2">Fig. 2</xref>. <bold>Se-5C</bold> exhibits a ratio at 1300 nm of nearly 100, whereas <bold>Se-7C</bold> possesses similarly large values but maintains this over the entire spectral region of interest (<xref ref-type="bibr" rid="R25"><italic>25</italic></xref>). These ratios dwarf those of <bold>DOB-9C</bold>, a system previously reported to show promise in terms of good two-photon FOMs (<xref ref-type="bibr" rid="R10"><italic>10</italic></xref>).</p>
+<fig id="F3" position="float" fig-type="figure"><label>Fig. 3</label><caption>
+<p>Plots of the dispersion of |Re(&#x03B3;)/Im(&#x03B3;)| for compounds listed in Fig. 2. (<bold>A</bold>) Values experimentally determined from femtosecond-pulsed Z-scan measurements (experimental uncertainties estimated to be &#x00B1;10%). (<bold>B</bold>) Values calculated from simplified perturbation theory expression for &#x03B3; with experimentally determined 1PA and 2PA data. The shaded region in (B) highlights the spectral region shown in (A).</p>
+</caption><graphic xlink:href="327_1485_F3"></graphic></fig>
+<p>The two-photon FOMs indicate that detrimental 2PA can be avoided in selenopyrylium polymethines, presumably as a result of energetics as shown in <xref ref-type="fig" rid="F1">Fig. 1B</xref>. To determine the positions of the two-photon resonances in these polymethines, we measured nondegenerate 2PA spectra for all the dyes in solution (<xref ref-type="fig" rid="F4">Fig. 4</xref>). A salient feature is that all spectra exhibit a favorable region over which 2PA is relatively weak; this low-loss window appears to be tunable simply by modifying the position of <italic>E</italic><sub>01</sub> (or, equivalently, molecular length). These observations result from a combination of characteristics that is unique to cyanine-like dyes. As is typical for cyanines (<xref ref-type="bibr" rid="R26"><italic>26</italic></xref>), the 2PA transitions lie at <italic>E</italic><sub>02</sub> &#x2248; 1.1 &#x00D7; <italic>E</italic><sub>01</sub> and <italic>E</italic><sub>03</sub> &#x2248; 1.7 &#x00D7; <italic>E</italic><sub>01</sub>, leading to a large energy gap between these resonances. The bands are also reasonably narrow, likely because of (nearly) identical ground- and excited-state equilibrium geometries (<xref ref-type="bibr" rid="R14"><italic>14</italic></xref>). In comparison, 2PA spectra can be substantially broader for dipolar-type compounds that have rather different ground- and excited-state equilibrium geometries (<xref ref-type="bibr" rid="R27"><italic>27</italic></xref>). The strengths of the 2PA transitions in the polymethine systems are also modest. The lower-lying transition (<italic>E</italic><sub>02</sub>) is typically relatively weak, as it is ascribed to vibronically assisted 2PA (<xref ref-type="bibr" rid="R26"><italic>26</italic></xref>, <xref ref-type="bibr" rid="R28"><italic>28</italic></xref>) that accesses a state which would otherwise be 2PA-forbidden. The moderate activity of the higher-lying two-photon state (<italic>E</italic><sub>03</sub>) is a consequence of relatively small values of <italic>M</italic><sub>ee&#x2032;</sub> (&lt;4 D; see fig. S8). The importance of this observation is apparent when contrasted to squaraine molecules, which bear a number a similarities to cyanines but differ in possessing large values of <italic>M</italic><sub>ee&#x2032;</sub> (&gt;16 D) and therefore exhibit peak two-photon absorptivities more than 30 times those of cyanines (<xref ref-type="bibr" rid="R29"><italic>29</italic></xref>). Using these 2PA spectra and the linear optical properties given in <xref ref-type="table" rid="T1">Table 1</xref>, we determined the dispersion of |Re(&#x03B3;)/Im(&#x03B3;)| according to the simplified perturbation theory expression (<xref ref-type="bibr" rid="R12"><italic>12</italic></xref>) (<xref ref-type="fig" rid="F3">Fig. 3B</xref>). The theory accurately reproduces the experimentally determined values shown in <xref ref-type="fig" rid="F3">Fig. 3A</xref> and clearly illustrates both the broadness (~300 nm) and tunability of the favorable two-photon FOM window.</p>
+<fig id="F4" position="float" fig-type="figure"><label>Fig. 4</label><caption>
+<p>Nondegenerate 2PA spectra for solutions of compounds listed in <xref ref-type="fig" rid="F2">Fig. 2</xref> dissolved in chloroform: (<bold>A</bold>) <bold>Se-3C</bold>, (<bold>B</bold>) <bold>Se-5C</bold>, (<bold>C</bold>) <bold>Se-7C</bold>, and (<bold>D</bold>) <bold>DOB-9C</bold>. Different pump wavelengths (as indicated in each panel) were used to observe the full ND-2PA spectra. Solid circles are degenerate 2PA (D-2PA) cross sections derived from femtosecond-pulsed Z-scan measurements. 1 GM is defined as 1 &#x00D7; 10<sup>&#x2212;50</sup> cm<sup>4</sup> s photon<sup>&#x2212;1</sup>. Experimental uncertainties in the values were estimated to be &#x00B1;10%. Linear absorption spectra are shown as references.</p>
+</caption><graphic xlink:href="327_1485_F4"></graphic></fig>
+<p>Our strategy provides a route to appreciable enhancement of the third-order polarizability and two-photon FOMs of organic chromophores for AOS. Materials with high chromophore density that are also photochemically robust are required if such chromophores are to be incorporated into devices for photonic applications. However, the molecular design flexibility afforded by cyanine-like chromophores should provide pathways to address this and other issues. Consequently, our results have important implications for the design of a new generation of materials that could enable AOS with low power and high contrast.</p>
+</body>
+<back>
+<app-group>
+<app>
+<title>Supporting Online Material</title>
+<supplementary-material>
+<p><ext-link ext-link-type="uri" xlink:href="http://www.sciencemag.org/cgi/content/full/science.1185117/DC1">www.sciencemag.org/cgi/content/full/science.1185117/DC1</ext-link></p>
+<p>Materials and Methods</p>
+<p>SOM Text</p>
+<p>Figs. S1 to S8</p>
+<p>Tables S1 to S4</p>
+<p>References</p>
+</supplementary-material></app></app-group>
+<ref-list>
+<title>References and Notes</title>
+<ref id="R1"><label>1</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Marder</surname><given-names>S. R.</given-names></name><etal /></person-group>., 
+<article-title>Relation between bond-length alternation and second electronic hyperpolarizability of conjugated organic molecules</article-title>. 
+<source>Science</source> 
+<volume>261</volume>, 
+<fpage>186</fpage> (<year>1993</year>). 
+<pub-id pub-id-type="doi">10.1126/science.261.5118.186</pub-id>
+<pub-id pub-id-type="pmid">17829273</pub-id></citation></ref>
+<ref id="R2"><label>2</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Meyers</surname><given-names>F.</given-names></name><name><surname>Marder</surname><given-names>S. R.</given-names></name><name><surname>Pierce</surname><given-names>B. M.</given-names></name><name><surname>Br&#x00E9;das</surname><given-names>J. L.</given-names></name></person-group>, 
+<article-title>Electric field modulated nonlinear optical properties of donor-acceptor polyenes: Sum-over-states investigation of the relationship between molecular polarizabilities (alpha, beta, and gamma) and bond length alternation</article-title>. 
+<source>J. Am. Chem. Soc.</source> 
+<volume>116</volume>, 
+<fpage>10703</fpage> (<year>1994</year>). 
+<pub-id pub-id-type="doi">10.1021/ja00102a040</pub-id></citation></ref>
+<ref id="R3"><label>3</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Kim</surname><given-names>T.-D.</given-names></name><etal /></person-group>., 
+<article-title>Ultralarge and thermally stable electro-optic activities from supramolecular self-assembled molecular glasses</article-title>. 
+<source>J. Am. Chem. Soc.</source> 
+<volume>129</volume>, 
+<fpage>488</fpage> (<year>2007</year>). 
+<pub-id pub-id-type="doi">10.1021/ja067970s</pub-id>
+<pub-id pub-id-type="pmid">17227001</pub-id></citation></ref>
+<ref id="R4"><label>4</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Rumi</surname><given-names>M.</given-names></name><etal /></person-group>., 
+<article-title>Structure-property relationships for two-photon absorbing chromophores:&#x00A0;Bis-donor diphenylpolyene and bis(styryl)benzene derivatives</article-title>. 
+<source>J. Am. Chem. Soc.</source> 
+<volume>122</volume>, 
+<fpage>9500</fpage> (<year>2000</year>). 
+<pub-id pub-id-type="doi">10.1021/ja994497s</pub-id></citation></ref>
+<ref id="R5"><label>5</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Br&#x00E9;das</surname><given-names>J.-L.</given-names></name><name><surname>Adant</surname><given-names>C.</given-names></name><name><surname>Tackx</surname><given-names>P.</given-names></name><name><surname>Persoons</surname><given-names>A.</given-names></name><name><surname>Pierce</surname><given-names>B. M.</given-names></name></person-group>, 
+<article-title>Third-order nonlinear optical response in organic materials: Theoretical and experimental aspects</article-title>. 
+<source>Chem. Rev.</source> 
+<volume>94</volume>, 
+<fpage>243</fpage> (<year>1994</year>). 
+<pub-id pub-id-type="doi">10.1021/cr00025a008</pub-id></citation></ref>
+<ref id="R6"><label>6</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Hochberg</surname><given-names>M.</given-names></name><etal /></person-group>., 
+<article-title>Terahertz all-optical modulation in a silicon-polymer hybrid system</article-title>. 
+<source>Nat. Mater.</source> 
+<volume>5</volume>, 
+<fpage>703</fpage> (<year>2006</year>). 
+<pub-id pub-id-type="doi">10.1038/nmat1719</pub-id>
+<pub-id pub-id-type="pmid">16921359</pub-id></citation></ref>
+<ref id="R7"><label>7</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Koos</surname><given-names>C.</given-names></name><etal /></person-group>., 
+<article-title>All-optical high-speed signal processing with silicon-organic hybrid slot waveguides</article-title>. 
+<source>Nat. Photonics</source> 
+<volume>3</volume>, 
+<fpage>216</fpage> (<year>2009</year>). 
+<pub-id pub-id-type="doi">10.1038/nphoton.2009.25</pub-id></citation></ref>
+<ref id="R8"><label>8</label><citation citation-type="book">J. M. Hales, J. W. Perry, in <italic>Introduction to Organic Electronic and Optoelectronic Materials and Devices,</italic> S.-S. Sun, L. Dalton, Eds. (CRC Press, Orlando, FL, 2008), pp. 521&#x2013;579.</citation></ref>
+<ref id="R9"><label>9</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Mizrahi</surname><given-names>V.</given-names></name><name><surname>Delong</surname><given-names>K. W.</given-names></name><name><surname>Stegeman</surname><given-names>G. I.</given-names></name><name><surname>Saifi</surname><given-names>M. A.</given-names></name><name><surname>Andrejco</surname><given-names>M. J.</given-names></name></person-group>, 
+<article-title>Two-photon absorption as a limitation to all-optical switching</article-title>. 
+<source>Opt. Lett.</source> 
+<volume>14</volume>, 
+<fpage>1140</fpage> (<year>1989</year>). 
+<pub-id pub-id-type="doi">10.1364/OL.14.001140</pub-id>
+<pub-id pub-id-type="pmid">19753081</pub-id></citation></ref>
+<ref id="R10"><label>10</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Hales</surname><given-names>J. M.</given-names></name><name><surname>Zheng</surname><given-names>S.</given-names></name><name><surname>Barlow</surname><given-names>S.</given-names></name><name><surname>Marder</surname><given-names>S. R.</given-names></name><name><surname>Perry</surname><given-names>J. W.</given-names></name></person-group>, 
+<article-title>Bisdioxaborine polymethines with large third-order nonlinearities for all-optical signal processing</article-title>. 
+<source>J. Am. Chem. Soc.</source> 
+<volume>128</volume>, 
+<fpage>11362</fpage> (<year>2006</year>). 
+<pub-id pub-id-type="doi">10.1021/ja063535m</pub-id>
+<pub-id pub-id-type="pmid">16939253</pub-id></citation></ref>
+<ref id="R11"><label>11</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Polyakov</surname><given-names>S.</given-names></name><name><surname>Yoshino</surname><given-names>F.</given-names></name><name><surname>Liu</surname><given-names>M.</given-names></name><name><surname>Stegeman</surname><given-names>G.</given-names></name></person-group>, 
+<article-title>Nonlinear refraction and multiphoton absorption in polydiacetylenes from 1200 to 2200 nm</article-title>. 
+<source>Phys. Rev. B</source> 
+<volume>69</volume>, 
+<fpage>115421</fpage> (<year>2004</year>). 
+<pub-id pub-id-type="doi">10.1103/PhysRevB.69.115421</pub-id></citation></ref>
+<ref id="R12">
+<note><label>12</label><p>See supporting material on <italic>Science</italic> Online.</p>
+</note></ref>
+<ref id="R13"><label>13</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Kogej</surname><given-names>T.</given-names></name><etal /></person-group>., 
+<article-title>Mechanisms for enhancement of two-photon absorption in donor-acceptor conjugated chromophores</article-title>. 
+<source>Chem. Phys. Lett.</source> 
+<volume>298</volume>, 
+<fpage>1</fpage> (<year>1998</year>). 
+<pub-id pub-id-type="doi">10.1016/S0009-2614(98)01196-8</pub-id></citation></ref>
+<ref id="R14"><label>14</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Lu</surname><given-names>D. Q.</given-names></name><name><surname>Chen</surname><given-names>G. H.</given-names></name><name><surname>Perry</surname><given-names>J. W.</given-names></name><name><surname>Goddard</surname><given-names>W. A.</given-names></name></person-group>, 
+<article-title>Valence-bond charge-transfer model for nonlinear optical properties of charge-transfer organic molecules</article-title>. 
+<source>J. Am. Chem. Soc.</source> 
+<volume>116</volume>, 
+<fpage>10679</fpage> (<year>1994</year>). 
+<pub-id pub-id-type="doi">10.1021/ja00102a037</pub-id></citation></ref>
+<ref id="R15"><label>15</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Kuhn</surname><given-names>H.</given-names></name></person-group>, 
+<article-title>A quantum-mechanical theory of light absorption of organic dyes and similar compounds</article-title>. 
+<source>J. Chem. Phys.</source> 
+<volume>17</volume>, 
+<fpage>1198</fpage> (<year>1949</year>). 
+<pub-id pub-id-type="doi">10.1063/1.1747143</pub-id></citation></ref>
+<ref id="R16"><label>16</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Hermann</surname><given-names>J. P.</given-names></name></person-group>, 
+<article-title>Non-linear susceptibilities of cyanine dyes. Application to frequency tripling</article-title>. 
+<source>Opt. Commun.</source> 
+<volume>12</volume>, 
+<fpage>102</fpage> (<year>1974</year>). 
+<pub-id pub-id-type="doi">10.1016/0030-4018(74)90083-2</pub-id></citation></ref>
+<ref id="R17"><label>17</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>May</surname><given-names>J. C.</given-names></name><etal /></person-group>., 
+<article-title>Highly efficient third-order optical nonlinearities in donor-substituted cyanoethynylethene molecules</article-title>. 
+<source>Opt. Lett.</source> 
+<volume>30</volume>, 
+<fpage>3057</fpage> (<year>2005</year>). 
+<pub-id pub-id-type="doi">10.1364/OL.30.003057</pub-id>
+<pub-id pub-id-type="pmid">16315720</pub-id></citation></ref>
+<ref id="R18"><label>18</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Kuzyk</surname><given-names>M. G.</given-names></name></person-group>, 
+<article-title>Fundamental limits on third-order molecular susceptibilities</article-title>. 
+<source>Opt. Lett.</source> 
+<volume>25</volume>, 
+<fpage>1183</fpage> (<year>2000</year>). 
+<pub-id pub-id-type="doi">10.1364/OL.25.001183</pub-id>
+<pub-id pub-id-type="pmid">18066161</pub-id></citation></ref>
+<ref id="R19"><label>19</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Craw</surname><given-names>J. S.</given-names></name><name><surname>Reimers</surname><given-names>J. R.</given-names></name><name><surname>Bacskay</surname><given-names>G. B.</given-names></name><name><surname>Wong</surname><given-names>A. T.</given-names></name><name><surname>Hush</surname><given-names>N. S.</given-names></name></person-group>, 
+<article-title>Solitons in finite- and infinite-length negative-defect trans-polyacetylene and the corresponding Brooker (polymethinecyanine) cations. I. Geometry</article-title>. 
+<source>Chem. Phys.</source> 
+<volume>167</volume>, 
+<fpage>77</fpage> (<year>1992</year>). 
+<pub-id pub-id-type="doi">10.1016/0301-0104(92)80024-P</pub-id></citation></ref>
+<ref id="R20"><label>20</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Tolbert</surname><given-names>L. M.</given-names></name><name><surname>Zhao</surname><given-names>X.</given-names></name></person-group>, 
+<article-title>Beyond the cyanine limit:&#x00A0;Peierls distortion and symmetry collapse in a polymethine dye</article-title>. 
+<source>J. Am. Chem. Soc.</source> 
+<volume>119</volume>, 
+<fpage>3253</fpage> (<year>1997</year>). 
+<pub-id pub-id-type="doi">10.1021/ja9626953</pub-id></citation></ref>
+<ref id="R21"><label>21</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Gorman</surname><given-names>C. B.</given-names></name><name><surname>Marder</surname><given-names>S. R.</given-names></name></person-group>, 
+<article-title>Effect of molecular polarization on bond-length alternation, linear polarizability, first and second hyperpolarizability in donor-acceptor polyenes as a function of chain length</article-title>. 
+<source>Chem. Mater.</source> 
+<volume>7</volume>, 
+<fpage>215</fpage> (<year>1995</year>). 
+<pub-id pub-id-type="doi">10.1021/cm00049a033</pub-id></citation></ref>
+<ref id="R22"><label>22</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Kachkovski</surname><given-names>A. D.</given-names></name><etal /></person-group>., 
+<article-title>Electronic energy levels and electron donor ability of &#x03B3;-pyrylocyanines and their heteroanalogues</article-title>. 
+<source>Dyes Pigments</source> 
+<volume>5</volume>, 
+<fpage>295</fpage> (<year>1984</year>). 
+<pub-id pub-id-type="doi">10.1016/0143-7208(84)80023-6</pub-id></citation></ref>
+<ref id="R23"><label>23</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Marder</surname><given-names>S. R.</given-names></name><etal /></person-group>., 
+<article-title>Large molecular third-order optical nonlinearities in polarized carotenoids</article-title>. 
+<source>Science</source> 
+<volume>276</volume>, 
+<fpage>1233</fpage> (<year>1997</year>). 
+<pub-id pub-id-type="doi">10.1126/science.276.5316.1233</pub-id>
+<pub-id pub-id-type="pmid">9157876</pub-id></citation></ref>
+<ref id="R24"><label>24</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Thorley</surname><given-names>K. J.</given-names></name><name><surname>Hales</surname><given-names>J. M.</given-names></name><name><surname>Anderson</surname><given-names>H. L.</given-names></name><name><surname>Perry</surname><given-names>J. W.</given-names></name></person-group>, 
+<article-title>Porphyrin dimer carbocations with strong near infrared absorption and third-order optical nonlinearity</article-title>. 
+<source>Angew. Chem. Int. Ed.</source> 
+<volume>47</volume>, 
+<fpage>7095</fpage> (<year>2008</year>). 
+<pub-id pub-id-type="doi">10.1002/anie.200802687</pub-id></citation></ref>
+<ref id="R25">
+<note><label>25</label><p>It was also found that a 7-carbon polymethine with thiopyrylium terminal groups (<bold>S-7C</bold>) exhibited slightly lower nonlinearities but comparable two-photon FOMs to <bold>Se-7C</bold> (Table S3).</p>
+</note></ref>
+<ref id="R26"><label>26</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Fu</surname><given-names>J.</given-names></name><etal /></person-group>., 
+<article-title>Molecular structure&#x2014;two-photon absorption property relations in polymethine dyes</article-title>. 
+<source>J. Opt. Soc. Am. B</source> 
+<volume>24</volume>, 
+<fpage>56</fpage> (<year>2007</year>). 
+<pub-id pub-id-type="doi">10.1364/JOSAB.24.000056</pub-id></citation></ref>
+<ref id="R27"><label>27</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Beverina</surname><given-names>L.</given-names></name><etal /></person-group>., 
+<article-title>Two-photon absorption at telecommunications wavelengths in a dipolar chromophore with a pyrrole auxiliary donor and thiazole auxiliary acceptor</article-title>. 
+<source>J. Am. Chem. Soc.</source> 
+<volume>127</volume>, 
+<fpage>7282</fpage> (<year>2005</year>). 
+<pub-id pub-id-type="doi">10.1021/ja050688l</pub-id>
+<pub-id pub-id-type="pmid">15898755</pub-id></citation></ref>
+<ref id="R28"><label>28</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Scherer</surname><given-names>D.</given-names></name><etal /></person-group>., 
+<article-title>Two-photon states in squaraine monomers and oligomers</article-title>. 
+<source>Chem. Phys.</source> 
+<volume>279</volume>, 
+<fpage>179</fpage> (<year>2002</year>). 
+<pub-id pub-id-type="doi">10.1016/S0301-0104(02)00384-1</pub-id></citation></ref>
+<ref id="R29"><label>29</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Chung</surname><given-names>S. J.</given-names></name><etal /></person-group>., 
+<article-title>Extended squaraine dyes with large two-photon absorption cross-sections</article-title>. 
+<source>J. Am. Chem. Soc.</source> 
+<volume>128</volume>, 
+<fpage>14444</fpage> (<year>2006</year>). 
+<pub-id pub-id-type="doi">10.1021/ja065556m</pub-id>
+<pub-id pub-id-type="pmid">17090012</pub-id></citation></ref></ref-list>
+<ack><label>30</label><p>This material is based on work supported in part by the Science and Technology Centers Program of NSF under agreement DMR-0120967, the Defense Advanced Research Projects Agency (DARPA) MORPH Program and Office of Naval Research (N00014-04-0095 and N00014-06-1-0897), and the DARPA ZOE Program (W31P4Q-09-1-0012). We thank W. Hermann for helpful discussions and corroborative nonlinear optical characterization measurements.</p>
+</ack></back>
+</article>

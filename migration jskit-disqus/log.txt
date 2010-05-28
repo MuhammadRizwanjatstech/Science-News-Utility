@@ -1,0 +1,43 @@
+Disqus forum prepped: News Dev 3
+BeautifulSoup xml parser prepped.
+Parsing threads from input file...
+1 threads:
+    Thread: /sciencenow/2010/03/no-sexual-confusion-for-chicken.html
+    3 comments:
+    i=0, len(jskcomments)=3
+    Parent id: jsid-1268345421-115
+    j=0
+    Match? jsid-1268699935-69
+    j=1
+    Match? jsid-1268345421-115
+    i=1, len(jskcomments)=3
+    Parent id: jsid-1268316350-548
+    j=0
+    Match? jsid-1268699935-69
+    j=1
+    Match? jsid-1268345421-115
+    j=2
+    Match? jsid-1268316350-548
+    i=2, len(jskcomments)=3
+    i=0, len(jskcomments)=2
+    Parent id: jsid-1268345421-115
+    j=0
+    Match? jsid-1268699935-69
+    j=1
+    Match? jsid-1268345421-115
+    i=1, len(jskcomments)=2
+    Parent id: jsid-1268316350-548
+    j=0
+    Match? jsid-1268699935-69
+    j=1
+    Match? jsid-1268345421-115
+    i=0, len(jskcomments)=1
+    Parent id: jsid-1268345421-115
+    j=0
+    Match? jsid-1268699935-69
+        JSK Comment. Author: D. H. | IP: 68.205.254.243
+        JSK Comment. Author: Ron | IP: 144.92.132.175
+        JSK Comment. Author: Jake | IP: 68.193.122.21
+Processing complete.
+Detected (in import file): 3 comments; 1 threads.
+Created: 3 comments; 1 threads.

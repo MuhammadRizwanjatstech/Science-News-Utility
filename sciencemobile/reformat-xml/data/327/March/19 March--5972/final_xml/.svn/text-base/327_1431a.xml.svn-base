@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="article-commentary" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title>
+<issn pub-type="ppub">0036-8075</issn>
+<issn pub-type="epub">1095-9203</issn>
+<publisher>
+<publisher-name>American Association for the Advancement of Science</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>Editors' Choice</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Editors' Choice</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>twil</subject></subj-group>
+<subj-group subj-group-type="overline"><subject>Infectious Disease</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Grounding Mosquitoes for Dengue Control</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="editor"><name><surname>Hurtley</surname><given-names>Stella</given-names></name></contrib>
+<contrib contrib-type="editor"><name><surname>Yeston</surname><given-names>Jake</given-names></name></contrib>
+<contrib contrib-type="author"><name><surname>Jasny</surname><given-names>Barbara R.</given-names></name></contrib>
+</contrib-group>
+<pub-date pub-type="ppub">
+<day>19</day>
+<month>03</month>
+<year>2010</year>
+</pub-date>
+<volume>327</volume>
+<issue>5972</issue>
+<fpage seq="a">1431</fpage>
+<lpage>1431</lpage>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2010, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2010</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<self-uri xlink:title="pdf" xlink:href="twil.pdf" />
+</article-meta>
+</front>
+<body>
+<fig id="F1" position="anchor">
+<graphic xlink:href="327_1431a_F1"></graphic>
+<attrib>CREDIT: FU <italic>ET AL., PROC. NATL. ACAD. SCI. U.S.A.</italic> 10.1073/PNAS.1000251107 (2010)</attrib>
+</fig>
+<p>Dengue fever affects 50 to 100 million people each year and can be accompanied by symptoms so severe that it has been called &#x201C;breakbone fever.&#x201D; It is caused by a virus carried by the mosquito <italic>Aedes aegypti</italic>. There is no vaccine or specific therapeutic drug for dengue fever, and control efforts are complicated by the fact that the female mosquitoes (which bite) are active during the entire day. An active area of investigation in fighting insect vectors has been the possibility of generating sterile or conditional lethal varieties. Now, Fu <italic>et al.</italic> have created flightless female <italic>A. aegypti</italic> by linking the promoter of a gene, <italic>Actin-4</italic> (which is found in the indirect flight muscles of female <italic>A. aegypti</italic>), to a tetracycline-repressible transactivator construct. Because of differential alternative splicing, males are unaffected. The flightless females should be more susceptible to predators and unable to attract males with their wing oscillation sounds for mating. It should be possible to distribute engineered eggs, which might then control or eradicate infected mosquito populations by a release of transgenic males&#x2014;whose female progeny would be flightless.</p>
+<p><italic>Proc. Natl. Acad. Sci. U.S.A.</italic> 10.1073/pnas.1000251107 (2010).</p>
+</body>
+</article>

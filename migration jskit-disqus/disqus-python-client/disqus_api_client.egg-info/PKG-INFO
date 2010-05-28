@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: disqus-api-client
+Version: 0.1
+Summary: Disqus API Client
+Home-page: http://code.google.com/p/disqus-python-client/
+Author: Ian Lewis
+Author-email: IanLewis@member.fsf.org
+License: MIT License
+Description: A Disqus (http://www.disqus.com/) API client written in python.
+Platform: any

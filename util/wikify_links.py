@@ -1,16 +1,15 @@
+#! /usr/bin/env python
 from BeautifulSoup import BeautifulSoup
 import codecs
+import re
 
-f=open('data.txt', 'r')
+f=open('news templates.html', 'r')
 soup = BeautifulSoup(f)
 
-links = soup.findAll(['a', 'p', 'h1', 'h2'])
+links = soup.findAll('td',{'class':re.compile('.*(template-name|widgetmanager-name).*')})
 
 for x in links:
-    #if x.name == 'h2':
-     #   print '====='+x.contents[0]+'======'
-    if x.name == 'a':
-        print '  * [[' + x['href'] + '|'+x.contents[0].encode('utf-8')+']]'
-    else:
-        print x.contents[0].encode('utf-8')
-    #print '[['.x['href'].'|'.(x.contents)
+    anchor = x.a
+    if anchor:
+        print '  * [[http://news.sciencemag.org'+anchor['href']+'|'+anchor.string+']]'
+

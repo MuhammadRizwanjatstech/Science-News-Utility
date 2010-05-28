@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="research-article" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title><issn pub-type="ppub">0036-8075</issn><issn pub-type="epub">1095-9203</issn>
+<publisher><publisher-name>American Association for the Advancement of Science</publisher-name></publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">1185468</article-id>
+<article-id pub-id-type="doi">10.1126/science.1185468</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>Report</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Reports</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>reports</subject></subj-group>
+<subj-group subj-group-type="field"><subject>ECOLOGY</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Unicellular Cyanobacterial Distributions Broaden the Oceanic N<sub>2</sub> Fixation Domain</article-title>
+</title-group>
+<contrib-group><contrib contrib-type="author" corresp="yes"><name><surname>Moisander</surname><given-names>Pia H.</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="corresp" rid="cor1">*</xref></contrib><contrib contrib-type="author"><name><surname>Beinart</surname><given-names>Roxanne A.</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="fn" rid="afn1">&#x2020;</xref></contrib><contrib contrib-type="author"><name><surname>Hewson</surname><given-names>Ian</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="fn" rid="afn2">&#x2021;</xref></contrib><contrib contrib-type="author"><name><surname>White</surname><given-names>Angelicque E.</given-names></name><xref ref-type="aff" rid="aff2"><sup>2</sup></xref></contrib><contrib contrib-type="author"><name><surname>Johnson</surname><given-names>Kenneth S.</given-names></name><xref ref-type="aff" rid="aff3"><sup>3</sup></xref></contrib><contrib contrib-type="author"><name><surname>Carlson</surname><given-names>Craig A.</given-names></name><xref ref-type="aff" rid="aff4"><sup>4</sup></xref></contrib><contrib contrib-type="author"><name><surname>Montoya</surname><given-names>Joseph P.</given-names></name><xref ref-type="aff" rid="aff5"><sup>5</sup></xref></contrib><contrib contrib-type="author"><name><surname>Zehr</surname><given-names>Jonathan P.</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib>
+<aff id="aff1"><label>1</label>Department of Ocean Sciences, University of California Santa Cruz, 1156 High Street, Santa Cruz, CA 95064, USA.</aff>
+<aff id="aff2"><label>2</label>College of Oceanic and Atmospheric Sciences, Oregon State University, 104 COAS Administration Building, Corvallis, OR 97331, USA.</aff>
+<aff id="aff3"><label>3</label>Monterey Bay Aquarium Research Institute, 7700 Sandholdt Road, Moss Landing, CA 95039, USA.</aff>
+<aff id="aff4"><label>4</label>Department of Ecology, Evolution and Marine Biology, University of California Santa Barbara, Santa Barbara, CA 93106, USA.</aff>
+<aff id="aff5"><label>5</label>School of Biology, Georgia Institute of Technology, 310 Ferst Drive, Atlanta, GA 30332, USA.</aff></contrib-group>
+<author-notes>
+<corresp id="cor1"><label>*</label>To whom correspondence should be addressed. E-mail: 
+<email xlink:href="pmoisand@ucsc.edu">pmoisand@ucsc.edu</email></corresp>
+<fn id="afn1"><label>&#x2020;</label><p>Present address: Department of Organismic and Evolutionary Biology, Harvard University, Cambridge, MA 01238, USA.</p>
+</fn>
+<fn id="afn2"><label>&#x2021;</label><p>Present address: Department of Microbiology, 403 Wing Hall, Cornell University, Ithaca, NY 14853, USA.</p>
+</fn></author-notes>
+<pub-date pub-type="ppub"><day>19</day><month>03</month><year>2010</year></pub-date>
+<volume>327</volume>
+<issue>5972</issue>
+<fpage>1512</fpage>
+<lpage>1514</lpage>
+<history><date date-type="received"><day>03</day><month>12</month><year>2009</year></date><date date-type="accepted"><day>17</day><month>02</month><year>2010</year></date><date date-type="epub"><day>25</day><month>02</month><year>2010</year></date></history>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2010, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2010</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder></permissions>
+<abstract abstract-type="editor"><title>Oceanic Nitrogen Fixation</title><p>Nitrogen fixation in the oceans is important in sustaining global marine productivity and balances carbon dioxide export to the deep ocean. It was previously believed that marine nitrogen fixation was due to a single genus of filamentous cyanobacteria, <italic>Trichodesmium</italic>. The recent discovery of unicellular open-ocean cyanobacteria has raised the question of how they contribute to global ocean nitrogen fixation and how they compare in distribution and activity to <italic>Trichodesmium</italic>. Using data collected from the southwest Pacific Ocean, <bold>Moisander <italic>et al.</italic></bold> (p. <related-article related-article-type="in-this-issue" vol="327" page="1512">1512</related-article>, published online 25 February) show that the unicellular nitrogen-fixing cyanobacteria (UCYN-A and <italic>Crocosphaera watsonii</italic>) have distinct ecophysiologies and distinct oceanic distributions from each other, and from <italic>Trichodesmium</italic>. These data can be incorporated into models to retune estimates of the global rates of oceanic nitrogen fixation and carbon sequestration.</p></abstract>
+<abstract abstract-type="teaser"><p>Nitrogen fixation in the South Pacific Ocean is partitioned among several microbe species with distinct ecophysiologies.</p></abstract>
+<abstract>
+<p>Nitrogen (N<sub>2</sub>)&#x2013;fixing microorganisms (diazotrophs) are an important source of biologically available fixed N in terrestrial and aquatic ecosystems and control the productivity of oligotrophic ocean ecosystems. We found that two major groups of unicellular N<sub>2</sub>-fixing cyanobacteria (UCYN) have distinct spatial distributions that differ from those of <italic>Trichodesmium</italic>, the N<sub>2</sub>-fixing cyanobacterium previously considered to be the most important contributor to open-ocean N<sub>2</sub> fixation. The distributions and activity of the two UCYN groups were separated as a function of depth, temperature, and water column density structure along an 8000-kilometer transect in the South Pacific Ocean. UCYN group A can be found at high abundances at substantially higher latitudes and deeper in subsurface ocean waters than <italic>Trichodesmium</italic>. These findings have implications for the geographic extent and magnitude of basin-scale oceanic N<sub>2</sub> fixation rates.</p>
+</abstract>
+<custom-meta-wrap><custom-meta><meta-name>Editor</meta-name><meta-value>Caroline Ash</meta-value></custom-meta><custom-meta><meta-name>Copyeditor</meta-name><meta-value>Trista Wagoner</meta-value></custom-meta></custom-meta-wrap>
+</article-meta>
+</front>
+<body>
+<p>Nitrogen (N<sub>2</sub>)&#x2013;fixing microorganisms (diazotrophs) are an important source of fixed N in oligotrophic ocean ecosystems (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>, <xref ref-type="bibr" rid="R2"><italic>2</italic></xref>). Biological nitrogen (N<sub>2</sub>) fixation is catalyzed by the enzyme nitrogenase and provides about 100 to 150 Tg N per year to the open ocean (<xref ref-type="bibr" rid="R3"><italic>3</italic></xref>), about half of global biological N<sub>2</sub> fixation (<xref ref-type="bibr" rid="R4"><italic>4</italic></xref>). Large uncertainties remain in the estimate, and N<sub>2</sub> fixation rates derived from geochemical evidence have not been entirely accounted for by existing biological data (<xref ref-type="bibr" rid="R4"><italic>4</italic></xref>). The organisms that fix N<sub>2</sub> play a central role in providing N to support primary productivity and the vertical downward flux of organic matter (&#x201C;export&#x201D;) to the deep ocean that sequesters carbon from the atmosphere (<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>). The filamentous cyanobacterium <italic>Trichodesmium</italic> was believed to be the most abundant and active oceanic N<sub>2</sub>-fixing microorganism (<xref ref-type="bibr" rid="R6"><italic>6</italic></xref>) until the discovery of two unicellular diazotrophic cyanobacteria [UCYN group A (UCYN-A) and <italic>Crocosphaera watsonii</italic> (group B)], whose abundances and N<sub>2</sub> fixation rates can be equal to or greater than those of <italic>Trichodesmium</italic> (<xref ref-type="bibr" rid="R7"><italic>7</italic></xref>&#x2013;<xref ref-type="bibr" rid="R10"><italic>10</italic></xref>). UCYN-A and <italic>C. watsonii</italic> are abundant and widespread in tropical and subtropical oceans (<xref ref-type="bibr" rid="R7"><italic>7</italic></xref>) but are more difficult to visualize and quantify than <italic>Trichodesmium</italic>, and much less is known about their distributions and growth requirements. UCYN-A is less than 1 &#x03BC;m in diameter in size, has dim autofluorescence (<xref ref-type="bibr" rid="R11"><italic>11</italic></xref>), and has not been cultivated, whereas <italic>C. watsonii</italic> is a cultivated phycoerythrin-rich cyanobacterium 3 to 8 &#x03BC;m in size that can form small colonies (below we use <italic>Crocosphaera</italic> to include all <italic>C. watsonii</italic>&#x2013;like cells) (<xref ref-type="bibr" rid="R12"><italic>12</italic></xref>). UCYN-A is unusual in that it does not have genes for the oxygen-evolving photosystem II or the carbon fixation enzyme rubisco and thus appears to be a photoheterotroph dependent on organic carbon (<xref ref-type="bibr" rid="R13"><italic>13</italic></xref>, <xref ref-type="bibr" rid="R14"><italic>14</italic></xref>), whereas <italic>Crocosphaera</italic> has the photosynthetic machinery typical of cyanobacteria (<xref ref-type="bibr" rid="R15"><italic>15</italic></xref>).</p>
+<p>The salient differences in the size and physiology of the diazotroph groups (UCYN-A, <italic>Crocosphaera</italic>, and <italic>Trichodesmium</italic>) suggest that they occupy distinct niches and may differentially affect primary productivity and the export of C and N. Yet in basin-scale models of oceanic N<sub>2</sub> fixation, it is generally assumed that a rather uniform set of environmental conditions equally controls the abundance and distribution of all diazotrophs (<xref ref-type="bibr" rid="R16"><italic>16</italic></xref>, <xref ref-type="bibr" rid="R17"><italic>17</italic></xref>). N<sub>2</sub> fixation is typically formulated as a function of some combination of temperature, wind speed, water column stratification, photon fluxes, and the ratio of N:P, reflecting the warm (&#x2265;~25&#x00B0;C), oligotrophic conditions generally held to be required for <italic>Trichodesmium</italic> blooms (<xref ref-type="bibr" rid="R6"><italic>6</italic></xref>, <xref ref-type="bibr" rid="R18"><italic>18</italic></xref>). Under N-limiting open-ocean conditions, diazotrophs compete with each other and other plankton for macro- and micronutrients, vitamins, and other growth factors, especially iron, needed for nitrogenase (<xref ref-type="bibr" rid="R19"><italic>19</italic></xref>). Little is known about how the physiological differences of oceanic diazotrophs are manifested in their global distributions and activities. This information is essential to fill the large gaps in global N<sub>2</sub> fixation estimates (<xref ref-type="bibr" rid="R4"><italic>4</italic></xref>). We investigated distributions and activities of the major oceanic diazotrophs in the oligotrophic western South Pacific Ocean, in parallel with measurement of an extensive set of environmental parameters (<xref ref-type="bibr" rid="R20"><italic>20</italic></xref>).</p>
+<p>Water samples were collected between 15&#x00B0; to 30&#x00B0;S and 155&#x00B0;E to 170&#x00B0;W (<xref ref-type="fig" rid="F1">Fig. 1</xref>), where surface water temperatures decreased from the northernmost to the southernmost stations, consistent with latitudinal differences in radiative forcing. Diazotroph abundances were quantified by quantitative polymerase chain reaction (qPCR) of the <italic>nifH</italic> gene (encoding the iron protein in the nitrogenase enzyme) (<xref ref-type="bibr" rid="R10"><italic>10</italic></xref>), which corresponds to cell abundance because there is one copy of <italic>nifH</italic> per genome in all three groups (UCYN-A, <italic>Crocosphaera</italic>, and <italic>Trichodesmium</italic>) (<xref ref-type="bibr" rid="R13"><italic>13</italic></xref>). We expected to see similar geographic distributions in abundance of all diazotrophs, reflecting the N-limited characteristics of the oligotrophic ocean. Unexpectedly, there was a transition from <italic>Crocosphaera</italic>-dominated communities in warm surface waters in the north to UCYN-A&#x2013;dominated communities in cooler waters in the south (<xref ref-type="fig" rid="F1">Figs. 1</xref> and <xref ref-type="fig" rid="F2">2</xref>), and temperature was the most important factor correlating with these distributions (table S1). This evidence shows that there is vertical and horizontal partitioning between populations of UCYN-A and <italic>Crocosphaera</italic>. UCYN-A had a maximum abundance of 2.2 &#x00D7; 10<sup>6</sup> <italic>nifH</italic> gene copies per liter at the southernmost stations. UCYN-A was also detected at most other stations but deeper in the water column (<xref ref-type="fig" rid="F2">Fig. 2</xref>). <italic>Crocosphaera</italic> was found at very high abundances in the northeastern part of the study area, with a surface maximum at station 21 and subsurface maxima at stations 25 and 26. Peak abundance of <italic>Crocosphaera</italic> (8 &#x00D7; 10<sup>6</sup> <italic>nifH</italic> copies per liter) at a depth of 37 m at station 25 is possibly the highest <italic>Crocosphaera</italic> cell density published to date. The UCYN populations were active because the <italic>nifH</italic> gene was expressed (table S2) and N<sub>2</sub> fixation was detected by using <sup>15</sup>N<sub>2</sub> uptake method. Maximum N<sub>2</sub> fixation rates were 0.026 nmol liter<sup>&#x2212;1</sup> hour<sup>&#x2212;1</sup> at station 4, dominated by <italic>Crocosphaera</italic> and with little or no UCYN-A, and 4.5 nmol liter<sup>&#x2212;1</sup> hour<sup>&#x2212;1</sup> at station 10, which was dominated by UCYN-A with little <italic>Crocosphaera</italic> or <italic>Trichodesmium</italic> observed. The distributions of the unicellular N<sub>2</sub>-fixing cyanobacteria differed from those of <italic>Trichodesmium</italic>. The latter had surface blooms of abundances greater than 10<sup>6</sup> <italic>nifH</italic> copies per liter at several stations in the northeastern part of the study area (<xref ref-type="fig" rid="F1">Fig. 1</xref> and table S1). The distinct diazotroph distributions indicate that UCYN-A, <italic>Crocosphaera</italic>, and <italic>Trichodesmium</italic> biomasses are differentially affected by environmental conditions and controls.</p>
+<fig id="F1" position="float" fig-type="figure"><label>Fig. 1</label><caption><p>Sampling locations superimposed on a composite sea surface temperature plot (March to April 2007) for the study area.</p>
+</caption>
+<graphic xlink:href="327_1512_F1"></graphic></fig>
+<fig id="F2" position="float" fig-type="figure"><label>Fig. 2</label><caption><p>Horizontal and vertical distributions of diazotrophs in the study area. (<bold>A</bold>) UCYN-A, (<bold>B</bold>) <italic>Crocosphaera</italic>, and (<bold>C</bold>) <italic>Trichodesmium</italic> spp. abundances [log<sub>10</sub> (<italic>nifH</italic> copies per liter)] with station numbers and sampling depths indicated. Maximum abundance (<bold>D</bold>) and depth of maximum abundance (<bold>E</bold>) of UCYN-A and <italic>Crocosphaera</italic> and (<bold>F</bold>) mean depth (&#x00B1;SD) of maximum abundance of UCYN-A, <italic>Crocosphaera</italic>, and <italic>Trichodesmium</italic> spp. (one-way ANOVA).</p>
+</caption>
+<graphic xlink:href="327_1512_F2"></graphic></fig>
+<p>The abundances of UCYN-A and <italic>Crocosphaera</italic> in the surface layers correlated with water temperature (<xref ref-type="fig" rid="F1">Figs. 1</xref> and <xref ref-type="fig" rid="F3">3</xref> and table S1), but the diazotroph abundances were inversely correlated with each other [<italic>r</italic><sup>2</sup> = 0.397, <italic>P</italic> = 0.000, number of samples (<italic>n</italic>) = 96, cubic regression]. Abundances were weakly or not correlated with salinity; oxygen saturation; dissolved organic carbon (DOC); soluble reactive phosphorus (SRP); nitrate; nitrite; total dissolved nitrogen (TDN); chlorophyll <italic>a</italic>; fluorescence; and abundances of picocyanobacteria, picoeukaryotes, and other diazotroph phylotypes (table S1). Maximum abundances were observed at 24&#x00B0;C and 29&#x00B0;C for UCYN-A and <italic>Crocosphaera</italic>, respectively (<xref ref-type="fig" rid="F3">Fig. 3</xref>). Collectively, these data suggest that UCYN-A has a lower temperature optimum than <italic>Crocosphaera</italic>. This is consistent with data from the North Pacific, where highest UCYN-A and <italic>Crocosphaera</italic> abundances were detected at about 23.5&#x00B0;C and 26&#x00B0;C, respectively (<xref ref-type="bibr" rid="R21"><italic>21</italic></xref>), and in the eastern Atlantic, where high UCYN-A abundances were observed at water temperatures ranging from 19&#x00B0; to 24&#x00B0;C (<xref ref-type="bibr" rid="R9"><italic>9</italic></xref>). In addition, observations of <italic>nifH</italic> transcripts of UCYN-A have been made at 12&#x00B0; to 19&#x00B0;C (<xref ref-type="bibr" rid="R22"><italic>22</italic></xref>, <xref ref-type="bibr" rid="R23"><italic>23</italic></xref>), whereas <italic>Trichodesmium</italic> is thought not to be active below 20&#x00B0;C (<xref ref-type="bibr" rid="R6"><italic>6</italic></xref>). Global distributions of UCYN-A and <italic>Crocosphaera</italic> from all known data indicate that UCYN frequently grow in waters with lower temperatures than are considered necessary for <italic>Trichodesmium</italic> blooms (<xref ref-type="fig" rid="F4">Fig. 4</xref>). In particular, this report shows that the geographic range of UCYN-A extends beyond the 25&#x00B0;C isotherm, indicating that previous regional or global N<sub>2</sub> fixation estimates based on distributions of <italic>Trichodesmium</italic> have been underestimated.</p>
+<fig id="F3" position="float" fig-type="figure"><label>Fig. 3</label><caption><p>Relationship of unicellular diazotroph abundances [log<sub>10</sub> (<italic>nifH</italic> copies per liter)] and temperature. (<bold>A</bold>) UCYN-A, (<bold>B</bold>) <italic>Crocosphaera</italic>. <italic>f</italic> = 5.13 &#x2013; 0.1754<italic>x</italic> + 0.0638<italic>x</italic><sup>2</sup> &#x2013; 0.0124<italic>x</italic><sup>3</sup> describes the nonlinear relationship between UCYN-A and temperature and <italic>f</italic> = &#x2013;5.16 + 0.361<italic>x</italic> the linear relationship between <italic>Crocosphaera</italic> and temperature.</p>
+</caption>
+<graphic xlink:href="327_1512_F3"></graphic></fig>
+<fig id="F4" position="float" fig-type="figure"><label>Fig. 4</label><caption><p>Global distribution and abundances of (<bold>A</bold>) UCYN-A and (<bold>B</bold>) <italic>Crocosphaera</italic> unicellular cyanobacteria compiled from all known published literature. The maximum value is shown for sites where multiple depths were analyzed. Latitudinal 18&#x00B0;C and 25&#x00B0;C isotherms [average values of bimonthly means from July 2002 to July 2009 from NASA Moderate Resolution Imaging Spectroradiometer (MODIS)] are indicated with dotted and dashed lines, respectively. Literature sources for cyanobacterial distributions are listed in the supporting online material. EQ indicates equator.</p>
+</caption>
+<graphic xlink:href="327_1512_F4"></graphic></fig>
+<p>The different depth distributions of UCYN-A and <italic>Crocosphaera</italic> indicate they might be adapted to different light intensities, similar to the high-light and low-light ecotypes of the nondiazotrophic cyanobacterium <italic>Prochlorococcus</italic>. The peak abundances of UCYN-A occurred significantly deeper than those of <italic>Crocosphaera</italic> or <italic>Trichodesmium</italic> [<italic>P</italic> = 0.000, <italic>n</italic> = 23, one-way analysis of variance (ANOVA)] (<xref ref-type="fig" rid="F2">Fig. 2</xref>). The abundance maximum of UCYN-A, observed from the surface to 50- to 75-m depths at the southernmost stations, was centered on a weak and broad density front that characterized the entire study area and was driven by a latitudinal gradient in surface water temperatures. Moving north, peak abundances of UCYN-A at each station followed approximately the 23 and 23.5 isopycnals (kg m<sup>&#x2212;3</sup>) (<xref ref-type="fig" rid="F1">Fig. 1</xref> and fig. S1); thus, peak abundances were found deeper in the water column in the northernmost stations. The depth of maximum abundance of UCYN-A was therefore positively correlated with sea surface temperature (<italic>r</italic><sup>2</sup> = 0.390, <italic>P</italic> = 0.000, <italic>n</italic> = 23, linear regression), suggesting UCYN-A may grow deeper in areas with warm surface waters. The different depth preferences of the UCYN groups may reflect their light, temperature, and nutritional requirements.</p>
+<p>Intriguingly, the peak abundances of UCYN-A coincided with elevated nitrate concentrations in surface waters (fig. S1) that appeared to be related to shoaling isopycnal surfaces, indicating that there had been a vertical input of nutrients and trace elements from deep water. Although UCYN-A does not have genes for assimilatory nitrate or nitrite reduction (<xref ref-type="bibr" rid="R14"><italic>14</italic></xref>), our data show that UCYN-A is abundant in waters where nutrients were recently entrained, an observation consistent with recent reports of high abundances of UCYN-A in nutrient-enriched estuarine and coastal waters (<xref ref-type="bibr" rid="R22"><italic>22</italic></xref>&#x2013;<xref ref-type="bibr" rid="R24"><italic>24</italic></xref>) and eddies (<xref ref-type="bibr" rid="R25"><italic>25</italic></xref>), unlike what is known about <italic>Trichodesmium</italic> (<xref ref-type="bibr" rid="R6"><italic>6</italic></xref>). These UCYN-A&#x2013;dominated waters may have remnants of non&#x2013;N<sub>2</sub>-fixing phytoplankton blooms, stimulated by vertical mixing. A large area with elevated surface water chlorophyll <italic>a</italic> concentrations, indicative of increased phytoplankton biomass, was observed in ocean color satellite data south of the study area, associated with the general position of the Tasman Front (<xref ref-type="bibr" rid="R26"><italic>26</italic></xref>). These observations support a link between high phytoplankton biomass and high UCYN-A abundance (fig. S2), which is expected on the basis of recent UCYN-A genome information suggesting that it requires a close association with other organisms (<xref ref-type="bibr" rid="R13"><italic>13</italic></xref>, <xref ref-type="bibr" rid="R14"><italic>14</italic></xref>). DOC concentrations followed meridional trends previously described for the South Pacific (<xref ref-type="bibr" rid="R27"><italic>27</italic></xref>) and were lower in concentration in the surface where UCYN-A abundance was the greatest (<xref ref-type="fig" rid="F1">Fig. 1</xref>, fig. S1, and table S1). Although the reduced DOC concentrations at the location of UCYN-A maxima are consistent with recent vertical mixing in the area, heterotrophic microbial activity may contribute to this trend and requires further study. The differential distributions of UCYN-A and <italic>Crocosphaera</italic> observed in the water masses mixing in the area, and traced by temperature, may have been affected by differences in the chemical composition of these water masses.</p>
+<p>The magnitude and geographic extent of oceanic N<sub>2</sub> fixation determine the rate of primary productivity and vertical export of carbon in the oligotrophic ocean. Most previous estimates of global N<sub>2</sub> fixation are dependent on distributions or factors that control the growth of <italic>Trichodesmium</italic> (<xref ref-type="bibr" rid="R16"><italic>16</italic></xref>, <xref ref-type="bibr" rid="R17"><italic>17</italic></xref>). The results of this study show that actively N<sub>2</sub>-fixing populations of the two major oceanic UCYN groups have broader latitudinal distribution than <italic>Trichodesmium</italic>, analogous to the global distributions of strains and ecotypes of the non&#x2013;N<sub>2</sub>-fixing oceanic cyanobacteria (<xref ref-type="bibr" rid="R28"><italic>28</italic></xref>). Observations of distributions of UCYN-A at relatively high latitudes and in coastal waters geographically extends the oceanic regions where N<sub>2</sub> fixation can occur, which contrasts with previous paradigms based on the temperature range for <italic>Trichodesmium</italic>. The data show that temperature is a major driver of the differential distributions for different taxa, although additional factors, such as non&#x2013;N<sub>2</sub>-fixing phytoplankton blooms, may be important for the growth of UCYN-A. Unicellular N<sub>2</sub>-fixing microorganisms are much more difficult to detect than larger diazotrophs such as <italic>Trichodesmium</italic> and may thrive in different geographic regions. In order to better constrain estimates of the N inputs to the global ocean via N<sub>2</sub> fixation, it will be necessary to adequately represent the activity of unicellular N<sub>2</sub>-fixing microorganisms in ecosystem models.</p>
+</body>
+<back>
+<app-group>
+<app>
+<title>Supporting Online Material</title>
+<supplementary-material>
+<p><ext-link ext-link-type="uri" xlink:href="http://www.sciencemag.org/cgi/content/full/science.1185468/DC1">www.sciencemag.org/cgi/content/full/science.1185468/DC1</ext-link></p>
+<p>Materials and Methods</p>
+<p>Figs. S1 and S2</p>
+<p>Tables S1 to S3</p>
+<p>References</p>
+</supplementary-material></app></app-group>
+<ref-list>
+<title>References and Notes</title>
+<ref id="R1"><label>1</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Falkowski</surname><given-names>P.</given-names></name></person-group>, 
+<article-title>Evolution of the nitrogen cycle and its influence on the biological sequestration of CO<sub>2</sub> in the ocean</article-title>. 
+<source>Nature</source> 
+<volume>387</volume>, 
+<fpage>272</fpage> (<year>1997</year>). 
+<pub-id pub-id-type="doi">10.1038/387272a0</pub-id></citation></ref>
+<ref id="R2"><label>2</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Tyrrell</surname><given-names>T.</given-names></name></person-group>, 
+<source>Nature</source> 
+<volume>400</volume>, 
+<fpage>525</fpage> (<year>1999</year>). 
+<pub-id pub-id-type="doi">10.1038/22941</pub-id></citation></ref>
+<ref id="R3"><label>3</label><citation citation-type="book">N. Gruber, in <italic>Nitrogen in the Marine Environment</italic>, D. G. Capone, E. J. Carpenter, D. A. Bronk, M. R. Mulholland, Eds. (Academic Press and Elsevier, Burlington, MA, 2008), pp. 1&#x2013;49.</citation></ref>
+<ref id="R4"><label>4</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Galloway</surname><given-names>J. N.</given-names></name><etal /></person-group>., 
+<article-title>Nitrogen cycles: Past, present, and future</article-title>. 
+<source>Biogeochemistry</source> 
+<volume>70</volume>, 
+<fpage>153</fpage> (<year>2004</year>). 
+<pub-id pub-id-type="doi">10.1007/s10533-004-0370-0</pub-id></citation></ref>
+<ref id="R5"><label>5</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Karl</surname><given-names>D.</given-names></name><etal /></person-group>., 
+<source>Nature</source> 
+<volume>388</volume>, 
+<fpage>533</fpage> (<year>1997</year>). 
+<pub-id pub-id-type="doi">10.1038/41474</pub-id></citation></ref>
+<ref id="R6"><label>6</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Capone</surname><given-names>D. G.</given-names></name><name><surname>Zehr</surname><given-names>J. P.</given-names></name><name><surname>Paerl</surname><given-names>H. W.</given-names></name><name><surname>Bergman</surname><given-names>B.</given-names></name><name><surname>Carpenter</surname><given-names>E. J.</given-names></name></person-group>, 
+<article-title><italic>Trichodesmium</italic>, a globally significant marine cyanobacterium</article-title>. 
+<source>Science</source> 
+<volume>276</volume>, 
+<fpage>1221</fpage> (<year>1997</year>). 
+<pub-id pub-id-type="doi">10.1126/science.276.5316.1221</pub-id></citation></ref>
+<ref id="R7"><label>7</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Zehr</surname><given-names>J. P.</given-names></name><etal /></person-group>., 
+<article-title>Unicellular cyanobacteria fix N<sub>2</sub> in the subtropical North Pacific Ocean</article-title>. 
+<source>Nature</source> 
+<volume>412</volume>, 
+<fpage>635</fpage> (<year>2001</year>). 
+<pub-id pub-id-type="doi">10.1038/35088063</pub-id>
+<pub-id pub-id-type="pmid">11493920</pub-id></citation></ref>
+<ref id="R8"><label>8</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Montoya</surname><given-names>J. P.</given-names></name><etal /></person-group>., 
+<article-title>High rates of N<sub>2</sub> fixation by unicellular diazotrophs in the oligotrophic Pacific Ocean</article-title>. 
+<source>Nature</source> 
+<volume>430</volume>, 
+<fpage>1027</fpage> (<year>2004</year>). 
+<pub-id pub-id-type="doi">10.1038/nature02824</pub-id>
+<pub-id pub-id-type="pmid">15329721</pub-id></citation></ref>
+<ref id="R9"><label>9</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Langlois</surname><given-names>R. J.</given-names></name><name><surname>H&#x00FC;mmer</surname><given-names>D.</given-names></name><name><surname>LaRoche</surname><given-names>J.</given-names></name></person-group>, 
+<article-title>Abundances and distributions of the dominant nifH phylotypes in the Northern Atlantic Ocean</article-title>. 
+<source>Appl. Environ. Microbiol.</source> 
+<volume>74</volume>, 
+<fpage>1922</fpage> (<year>2008</year>). 
+<pub-id pub-id-type="doi">10.1128/AEM.01720-07</pub-id>
+<pub-id pub-id-type="pmid">18245263</pub-id></citation></ref>
+<ref id="R10"><label>10</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Church</surname><given-names>M. J.</given-names></name><name><surname>Jenkins</surname><given-names>B. D.</given-names></name><name><surname>Karl</surname><given-names>D. M.</given-names></name><name><surname>Zehr</surname><given-names>J. P.</given-names></name></person-group>, 
+<article-title>Vertical distributions of nitrogen-fixing phylotypes at Stn Aloha in the oligotrophic North Pacific Ocean</article-title>. 
+<source>Aquat. Microb. Ecol.</source> 
+<volume>38</volume>, 
+<fpage>3</fpage> (<year>2005</year>). 
+<pub-id pub-id-type="doi">10.3354/ame038003</pub-id></citation></ref>
+<ref id="R11"><label>11</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Goebel</surname><given-names>N. L.</given-names></name><name><surname>Edwards</surname><given-names>C. A.</given-names></name><name><surname>Carter</surname><given-names>B. J.</given-names></name><name><surname>Achilles</surname><given-names>K. M.</given-names></name><name><surname>Zehr</surname><given-names>J. P.</given-names></name></person-group>, 
+<article-title>Growth and carbon content of three different-sized diazotrophic cyanobacteria observed in the subtropical North Pacific</article-title>. 
+<source>J. Phycol.</source> 
+<volume>44</volume>, 
+<fpage>1212</fpage> (<year>2008</year>). 
+<pub-id pub-id-type="doi">10.1111/j.1529-8817.2008.00581.x</pub-id></citation></ref>
+<ref id="R12"><label>12</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Webb</surname><given-names>E. A.</given-names></name><name><surname>Ehrenreich</surname><given-names>I. M.</given-names></name><name><surname>Brown</surname><given-names>S. L.</given-names></name><name><surname>Valois</surname><given-names>F. W.</given-names></name><name><surname>Waterbury</surname><given-names>J. B.</given-names></name></person-group>, 
+<article-title>Phenotypic and genotypic characterization of multiple strains of the diazotrophic cyanobacterium, <italic>Crocosphaera watsonii</italic>, isolated from the open ocean</article-title>. 
+<source>Environ. Microbiol.</source> 
+<volume>11</volume>, 
+<fpage>338</fpage> (<year>2009</year>). 
+<pub-id pub-id-type="doi">10.1111/j.1462-2920.2008.01771.x</pub-id>
+<pub-id pub-id-type="pmid">19196268</pub-id></citation></ref>
+<ref id="R13"><label>13</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Zehr</surname><given-names>J. P.</given-names></name><etal /></person-group>., 
+<article-title>Globally distributed uncultivated oceanic N<sub>2</sub>-fixing cyanobacteria lack oxygenic photosystem II</article-title>. 
+<source>Science</source> 
+<volume>322</volume>, 
+<fpage>1110</fpage> (<year>2008</year>). 
+<pub-id pub-id-type="doi">10.1126/science.1165340</pub-id>
+<pub-id pub-id-type="pmid">19008448</pub-id></citation></ref>
+<ref id="R14"><label>14</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Tripp</surname><given-names>H. J.</given-names></name><etal /></person-group>., 
+<source>Nature</source> 
+<volume>464</volume>, 
+<fpage>90</fpage> (<year>2010</year>).
+<pub-id pub-id-type="doi">10.1038/nature08786</pub-id></citation></ref>
+<ref id="R15"><label>15</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Zehr</surname><given-names>J. P.</given-names></name><name><surname>Bench</surname><given-names>S. R.</given-names></name><name><surname>Mondragon</surname><given-names>E. A.</given-names></name><name><surname>McCarren</surname><given-names>J.</given-names></name><name><surname>DeLong</surname><given-names>E. F.</given-names></name></person-group>, 
+<article-title>Low genomic diversity in tropical oceanic N<sub>2</sub>-fixing cyanobacteria</article-title>. 
+<source>Proc. Natl. Acad. Sci. U.S.A.</source> 
+<volume>104</volume>, 
+<fpage>17807</fpage> (<year>2007</year>). 
+<pub-id pub-id-type="doi">10.1073/pnas.0701017104</pub-id>
+<pub-id pub-id-type="pmid">17971441</pub-id></citation></ref>
+<ref id="R16"><label>16</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Hood</surname><given-names>R. R.</given-names></name><name><surname>Coles</surname><given-names>V. J.</given-names></name><name><surname>Capone</surname><given-names>D. G.</given-names></name></person-group>, 
+<source>J. Geophys. Res.</source> 
+<volume>109</volume>, 
+<fpage>C06006</fpage> (<year>2004</year>).</citation></ref>
+<ref id="R17"><label>17</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Deutsch</surname><given-names>C.</given-names></name><name><surname>Sarmiento</surname><given-names>J. L.</given-names></name><name><surname>Sigman</surname><given-names>D. M.</given-names></name><name><surname>Gruber</surname><given-names>N.</given-names></name><name><surname>Dunne</surname><given-names>J. P.</given-names></name></person-group>, 
+<article-title>Spatial coupling of nitrogen inputs and losses in the ocean</article-title>. 
+<source>Nature</source> 
+<volume>445</volume>, 
+<fpage>163</fpage> (<year>2007</year>). 
+<pub-id pub-id-type="doi">10.1038/nature05392</pub-id>
+<pub-id pub-id-type="pmid">17215838</pub-id></citation></ref>
+<ref id="R18"><label>18</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>White</surname><given-names>A. E.</given-names></name><name><surname>Spitz</surname><given-names>Y. H.</given-names></name><name><surname>Letelier</surname><given-names>R. M.</given-names></name></person-group>, 
+<source>J. Geophys. Res.</source> 
+<volume>112</volume>, 
+<fpage>C12006</fpage> (<year>2007</year>).</citation></ref>
+<ref id="R19"><label>19</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Sa&#x00F1;udo-Wilhelmy</surname><given-names>S. A.</given-names></name><etal /></person-group>., 
+<article-title>Phosphorus limitation of nitrogen fixation by <italic>Trichodesmium</italic> in the central Atlantic Ocean</article-title>. 
+<source>Nature</source> 
+<volume>411</volume>, 
+<fpage>66</fpage> (<year>2001</year>). 
+<pub-id pub-id-type="doi">10.1038/35075041</pub-id>
+<pub-id pub-id-type="pmid">11333977</pub-id></citation></ref>
+<ref id="R20">
+<note><label>20</label><p>Materials and methods are available as supporting material on <italic>Science</italic> Online.</p>
+</note></ref>
+<ref id="R21"><label>21</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Church</surname><given-names>M. J.</given-names></name><name><surname>Bj&#x00F6;rkman</surname><given-names>K. M.</given-names></name><name><surname>Karl</surname><given-names>D. M.</given-names></name><name><surname>Saito</surname><given-names>M. A.</given-names></name><name><surname>Zehr</surname><given-names>J. P.</given-names></name></person-group>, 
+<source>Limnol. Oceanogr.</source> 
+<volume>53</volume>, 
+<fpage>63</fpage> (<year>2008</year>).</citation></ref>
+<ref id="R22"><label>22</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Short</surname><given-names>S. M.</given-names></name><name><surname>Zehr</surname><given-names>J. P.</given-names></name></person-group>, 
+<article-title>Nitrogenase gene expression in the Chesapeake Bay Estuary</article-title>. 
+<source>Environ. Microbiol.</source> 
+<volume>9</volume>, 
+<fpage>1591</fpage> (<year>2007</year>). 
+<pub-id pub-id-type="doi">10.1111/j.1462-2920.2007.01258.x</pub-id>
+<pub-id pub-id-type="pmid">17504496</pub-id></citation></ref>
+<ref id="R23"><label>23</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Needoba</surname><given-names>J. A.</given-names></name><name><surname>Foster</surname><given-names>R. A.</given-names></name><name><surname>Sakamoto</surname><given-names>C.</given-names></name><name><surname>Zehr</surname><given-names>J. P.</given-names></name><name><surname>Johnson</surname><given-names>K. S.</given-names></name></person-group>, 
+<source>Limnol. Oceanogr.</source> 
+<volume>52</volume>, 
+<fpage>1317</fpage> (<year>2007</year>).</citation></ref>
+<ref id="R24"><label>24</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Rees</surname><given-names>A. P.</given-names></name><name><surname>Gilbert</surname><given-names>J. A.</given-names></name><name><surname>Kelly-Gerreyn</surname><given-names>B. A.</given-names></name></person-group>, 
+<article-title>Nitrogen fixation in the western English Channel (NE Atlantic Ocean)</article-title>. 
+<source>Mar. Ecol. Prog. Ser.</source> 
+<volume>374</volume>, 
+<fpage>7</fpage> (<year>2009</year>). 
+<pub-id pub-id-type="doi">10.3354/meps07771</pub-id></citation></ref>
+<ref id="R25"><label>25</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Church</surname><given-names>M. J.</given-names></name><etal /></person-group>., 
+<article-title>Physical forcing of nitrogen fixation and diazotroph community structure in the North Pacific subtropical gyre</article-title>. 
+<source>Global Biogeochem. Cycles</source> 
+<volume>23</volume>, 
+<fpage>GB2020</fpage> (<year>2009</year>). 
+<pub-id pub-id-type="doi">10.1029/2008GB003418</pub-id></citation></ref>
+<ref id="R26"><label>26</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Baird</surname><given-names>M. E.</given-names></name><etal /></person-group>., 
+<article-title>Biological properties across the Tasman Front off southeast Australia</article-title>. 
+<source>Deep-Sea Res. I</source> 
+<volume>55</volume>, 
+<fpage>1438</fpage> (<year>2008</year>). 
+<pub-id pub-id-type="doi">10.1016/j.dsr.2008.06.011</pub-id></citation></ref>
+<ref id="R27"><label>27</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Hansell</surname><given-names>D. A.</given-names></name><name><surname>Carlson</surname><given-names>C. A.</given-names></name><name><surname>Repeta</surname><given-names>D. J.</given-names></name><name><surname>Schlitzer</surname><given-names>R.</given-names></name></person-group>, 
+<source>Oceanography</source> 
+<volume>22</volume>, 
+<fpage>202</fpage> (<year>2009</year>).</citation></ref>
+<ref id="R28"><label>28</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Johnson</surname><given-names>Z. I.</given-names></name><etal /></person-group>., 
+<article-title>Niche partitioning among <italic>Prochlorococcus</italic> ecotypes along ocean-scale environmental gradients</article-title>. 
+<source>Science</source> 
+<volume>311</volume>, 
+<fpage>1737</fpage> (<year>2006</year>). 
+<pub-id pub-id-type="doi">10.1126/science.1118052</pub-id>
+<pub-id pub-id-type="pmid">16556835</pub-id></citation></ref></ref-list>
+<ack><label>29</label>
+<p>We thank R. Paerl, C. Sakamoto, T. Cote, N. Pereira, M. Furnas, B. Carter, M. Ochiai, K. London, E. Preston, M. Hogan, and personnel onboard R/V Kilo Moana for technical assistance and C. Edwards for helpful discussions. This study was supported by NSF&#x2013;Division of Ocean Sciences (OCE) (grant 0425363), NSF Emerging Frontiers Program (Center for Microbial Oceanography: Research and Education) (grant 0424599), and the Gordon and Betty Moore Foundation for J.P.Z., and NSF-OCE (grant 0425583) for J.P.M. A.E.W. was supported by NSF-OCE (grant 0623596, R. Letelier, principal investigator).</p>
+</ack></back>
+</article>

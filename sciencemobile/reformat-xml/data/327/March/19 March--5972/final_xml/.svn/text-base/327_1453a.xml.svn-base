@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="reply" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title>
+<issn pub-type="ppub">0036-8075</issn>
+<issn pub-type="epub">1095-9203</issn>
+<publisher>
+<publisher-name>American Association for the Advancement of Science</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>Letter</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Letters</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>letters</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Planning for Biodiversity in Future Climates&#x2014;Response</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="editor"><name><surname>Sills</surname><given-names>Jennifer</given-names></name></contrib>
+<contrib contrib-type="author" corresp="yes"><name><surname>Venter</surname><given-names>Oscar</given-names></name><xref ref-type="aff" rid="aff1">1</xref><xref ref-type="corresp" rid="cor1">*</xref></contrib>
+<contrib contrib-type="author"><name><surname>Laurance</surname><given-names>William F.</given-names></name><xref ref-type="aff" rid="aff2">2</xref></contrib>
+<contrib contrib-type="author"><name><surname>Iwamura</surname><given-names>Takuya</given-names></name><xref ref-type="aff" rid="aff1">1</xref></contrib>
+<contrib contrib-type="author"><name><surname>Wilson</surname><given-names>Kerrie A.</given-names></name><xref ref-type="aff" rid="aff1">1</xref></contrib>
+<contrib contrib-type="author"><name><surname>Fuller</surname><given-names>Richard A.</given-names></name><xref ref-type="aff" rid="aff1">1</xref></contrib>
+<contrib contrib-type="author"><name><surname>Possingham</surname><given-names>Hugh P.</given-names></name><xref ref-type="aff" rid="aff1">1</xref></contrib>
+<aff id="aff1"><label>1</label>The Ecology Centre, University of Queensland, Brisbane, QLD 4072, Australia.</aff>
+<aff id="aff2"><label>2</label>School of Marine and Tropical Biology, James Cook University, Cairns, QLD 4870, Australia.</aff>
+</contrib-group>
+<author-notes>
+<corresp id="cor1"><label>*</label>To whom correspondence should be addressed. E-mail: <email>oventer@uq.edu.au</email></corresp>
+</author-notes>
+<pub-date pub-type="ppub">
+<day>19</day>
+<month>03</month>
+<year>2010</year>
+</pub-date>
+<volume>327</volume>
+<issue>5972</issue>
+<fpage seq="a">1453</fpage>
+<lpage>1453</lpage>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2010, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2010</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<self-uri xlink:title="pdf" xlink:href="letters.pdf" />
+</article-meta>
+</front>
+<body>
+<p>Shoo questions whether areas we identify as global priorities for reducing expected carbon emissions and species extinctions&#x2014;such as Madagascar, Indonesia, and the Philippines&#x2014;will still sustain high levels of biodiversity after a century of climate change.</p>
+<p>We believe that present centers of tropical endemism and diversity are, broadly speaking, likely to remain important in the future. Such centers tend to occur in regions that have remained climatically stable over long periods, such as hyper-wet, cloudy areas in the Andes that have withstood Pleistocene climatic fluctuations (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>). Moreover, temperature is predicted to shift at a global average velocity of 0.42 km per year, or 42 km this century (<xref ref-type="bibr" rid="R2"><italic>2</italic></xref>), whereas our scheme focuses on developing countries that average more than 700,000 km<sup>2</sup> in area. Hence, the large scale of our analysis relative to the pace of climate change makes it doubtful that priorities will shift much this century.</p>
+<p>Although we agree that climate-induced shifts in species' ranges could theoretically be incorporated into our work and conservation planning more broadly, such efforts are plagued by a dearth of data, methodological shortcomings, and uncertainty (<xref ref-type="bibr" rid="R3"><italic>3</italic></xref>, <xref ref-type="bibr" rid="R4"><italic>4</italic></xref>). The choice of modeling approach, in particular, can strongly affect one's results. For instance, nine different bioclimatic models yielded wildly varying predictions of future range size for a South American plant species, ranging from a loss of 92% to a gain of 322% (<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>). Hence, we stand by our priority areas for using REDD to protect both forest carbon stocks and biodiversity. Shoo raises an interesting point, but not one that is likely to be of practical relevance now, when forests are under siege and conservation planners must make immediate decisions.</p>
+</body>
+<back>
+<ref-list>
+<title>References</title>
+<ref id="R1">
+<label>1</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Fjeldsa</surname><given-names>J.</given-names></name><name><surname>Lambin</surname><given-names>E.</given-names></name><name><surname>Mertens</surname><given-names>B.</given-names></name></person-group>, <source>Ecography</source> <volume>22</volume>, <fpage>63</fpage> (<year>1999</year>).</citation>
+</ref>
+<ref id="R2">
+<label>2</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Loarie</surname><given-names>S. R.</given-names></name><etal/></person-group>., <source>Nature</source> <volume>462</volume>, <fpage>1052</fpage> (<year>2009</year>).</citation>
+</ref>
+<ref id="R3">
+<label>3</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Dormann</surname><given-names>C. F.</given-names></name></person-group>, <source>Basic Appl. Ecol.</source> <volume>8</volume>, <fpage>387</fpage> (<year>2007</year>).</citation>
+</ref>
+<ref id="R4">
+<label>4</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Ara&#x00FA;jo</surname><given-names>M. B.</given-names></name><name><surname>Rahbek</surname><given-names>C.</given-names></name></person-group>, <source>Science</source> <volume>313</volume>, <fpage>1396</fpage> (<year>2006</year>).</citation>
+</ref>
+<ref id="R5">
+<label>5</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Pearson</surname><given-names>R. G.</given-names></name><etal/></person-group>., <source>J Biogeogr.</source> <volume>33</volume>, <fpage>1704</fpage> (<year>2006</year>).</citation>
+</ref>
+</ref-list>
+</back>
+</article>

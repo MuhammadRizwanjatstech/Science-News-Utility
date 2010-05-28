@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="research-article" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title><issn pub-type="ppub">0036-8075</issn><issn pub-type="epub">1095-9203</issn>
+<publisher><publisher-name>American Association for the Advancement of Science</publisher-name></publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">1184709</article-id>
+<article-id pub-id-type="doi">10.1126/science.1184709</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>Report</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Reports</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>reports</subject></subj-group>
+<subj-group subj-group-type="field"><subject>EVOLUTION</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Seminal Fluid Mediates Ejaculate Competition in Social Insects</article-title>
+</title-group>
+<contrib-group><contrib contrib-type="author"><name><surname>den Boer</surname><given-names>Susanne P. A.</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib><contrib contrib-type="author"><name><surname>Baer</surname><given-names>Boris</given-names></name><xref ref-type="aff" rid="aff2"><sup>2</sup></xref><xref ref-type="aff" rid="aff3"><sup>3</sup></xref></contrib> 
+<contrib contrib-type="author" corresp="yes"><name><surname>Boomsma</surname><given-names>Jacobus J.</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="corresp" rid="cor1">*</xref></contrib>
+<aff id="aff1"><label>1</label>Centre for Social Evolution, Department of Biology, University of Copenhagen, Universitetsparken 15, 2100 Copenhagen, Denmark.</aff>
+<aff id="aff2"><label>2</label>ARC Centre of Excellence in Plant Energy Biology, MCS Building M310, The University of Western Australia, 6009 Crawley, Australia.</aff>
+<aff id="aff3"><label>3</label>Centre for Evolutionary Biology, School of Animal Biology (MO92), The University of Western Australia, 6009 Crawley, Australia.</aff></contrib-group>
+<author-notes>
+<corresp id="cor1"><label>*</label>To whom correspondence should be addressed. E-mail: 
+<email xlink:href="jjboomsma@bio.ku.dk">jjboomsma@bio.ku.dk</email></corresp></author-notes>
+<pub-date pub-type="ppub"><day>19</day><month>03</month><year>2010</year></pub-date>
+<volume>327</volume>
+<issue>5972</issue>
+<fpage>1506</fpage>
+<lpage>1509</lpage>
+<history><date date-type="received"><day>16</day><month>11</month><year>2009</year></date><date date-type="accepted"><day>17</day><month>02</month><year>2010</year></date></history>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2010, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2010</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder></permissions>
+<abstract abstract-type="editor"><title>Sperm Wars</title><p>Some female insects mate on only one day of their life, but then they may mate with multiple males and store the sperm, sometimes for years. But as the mates compete for mates, so their sperm compete for ova, and competition between ejaculates can result in the destruction of sperm inside multiply mated females. But females need to select the sperm they want and to maintain stores of viable sperm to ensure a lifetime's fertility. <bold>Den Boer <italic>et al.</italic></bold> (p. <related-article related-article-type="in-this-issue" vol="327" page="1506">1506</related-article>) compared species of bees and ants with queens that either mate once or mate multiple times, and found that sperm competition has driven the evolution of compounds in the male accessory gland that protect a male's own sperm while damaging another male's sperm. To counteract the male effect, queens produce compounds that mitigate sperm destruction and maximize the number of her offspring.</p></abstract>
+<abstract abstract-type="teaser"><p>Substances produced by rival male social insects destroy sperm, and females produce compounds to counteract sperm loss.</p></abstract>
+<abstract>
+<p>Queens of ants and bees normally obtain a lifetime supply of sperm on a single day of sexual activity, and sperm competition is expected to occur in lineages where queens receive sperm from multiple males. We compared singly mated (monandrous) and multiply mated (polyandrous) sister groups of ants and bees and show that seminal fluid of polyandrous species has a more positive effect on the survival of a male&#x2019;s own sperm than on other males&#x2019; sperm. This difference was not observed in the monandrous species, suggesting that incapacitation of competing sperm may have independently evolved in both bees and ants. In <italic>Atta</italic> leafcutter ants, the negative effect of the seminal fluid of other males was negated by secretion from the queen sperm-storage organ, suggesting that queens may control ejaculate competition after sperm storage.</p>
+</abstract>
+<custom-meta-wrap><custom-meta><meta-name>Editor</meta-name><meta-value>Laura Zahn</meta-value></custom-meta><custom-meta><meta-name>Copyeditor</meta-name><meta-value>Harry Jach</meta-value></custom-meta></custom-meta-wrap>
+</article-meta>
+</front>
+<body>
+<p>Much sexual selection in polyandrous species occurs after mating in the form of sperm competition and cryptic female choice (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>&#x2013;<xref ref-type="bibr" rid="R3"><italic>3</italic></xref>). In most animals, males seek additional mates to increase the number of their offspring, and females may remate to gain direct or indirect benefits to promote offspring quality [e.g., (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref><italic>&#x2013;</italic><xref ref-type="bibr" rid="R5"><italic>5</italic></xref>)]. The eusocial ants, bees, wasps, and termites, in which only relatively few individuals have the opportunity to mate, are exceptions, because they evolved from strictly monogamous ancestors (<xref ref-type="bibr" rid="R6"><italic>6</italic></xref>, <xref ref-type="bibr" rid="R7"><italic>7</italic></xref>). Newly eclosed queens of ants, bees, and wasps are receptive for mating during a very brief period of time (a few hours to a few days) and never remate (<xref ref-type="bibr" rid="R7"><italic>7</italic></xref>, <xref ref-type="bibr" rid="R8"><italic>8</italic></xref>). Whereas queens from basal lineages store only a single ejaculate, obligate multiple queen-mating has evolved secondarily in honeybees, vespine wasps, leafcutter ants, army ants, harvester ants, and a few minor taxa (<xref ref-type="bibr" rid="R6"><italic>6</italic></xref>, <xref ref-type="bibr" rid="R7"><italic>7</italic></xref>, <xref ref-type="bibr" rid="R9"><italic>9</italic></xref>). Thus, opportunities for postcopulatory sexual conflict have repeatedly emerged and may have induced convergent adaptive responses.</p>
+<p>The absence of remating implies that ejaculates from multiple males coexist within a queen&#x2019;s sperm storage organ (spermatheca) throughout her life (<xref ref-type="bibr" rid="R7"><italic>7</italic></xref>, <xref ref-type="bibr" rid="R10"><italic>10</italic></xref>). This situation is likely to have undergone selection for prudent mutual exploitation among partners, similar to mutualisms characterized by lifetime commitment (<xref ref-type="bibr" rid="R11"><italic>11</italic></xref>, <xref ref-type="bibr" rid="R12"><italic>12</italic></xref>). Ejaculate competition might occur shortly after multiple insemination, if it has no major negative effects on queen health and longevity (<xref ref-type="bibr" rid="R10"><italic>10</italic></xref>, <xref ref-type="bibr" rid="R13"><italic>13</italic></xref>) and leaves sufficient high-quality sperm for her to realize her lifetime reproductive potential. However, selection is expected to act against antagonistic interactions between ejaculates after sperm storage, because a female&#x2019;s reproductive life span ultimately depends on her ability to fertilize eggs from this nonrenewable stock of sperm (<xref ref-type="bibr" rid="R14"><italic>14</italic></xref>).</p>
+<p>Queens of <italic>Atta</italic> leafcutter ants use few sperm to fertilize each egg, consistent with a correlation between lifetime reproductive success and sperm-storage limitations (<xref ref-type="bibr" rid="R15"><italic>15</italic></xref>). This implies that selection on sperm viability should be strong and that both the male seminal fluid and queen spermathecal fluid are necessary for reproductive success. Male accessory gland (AG) secretion confers a positive effect on sperm survival, even in very small quantities, in leafcutter ants (<xref ref-type="bibr" rid="R16"><italic>16</italic></xref>) and honeybees (<xref ref-type="bibr" rid="R17"><italic>17</italic></xref>), and the spermathecal fluid of honeybee queens also positively influences the viability of stored sperm (<xref ref-type="bibr" rid="R17"><italic>17</italic></xref>).</p>
+<p>We used an in vitro sperm survival assay (<xref ref-type="bibr" rid="R16"><italic>16</italic></xref>&#x2013;<xref ref-type="bibr" rid="R18"><italic>18</italic></xref>) to test the effects of own AG secretion, AG secretion of other males, and queen spermathecal fluid on sperm survival in two species of corbiculate bees and three species of fungus-growing ants. This assay (<xref ref-type="bibr" rid="R18"><italic>18</italic></xref>) provides relative sperm survival data that can be directly compared within experiments, but does not allow accurate comparisons of absolute sperm survival percentages across species, because sperm and seminal fluid contributions may vary across natural ejaculates (<xref ref-type="bibr" rid="R19"><italic>19</italic></xref>).</p>
+<p>Our choice of species exploited the sharp evolutionary transition shown by both the corbiculate bees and the fungus-growing ants from exclusive single mating of queens, i.e., storing sperm from a single ejaculate (<italic>Bombus terrestris</italic> bumblebees and <italic>Trachymyrmex</italic> cf. <italic>zeteki</italic> ants), to multiple mating, i.e., queens storing sperm from multiple males with which they mate in quick succession (<italic>Apis mellifera</italic> honeybees and <italic>Atta colombica</italic> and <italic>Acromyrmex echinatior</italic> leafcutter ants) (<xref ref-type="bibr" rid="R6"><italic>6</italic></xref>, <xref ref-type="bibr" rid="R20"><italic>20</italic></xref>). We found that providing sperm with AG secretion from the same male significantly increased sperm survival in all five species (<xref ref-type="fig" rid="F1">Fig. 1</xref>), indicating that sperm is consistently protected by the quantities of AG secretion that we used in our assays. The absolute sperm survival values are almost certainly underestimates for sperm viability in natural ejaculates, because the Hayes saline buffer used does not nourish sperm, so that higher AG concentrations may be needed to reach the close to 100% in vitro sperm survival that can be achieved with this assay (<xref ref-type="bibr" rid="R16"><italic>16</italic></xref>).</p>
+<fig id="F1" position="float" fig-type="figure"><label>Fig. 1</label><caption><p>Positive effects of male AG secretion on sperm survival across three species of fungus-growing ants (<italic>Trachymyrmex</italic> cf. <italic>zeteki</italic>, <italic>Acromyrmex echinatior</italic>, <italic>Atta colombica</italic>), a bumblebee (<italic>Bombus terrestris</italic>), and a honeybee (<italic>Apis mellifera</italic>). The upper five charts show the absolute sperm viability values in the control treatments with Hayes saline (left) and the AG supplementations (right) that produced the AG/control survival ratios in the lower panel. The data for <italic>A. colombica</italic> and <italic>A. mellifera</italic> are from previous studies (<xref ref-type="bibr" rid="R15"><italic>15</italic></xref>, <xref ref-type="bibr" rid="R16"><italic>16</italic></xref>), whereas those for the other three species were collected in the present study. The slope of the regression in the lower panel (<italic>y</italic> = 0.824<italic>x</italic> + 0.784; <italic>r</italic><sup>2</sup> = 0.876; <italic>P</italic> = 0.019) is not significantly different from 1 (i.e., approximately parallel to the diagonal: 95% confidence interval slope: 0.254&#x2013;1.395). The intercept of the regression is significantly different from 1 (zero after log-transformation: <italic>t</italic><sub>3</sub> = 7.196; <italic>P</italic> = 0.006), indicating that the AG treatment had a consistently positive effect relative to control exposure to Hayes saline. The inset shows the male AGs and accessory testes (ATs) of a representative species (<italic>B. terrestris</italic>) as they were dissected. All bars are SEM.</p>
+</caption>
+<graphic xlink:href="327_1506_F1"></graphic></fig>
+<p>We next investigated whether the AG secretion of other conspecific males would be equally effective in enhancing sperm survival (<xref ref-type="bibr" rid="R18"><italic>18</italic></xref>). We expected that AG secretions might be at least partially hostile to other males&#x2019; sperm in the polyandrous species, but that no such effects should occur in their monandrous sister groups where ejaculates never interact in vivo. We used generalized estimating equations, nesting species within mating systems and using individuals as repeated measures (<xref ref-type="bibr" rid="R18"><italic>18</italic></xref>), to compare the effects of AG secretions from a focal male, brothers of the focal male, and unrelated males on sperm survival. We found significant effects of mating system (polyandrous versus monandrous, &#x03C7;<sup>2</sup> = 22.33, df = 1, <italic>P</italic> &lt; 0.001) and treatment (AG origin, &#x03C7;<sup>2</sup> = 19.17, df = 2, <italic>P</italic> &lt; 0.001). The overall mating system difference may not be biologically meaningful because the absolute sperm survival percentages across species (nested within mating system) are not directly comparable. However, a significant interaction between mating system and treatment (&#x03C7;<sup>2</sup> = 18.62, df = 2, <italic>P</italic> &lt; 0.001) indicated that sperm exposed to alien seminal fluid showed reduced levels of sperm survival in polyandrous species, but not in monandrous species (<xref ref-type="fig" rid="F2">Fig. 2</xref>). This was confirmed by a rerun of the analysis for the monandrous species separately, where no significant effect of treatment could be detected (&#x03C7;<sup>2</sup> = 2.13, df = 2, <italic>P</italic> = 0.346 for <italic>Bombus</italic> and &#x03C7;<sup>2</sup> = 0.02, df = 1, <italic>P</italic> = 0.883 for <italic>Trachymyrmex</italic>). The origin of nonself AG secretion, a brother or an unrelated male, did not differentially affect sperm survival (&#x03C7;<sup>2</sup> = 2.44, df = 1, <italic>P</italic> = 0.118 for <italic>Apis</italic>; &#x03C7;<sup>2</sup> = 1.16, df = 1, <italic>P</italic> = 0.282 for <italic>Acromyrmex</italic>; and &#x03C7;<sup>2</sup> = 0.25, df = 1, <italic>P</italic> = 0.616 for <italic>Atta</italic>). This suggests that the negative effects on sperm survival are triggered by a self versus nonself recognition process.</p>
+<fig id="F2" position="float" fig-type="figure"><label>Fig. 2</label><caption><p>The effect of own, related (brother), and unrelated male AG secretion on sperm survival (mean &#x00B1; SEM) in the monandrous bumble bee <italic>B. terrestris</italic> and fungus-growing ant <italic>Trachymyrmex</italic> cf. <italic>zeteki</italic>, and the polyandrous honeybee <italic>A. mellifera</italic> and fungus-growing ants <italic>A. echinatior</italic> and <italic>A. colombica</italic>. Photos of males are given in the panels. The brother treatment could not be performed for <italic>Trachymyrmex</italic> cf. <italic>zeteki</italic> (<xref ref-type="bibr" rid="R18"><italic>18</italic></xref>). Those bars labeled with different letters (a or b) differ significantly (all <italic>P</italic> &lt; 0.001), whereas those with the same label do not (all <italic>P</italic> &gt; 0.1).</p>
+</caption>
+<graphic xlink:href="327_1506_F2"></graphic></fig>
+<p>These results are consistent with some form of ejaculate competition in polyandrous honeybees and leafcutter ants, and suggest that AG secretions contain both compounds that are favorable for sperm survival (<xref ref-type="fig" rid="F1">Fig. 1</xref>) and substances that may incapacitate sperm of competing males (<xref ref-type="fig" rid="F2">Fig. 2</xref>). To assess the combined effect of these putative forces on sperm survival, we repeated the second experiment for the three polyandrous species (but without the brother treatment), while adding an equal mix of own and alien AG secretion as an additional treatment (<xref ref-type="bibr" rid="R18"><italic>18</italic></xref>) (<xref ref-type="fig" rid="F3">Fig. 3</xref>). Overall treatment effects were significant in all cases (&#x03C7;<sup>2</sup> = 8.31, df = 2, <italic>P</italic> = 0.016 for <italic>Apis</italic>; &#x03C7;<sup>2</sup> = 7.26, df = 2, <italic>P</italic> = 0.027 for <italic>Acromyrmex</italic>; and &#x03C7;<sup>2</sup> = 10.82, df = 2, <italic>P</italic> = 0.005 for <italic>Atta</italic>). However, own AG secretion does not appear to offset the negative effects of alien AG secretion, as pure alien and mixed AG treatments always resulted in similar but reduced sperm survival compared to the pure own AG treatment (detailed statistics are in the legend to <xref ref-type="fig" rid="F3">Fig. 3</xref>).</p>
+<fig id="F3" position="float" fig-type="figure"><label>Fig. 3</label><caption><p>Own AG secretion does not counteract the negative effects on sperm survival (mean &#x00B1; SEM) of the AG secretion of other males in polyandrous ants and bees: <italic>A. mellifera</italic>, <italic>A. echinatior</italic>, and <italic>A. colombica</italic>. Overall treatment effects were significant in all three cases (see text). Specific contrasts were not significant for pure alien AG secretion versus a mixture of own and alien AG secretion (&#x03C7;<sup>2</sup> = 0.00, df = 1, <italic>P</italic> = 0.964 for <italic>Apis</italic>; &#x03C7;<sup>2</sup> = 0.05, df = 1, <italic>P</italic> = 0.823 for <italic>Acromyrmex</italic>; and &#x03C7;<sup>2</sup> = 0.40, df = 1, <italic>P</italic> = 0.529 for <italic>Atta</italic>). However, contrasts were significant for pure own versus pure alien AG secretion (&#x03C7;<sup>2</sup> = 4.86, df = 1, <italic>P</italic> = 0.028 for <italic>Apis</italic>; &#x03C7;<sup>2</sup> = 6.75, df = 1, <italic>P</italic> = 0.009 for <italic>Acromyrmex</italic>; and &#x03C7;<sup>2</sup> = 9.25, df = 1, <italic>P</italic> = 0.002 for <italic>Atta</italic>), and for pure own versus a mixture of own and alien AG secretion (&#x03C7;<sup>2</sup> = 6.58, df = 1, <italic>P</italic> = 0.010 for <italic>Apis</italic>; &#x03C7;<sup>2</sup> = 4.62, df = 1, <italic>P</italic> = 0.032 for <italic>Acromyrmex</italic>; and &#x03C7;<sup>2</sup> = 9.89, df = 1, <italic>P</italic> = 0.002 for <italic>Atta</italic>).</p>
+</caption>
+<graphic xlink:href="327_1506_F3"></graphic></fig>
+<p>After 30 min of exposure to alien AG secretion, sperm survival was reduced by 6.6% in <italic>Apis</italic>, 14.7% in <italic>Atta</italic>, and 18.0% in <italic>Acromyrmex</italic> relative to treatment with own AG secretion (<xref ref-type="fig" rid="F2">Fig. 2</xref>). However, the residence time of inseminated honeybee sperm in the bursa copulatrix and lateral oviducts before being stored or discarded is 40 to 90 hours (<xref ref-type="bibr" rid="R21"><italic>21</italic></xref>), whereas ejaculates of <italic>A. colombica</italic> are probably transferred to the spermatheca almost immediately (<xref ref-type="bibr" rid="R22"><italic>22</italic></xref>). Because rival ejaculates of <italic>Atta</italic> have less time to compete before being stored, there may be more damage per minute of exposure. This is consistent with <italic>A. mellifera</italic> queens expelling some 95% of the sperm provided by 10 to 20 matings (<xref ref-type="bibr" rid="R21"><italic>21</italic></xref>), whereas <italic>A. colombica</italic> queens store essentially all sperm provided by 2 to 5 matings (<xref ref-type="bibr" rid="R22"><italic>22</italic></xref>, <xref ref-type="bibr" rid="R23"><italic>23</italic></xref>). Typical sperm prestorage time in <italic>A. echinatior</italic> is unknown, but is up to 5 hours in <italic>A. versicolor</italic>, where queens appear to store around 10% of inseminated sperm (<xref ref-type="bibr" rid="R24"><italic>24</italic></xref>).</p>
+<p>Because every sperm cell provides a potential fitness benefit after the sperm storage process is complete (<xref ref-type="bibr" rid="R14"><italic>14</italic></xref>, <xref ref-type="bibr" rid="R15"><italic>15</italic></xref>), we expected queens to either prevent hostile AG secretion from being stored, or to neutralize antagonistic interactions between ejaculates shortly after they enter the spermatheca. We tested this by collecting virgin <italic>A. colombica</italic> queens and artificially inseminating them with Hayes solution to obtain spermathecal fluid suspensions (<xref ref-type="bibr" rid="R18"><italic>18</italic></xref>). Exposure of freshly dissected sperm from male accessory testes to mixtures of spermathecal fluid and seminal fluid of another male showed that spermathecal fluid maintains sperm survival at normal levels (<xref ref-type="fig" rid="F4">Fig. 4</xref>). Thus, we conclude that spermathecal fluid has the potential to prevent the negative effects of AG secretion on alien sperm.</p>
+<fig id="F4" position="float" fig-type="figure"><label>Fig. 4</label><caption><p>Spermathecal fluid eliminates the negative effects of other males&#x2019; AG secretions on sperm survival in <italic>A. colombica</italic> (mean &#x00B1; SEM). The inset shows a dissected spermatheca 1 hour after having been artificially inseminated with Hayes saline. The first two bars differ significantly (&#x03C7;<sup>2</sup> = 15.04, df = 1, <italic>P</italic> &lt; 0.001), as do the second and third bar (&#x03C7;<sup>2</sup> = 13.59, df = 1, <italic>P</italic> &lt; 0.001), but the bar on the right does not differ significantly from the bar toward the left (&#x03C7;<sup>2</sup> = 2.38, df = 1, <italic>P</italic> = 0.123).</p>
+</caption>
+<graphic xlink:href="327_1506_F4"></graphic></fig>
+<p>These results reveal consistent postmating sexual selection and sexual conflict in eusocial insects. They complement work elucidating why multiple queen-mating evolved (<xref ref-type="bibr" rid="R9"><italic>9</italic></xref>, <xref ref-type="bibr" rid="R25"><italic>25</italic></xref>&#x2013;<xref ref-type="bibr" rid="R27"><italic>27</italic></xref>) and show that ants and bees are suitable models for testing sperm competition theory. This is because males have no influence on the fate of ejaculates after mating, and sperm storage has two distinct phases: a provisional one, varying across species from seconds to a few days, during which sperm competition may serve female interests; and a much longer permanent phase during which queens are expected to maximize the survival of all sperm. It therefore seems reasonable to expect that selection on male traits that enhance ejaculate competition is proportional to the duration of prestorage ejaculate interaction and to the ratio of inseminated versus long-term&#x2013;stored sperm.</p>
+<p>Antagonistic effects similar to those reported here may have arisen in other eusocial Hymenoptera that have evolved from single to multiple queen-mating (<xref ref-type="bibr" rid="R6"><italic>6</italic></xref>, <xref ref-type="bibr" rid="R25"><italic>25</italic></xref>&#x2013;<xref ref-type="bibr" rid="R27"><italic>27</italic></xref>), and spermathecal fluids that neutralize aggressive male AG compounds (compare to <xref ref-type="fig" rid="F4">Fig. 4</xref>) may also be found in dwarf honeybees where sperm is directly transferred to the spermatheca (<xref ref-type="bibr" rid="R28"><italic>28</italic></xref>), as in <italic>Atta</italic> (<xref ref-type="bibr" rid="R22"><italic>22</italic></xref>). However, although phenotypic expressions of these sexual conflicts might be similar, their independent evolutionary origins suggest that the genes and pathways involved are different (<xref ref-type="bibr" rid="R7"><italic>7</italic></xref>). Clarifying such molecular mechanisms is now feasible, as recent studies have shown that honeybee spermathecal proteomes differ appreciably from male AG proteomes (<xref ref-type="bibr" rid="R17"><italic>17</italic></xref>, <xref ref-type="bibr" rid="R29"><italic>29</italic></xref>, <xref ref-type="bibr" rid="R30"><italic>30</italic></xref>), consistent with functional differences connected with operating when sperm is in a state of long-term dormancy or metabolically active.</p>
+</body>
+<back>
+<app-group>
+<app>
+<title>Supporting Online Material</title>
+<supplementary-material>
+<p><ext-link ext-link-type="uri" xlink:href="http://www.sciencemag.org/cgi/content/full/327/5972/1506/DC1">www.sciencemag.org/cgi/content/full/327/5972/1506/DC1</ext-link></p>
+<p>Materials and Methods</p>
+<p>References</p>
+</supplementary-material></app></app-group>
+<ref-list>
+<title>References and Notes</title>
+<ref id="R1"><label>1</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Parker</surname><given-names>G. A.</given-names></name></person-group>, 
+<article-title>Sperm competition and its evolutionary consequences in the insects.</article-title> 
+<source>Biol. Rev. Camb. Philos. Soc.</source> 
+<volume>45</volume>, 
+<fpage>525</fpage> (<year>1970</year>). 
+<pub-id pub-id-type="doi">10.1111/j.1469-185X.1970.tb01176.x</pub-id></citation></ref>
+<ref id="R2"><label>2</label><citation citation-type="book">W. G. Eberhard, <italic>Female Control: Sexual Selection by Cryptic Female Choice</italic> (Princeton Univ. Press, Princeton, NJ, 1996).</citation></ref>
+<ref id="R3"><label>3</label><citation citation-type="book">L. W. Simmons, <italic>Sperm Competition and Its Evolutionary Consequences in the Insects</italic> (Princeton Univ. Press, Princeton, NJ, 2001).</citation></ref>
+<ref id="R4"><label>4</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Chapman</surname><given-names>T.</given-names></name><name><surname>Arnqvist</surname><given-names>G.</given-names></name><name><surname>Bangham</surname><given-names>J.</given-names></name><name><surname>Rowe</surname><given-names>L.</given-names></name></person-group>, 
+<article-title>Sexual conflict</article-title>. 
+<source>Trends Ecol. Evol.</source> 
+<volume>18</volume>, 
+<fpage>41</fpage> (<year>2003</year>). 
+<pub-id pub-id-type="doi">10.1016/S0169-5347(02)00004-6</pub-id></citation></ref>
+<ref id="R5"><label>5</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Jennions</surname><given-names>M. D.</given-names></name><name><surname>Petrie</surname><given-names>M.</given-names></name></person-group>, 
+<article-title>Why do females mate multiply? A review of the genetic benefits.</article-title> 
+<source>Biol. Rev. Camb. Philos. Soc.</source> 
+<volume>75</volume>, 
+<fpage>21</fpage> (<year>2000</year>). 
+<pub-id pub-id-type="doi">10.1017/S0006323199005423</pub-id>
+<pub-id pub-id-type="pmid">10740892</pub-id></citation></ref>
+<ref id="R6"><label>6</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Hughes</surname><given-names>W. O. H.</given-names></name><name><surname>Oldroyd</surname><given-names>B. P.</given-names></name><name><surname>Beekman</surname><given-names>M.</given-names></name><name><surname>Ratnieks</surname><given-names>F. L. W.</given-names></name></person-group>, 
+<article-title>Ancestral monogamy shows kin selection is key to the evolution of eusociality.</article-title> 
+<source>Science</source> 
+<volume>320</volume>, 
+<fpage>1213</fpage> (<year>2008</year>). 
+<pub-id pub-id-type="doi">10.1126/science.1156108</pub-id>
+<pub-id pub-id-type="pmid">18511689</pub-id></citation></ref>
+<ref id="R7"><label>7</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Boomsma</surname><given-names>J. J.</given-names></name></person-group>, 
+<article-title>Lifetime monogamy and the evolution of eusociality</article-title>. 
+<source>Philos. Trans. R. Soc. Lond. Ser. B</source> 
+<volume>364</volume>, 
+<fpage>3191</fpage> (<year>2009</year>). 
+<pub-id pub-id-type="doi">10.1098/rstb.2009.0101</pub-id></citation></ref>
+<ref id="R8"><label>8</label><citation citation-type="book">B. H&#x00F6;lldobler, S. Bartz, in <italic>Experimental Behavioural Ecology and Sociobiology</italic>, B. H&#x00F6;lldobler, M. Lindauer, Eds. (Gustav Fischer Verlag, Stuttgart and New York, 1985), pp. 237&#x2013;257.</citation></ref>
+<ref id="R9"><label>9</label><citation citation-type="book">J. J. Boomsma, D. J. C. Kronauer, J. S. Pedersen, in <italic>Organization of Insect Societies: From Genome to Sociocomplexity</italic>, J. Gadau, J. Fewell, Eds. (Harvard Univ. Press, Cambridge, MA, 2009), pp. 3&#x2013;25.</citation></ref>
+<ref id="R10"><label>10</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Boomsma</surname><given-names>J. J.</given-names></name><name><surname>Baer</surname><given-names>B.</given-names></name><name><surname>Heinze</surname><given-names>J.</given-names></name></person-group>, 
+<article-title>The evolution of male traits in social insects.</article-title> 
+<source>Annu. Rev. Entomol.</source> 
+<volume>50</volume>, 
+<fpage>395</fpage> (<year>2005</year>). 
+<pub-id pub-id-type="doi">10.1146/annurev.ento.50.071803.130416</pub-id>
+<pub-id pub-id-type="pmid">15822204</pub-id></citation></ref>
+<ref id="R11"><label>11</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Aanen</surname><given-names>D. K.</given-names></name><etal /></person-group>., 
+<article-title>High symbiont relatedness stabilizes mutualistic cooperation in fungus-growing termites.</article-title> 
+<source>Science</source> 
+<volume>326</volume>, 
+<fpage>1103</fpage> (<year>2009</year>). 
+<pub-id pub-id-type="doi">10.1126/science.1173462</pub-id>
+<pub-id pub-id-type="pmid">19965427</pub-id></citation></ref>
+<ref id="R12"><label>12</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Leigh</surname><given-names>E. G.</given-names><suffix>Jr.</suffix></name></person-group>, 
+<article-title>The group selection controversy.</article-title> 
+<source>J. Evol. Biol.</source> 
+<volume>23</volume>, 
+<fpage>6</fpage> (<year>2010</year>). 
+<pub-id pub-id-type="doi">10.1111/j.1420-9101.2009.01876.x</pub-id>
+<pub-id pub-id-type="pmid">20002254</pub-id></citation></ref>
+<ref id="R13"><label>13</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Chapman</surname><given-names>T.</given-names></name><name><surname>Liddle</surname><given-names>L. F.</given-names></name><name><surname>Kalb</surname><given-names>J. M.</given-names></name><name><surname>Wolfner</surname><given-names>M. F.</given-names></name><name><surname>Partridge</surname><given-names>L.</given-names></name></person-group>, 
+<article-title>Cost of mating in Drosophila melanogaster females is mediated by male accessory gland products.</article-title> 
+<source>Nature</source> 
+<volume>373</volume>, 
+<fpage>241</fpage> (<year>1995</year>). 
+<pub-id pub-id-type="doi">10.1038/373241a0</pub-id>
+<pub-id pub-id-type="pmid">7816137</pub-id></citation></ref>
+<ref id="R14"><label>14</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Cole</surname><given-names>B.</given-names></name></person-group>, 
+<article-title>Multiple mating and the evolution of social behavior in the hymenoptera</article-title>. 
+<source>Behav. Ecol. Sociobiol.</source> 
+<volume>12</volume>, 
+<fpage>191</fpage> (<year>1983</year>). 
+<pub-id pub-id-type="doi">10.1007/BF00290771</pub-id></citation></ref>
+<ref id="R15"><label>15</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>den Boer</surname><given-names>S. P. A.</given-names></name><etal /></person-group>., 
+<article-title>Prudent sperm use by leaf-cutter ant queens.</article-title> 
+<source>Proc. R. Soc. B</source> 
+<volume>276</volume>, 
+<fpage>3945</fpage> (<year>2009</year>). 
+<pub-id pub-id-type="doi">10.1098/rspb.2009.1184</pub-id>
+<pub-id pub-id-type="pmid">19710057</pub-id></citation></ref>
+<ref id="R16"><label>16</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>den Boer</surname><given-names>S. P. A.</given-names></name><name><surname>Boomsma</surname><given-names>J. J.</given-names></name><name><surname>Baer</surname><given-names>B.</given-names></name></person-group>, 
+<article-title>Seminal fluid enhances sperm viability in the leafcutter ant Atta colombica</article-title>. 
+<source>Behav. Ecol. Sociobiol.</source> 
+<volume>62</volume>, 
+<fpage>1843</fpage> (<year>2008</year>). 
+<pub-id pub-id-type="doi">10.1007/s00265-008-0613-5</pub-id></citation></ref>
+<ref id="R17"><label>17</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>den Boer</surname><given-names>S. P. A.</given-names></name><name><surname>Boomsma</surname><given-names>J. J.</given-names></name><name><surname>Baer</surname><given-names>B.</given-names></name></person-group>, 
+<article-title>Honey bee males and queens use glandular secretions to enhance sperm viability before and after storage.</article-title> 
+<source>J. Insect Physiol.</source> 
+<volume>55</volume>, 
+<fpage>538</fpage> (<year>2009</year>). 
+<pub-id pub-id-type="doi">10.1016/j.jinsphys.2009.01.012</pub-id>
+<pub-id pub-id-type="pmid">19232404</pub-id></citation></ref>
+<ref id="R18">
+<note><label>18</label><p>Materials and methods are available as supporting material on <italic>Science</italic> Online.</p>
+</note></ref>
+<ref id="R19"><label>19</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Holman</surname><given-names>L.</given-names></name></person-group>, 
+<article-title>Sperm viability staining in ecology and evolution: Potential pitfalls</article-title>. 
+<source>Behav. Ecol. Sociobiol.</source> 
+<volume>63</volume>, 
+<fpage>1679</fpage> (<year>2009</year>). 
+<pub-id pub-id-type="doi">10.1007/s00265-009-0816-4</pub-id></citation></ref>
+<ref id="R20"><label>20</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Villesen</surname><given-names>P.</given-names></name><name><surname>Murakami</surname><given-names>T.</given-names></name><name><surname>Schultz</surname><given-names>T. R.</given-names></name><name><surname>Boomsma</surname><given-names>J. J.</given-names></name></person-group>, 
+<article-title>Identifying the transition between single and multiple mating of queens in fungus-growing ants.</article-title> 
+<source>Proc. R. Soc. B.</source> 
+<volume>269</volume>, 
+<fpage>1541</fpage> (<year>2002</year>). 
+<pub-id pub-id-type="doi">10.1098/rspb.2002.2044</pub-id>
+<pub-id pub-id-type="pmid">12184823</pub-id></citation></ref>
+<ref id="R21"><label>21</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Baer</surname><given-names>B.</given-names></name></person-group>, 
+<article-title>Sexual selection in <italic>Apis</italic> bees</article-title>. 
+<source>Apidologie</source> 
+<volume>36</volume>, 
+<fpage>187</fpage> (<year>2005</year>). 
+<pub-id pub-id-type="doi">10.1051/apido:2005013</pub-id></citation></ref>
+<ref id="R22"><label>22</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Baer</surname><given-names>B.</given-names></name><name><surname>Boomsma</surname><given-names>J. J.</given-names></name></person-group>, 
+<article-title>Mating biology of the leaf-cutting ants Atta colombica and A. cephalotes.</article-title> 
+<source>J. Morphol.</source> 
+<volume>267</volume>, 
+<fpage>1165</fpage> (<year>2006</year>). 
+<pub-id pub-id-type="doi">10.1002/jmor.10467</pub-id>
+<pub-id pub-id-type="pmid">16817214</pub-id></citation></ref>
+<ref id="R23"><label>23</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Baer</surname><given-names>B.</given-names></name><name><surname>Armitage</surname><given-names>S. A. O.</given-names></name><name><surname>Boomsma</surname><given-names>J. J.</given-names></name></person-group>, 
+<article-title>Sperm storage induces an immunity cost in ants.</article-title> 
+<source>Nature</source> 
+<volume>441</volume>, 
+<fpage>872</fpage> (<year>2006</year>). 
+<pub-id pub-id-type="doi">10.1038/nature04698</pub-id>
+<pub-id pub-id-type="pmid">16778889</pub-id></citation></ref>
+<ref id="R24"><label>24</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Reichardt</surname><given-names>A.</given-names></name><name><surname>Wheeler</surname><given-names>D.</given-names></name></person-group>, 
+<article-title>Multiple mating in the ant Acromyrmex versicolor : A case of female control</article-title>. 
+<source>Behav. Ecol. Sociobiol.</source> 
+<volume>38</volume>, 
+<fpage>219</fpage> (<year>1996</year>). 
+<pub-id pub-id-type="doi">10.1007/s002650050235</pub-id></citation></ref>
+<ref id="R25"><label>25</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Boomsma</surname><given-names>J. J.</given-names></name><name><surname>Ratnieks</surname><given-names>F. L. W.</given-names></name></person-group>, 
+<article-title>Paternity in eusocial Hymenoptera</article-title>. 
+<source>Philos. Trans. R. Soc. B</source> 
+<volume>351</volume>, 
+<fpage>947</fpage> (<year>1996</year>). 
+<pub-id pub-id-type="doi">10.1098/rstb.1996.0087</pub-id></citation></ref>
+<ref id="R26"><label>26</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Strassmann</surname><given-names>J. E.</given-names></name></person-group>, 
+<article-title>The rarity of multiple mating by females in the social Hymenoptera</article-title>. 
+<source>Insectes Soc.</source> 
+<volume>48</volume>, 
+<fpage>1</fpage> (<year>2001</year>). 
+<pub-id pub-id-type="doi">10.1007/PL00001737</pub-id></citation></ref>
+<ref id="R27"><label>27</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Crozier</surname><given-names>R. H.</given-names></name><name><surname>Fjerdingstad</surname><given-names>E. J.</given-names></name></person-group>, 
+<source>Ann. Zool. Fenn.</source> 
+<volume>38</volume>, 
+<fpage>267</fpage> (<year>2001</year>).</citation></ref>
+<ref id="R28"><label>28</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Koeniger</surname><given-names>N.</given-names></name><name><surname>Koeniger</surname><given-names>G.</given-names></name><name><surname>Wongsiri</surname><given-names>S.</given-names></name></person-group>, 
+<article-title>Mating and sperm transfer in Apis florea</article-title>. 
+<source>Apidologie</source> 
+<volume>20</volume>, 
+<fpage>413</fpage> (<year>1989</year>). 
+<pub-id pub-id-type="doi">10.1051/apido:19890506</pub-id></citation></ref>
+<ref id="R29"><label>29</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Baer</surname><given-names>B.</given-names></name><name><surname>Eubel</surname><given-names>H.</given-names></name><name><surname>Taylor</surname><given-names>N. L.</given-names></name><name><surname>O&#x2019;Toole</surname><given-names>N.</given-names></name><name><surname>Millar</surname><given-names>A. H.</given-names></name></person-group>, 
+<article-title>Insights into female sperm storage from the spermathecal fluid proteome of the honeybee Apis mellifera.</article-title> 
+<source>Genome Biol.</source> 
+<volume>10</volume>, 
+<fpage>R67</fpage> (<year>2009</year>). 
+<pub-id pub-id-type="doi">10.1186/gb-2009-10-6-r67</pub-id>
+<pub-id pub-id-type="pmid">19538722</pub-id></citation></ref>
+<ref id="R30"><label>30</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Baer</surname><given-names>B.</given-names></name><name><surname>Heazlewood</surname><given-names>J. L.</given-names></name><name><surname>Taylor</surname><given-names>N. L.</given-names></name><name><surname>Eubel</surname><given-names>H.</given-names></name><name><surname>Millar</surname><given-names>A. H.</given-names></name></person-group>, 
+<article-title>The seminal fluid proteome of the honeybee Apis mellifera.</article-title> 
+<source>Proteomics</source> 
+<volume>9</volume>, 
+<fpage>2085</fpage> (<year>2009</year>). 
+<pub-id pub-id-type="doi">10.1002/pmic.200800708</pub-id>
+<pub-id pub-id-type="pmid">19322787</pub-id></citation></ref></ref-list>
+<ack><label>31</label>
+<p>We thank G. Nachman and D. R. Nash for statistical help, L. Holman and D. R. Nash for discussion and comments, M. St&#x00FC;rup for collecting ants in the field, M. King for collecting part of the sperm viability data for honeybees, the honeybee keepers of Western Australia (Better Bees of WA) for providing the necessary bee material, the Smithsonian Tropical Research Institute in Panama for facilities and logistic support during fieldwork, and the Autoridad Nacional de Ambiente (ANAM) for issuing collecting and export permits for fungus-growing ants. Supported by a grant from the Danish National Research Foundation (to J.J.B.) and an Australian Research Council Discovery Project (DP 0878107) and Queen Elizabeth II Fellowship (DP 0770050) (to B.B.).</p>
+</ack></back>
+</article>

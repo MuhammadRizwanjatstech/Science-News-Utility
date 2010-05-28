@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="article-commentary" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML"><front>
+<journal-meta><journal-id journal-id-type="publisher-id">SCIENCE</journal-id><journal-title>Science</journal-title><abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title><issn pub-type="ppub">0036-8075</issn><issn pub-type="epub">1095-9203</issn>
+<publisher>
+<publisher-name>American Association for the Advancement of Science</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta><article-id pub-id-type="publisher-id">1188291</article-id><article-id pub-id-type="doi">10.1126/science.1188291</article-id><article-categories>
+<subj-group subj-group-type="article-type"><subject>Perspective</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Perspectives</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>perspective</subject></subj-group>
+<subj-group subj-group-type="overline"><subject>Physics</subject></subj-group>
+<subj-group subj-group-type="field"><subject>PHYSICS</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Toward Organic All-Optical Switching</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes"><name><surname>Haque</surname><given-names>Saif A.</given-names></name><xref ref-type="aff" rid="aff1">1</xref></contrib>
+<contrib contrib-type="author" corresp="yes"><name><surname>Nelson</surname><given-names>Jenny</given-names></name><xref ref-type="aff" rid="aff2">2</xref></contrib>
+<aff id="aff1"><label>1</label>Department of Chemistry, Imperial College, London SW7 2AZ, UK.</aff>
+<aff id="aff2"><label>2</label>Department of Physics, Centre for Plastic Electronics, Imperial College, London SW7 2AZ, UK.</aff>
+</contrib-group>
+<author-notes>
+<corresp>E-mail: <email>s.a.haque@imperial.ac.uk</email>; <email>jenny.nelson@imperial.ac.uk</email></corresp>
+</author-notes><pub-date pub-type="ppub">
+<day>19</day>
+<month>03</month>
+<year>2010</year>
+</pub-date><volume>327</volume><issue>5972</issue><fpage>1466</fpage><lpage>1467</lpage><permissions>
+<copyright-statement>Copyright &#x00A9; 2010, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2010</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<abstract abstract-type="teaser">
+<p>A sophisticated molecular design method yields an organic material for possible application in high-speed, all-optical communication.</p>
+</abstract>
+<abstract abstract-type="excerpt">
+<p>In the past decade, there has been an explosion of academic and industrial interest in the use of organic conducting (&#x201C;pi-conjugated&#x201D;) materials in optoelectronics, flexible logic circuits, light emission, energy conversion, optical communications (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>&#x2013;<xref ref-type="bibr" rid="R3"><italic>3</italic></xref>). Compared with inorganic materials, pi-conjugated materials can more easily be tuned through molecular design and cost less to manufacture. Advances in physical understanding, synthetic control of the chemical product, and computational molecular design now allow pi-conjugated materials to be tailored for a specific purpose or function. On page 1485 of this issue, Hales <italic>et al.</italic> (<xref ref-type="bibr" rid="R4"><italic>4</italic></xref>) report a promising new approach to the design of pi-conjugated materials for all-optical communications.</p>
+</abstract><custom-meta-wrap><custom-meta><meta-name>Editor</meta-name><meta-value>Julia Fahrenkamp-Uppenbrink</meta-value></custom-meta><custom-meta><meta-name>Copyeditor</meta-name><meta-value>Harry Jach</meta-value></custom-meta></custom-meta-wrap></article-meta>
+</front>
+<body>
+<p>In the past decade, there has been an explosion of academic and industrial interest in the use of organic conducting (&#x201C;pi-conjugated&#x201D;) materials in optoelectronics, flexible logic circuits, light emission, energy conversion, optical communications (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>&#x2013;<xref ref-type="bibr" rid="R3"><italic>3</italic></xref>). Compared with inorganic materials, pi-conjugated materials can more easily be tuned through molecular design and cost less to manufacture. Advances in physical understanding, synthetic control of the chemical product, and computational molecular design now allow pi-conjugated materials to be tailored for a specific purpose or function. On page <related-article related-article-type="in-this-issue" vol="327" page="1485" issue="5972">1485</related-article> of this issue, Hales <italic>et al.</italic> (<xref ref-type="bibr" rid="R4"><italic>4</italic></xref>) report a promising new approach to the design of pi-conjugated materials for all-optical communications.</p>
+<p>In optical communications, information is passed via guided optical beams with wavelengths typically between 1.3 and 1.5 &#x00B5;m, where optical fiber transmission losses are minimized. All-optical switches deflect or delay the signal beam through a change in the refractive index of a nonlinear optical material that is stimulated by a second light beam (see the figure, panel A). In a nonlinear optical material, refractive index and properties depend on light intensity at strong intensities. The high speed (&lt;100 ps) of optical switching relative to electro-optical switching offers the possibility of dramatic increases in the speed and efficiency of a variety of applications.</p>
+<fig id="F1" position="float">
+<caption>
+<title>Designing materials for organic all-optical switching.</title>
+    <p>(<bold>A</bold>) In an all-optical switch, a control beam or pulse modulates the direction of an input signal and thereby switches between an on and an off state. (<bold>B</bold>) In the compound reported by Hales <italic>et al.</italic>, use of selenopyrylium end groups enables the conjugation length to be extended without compromising bond length symmetry. As a result, the compound has a large &#x03B3;/absorption ratio. (<bold>C</bold>) Absorption losses are minimized by choosing a photon energy <italic>&#x0127;</italic>&#x03C9; such that no linear or nonlinear transitions are excited at either <italic>&#x0127;</italic>&#x03C9; or 2<italic>&#x0127;</italic>&#x03C9;. If, in addition, <italic>&#x0127;</italic>&#x03C9; lies close to the first linear transition <italic>E</italic><sub>g</sub>, then &#x03B3; is enhanced through a nonresonant effect.</p>
+</caption>
+<graphic xlink:href="327_1466_F1" /></fig>
+<p>Currently, optical switching is achieved by means of rare earth&#x2013;doped optical fiber amplifiers or semiconductor optical amplifiers. These components are costly to manufacture, restricting the technology to special applications such as long-distance telecommunications. Pi-conjugated molecular materials have strong optical nonlinearities and could therefore perform effectively in all-optical switches. Moreover, the active materials cost little and should be easy to integrate into waveguide devices. Organic optical switching devices could thus massively reduce the cost of all-optical signal processing. Possible applications range from everyday data communications and data screening in health care to fast optical computing.</p>
+<p>In pi-conjugated materials, polarization of the molecule by the incident light field causes a change in its refractive index, &#x0394;<italic>n</italic>. This change is proportional to the real part of the third-order coefficient, &#x03B3;, in the expansion of polarizability in terms of electromagnetic field strength. For high-performance all-optical switches, the molecular material should thus offer a large &#x03B3;, as well as low absorption losses and&#x2014;for fast switching&#x2014;a short lifetime of the nonlinear excited state (<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>). Large &#x03B3; are found in polyene-type molecules designed so that the C&#x2013;C bond lengths are similar and that the electronic ground state is delocalized along the whole molecule (see the figure, panel B). For a given operating wavelength, &#x03B3; increases very rapidly with molecular length, <italic>L</italic>. One strategy to achieve high &#x03B3; is therefore to increase the length of the molecule. However, long polyene-type molecules tend to distort, thereby losing the bond length symmetry that enables ground-state delocalization and thus limiting the value of &#x03B3;.</p>
+    <p>A further important compromise in the design of organic nonlinear optical materials results from the need to keep all absorption losses low while keeping &#x03B3; high. &#x03B3; can be enhanced by using a material in which the first linear optical transition, <italic>E</italic><sub>g</sub>, lies just above the operating photon energy, <italic>&#x0127;</italic>&#x03C9; (the nonresonant effect), but at the high field strengths used in nonlinear optics, electronic transitions involving two photons and with twice the photon energy 2<italic>&#x0127;</italic>&#x03C9; can also become important. Therefore, the electronic structure must be designed so that no (linear or nonlinear) optical transitions occur at 2<italic>&#x0127;</italic>&#x03C9;. One approach is to choose a large-gap molecule with <italic>E</italic><sub>g</sub> &gt;
+        2<italic>&#x0127;</italic>&#x03C9; (for telecommunications, that means choosing <italic>E</italic><sub>g</sub> &gt; 1.65 eV), but the size of &#x03B3; is then limited. An alternative is to find a low-gap molecule for which 2<italic>&#x0127;</italic>&#x03C9; lies in a gap between different two-photon transitions (see the figure, panel C). In this configuration, &#x03B3; is enhanced by the nonresonant effect and molecular length is less critical. However, it is challenging to design molecules with the required electronic structure.</p>
+    <p>Hales <italic>et al.</italic> now report a breakthrough in the design and synthesis of a polymethine-type dye molecule capped with aromatic selenium (Se)&#x2013;containing end groups. The aromatic end groups allow the frontier molecular orbitals to extend beyond the polymethine chain; they thus effectively increase the conjugation length and reduce <italic>E</italic><sub>g</sub> without the symmetry-breaking problem encountered in long chains. Moreover, the Se substitution increases the dipole moment above the value expected for the given polymethine chain length. These factors result in exceptionally high &#x03B3; values. In addition, two-photon absorption losses at telecommunications wavelengths are minimized in these molecules because of a gap in the two-photon absorption spectrum at 2<italic>&#x0127;</italic>&#x03C9;. The combination of high &#x03B3; and low absorption losses results in an unprecedented ratio of &#x03B3; to absorption. If these results for solution can be reproduced in solid films, the molecules could find application as some of the first high-performance, low-cost all-optical switches.</p>
+<p>The work of Hales <italic>et al.</italic> demonstrates that the design and synthesis of functional pi-conjugated materials for specific purposes is reaching a new maturity. Similarly striking achievements have been made recently in other fields. For example, use of conjugated polymers in electrically pumped lasers requires high charge mobilities as well as high luminescent efficiency. A recent study showed that poly-fluorene polymers with a small fraction of short side chains can achieve both goals, because the side chains increase interchain hopping and raise charge mobility by almost two orders of magnitude, but do not reduce the luminescence efficiency (<xref ref-type="bibr" rid="R6"><italic>6</italic></xref>). Similarly, in organic solar cells, a free-energy difference between the photoexcited donor or acceptor molecule and the separated charged state is required to drive efficient charge separation. This free-energy difference limits the electrochemical potential energy that can be harnessed. Recent studies (<xref ref-type="bibr" rid="R7"><italic>7</italic></xref>, <xref ref-type="bibr" rid="R8"><italic>8</italic></xref>) have shown that charge separation can be achieved at lower energetic cost through use of donor polymers with in-chain donor-acceptor character, possibly by polarizing the excited state during the charge-transfer step. Given these advances, technological applications of these sophisticated materials should not take long to be realized.</p>
+</body>
+<back>
+<ref-list>
+<title>References and Notes</title>
+<ref id="R1">
+<label>1</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Gunes</surname><given-names>S.</given-names></name><etal/></person-group>., <source>Chem. Rev.</source>
+<volume>107</volume>, <fpage>1324</fpage> (<year>2007</year>).</citation>
+</ref>
+<ref id="R2">
+<label>2</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Forrest</surname><given-names>S. R.</given-names></name></person-group>, <source>Nature</source>
+<volume>428</volume>, <fpage>911</fpage> (<year>2004</year>).</citation>
+</ref>
+<ref id="R3">
+<label>3</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Friend</surname><given-names>R. H.</given-names></name><etal/></person-group>., <source>Nature</source>
+<volume>397</volume>, <fpage>121</fpage> (<year>1999</year>).</citation>
+</ref>
+<ref id="R4">
+<label>4</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Hales</surname><given-names>J. M.</given-names></name><etal/></person-group>., <source>Science</source>
+<volume>327</volume>, <fpage>1485</fpage> (<year>2010</year>); <comment>published online</comment>
+<day>18</day>
+<month>February</month>
+<year>2010</year> (10.1126/science.1185117).<pub-id pub-id-type="doi">10.1126/science.1185117</pub-id></citation>
+</ref>
+<ref id="R5">
+<label>5</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Bredas</surname><given-names>J. L.</given-names></name><etal/></person-group>., <source>Chem. Rev.</source>
+<volume>94</volume>, <fpage>243</fpage> (<year>1994</year>).</citation>
+</ref>
+<ref id="R6">
+<label>6</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Yap</surname><given-names>B. K.</given-names></name><etal/></person-group>., <source>Nat. Mater.</source>
+<volume>7</volume>, <fpage>376</fpage> (<year>2008</year>).</citation>
+</ref>
+<ref id="R7">
+<label>7</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Liang</surname><given-names>Y.</given-names></name><etal/></person-group>., <source>Adv. Mater.</source>
+10.1002/adma.200903528 (<year>2010</year>).<pub-id pub-id-type="doi">10.1002/adma.200903528</pub-id></citation>
+</ref>
+<ref id="R8">
+<label>8</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Clarke</surname><given-names>T. M.</given-names></name><name><surname>Durrant</surname><given-names>J. R.</given-names></name></person-group>, <source>Chem. Rev.</source>
+    10.1021.cr900271s (<year>2010</year>).<pub-id pub-id-type="doi">10.1021/cr900271s</pub-id></citation>
+</ref>
+</ref-list>
+<ack>
+<label>9</label><p>S.A.H. thanks the Royal Society for a RS-University Research Fellowship. J.N. thanks the Royal Society for a RS Industry Fellowship. We thank P. Stavrinou for helpful discussions.</p>
+</ack>
+</back>
+</article>

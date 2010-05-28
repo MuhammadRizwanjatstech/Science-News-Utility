@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="article-commentary" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title>
+<issn pub-type="ppub">0036-8075</issn>
+<issn pub-type="epub">1095-9203</issn>
+<publisher>
+<publisher-name>American Association for the Advancement of Science</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">1186473</article-id>
+<article-id pub-id-type="doi">10.1126/science.1186473</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>Perspective</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Perspectives</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>perspective</subject></subj-group>
+<subj-group subj-group-type="overline"><subject>Plant Science</subject></subj-group>
+<subj-group subj-group-type="field"><subject>ATMOS</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Phenology Under Global Warming</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes"><name><surname>K&#x00F6;rner</surname><given-names>Christian</given-names></name></contrib>
+<contrib contrib-type="author" corresp="yes"><name><surname>Basler</surname><given-names>David</given-names></name></contrib>
+<aff id="aff1">Institute of Botany, University of Basel, 4056 Basel, Switzerland.</aff>
+</contrib-group>
+<author-notes>
+<corresp>E-mail: <email>ch.koerner@unibas.ch</email>, <email>david.basler@unibas.ch</email></corresp>
+</author-notes>
+<pub-date pub-type="ppub">
+<day>19</day>
+<month>03</month>
+<year>2010</year>
+</pub-date>
+<volume>327</volume>
+<issue>5972</issue>
+<fpage>1461</fpage>
+<lpage>1462</lpage>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2010, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2010</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<abstract abstract-type="teaser">
+<p>In most temperate tree species, phenological events such as flowering and autumnal cessation of growth are not primarily controlled by temperature.</p>
+</abstract>
+<abstract abstract-type="excerpt">
+<p>Phenological events such as bud burst, flowering, and senescence have received increased interest in the light of global warming (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>&#x2013;<xref ref-type="bibr" rid="R3"><italic>3</italic></xref>). Spring events at temperate latitudes have advanced by 2.5 days per decade since 1971 (<xref ref-type="bibr" rid="R4"><italic>4</italic></xref>). As global warming progresses, how will it affect the arrival of spring and the length of the growing season?</p>
+</abstract>
+<custom-meta-wrap><custom-meta><meta-name>Editor</meta-name><meta-value>Julia Fahrenkamp-Uppenbrink</meta-value></custom-meta><custom-meta><meta-name>Copyeditor</meta-name><meta-value>Cynthia Howe</meta-value></custom-meta></custom-meta-wrap></article-meta>
+</front>
+<body>
+<p>Phenological events such as bud burst, flowering, and senescence have received increased interest in the light of global warming (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>&#x2013;<xref ref-type="bibr" rid="R3"><italic>3</italic></xref>). Spring events at temperate latitudes have advanced by 2.5 days per decade since 1971 (<xref ref-type="bibr" rid="R4"><italic>4</italic></xref>). As global warming progresses, how will it affect the arrival of spring and the length of the growing season?</p>
+<p>In humid extratropical areas, the three most important factors controlling phenology in dominant forest tree species are the degree of winter chilling, photoperiod (day length relative to night length), and temperature (<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>&#x2013;<xref ref-type="bibr" rid="R7"><italic>7</italic></xref>) (see the figure). Because the seasonal course of temperature varies strongly from year to year, sensitivity to photoperiod protects plants from the potentially fatal consequences of simply tracking temperatures at the &#x201C;wrong&#x201D; time of the year. Photoperiod controls the induction (formation of winter buds, leaf abscission meristems, and freezing resistance) (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>&#x2013;<xref ref-type="bibr" rid="R10"><italic>10</italic></xref>) and release from dormancy, the onset of growth, and reproductive events, including synchronous flowering (<xref ref-type="bibr" rid="R11"><italic>11</italic></xref>, <xref ref-type="bibr" rid="R12"><italic>12</italic></xref>). Temperature plays a modulating role and triggers the visible progress of phenology, such as leaf coloration, in many species.</p>
+<fig id="F1" position="float">
+<caption>
+<title>Not just temperature.</title>
+<p>Spring development in many ornamental plants from warm regions, such as lilac (<italic>Syringa</italic>), is primarily controlled by temperature, whereas early successional species native to temperate latitudes, such as hornbeam (<italic>Carpinus</italic>), only become temperature-sensitive once their chilling demand has been fulfilled. Late successional taxa, such as beech (<italic>Fagus</italic>), are photoperiod controlled, with temperature only exerting a limited modulating effect once the critical day length has passed. This mechanism prevents such taxa from sprouting at the &#x201C;wrong&#x201D; time.</p>
+</caption>
+<graphic xlink:href="327_1461_F1"></graphic>
+</fig>
+<p>Because the photoperiod is equally long in autumn and spring, dormancy release in spring requires the information that winter has passed, obtained from the dose of low temperatures experienced by the plant. When this chilling requirement is fulfilled, plants become receptive to photoperiod signals. Once a critical photoperiod has passed, actual bud break is a matter of concurrent temperature. A lack of sufficient chilling in mild winters delays bud break (<xref ref-type="bibr" rid="R13"><italic>13</italic></xref>) but may be partially replaced by long photoperiods and/or very high temperatures (<xref ref-type="bibr" rid="R14"><italic>14</italic></xref>).</p>
+<p>Not all tree species are sensitive to photoperiod, but the long-lived, late successional species that become dominant in mature forests commonly are. The genetic controls of plant development by photoperiod even remain in action when these temperate tree species are transplanted to subtropical parks, where bud break in hackberry (<italic>Celtis</italic>), beech (<italic>Fagus</italic>), and oak (<italic>Quercus</italic>) species was never found to occur before early March, despite exceptionally high temperatures in this exotic environment (<xref ref-type="bibr" rid="R15"><italic>15</italic></xref>). It is thus a misconception to linearly extrapolate a few days advance of leafing during warm years into a proportional lengthening of the growing season in climate warming scenarios (<xref ref-type="bibr" rid="R16"><italic>16</italic></xref>, <xref ref-type="bibr" rid="R17"><italic>17</italic></xref>).</p>
+<p>Shorter-lived, early successional species adopt a more risky life strategy (<xref ref-type="bibr" rid="R6"><italic>6</italic></xref>). Many phenological observations in the literature come from such pioneer species as hazel, poplars, or birch, which are opportunistic (photoperiod-insensitive in spring). Other opportunistic species include weeds, as well as ornamental plants from warmer climates.</p>
+<p>For instance, the famous phenological time series for horse chestnut in the streets of Geneva (<xref ref-type="bibr" rid="R18"><italic>18</italic></xref>), showing clear advances in leafing, is for an exotic species from a sub-Mediterranean setting. Another prominent time series shows early flowering of domestic cherry trees (<xref ref-type="bibr" rid="R18"><italic>18</italic></xref>), which exhibit adaptive traits from central Asia, from where the cultivars originate. In these continental regions, the advent of spring is rather invariable, presumably due to the great distance from the sea, and phenological tracking of temperature bears no risk. In fact, trees in these regions should be more likely to keep tracking climatic warming than those in climates with more unpredictable weather systems, an interesting question to be explored in future work. Many ornamental plants in temperate gardens are photoperiod-insensitive, and their spring phenology tracks temperature with only very minor chilling requirements, as exemplified by lilac (<italic>Syringa</italic>) (<xref ref-type="bibr" rid="R19"><italic>19</italic></xref>).</p>
+<p>Phenology in late successional species will thus not continue to track climatic warming (the lengthening of the potential growing season) but will increasingly become constrained by internal controls, as the photoperiod threshold (set by genes) is approached. For most extratropical trees, seasons will not become substantially longer until new genotypes emerge, which will take a few tree generations (a few hundred years) (<xref ref-type="bibr" rid="R20"><italic>20</italic></xref>).</p>
+<p>Opportunistic taxa may profit from a warmer climate and may thus gain a competitive advantage over photoperiod-sensitive taxa. Rapid climatic warming may also drive current tree genotypes into a disparity between their insurance against &#x201C;misleading&#x201D; (too early in the season) warm temperatures and concurrent temperature-sensitive soil processes such as mineralization. Ecosystem nutrient losses are a potential consequence of trees getting out of phase with the climate system. Climatic warming should thus not be seen as a self-evident cause for more tree growth.</p>
+</body>
+<back>
+<ref-list>
+<title>References and Notes</title>
+<ref id="R1">
+<label>1</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Cleland</surname><given-names>E. E.</given-names></name><name><surname>Chuine</surname><given-names>I.</given-names></name><name><surname>Menzel</surname><given-names>A.</given-names></name><name><surname>Mooney</surname><given-names>H. A.</given-names></name><name><surname>Schwartz</surname><given-names>M. D.</given-names></name></person-group>, <source>Trends Ecol. Evol.</source> <volume>22</volume>, <fpage>357</fpage> (<year>2007</year>).</citation>
+</ref>
+<ref id="R2">
+<label>2</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Morin</surname><given-names>X.</given-names></name><etal/></person-group>., <source>Glob. Change Biol.</source> <volume>15</volume>, <fpage>961</fpage> (<year>2009</year>).</citation>
+</ref>
+<ref id="R3">
+<label>3</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Khanduri</surname><given-names>V. P.</given-names></name><name><surname>Sharma</surname><given-names>C. M.</given-names></name><name><surname>Singh</surname><given-names>S. P.</given-names></name></person-group>, <source>Environmentalist</source>
+<volume>28</volume>, <fpage>143</fpage> (<year>2008</year>).</citation>
+</ref>
+<ref id="R4">
+<label>4</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Menzel</surname><given-names>A.</given-names></name><etal/></person-group>., <source>Glob. Change Biol.</source> <volume>12</volume>, <fpage>1969</fpage> (<year>2006</year>).</citation>
+</ref>
+<ref id="R5">
+<label>5</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Chuine</surname><given-names>I.</given-names></name><name><surname>Cour</surname><given-names>P.</given-names></name></person-group>, <source>New Phytol.</source> <volume>143</volume>, <fpage>339</fpage> (<year>1999</year>).</citation>
+</ref>
+<ref id="R6">
+<label>6</label>
+<citation citation-type="book">
+<person-group person-group-type="author"><name><surname>K&#x00F6;rner</surname><given-names>C.</given-names></name></person-group>, in <source>Plant Growth and Climate Change</source>
+<person-group person-group-type="editor">
+<name><surname>Morison</surname><given-names>J. I. L.</given-names></name>
+<name><surname>Morecroft</surname><given-names>M. D.</given-names></name> Eds.</person-group>, (<publisher-name>Blackwell</publisher-name>, <publisher-loc>Oxford</publisher-loc>, <year>2007</year>), pp. <fpage>48</fpage>&#x2013;<lpage>69</lpage>.</citation>
+</ref>
+<ref id="R7">
+<label>7</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Hay</surname><given-names>R. K. M.</given-names></name></person-group>, <source>New Phytol.</source> <volume>116</volume>, <fpage>233</fpage> (<year>1990</year>).</citation>
+</ref>
+<ref id="R8">
+<label>8</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Li</surname><given-names>C.</given-names></name><name><surname>Junttila</surname><given-names>O.</given-names></name><name><surname>Ernstsen</surname><given-names>A.</given-names></name><name><surname>Heino</surname><given-names>P.</given-names></name><name><surname>Palva</surname><given-names>E. T.</given-names></name></person-group>, <source>Physiol. Plant.</source> <volume>117</volume>, <fpage>206</fpage> (<year>2003</year>).</citation>
+</ref>
+<ref id="R9">
+<label>9</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Wareing</surname><given-names>P. F.</given-names></name></person-group>, <source>Annu. Rev. Plant Physiol. Plant Mol. Biol.</source>
+<volume>7</volume>, <fpage>191</fpage> (<year>1956</year>).</citation>
+</ref>
+<ref id="R10">
+<label>10</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Keskitalo</surname><given-names>J.</given-names></name><name><surname>Bergquist</surname><given-names>G.</given-names></name><name><surname>Gardestrom</surname><given-names>P.</given-names></name><name><surname>Jansson</surname><given-names>S</given-names></name></person-group>, <source>Plant Physiol.</source> <volume>139</volume>, <fpage>1635</fpage> (<year>2005</year>).</citation>
+</ref>
+<ref id="R11">
+<label>11</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Keller</surname><given-names>F.</given-names></name><name><surname>K&#x00F6;rner</surname><given-names>C.</given-names></name></person-group>, <source>Arct. Antarct. Alp. Res.</source> <volume>35</volume>, <fpage>361</fpage> (<year>2003</year>).</citation>
+</ref>
+<ref id="R12">
+<label>12</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Jackson</surname><given-names>S. D.</given-names></name></person-group>, <source>New Phytol.</source> <volume>181</volume>, <fpage>517</fpage> (<year>2009</year>).</citation>
+</ref>
+<ref id="R13">
+<label>13</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Murray</surname><given-names>M. B.</given-names></name><name><surname>Cannell</surname><given-names>M. G. R.</given-names></name><name><surname>Smith</surname><given-names>R. I.</given-names></name></person-group>, <source>J. Appl. Ecol.</source>
+<volume>26</volume>, <fpage>693</fpage> (<year>1989</year>).</citation>
+</ref>
+<ref id="R14">
+<label>14</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Heide</surname><given-names>O. M.</given-names></name></person-group>, <source>Physiol. Plant.</source> <volume>88</volume>, <fpage>531</fpage> (<year>1993</year>).</citation>
+</ref>
+<ref id="R15">
+<label>15</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Borchert</surname><given-names>R.</given-names></name><name><surname>Robertson</surname><given-names>K.</given-names></name><name><surname>Schwartz</surname><given-names>M. D.</given-names></name><name><surname>Williams-Linera</surname><given-names>G.</given-names></name></person-group>, <source>Int. J. Biometeorol.</source> <volume>50</volume>, <fpage>57</fpage> (<year>2005</year>).</citation>
+</ref>
+<ref id="R16">
+<label>16</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Penuelas</surname><given-names>J.</given-names></name><name><surname>Rutishauser</surname><given-names>T.</given-names></name><name><surname>Filella</surname><given-names>I.</given-names></name></person-group>, <source>Science</source> <volume>324</volume>, <fpage>887</fpage> (<year>2009</year>).</citation>
+</ref>
+<ref id="R17">
+<label>17</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Moser</surname><given-names>L.</given-names></name><etal/></person-group>., <source>Tree Physiol.</source> <volume>30</volume>, <fpage>225</fpage> (<year>2010</year>).</citation>
+</ref>
+<ref id="R18">
+<label>18</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Defila</surname><given-names>C.</given-names></name><name><surname>Clot</surname><given-names>B.</given-names></name></person-group>, <source>Int. J. Biometeorol.</source> <volume>45</volume>, <fpage>203</fpage> (<year>2001</year>).</citation>
+</ref>
+<ref id="R19">
+<label>19</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Larcher</surname><given-names>W.</given-names></name></person-group>, <source>Sitzber. Anzeiger Math.-Nat. Kl. Jg. 2006</source>
+<volume>212</volume>, <fpage>3</fpage> (<year>2007</year>).</citation>
+</ref>
+<ref id="R20">
+<label>20</label>
+<note><p>This estimate is based on what is known for weeds, which need about five generations to evolve new latitude-specific photoperiod genotypes (<xref ref-type="bibr" rid="R21"><italic>21</italic></xref>).</p></note>
+</ref>
+<ref id="R21">
+<label>21</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Langlet</surname><given-names>O.</given-names></name></person-group>, <source>Taxon</source> <volume>20</volume>, <fpage>653</fpage> (<year>1971</year>).</citation>
+</ref>
+</ref-list>
+<ack>
+<label>22</label><p>Funded by Velux-Foundation and National Center of Competence in Research (NCCR) Climate of the Swiss Science Foundation.</p>
+</ack>
+</back>
+</article>

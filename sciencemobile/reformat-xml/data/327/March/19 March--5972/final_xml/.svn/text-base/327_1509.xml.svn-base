@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="research-article" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title><issn pub-type="ppub">0036-8075</issn><issn pub-type="epub">1095-9203</issn>
+<publisher><publisher-name>American Association for the Advancement of Science</publisher-name></publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">1184961</article-id>
+<article-id pub-id-type="doi">10.1126/science.1184961</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>Report</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Reports</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>reports</subject></subj-group>
+<subj-group subj-group-type="field"><subject>ECOLOGY</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Patterns of Diversity in Marine Phytoplankton</article-title>
+</title-group>
+<contrib-group><contrib contrib-type="author" corresp="yes"><name><surname>Barton</surname><given-names>Andrew D.</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="corresp" rid="cor1">*</xref></contrib><contrib contrib-type="author"><name><surname>Dutkiewicz</surname><given-names>Stephanie</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib><contrib contrib-type="author"><name><surname>Flierl</surname><given-names>Glenn</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib><contrib contrib-type="author"><name><surname>Bragg</surname><given-names>Jason</given-names></name><xref ref-type="aff" rid="aff2"><sup>2</sup></xref><xref ref-type="fn" rid="afn1">&#x2020;</xref></contrib><contrib contrib-type="author"><name><surname>Follows</surname><given-names>Michael J.</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib>
+<aff id="aff1"><label>1</label>Department of Earth, Atmospheric, and Planetary Sciences, Massachusetts Institute of Technology, 77 Massachusetts Avenue, Cambridge, MA 02139, USA.</aff>
+<aff id="aff2"><label>2</label>Department of Civil and Environmental Engineering, Massachusetts Institute of Technology, 77 Massachusetts Avenue, Cambridge, MA 02139, USA.</aff></contrib-group>
+<author-notes>
+<corresp id="cor1"><label>*</label>To whom correspondence should be addressed. E-mail: 
+<email xlink:href="adbarton@mit.edu">adbarton@mit.edu</email></corresp>
+<fn id="afn1"><label>&#x2020;</label><p>Present address: Commonwealth Scientific and Industrial Research Organisation (CSIRO) Plant Industry, Canberra, ACT 2601, Australia.</p>
+</fn></author-notes>
+<pub-date pub-type="ppub"><day>19</day><month>03</month><year>2010</year></pub-date>
+<volume>327</volume>
+<issue>5972</issue>
+<fpage>1509</fpage>
+<lpage>1511</lpage>
+<history><date date-type="received"><day>19</day><month>11</month><year>2009</year></date><date date-type="accepted"><day>12</day><month>02</month><year>2010</year></date><date date-type="epub"><day>25</day><month>02</month><year>2010</year></date></history>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2010, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2010</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder></permissions>
+<abstract abstract-type="editor"><title>Diversity Gradients</title><p>Latitudinal gradients in species abundance, with relatively few occurring at the poles and many at the equator, are well known for macroorganisms. It is a matter of controversy, fueled by a lack of observational data, whether such gradients also occur among microorganisms. <bold>Barton <italic>et al.</italic></bold> (p. <related-article related-article-type="in-this-issue" vol="327" page="1509">1509</related-article>, published online 25 February) have built on a global marine circulation model to predict the dynamics of phytoplankton populations. In silico, they obtain patterns of latitudinal gradation for plankton that are interspersed with hotspots of amplified diversity, which point to plausible natural explanations for the phenomenon that can be tested in the future by systematic metagenomic surveys.</p></abstract>
+<abstract abstract-type="teaser"><p>Highest diversity occurs in physically dynamic mid-latitude zones, and lowest diversity and highest biomass occur toward the poles.</p></abstract>
+<abstract>
+<p>Spatial diversity gradients are a pervasive feature of life on Earth. We examined a global ocean circulation, biogeochemistry, and ecosystem model that indicated a decrease in phytoplankton diversity with increasing latitude, consistent with observations of many marine and terrestrial taxa. In the modeled subpolar oceans, seasonal variability of the environment led to competitive exclusion of phytoplankton with slower growth rates and lower diversity. The relatively weak seasonality of the stable subtropical and tropical oceans in the global model enabled long exclusion time scales and prolonged coexistence of multiple phytoplankton with comparable fitness. Superimposed on the decline in diversity seen from equator to pole were &#x201C;hot spots&#x201D; of enhanced diversity in some regions of energetic ocean circulation, which reflected lateral dispersal.</p>
+</abstract>
+<custom-meta-wrap><custom-meta><meta-name>Editor</meta-name><meta-value>Caroline Ash</meta-value></custom-meta><custom-meta><meta-name>Copyeditor</meta-name><meta-value>Cynthia Howe</meta-value></custom-meta></custom-meta-wrap></article-meta>
+</front>
+<body>
+<p>In both marine and terrestrial environments, many taxa exhibit a decline in species diversity with increasing latitude (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>, <xref ref-type="bibr" rid="R2"><italic>2</italic></xref>), and this pattern has important implications for ecosystem structure and function (<xref ref-type="bibr" rid="R3"><italic>3</italic></xref>). The extent to which and why marine phytoplankton may follow such patterns is not yet clear, although it has been argued that the biogeography of microbes is governed by a similar set of processes as for macroorganisms (<xref ref-type="bibr" rid="R4"><italic>4</italic></xref>). There is some evidence of latitudinal diversity gradients among certain taxa of marine microbes, including bacterioplankton (<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>, <xref ref-type="bibr" rid="R6"><italic>6</italic></xref>) and coccolithophorids (<xref ref-type="bibr" rid="R7"><italic>7</italic></xref>, <xref ref-type="bibr" rid="R8"><italic>8</italic></xref>), although the generality of these patterns, particularly in the open ocean, is, as yet, equivocal (<xref ref-type="bibr" rid="R9"><italic>9</italic></xref>, <xref ref-type="bibr" rid="R10"><italic>10</italic></xref>).</p>
+<p>In a recent study, a three-dimensional and time-varying global ocean circulation, biogeochemistry, and ecosystem model was initialized with a relatively large number (78) of virtual phytoplankton types whose traits were assigned stochastically from plausible ranges of possibilities (<xref ref-type="bibr" rid="R10"><italic>10</italic></xref>&#x2013;<xref ref-type="bibr" rid="R12"><italic>12</italic></xref>). The modeled phytoplankton communities &#x201C;self assembled&#x201D; according to the relative fitness of the phytoplankton types in the regionally and seasonally varying resource and predatory environment. The emergent phytoplankton populations captured the observed large-scale oceanic patterns in the distribution of phytoplankton biomass and community structure, including the observed niche differentiation among ecotypes of the cyanobacterium <italic>Prochlorococcus</italic> in the Atlantic Ocean (<xref ref-type="bibr" rid="R11"><italic>11</italic></xref>).</p>
+<p>Here, we have studied an ensemble of 10 integrations of the global model, each member having a different, stochastically seeded selection of phytoplankton types, to examine and interpret the emergent patterns of phytoplankton diversity. In each of the solutions, after a decade of integration, a dozen or so phytoplankton types account for more than 99% of the total global phytoplankton biomass. Others persist at low abundance or with limited geographic distribution, and some decline toward virtual extinction. Fast-growing &#x201C;opportunist&#x201D; phytoplankton tend to dominate the biomass of the variable high latitudes, whereas &#x201C;gleaners&#x201D; (those best able to survive on minimal resources) dominate the stable, low-latitude seas (<xref ref-type="bibr" rid="R12"><italic>12</italic></xref>, <xref ref-type="bibr" rid="R13"><italic>13</italic></xref>). There is also a degree of local coexistence among phytoplankton types. On an annual, vertically averaged basis, the phytoplankton diversity in the euphotic zone (here assumed to be 0- to 260-m depth) is lower in the polar and subpolar oceans and higher in tropical and subtropical latitudes (<xref ref-type="fig" rid="F1">Fig. 1A</xref>). This meridional gradient is clearly seen in the zonally averaged view (<xref ref-type="fig" rid="F1">Fig. 1B</xref>) and is consistent with numerous observations of marine and terrestrial ecosystems (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>, <xref ref-type="bibr" rid="R2"><italic>2</italic></xref>), including the sparse observations of marine microbial diversity (<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>&#x2013;<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>). Superimposed on the model&#x2019;s meridional gradient are &#x201C;hot spots&#x201D; of highest diversity, which are generally associated with regions of energetic circulation such as the western boundary currents. The Atlantic Ocean hot spots appear to be consistent with observations of increased diatom diversity near the North African and South American coasts (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>).</p>
+<fig id="F1" position="float" fig-type="figure"><label>Fig. 1</label><caption><p>(<bold>A</bold>) Diversity of modeled phytoplankton types in the uppermost 260 m, averaged annually across 10 ensemble members. Diversity is defined as the number of phytoplankton types comprising greater than 0.1% of the total biomass. (<bold>B</bold>) Zonal mean diversity, as well as the Shannon Index (<xref ref-type="bibr" rid="R10"><italic>10</italic></xref>), for the map shown in (A). (<bold>C</bold>) Annual mean <italic>R</italic>* (small black dots) of all phytoplankton types with a concentration above 10<sup>&#x2212;12</sup> mmol N m<sup>&#x2212;3</sup> along a meridional transect through the Atlantic Ocean at 20&#x00B0;W in an idealized global model with a single limiting nutrient (<xref ref-type="bibr" rid="R12"><italic>12</italic></xref>). The large red dots show the <italic>R</italic>* for only the most abundant type in each latitude.</p>
+</caption>
+<graphic xlink:href="327_1509_F1"></graphic></fig>
+<p>The mechanisms for maintaining the diversity of life on Earth have long interested ecologists (<xref ref-type="bibr" rid="R14"><italic>14</italic></xref>, <xref ref-type="bibr" rid="R15"><italic>15</italic></xref>), and the explanations for the meridional diversity gradient have been classified as historical, evolutionary, or ecological in nature (<xref ref-type="bibr" rid="R6"><italic>6</italic></xref>, <xref ref-type="bibr" rid="R16"><italic>16</italic></xref>). Historical explanations invoke events and changes in Earth history, such as Milankovitch cycles, in setting current species diversity. Evolutionary explanations examine the rates of speciation and extinction and their balance through time (<xref ref-type="bibr" rid="R17"><italic>17</italic></xref>, <xref ref-type="bibr" rid="R18"><italic>18</italic></xref>). These processes are not resolved in this model, yet diversity gradients are still apparent. Thus, we seek ecological explanations for the model diversity gradients, acknowledging that some real-world processes are not being considered. Niche differentiation, including seasonal succession, plays a role in determining the regional and seasonal habitats of phytoplankton types, adding to, but not fully explaining, the spatial diversity patterns (<xref ref-type="bibr" rid="R10"><italic>10</italic></xref>). We find dispersal and temporal variability of the environment to be the most important ecological controls on phytoplankton diversity gradients in this model, whereas other factors are of lesser importance or not resolved (<xref ref-type="bibr" rid="R10"><italic>10</italic></xref>).</p>
+<p>Resource competition theory (<xref ref-type="bibr" rid="R12"><italic>12</italic></xref>, <xref ref-type="bibr" rid="R13"><italic>13</italic></xref>, <xref ref-type="bibr" rid="R19"><italic>19</italic></xref>&#x2013;<xref ref-type="bibr" rid="R21"><italic>21</italic></xref>) provides a useful framework for illustrating the role of temporal variability in the global model. Consider an idealized system with a single, limiting nutrient, where the rate of change of biomass is determined by the balance between growth and mortality and the rate of change of the nutrient is determined by consumption by phytoplankton and its environmental resupply (<xref ref-type="bibr" rid="R10"><italic>10</italic></xref>). At equilibrium in this system, the phytoplankton type with the lowest environmental nutrient concentration at which the growth and mortality are in balance (designated as <italic>R</italic>*) (<xref ref-type="bibr" rid="R10"><italic>10</italic></xref>) is expected to outcompete other phytoplankton types over time (<xref ref-type="bibr" rid="R12"><italic>12</italic></xref>, <xref ref-type="bibr" rid="R20"><italic>20</italic></xref>). This limit is relevant to the subtropical oceans, which are characterized by a relatively weak seasonal cycle, and a strongly stratified, oligotrophic surface ocean. An emergent feature of the global model solutions was the coexistence of multiple physiologically distinct phytoplankton types with similarly low <italic>R</italic>* in the tropical and subtropical regions (<xref ref-type="fig" rid="F1">Fig. 1C</xref>) (<xref ref-type="bibr" rid="R12"><italic>12</italic></xref>), at least for the time scale of the model integrations. Because the <italic>R</italic>* for each phytoplankton type depends on imposed physiological characteristics and mortality, there are, in theory, many possible combinations that can achieve the same maximal fitness (lowest <italic>R</italic>*). Moreover, the emergent, coexisting community of physiologically distinct but <italic>R</italic>*-equivalent organisms is consistent with studies of laboratory populations of manipulated bacteria (<xref ref-type="bibr" rid="R22"><italic>22</italic></xref>) and the hypothesis that such a mechanism may be important in maintaining the diversity of marine phytoplankton (<xref ref-type="bibr" rid="R21"><italic>21</italic></xref>). This model outcome itself points to a possible explanation for enhanced phytoplankton diversity at lower latitudes and echoes the neutral theory of ecology and the hypothesis of ecological equivalence (<xref ref-type="bibr" rid="R23"><italic>23</italic></xref>).</p>
+<p>We analyzed the diversity dynamics within the idealized resource competition framework for the special case where all phytoplankton types have identical <italic>R</italic>*. In support of the emergent pattern in the global model, the idealized simulations indicate that the relatively steady environmental conditions in the tropical and subtropical oceans enable the prolonged coexistence of many phytoplankton with equivalent fitness (equal <italic>R</italic>*) and enhanced diversity (<xref ref-type="fig" rid="F2">Fig. 2A</xref>) (<xref ref-type="bibr" rid="R10"><italic>10</italic></xref>). However, the oceans are constantly perturbed by atmospheric forcing and internal physical phenomena across a vast range of spatial and temporal scales. Introducing a time-varying, periodic nutrient source to the idealized simulations eventually leads to competitive exclusion of all but the single phytoplankton type that grows fastest under optimal conditions (<xref ref-type="fig" rid="F2">Fig. 2B</xref>), even if the equivalence of <italic>R</italic>* is imposed. The slower-growing phytoplankton types need a higher time-averaged nutrient concentration to compete with the faster growers and are excluded over time (<xref ref-type="bibr" rid="R10"><italic>10</italic></xref>). Environmental variability creates a competitive structure such that the number of extant phytoplankton types can be reduced through competitive exclusion. Indeed, in the higher latitude, strongly seasonal marine environments where the global model solution exhibits lower diversity (<xref ref-type="fig" rid="F1">Fig. 1</xref>), high growth rate, and not low <italic>R</italic>*, is the most appropriate measure of organismal fitness (<xref ref-type="bibr" rid="R12"><italic>12</italic></xref>).</p>
+<fig id="F2" position="float" fig-type="figure"><label>Fig. 2</label><caption><p>Abundances for five hypothetical phytoplankton types with a constant (<bold>A</bold>) and periodically varying (<bold>B</bold>) nutrient source (&#x03C9;<sup>&#x2212;1</sup> = 365 days, and the amplitude is 0.5). Colors represent phytoplankton with different maximum growth rates (&#x03BC;). Data in (B) were annually averaged.</p>
+</caption>
+<graphic xlink:href="327_1509_F2"></graphic></fig>
+<p>Using the idealized experimental system, we investigated a range of natural frequencies and amplitudes of variability in nutrient supply and defined the time taken until one phytoplankton type accounts for more than 90% of the total biomass as the time scale of competitive exclusion, or &#x03C4;<sub>CE</sub>. This time scale can exceed a thousand years when the environmental variability has either short (hours to days) or long (annual and longer) periodicity (<xref ref-type="fig" rid="F3">Fig. 3</xref>). In contrast, when the environment varies with a period of months, competitive exclusion occurs within a few years or less. Large amplitude variations promote rapid exclusion, whereas small amplitude variations allow for extended coexistence. Therefore, in the subtropical and tropical oceans, where seasonality is relatively weak, we expect the time scale of competitive exclusion to be long (centuries or more, which is long relative to the length of global model integrations) for phytoplankton types with equivalent <italic>R</italic>* (<xref ref-type="fig" rid="F2">Fig. 2A</xref>). In contrast, the subpolar and polar oceans are subject to strong seasonal variations, including changes in the mixed layer depth that regulate light and nutrient availability. Here, opportunism is favored and the exclusionary pressure by the fastest growing phytoplankton on those with lesser growth rates is strong (<xref ref-type="fig" rid="F3">Fig. 3</xref>). The exclusion time scale here may be as short as several years, and the long-term coexistence of many phytoplankton types is not sustained. Variability in growth rate, which is sensitive to changes in temperature and light, led to similar results (<xref ref-type="bibr" rid="R10"><italic>10</italic></xref>).</p>
+<fig id="F3" position="float" fig-type="figure"><label>Fig. 3</label><caption><p>The relationship between exclusion time scale (&#x03C4;<sub>CE</sub>) and the period (&#x03C9;<sup>&#x2212;1</sup>, solid line) and amplitude (A, dashed line) of the external nutrient source in the idealized model (<xref ref-type="bibr" rid="R10"><italic>10</italic></xref>). We considered a system to be in a state of competitive exclusion when one species comprises greater than 90% of the total biomass.</p>
+</caption>
+<graphic xlink:href="327_1509_F3"></graphic></fig>
+<p>The time scale of competitive exclusion is set by the character of environmental variability, but local diversity in the global model is ultimately a balance between the removal of species by exclusion and the replenishment of phytoplankton types through physically mediated dispersal (<xref ref-type="bibr" rid="R17"><italic>17</italic></xref>). The rate of long-range dispersal of phytoplankton types in the ocean can be fast in swift currents (weeks to months) but is generally slower (decades to centuries) within and between ocean gyres (<xref ref-type="bibr" rid="R24"><italic>24</italic></xref>). In the high latitudes, exclusion is generally rapid relative to dispersal and intergyre exchange, and diversity is consequently lower. In the tropical and subtropical oceans, the exclusion time scale is typically long relative to the redistribution of phytoplankton by dispersal. Here, a higher diversity of similar <italic>R</italic>* types can be maintained.</p>
+<p>In the &#x201C;hot spots&#x201D; of highest phytoplankton diversity, ocean dynamics, such as lateral advection and stirring due to planetary waves, mix organisms from different habitats. For example, the elevated diversity in the region of the Gulf Stream reflects the rapid poleward and eastward advection of organisms adapted to tropical and subtropical environments, as has been observed (<xref ref-type="bibr" rid="R25"><italic>25</italic></xref>). As the boundary current transports away the subtropical communities and their environments, the transported waters are mixed and their phytoplankton intermingled with locally adapted organisms and eventually outcompeted. The exclusion time scale here is long relative to the advective time scale, and the transported population contributes to the local total biomass and diversity (<xref ref-type="fig" rid="F1">Fig. 1A</xref>). Similar processes are responsible for the enhanced diversity in the tropical Eastern Pacific. In contrast, the energetic Antarctic Circumpolar Current region has low diversity because the near-zonal circumpolar flow acts as a barrier to, and not an agent of, communication between marine provinces.</p>
+<p>Although the global model presented here is a simplified system, the emergent patterns of diversity show features generally consistent with the sparse observations of marine microbial diversity. The model&#x2019;s diversity patterns primarily reflect a balance between dispersal and competitive exclusion, with the latter modulated by environmental variability. Both neutral coexistence and niche differentiation play important roles in regulating the diversity and biogeographies of model phytoplankton (<xref ref-type="bibr" rid="R26"><italic>26</italic></xref>). Such a modeling approach might be extended to explicitly reflect a broader spectrum of marine organisms, such as heterotrophic microbes and zooplankton, and enable comparison with more observational data sets. The roles of other processes, including speciation and climate change, should also be explored. Further laboratory or mesocosm experiments might be designed to address the potential for coexistence of microbes with equal fitness. New, molecular approaches (<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>, <xref ref-type="bibr" rid="R6"><italic>6</italic></xref>) will enable efficient, systematic surveys in the near future, and we suggest that a targeted survey of phytoplankton diversity (prokaryotes and eukaryotes), crossing from a subpolar regime, across a boundary current, dispersal-dominated region (the model hot spots), and into the interior of a subtropical gyre, could provide a valuable test of the hypothesized patterns and mechanisms that emerge from this study.</p>
+</body>
+<back>
+<app-group>
+<app>
+<title>Supporting Online Material</title>
+<supplementary-material>
+<p><ext-link ext-link-type="uri" xlink:href="http://www.sciencemag.org/cgi/content/full/science.1184961/DC1">www.sciencemag.org/cgi/content/full/science.1184961/DC1</ext-link></p>
+<p>SOM Text</p>
+<p>Figs. S1 to S4</p>
+<p>References</p>
+</supplementary-material></app></app-group>
+<ref-list>
+<title>References and Notes</title>
+<ref id="R1"><label>1</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Currie</surname><given-names>D. J.</given-names></name></person-group>, 
+<article-title>Energy and large-scale patterns of animal- and plant-species richness.</article-title> 
+<source>Am. Nat.</source> 
+<volume>137</volume>, 
+<fpage>27</fpage> (<year>1991</year>). 
+<pub-id pub-id-type="doi">10.1086/285144</pub-id></citation></ref>
+<ref id="R2"><label>2</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Hillebrand</surname><given-names>H.</given-names></name></person-group>, 
+<article-title>On the generality of the latitudinal diversity gradient.</article-title> 
+<source>Am. Nat.</source> 
+<volume>163</volume>, 
+<fpage>192</fpage> (<year>2004</year>). 
+<pub-id pub-id-type="doi">10.1086/381004</pub-id>
+<pub-id pub-id-type="pmid">14970922</pub-id></citation></ref>
+<ref id="R3"><label>3</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Ptacnik</surname><given-names>R.</given-names></name><etal /></person-group>., 
+<article-title>Diversity predicts stability and resource use efficiency in natural phytoplankton communities.</article-title> 
+<source>Proc. Natl. Acad. Sci. U.S.A.</source> 
+<volume>105</volume>, 
+<fpage>5134</fpage> (<year>2008</year>). 
+<pub-id pub-id-type="doi">10.1073/pnas.0708328105</pub-id>
+<pub-id pub-id-type="pmid">18375765</pub-id></citation></ref>
+<ref id="R4"><label>4</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Martiny</surname><given-names>J. B.</given-names></name><etal /></person-group>., 
+<article-title>Microbial biogeography: Putting microorganisms on the map.</article-title> 
+<source>Nat. Rev. Microbiol.</source> 
+<volume>4</volume>, 
+<fpage>102</fpage> (<year>2006</year>). 
+<pub-id pub-id-type="doi">10.1038/nrmicro1341</pub-id>
+<pub-id pub-id-type="pmid">16415926</pub-id></citation></ref>
+<ref id="R5"><label>5</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Pommier</surname><given-names>T.</given-names></name><etal /></person-group>., 
+<article-title>Global patterns of diversity and community structure in marine bacterioplankton.</article-title> 
+<source>Mol. Ecol.</source> 
+<volume>16</volume>, 
+<fpage>867</fpage> (<year>2007</year>). 
+<pub-id pub-id-type="doi">10.1111/j.1365-294X.2006.03189.x</pub-id>
+<pub-id pub-id-type="pmid">17284217</pub-id></citation></ref>
+<ref id="R6"><label>6</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Fuhrman</surname><given-names>J. A.</given-names></name><etal /></person-group>., 
+<article-title>A latitudinal diversity gradient in planktonic marine bacteria.</article-title> 
+<source>Proc. Natl. Acad. Sci. U.S.A.</source> 
+<volume>105</volume>, 
+<fpage>7774</fpage> (<year>2008</year>). 
+<pub-id pub-id-type="doi">10.1073/pnas.0803070105</pub-id>
+<pub-id pub-id-type="pmid">18509059</pub-id></citation></ref>
+<ref id="R7"><label>7</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Honjo</surname><given-names>S.</given-names></name><name><surname>Okada</surname><given-names>H.</given-names></name></person-group>, 
+<article-title>Community structure of coccolithophores in the photic layer of the mid-Pacific.</article-title> 
+<source>Micropaleontology</source> 
+<volume>20</volume>, 
+<fpage>209</fpage> (<year>1974</year>). 
+<pub-id pub-id-type="doi">10.2307/1485061</pub-id></citation></ref>
+<ref id="R8"><label>8</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Cerme&#x00F1;o</surname><given-names>P.</given-names></name><etal /></person-group>., 
+<article-title>The role of nutricline depth in regulating the ocean carbon cycle</article-title>. 
+<source>Proc. Natl. Acad. Sci. U.S.A.</source> 
+<volume>105</volume>, 
+<fpage>20344</fpage> (<year>2008</year>). 
+<pub-id pub-id-type="doi">10.1073/pnas.0811302106</pub-id></citation></ref>
+<ref id="R9"><label>9</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Cerme&#x00F1;o</surname><given-names>P.</given-names></name><etal /></person-group>., 
+<article-title>Resource levels, allometric scaling of population abundance, and marine phytoplankton diversity.</article-title> 
+<source>Limnol. Oceanogr.</source> 
+<volume>53</volume>, 
+<fpage>312</fpage> (<year>2008</year>).</citation></ref>
+<ref id="R10">
+<note><label>10</label><p>Supporting material is available on <italic>Science</italic> Online.</p>
+</note></ref>
+<ref id="R11"><label>11</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Follows</surname><given-names>M. J.</given-names></name><name><surname>Dutkiewicz</surname><given-names>S.</given-names></name><name><surname>Grant</surname><given-names>S.</given-names></name><name><surname>Chisholm</surname><given-names>S. W.</given-names></name></person-group>, 
+<article-title>Emergent biogeography of microbial communities in a model ocean.</article-title> 
+<source>Science</source> 
+<volume>315</volume>, 
+<fpage>1843</fpage> (<year>2007</year>). 
+<pub-id pub-id-type="doi">10.1126/science.1138544</pub-id>
+<pub-id pub-id-type="pmid">17395828</pub-id></citation></ref>
+<ref id="R12"><label>12</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Dutkiewicz</surname><given-names>S.</given-names></name><name><surname>Follows</surname><given-names>M. J.</given-names></name><name><surname>Bragg</surname><given-names>J. G.</given-names></name></person-group>, 
+<article-title>Modeling the coupling of ocean ecology and biogeochemistry.</article-title> 
+<source>Global Biogeochem. Cycles</source> 
+<volume>23</volume>, 
+<fpage>GB4017</fpage> (<year>2009</year>). 
+<pub-id pub-id-type="doi">10.1029/2008GB003405</pub-id></citation></ref>
+<ref id="R13"><label>13</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Grover</surname><given-names>J. P.</given-names></name></person-group>, 
+<article-title>Resource competition in a variable environment: Phytoplankton growing according to Monod&#x2019;s model.</article-title> 
+<source>Am. Nat.</source> 
+<volume>136</volume>, 
+<fpage>771</fpage> (<year>1990</year>). 
+<pub-id pub-id-type="doi">10.1086/285131</pub-id></citation></ref>
+<ref id="R14"><label>14</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Hutchinson</surname><given-names>G. E.</given-names></name></person-group>, 
+<article-title>Homage to Santa Rosalia or why are there so many kinds of animals?</article-title> 
+<source>Am. Nat.</source> 
+<volume>93</volume>, 
+<fpage>145</fpage> (<year>1959</year>). 
+<pub-id pub-id-type="doi">10.1086/282070</pub-id></citation></ref>
+<ref id="R15"><label>15</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Hutchinson</surname><given-names>G. E.</given-names></name></person-group>, 
+<article-title>The paradox of the plankton.</article-title> 
+<source>Am. Nat.</source> 
+<volume>95</volume>, 
+<fpage>137</fpage> (<year>1961</year>). 
+<pub-id pub-id-type="doi">10.1086/282171</pub-id></citation></ref>
+<ref id="R16"><label>16</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Mittelbach</surname><given-names>G. G.</given-names></name><etal /></person-group>., 
+<article-title>Evolution and the latitudinal diversity gradient: Speciation, extinction and biogeography.</article-title> 
+<source>Ecol. Lett.</source> 
+<volume>10</volume>, 
+<fpage>315</fpage> (<year>2007</year>). 
+<pub-id pub-id-type="doi">10.1111/j.1461-0248.2007.01020.x</pub-id>
+<pub-id pub-id-type="pmid">17355570</pub-id></citation></ref>
+<ref id="R17"><label>17</label><citation citation-type="book">R. MacArthur, E. Wilson, <italic>The Theory of Island Biogeography</italic> (Princeton University Press, Princeton, NJ, 1967).</citation></ref>
+<ref id="R18"><label>18</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Allen</surname><given-names>A. P.</given-names></name><name><surname>Gillooly</surname><given-names>J. F.</given-names></name><name><surname>Savage</surname><given-names>V. M.</given-names></name><name><surname>Brown</surname><given-names>J. H.</given-names></name></person-group>, 
+<article-title>Kinetic effects of temperature on rates of genetic divergence and speciation.</article-title> 
+<source>Proc. Natl. Acad. Sci. U.S.A.</source> 
+<volume>103</volume>, 
+<fpage>9130</fpage> (<year>2006</year>). 
+<pub-id pub-id-type="doi">10.1073/pnas.0603587103</pub-id>
+<pub-id pub-id-type="pmid">16754845</pub-id></citation></ref>
+<ref id="R19"><label>19</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Stewart</surname><given-names>F. M.</given-names></name><name><surname>Levin</surname><given-names>B. R.</given-names></name></person-group>, <article-title>Partitioning of resources and the outcome of interspecific competition: A model and some general considerations.</article-title> 
+<source>Am. Nat.</source> 
+<volume>107</volume>, 
+<fpage>171</fpage> (<year>1973</year>). 
+<pub-id pub-id-type="doi">10.1086/282825</pub-id></citation></ref>
+<ref id="R20"><label>20</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Tilman</surname><given-names>D.</given-names></name></person-group>, 
+<article-title>Tests of resource competition theory using four species of Lake Michigan algae.</article-title> 
+<source>Ecology</source> 
+<volume>62</volume>, 
+<fpage>802</fpage> (<year>1981</year>). 
+<pub-id pub-id-type="doi">10.2307/1937747</pub-id></citation></ref>
+<ref id="R21"><label>21</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Falkowski</surname><given-names>P. G.</given-names></name><name><surname>Oliver</surname><given-names>M. J.</given-names></name></person-group>, 
+<article-title>Mix and match: How climate selects phytoplankton.</article-title> 
+<source>Nat. Rev. Microbiol.</source> 
+<volume>5</volume>, 
+<fpage>813</fpage> (<year>2007</year>). 
+<pub-id pub-id-type="doi">10.1038/nrmicro1751</pub-id>
+<pub-id pub-id-type="pmid">17853908</pub-id></citation></ref>
+<ref id="R22"><label>22</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Hansen</surname><given-names>S. R.</given-names></name><name><surname>Hubbell</surname><given-names>S. P.</given-names></name></person-group>, 
+<article-title>Single-nutrient microbial competition: Qualitative agreement between experimental and theoretically forecast outcomes.</article-title> 
+<source>Science</source> 
+<volume>207</volume>, 
+<fpage>1491</fpage> (<year>1980</year>). 
+<pub-id pub-id-type="doi">10.1126/science.6767274</pub-id>
+<pub-id pub-id-type="pmid">6767274</pub-id></citation></ref>
+<ref id="R23"><label>23</label><citation citation-type="book">S. Hubbell, <italic>The Unified Neutral Theory of Biodiversity and Biogeography</italic> (Princeton University Press, Princeton, NJ, 2001).</citation></ref>
+<ref id="R24"><label>24</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Martiny</surname><given-names>A. C.</given-names></name><name><surname>Tai</surname><given-names>A. P. K.</given-names></name><name><surname>Veneziano</surname><given-names>D.</given-names></name><name><surname>Primeau</surname><given-names>F.</given-names></name><name><surname>Chisholm</surname><given-names>S. W.</given-names></name></person-group>, 
+<article-title>Taxonomic resolution, ecotypes and the biogeography of <italic>Prochlorococcus.</italic></article-title> 
+<source>Environ. Microbiol.</source> 
+<volume>11</volume>, 
+<fpage>823</fpage> (<year>2009</year>). 
+<pub-id pub-id-type="doi">10.1111/j.1462-2920.2008.01803.x</pub-id>
+<pub-id pub-id-type="pmid">19021692</pub-id></citation></ref>
+<ref id="R25"><label>25</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Cavender-Bares</surname><given-names>K. K.</given-names></name><name><surname>Karl</surname><given-names>D. M.</given-names></name><name><surname>Chisholm</surname><given-names>S. W.</given-names></name></person-group>, 
+<article-title>Nutrient gradients in the western North Atlantic Ocean: Relationship to microbial community structure and comparison to patterns in the Pacific Ocean.</article-title> 
+<source>Deep-Sea Res.</source> 
+<volume>48</volume>, 
+<fpage>2373</fpage> (<year>2001</year>). 
+<pub-id pub-id-type="doi">10.1016/S0967-0637(01)00027-9</pub-id></citation></ref>
+<ref id="R26"><label>26</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Leibold</surname><given-names>M. A.</given-names></name><name><surname>McPeek</surname><given-names>M. A.</given-names></name></person-group>, 
+<article-title>Coexistence of the niche and neutral perspectives in community ecology.</article-title> 
+<source>Ecology</source> 
+<volume>87</volume>, 
+<fpage>1399</fpage> (<year>2006</year>). 
+<pub-id pub-id-type="doi">10.1890/0012-9658(2006)87[1399:COTNAN]2.0.CO;2</pub-id>
+<pub-id pub-id-type="pmid">16869414</pub-id></citation></ref></ref-list>
+<ack><label>27</label>
+<p>A.D.B., S.D., J.B., and M.J.F. are grateful for support from the Gordon and Betty Moore Foundation&#x2019;s Marine Microbiology Initiative. M.J.F. and S.D. are also grateful for support from NASA and NOAA.</p>
+</ack></back>
+</article>

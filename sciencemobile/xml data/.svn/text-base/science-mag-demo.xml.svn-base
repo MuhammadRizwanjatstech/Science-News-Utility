@@ -1,0 +1,39 @@
+#
+# **DELETE THIS BIT BEOFRE YOU USE IT IN THE APP**
+# Comments: 
+#
+# - This includes an <images> block, which won't initially be needed for the Science Magazine stories (there are none)
+# - This includes a block for categories - I couldn't see the data for this in the HTML, but know it's in the XML.
+#
+
+<channel id="1">
+	<title>[!C DATA[Science Magazine]]</title>
+	<homepage>current.dtl</homepage>
+	<pubDate>2010-09-16T23:59:58.75</pubDate>
+	<vol>327</vol>
+	<issue>5973</issue>
+	<coverImg>http://www.sciencemag.org/covtoc.dp.gif</coverImg>
+	<section id="1" title="News of The Week">
+		<item firstPage="1563" subPage="">
+			<pubDate>2004-09-16T23:59:58.75</pubDate>
+			<overline>[!CDATA[Swine Flu Pandemic]]</overline>
+			<title>[!CDATA[What's Old Is New: 1918 Virus Matches 2009 H1N1 Strain]]</title>
+			<authors>
+				<author>John Cohen</author>
+			</authors>
+			<summary>[!CDATA[The "novel" H1N1 swine influenza virus that last year caused the first human pandemic in 4 decades has one feature that is hardly novel...]]</summary>
+			<text>[!CDATA[The "novel" H1N1 swine influenza virus that last year caused the first human pandemic in 4 decades has one feature that is hardly novel: Its surface protein, hemagglutinin (HA)—which spikes cells and starts an infection—closely matches the HA in the H1N1 virus responsible for the 1918 pandemic. Separated by 91 years, the two strains of the highly mutable virus ought to be vastly different. This newfound similarity answers many mysteries about the 2009 pandemic, including why it largely spared the elderly. The new findings, reported online this week in <a href="http://www.sciencemag.org/cgi/content/abstract/science.1186430"><i>Science</i></a> and <a href="http://stm.sciencemag.org/content/2/24/24ra21.abstract"><i>Science Translational Medicine</i></a>, also suggest intriguing explanations for how the 1918 influenza virus has evolved since it swept across the globe in several waves, killing more than 50 million people by the winter of 1919. And the investigators are proposing provocative&emdash;some say far-fetched&emdash;vaccination strategies to preempt future pandemics.]]</text>
+			<images>
+				<image type="thumb"></image>
+			</images>
+			<links>
+				<link type="abstract">http://www.sciencemag.org/cgi/content/short/327/5973/1563</link>
+				<link type="full" />http://www.sciencemag.org/cgi/content/full/327/5973/1563</link>
+			</links>
+			<categories>
+				<cat>fieldCode</cat>
+				<cat>fieldCode</cat>
+			</categories>
+		</item>
+	</section>
+</channel>

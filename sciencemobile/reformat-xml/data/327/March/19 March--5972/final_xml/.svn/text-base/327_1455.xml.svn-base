@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="book-review" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title>
+<issn pub-type="ppub">0036-8075</issn>
+<issn pub-type="epub">1095-9203</issn>
+<publisher>
+<publisher-name>American Association for the Advancement of Science</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">1186123</article-id>
+<article-id pub-id-type="doi">10.1126/science.1186123</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>Book Review</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Books <italic>et al.</italic></subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>books</subject></subj-group>
+<subj-group subj-group-type="field"><subject>COMP/MATH</subject><subject>SCI COMMUN</subject></subj-group>
+<subj-group subj-group-type="overline"><subject>Science Practice</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Sailing on an Ocean of 0s and 1s</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes"><name><surname>Collins</surname><given-names>James P.</given-names></name></contrib>
+<aff id="aff1">The reviewer is at the School of Life Sciences, Arizona State University, Post Office Box 874501, Tempe, AZ 85287&#x2013;4501, USA.</aff>
+</contrib-group>
+<author-notes>
+<corresp>E-mail: <email>jcollins@asu.edu</email></corresp>
+</author-notes>
+<pub-date pub-type="ppub">
+<day>19</day>
+<month>03</month>
+<year>2010</year>
+</pub-date>
+<volume>327</volume>
+<issue>5972</issue>
+<fpage>1455</fpage>
+<lpage>1456</lpage>
+<product product-type="book"><bold>The Fourth Paradigm</bold> Data-Intensive Scientific Discovery <bold><italic>Tony Hey, Stewart Tansley, and Kristin Tolle, Eds.</italic></bold> Microsoft Research, Redmond, WA, 2009. 286 pp. Paper, $46. ISBN 9780982544204. PDF at <ext-link ext-link-type="uri" xlink:href="http://research.microsoft.com/en-us/collaboration/fourthparadigm/">http://research.microsoft.com/en-us/collaboration/fourthparadigm/</ext-link></product>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2010, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2010</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<abstract abstract-type="teaser"><p>This set of essays from researchers and computer scientists describes the prospects and possibilities of data-intensive science.</p></abstract>
+<abstract abstract-type="web-summary"><p>This set of essays from researchers and computer scientists describes the prospects and possibilities of data-intensive science.</p></abstract>
+<custom-meta-wrap><custom-meta><meta-name>Editor</meta-name><meta-value>Sherman J. Suter</meta-value></custom-meta><custom-meta><meta-name>Copyeditor</meta-name><meta-value>Jeff Cook</meta-value></custom-meta></custom-meta-wrap></article-meta>
+</front>
+<body>
+<p>When the development of theory outpaces data, scientists often find that new ideas cannot be tested for lack of tools or technology. Researchers in genomics, astronomy, and many other active areas of science face a different challenge: Gathering data is so easy and quick that it exceeds our capacity to validate, analyze, visualize, store, and curate the information. <italic>The Fourth Paradigm</italic> addresses this challenge&#x2014;and the opportunity it presents.</p>
+<p>Tony Hey, Stewart Tansley, and Kristin Tolle (computer scientists at Microsoft Research) have grouped the essays into four sections: Earth and Environment, Health and Wellbeing, Scientific Infrastructure, and Scholarly Communication. Examples from health care and the environment dominate but are leavened with some cases from the physical and social sciences. The editors' thesis is that although empirical, analytical, and simulation methods have provided answers to many questions, a new scientific methodology driven by data-intensive problems is now emerging&#x2014;the &#x201C;fourth paradigm.&#x201D;</p>
+<p>Some contributors discuss software and hardware advances that would help scientists cope with the data deluge. Most consider how research practices will be transformed by computational thinking&#x2014;scientific instruments powered by computers in ways that make them a universal intellectual amplifier. Hardware and, especially, software will facilitate &#x201C;cross-domain ventures that accelerate discovery, highlight new connections, and suggest unforeseen links that will speed science forward.&#x201D; For example, while analyzing the relationship between variables <italic>x</italic> and <italic>y</italic>, background software will seamlessly link to diverse databases. A prompt may then suggest looking at how variable <italic>z</italic> relates to <italic>x</italic>, to <italic>y</italic>, or to <italic>x</italic> and <italic>y</italic>. A word of caution: in this work flow, scientists may fall into the trap of understanding fewer details of an analysis if they accept uncritically such prompts as offered.</p>
+<p>Backing away from a paradigm shift in the sense of Thomas Kuhn, John Wilbanks characterizes cyberinfrastructure advances as new tools cutting across the sciences. It will be up to historians and philosophers of science to wrestle with the questions: In what if any sense will computational thinking transform the process of scientific discovery? Will data-intensive science cause an incremental change in how science is done? Or will the changes be a true step function?</p>
+<p>Many of the authors see a big new step in networking: researcher to researcher and also lab notebooks to archived databases and published results. A network of investigators is, of course, not novel&#x2014;think of Darwin and his correspondents. But until recently, even scientists in a network usually conducted experiments and wrote papers alone or with only a few others. Now dozens to hundreds of researchers may participate in projects.</p>
+<p>At its best, this environment will facilitate what we might call open source innovation, in which advances have a sociotechnical component. Individual labs will routinely reach beyond their walls, and organizations will strive to create and sustain collaborative, distributed networks of investigators. But hurdles will appear. The toughest changes ahead involve training, institutional organization, and the social context of research. A radical restructuring of the culture of scientific work will be needed to integrate biological, physical, and social sciences and engineering; move across the science-technology interface; foster systems thinking; support flexible and interdisciplinary approaches to problem-solving; integrate knowledge creation and knowledge use; and balance individual with group achievement. Fostering innovation will need to become a core institutional value.</p>
+<fig id="F1" position="float">
+<graphic xlink:href="327_1455_F1"></graphic>
+<attrib>CREDIT: LUIS ALONSO OCA&#x00D1;A/AGE FOTOSTOCK</attrib>
+</fig>
+<p>The editors' collective enthusiasm about data-intensive science leads to an occasional odd statement, such as &#x201C;Science is becoming increasingly dependent on data.&#x201D; More precisely, solving some modern science problems requires very large data sets. A justifiable excitement about large reference data collections has caused some to talk about the end of theory because extensive databases will support &#x201C;hypothesis-neutral research.&#x201D; Paul Ginsparg counters this argument nicely in his chapter on a data-centric world: &#x201C;Science aims to produce far more than a simple mechanical prediction of correlations; instead, its goal is to employ those regularities extracted from data to construct a unified means of understanding them <italic>a priori</italic>.&#x201D; Data mining simply to predict trends confuses the goals of phenomenological modeling and theory development.</p>
+<p>Although most authors foresee a bright future, even the visionaries admit we are some distance from computer systems that seamlessly link large numbers of related but disjoint information sources. <italic>The Fourth Paradigm</italic> also offers a vision including few caveats associated with ethics, privacy, or cybersecurity. No lessons are drawn from Aldous Huxley's <italic>Brave New World</italic> or George Orwell's <italic>1984</italic>. Breathtaking advances in the sciences must be placed in a larger societal context by drawing on the law, humanities, and arts.</p>
+<p>The text has a few rough patches. Some are the inevitable consequence of melding 71 contributors and 36 chapters. Others are interesting, as the unevenness conveys a sense of excitement and creation. Even the term &#x201C;fourth paradigm&#x201D; is defined in several ways. The authors provide a view from the leading edge, and the front is often ragged, incomplete, and in construction. We get a bottom-up view of change in progress. Many will enjoy this book: historians of science interested in the dynamics of change, philosophers wrestling with the nature of science, social scientists studying how disciplines evolve, and natural and physical scientists who want fresh ideas.</p>
+<p><italic>The Fourth Paradigm</italic> is dedicated to and reflects the vision of the late Jim Gray of Microsoft Research, who envisioned &#x201C;a world of scholarly resources&#x2014;text, databases, and any other associated materials&#x2014;that were seamlessly navigable and interoperable.&#x201D; Gray loved sailing. Sailors, of course, guide a vessel by reacting to the nearest swell and wave. But the ocean also affords a chance to scan the horizon in anticipation of the future, to see what's ahead and imagine what's just out of view. The individual essays&#x2014;and <italic>The Fourth Paradigm</italic> as a whole&#x2014;give readers a glimpse of the horizon for 21st-century research and, at their best, a peek at what lies beyond. It's a journey well worth taking.</p>
+</body>
+</article>

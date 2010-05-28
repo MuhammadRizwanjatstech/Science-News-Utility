@@ -1,0 +1,1576 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:mt="http://www.sixapart.com/ns/mt">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <title>Manage Blog Widgets - &lt;em&gt;Science&lt;/em&gt;NOW | Movable Type Pro</title>
+
+
+
+
+        <link rel="icon" href="http://news.sciencemag.org/mt-static/images/favicon.ico" type="image/ico" />
+
+
+        <link rel="stylesheet" href="http://news.sciencemag.org/mt-static/css/main.css?v=5.01" type="text/css" />
+
+    <!--[if lte IE 7]>
+        <link rel="stylesheet" href="http://news.sciencemag.org/mt-static/css/hacks/ie.css?v=5.01" type="text/css" />
+    <![endif]-->
+    <!--[if lte IE 6]>
+        <link rel="stylesheet" href="http://news.sciencemag.org/mt-static/css/hacks/ie6.css?v=5.01" type="text/css" />
+    <![endif]-->
+
+        <script type="text/javascript">
+        /* <![CDATA[ */
+             __blankURI__ = 'http://news.sciencemag.org/mt-static/html/blank.html';
+             CMSScriptURI = '/cgi-bin/mt/mt.cgi';
+             ScriptURI = '/cgi-bin/mt/mt.cgi';
+             ScriptBaseURI = '';
+             StaticURI = 'http://news.sciencemag.org/mt-static/';
+             HelpBaseURI = 'http://www.movabletype.org/documentation/';
+        /* ]]> */
+        </script>
+
+        <script type="text/javascript" src="http://news.sciencemag.org/mt-static/js/mt_core_compact.js?v=5.01"></script>
+        <script type="text/javascript" src="http://news.sciencemag.org/mt-static/jquery/jquery.min.js?v=5.01"></script>
+        <script type="text/javascript" src="http://news.sciencemag.org/mt-static/jquery/jquery.validate.min.js?v=5.01"></script>
+    <!--[if lte IE 6]>
+        <script type="text/javascript" src="http://news.sciencemag.org/mt-static/jquery/jquery.bgiframe.min.js?v=5.01"></script>
+        <script type="text/javascript" src="http://news.sciencemag.org/mt-static/jquery/jquery.exfixed.js?v=5.01"></script>
+        <script type="text/javascript" src="http://news.sciencemag.org/mt-static/jquery/jquery.pngfix.js?v=5.01"></script>
+    <![endif]-->
+        <script type="text/javascript" src="http://news.sciencemag.org/mt-static/jquery/jquery.mt.min.js?v=5.01"></script>
+        <script type="text/javascript" src="http://news.sciencemag.org/mt-static/jqueryui/jquery.ui.custom.min.js?v=5.01"></script>
+
+
+<link rel="stylesheet" href="http://news.sciencemag.org/mt-static/css/widget.css" type="text/css" />
+<script type="text/javascript" src="http://news.sciencemag.org/mt-static//js/widget.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var widgetSetTableSelect;
+var widgetTableSelect;
+function init() {
+    // setup
+    widgetSetTableSelect = new TC.TableSelect( "template-listing-table" );
+    widgetSetTableSelect.rowSelect = true;
+    widgetTableSelect = new TC.TableSelect( "widget-listing-table" );
+    widgetTableSelect.rowSelect = true;
+}
+/* ]]> */
+</script>
+
+<link rel="stylesheet" href="http://news.sciencemag.org/mt-static/addons/Commercial.pack/styles-customfields.css" type="text/css" media="screen" title="CustomFields Stylesheet" charset="utf-8" />
+
+
+        <script type="text/javascript" src="http://news.sciencemag.org/mt-static/mt.js?v=5.01"></script>
+
+        
+    </head>
+    <body id="list-widget-set" class="blog main-screen  has-related-content has-menu-nav">
+
+    
+
+        <div id="header">
+          <div id="brand">
+                <a href="/cgi-bin/mt/mt.cgi?__mode=dashboard"><span><img alt="Movable Type Pro" src="http://news.sciencemag.org/mt-static/images/logo/movable-type-logo.png" /></span></a>
+            </div>
+
+
+            <!-- Utility Nav -->
+            <div id="utility-nav">
+                <ul id="utility-nav-list">
+                    <li id="user">Signed in as <a href="/cgi-bin/mt/mt.cgi?__mode=view&_type=author&id=3"><img alt="Jue Wang" src="http://news.sciencemag.org/mt-static/images/default-userpic-36.jpg" width="16" height="16" class="userpic" /> <span class="username">juewang</span></a>
+                    </li>
+                    <li id="help" class="help"><a href="javascript:void(0)" onclick="openManual('list_widget')">Help</a></li>
+    
+                    <li id="logout"><a href="/cgi-bin/mt/mt.cgi?__mode=logout">Sign out</a></li>
+    
+                </ul>
+            </div>
+
+
+            <div id="menu-bar">
+
+            <!-- Scope Selector -->
+                <div id="selector-nav">
+                    <ul id="selector-nav-list">
+    
+                        <li id="current-website" class="current">
+        
+                            <em><a href="/cgi-bin/mt/mt.cgi?__mode=dashboard&amp;blog_id=5">News</a></em>
+        
+                            <ul>
+                                <li id="current-blog" class="current">
+                                    <em><a href="/cgi-bin/mt/mt.cgi?__mode=dashboard&amp;blog_id=7">&lt;em&gt;Science&lt;/em&gt;NOW</a></em>
+                                </li>
+                            </ul>
+                        </li>
+    
+                    </ul>
+
+                    <div class="selector">
+                        <ul>
+    
+                            <li class="user-dashboard">
+                                <a href="/cgi-bin/mt/mt.cgi?__mode=dashboard">User Dashboard</a>
+                            </li>
+    
+    
+        
+                            <li class="system-overview">
+                                <a href="/cgi-bin/mt/mt.cgi?blog_id=0&amp;__mode=list_widget&amp;blog_id=7">System Overview</a>
+                            </li>
+        
+    
+                        </ul>
+    
+    
+        
+                        <ul id="fav-website-list">
+                            <li><span class="scope-lebel">Website</span>
+                                <ul>
+        
+                                    <li><a href="/cgi-bin/mt/mt.cgi?blog_id=11&amp;__mode=list_widget&amp;blog_id=7">Science Talk</a></li>
+        
+            
+                                </ul>
+                            </li>
+                        </ul>
+        
+    
+    
+
+    
+    
+        
+                        <ul id="fav-blog-list">
+                            <li><span class="scope-lebel">Blog</span>
+                                <ul>
+        
+                                    <li><a href="/cgi-bin/mt/mt.cgi?blog_id=8&amp;__mode=list_widget&amp;blog_id=7">&lt;em&gt;Science&lt;/em&gt;Insider <span class="parent">(on News)</span></a></li>
+        
+    
+        
+                                    <li><a href="/cgi-bin/mt/mt.cgi?blog_id=10&amp;__mode=list_widget&amp;blog_id=7">&lt;em&gt;Science&lt;/em&gt;Bloggers <span class="parent">(on News)</span></a></li>
+        
+    
+        
+                                    <li><a href="/cgi-bin/mt/mt.cgi?blog_id=12&amp;__mode=list_widget&amp;blog_id=7">Science Talk <span class="parent">(on Science Talk)</span></a></li>
+        
+            
+                                </ul>
+                            </li>
+                        </ul>
+        
+    
+    
+                        <ul>
+    
+                            <li id="create-website" class="website"><a href="/cgi-bin/mt/mt.cgi?__mode=view&amp;_type=website&amp;blog_id=0">Create Website</a></li>
+    
+    
+        
+                            <li id="create-blog" class="blog"><a href="/cgi-bin/mt/mt.cgi?__mode=view&amp;_type=blog&amp;blog_id=5">Create Blog (on News)</a></li>
+        
+    
+                        </ul>
+                    </div>
+                </div>
+
+                <div id="menu-bar-nav">
+                    <ul id="menu-bar-icons">
+    
+        
+            
+                        <!-- Publish Link -->
+                        <li id="rebuild-site" class="nav-link"><a href="/cgi-bin/mt/mt.cgi?__mode=rebuild_confirm&blog_id=7" class="mt-rebuild" title="Publish Site"><span>Publish</span></a></li>
+            
+        
+                        <!-- View Link -->
+                        <li id="view-site" class="nav-link"><a href="http://news.sciencemag.org/sciencenow/" title="View Site" target="_blank"><span>View Blog</span></a></li>
+    
+                        <!-- Serarch  -->
+                        <li id="cms-search" class="nav-link">
+                            <a href="#search-form"><span>Search Templates</span></a>
+                            <div id="search-form" class="search-form hidden">
+                                <form id="basic-search" class="basic-search" name="quicksearch" method="get" action="/cgi-bin/mt/mt.cgi">
+                                    <input type="hidden" name="__mode" value="search_replace" />
+                                    <input type="hidden" name="_type" value="template" />
+                        
+                                    <input type="hidden" name="blog_id" value="7" />
+                        
+                                    <input type="hidden" name="do_search" value="1" />
+                                    <input type="hidden" name="quicksearch" value="1" />
+                                    <input type="hidden" name="magic_token" value="xT67AciAITcK4qqYznb58RO9hAd8k28DgLgJv7MO" />
+                                    <input accesskey="q" type="text" name="search" autocomplete="off" class="search-query input-hint" value="Search Templates" title="Search (q)" size="15" onblur="if(this.value==''){this.style.color=''; this.form.reset()}" onfocus="this.value = ''; this.style.color = '#000';" />
+                                    <button onclick="document.quicksearch.submit(); return false;">Search</button>
+                                </form>
+                            </div>
+                        </li>
+                    </ul>
+    
+        
+                    <div id="blog-fav-actions-nav" class="fav-actions-nav">
+                        <ul>
+                        
+                            
+            
+                            <li>
+                                <em>
+                                    <a href="/cgi-bin/mt/mt.cgi?__mode=view&_type=entry&blog_id=7" class="fav-actions-root-link">
+                                        <span class="">Create New</span>
+                                    </a>
+                                </em>
+                                <div id="fav-actions" class="fav-actions hidden">
+                                <ul>
+            
+                                    <li><a href="/cgi-bin/mt/mt.cgi?__mode=view&_type=entry&blog_id=7"><span class="action-label">Entry</span></a></li>
+            
+                            
+            
+                                    <li><a href="/cgi-bin/mt/mt.cgi?__mode=view&_type=page&blog_id=7"><span class="action-label">Page</span></a></li>
+            
+                            
+            
+                                    <li><a href="/cgi-bin/mt/mt.cgi?__mode=start_upload&blog_id=7"><span class="action-label">Asset</span></a></li>
+            
+                                </ul>
+                                </div>
+                            </li>
+            
+                            
+                        
+                        </ul>
+                    </div>
+        
+    
+                </div>
+            </div><!-- /menu-bar -->
+
+        </div><!-- /header -->
+
+
+
+    <!-- Container -->
+        <div id="container" class="main-screen listing-screen">
+
+
+    
+        
+        <!-- blog Wide Menu  -->
+            <div id="menu">
+                <ul id="blog-wide-menu" class="menu-nav">
+                
+            
+                    <li id="menu-entry" class="top-menu">
+                        <div>
+                            <a href="/cgi-bin/mt/mt.cgi?__mode=list_entry&amp;blog_id=7" class="top-menu-link"><span class="menu-label">Entries</span></a>
+                        </div>
+                        <ul class="sub-menu">
+                        
+                
+                    
+                            <li><a href="/cgi-bin/mt/mt.cgi?__mode=list_entry&amp;blog_id=7" class="sub-menu-link"><span class="menu-label">Manage</span></a></li>
+                    
+                
+                        
+                
+                    
+                            <li><a href="/cgi-bin/mt/mt.cgi?__mode=view&amp;_type=entry&amp;blog_id=7" class="sub-menu-link"><span class="menu-label">New</span></a></li>
+                    
+                
+                        
+                
+                    
+                            <li><a href="/cgi-bin/mt/mt.cgi?__mode=list_category&amp;blog_id=7" class="sub-menu-link"><span class="menu-label">Categories</span></a></li>
+                    
+                
+                        
+                
+                    
+                            <li><a href="/cgi-bin/mt/mt.cgi?__mode=list_tag&amp;blog_id=7&amp;filter_key=entry" class="sub-menu-link"><span class="menu-label">Tags</span></a></li>
+                    
+                
+                        
+                        </ul>
+                    </li>
+            
+                
+            
+                    <li id="menu-page" class="top-menu">
+                        <div>
+                            <a href="/cgi-bin/mt/mt.cgi?__mode=list_page&amp;blog_id=7" class="top-menu-link"><span class="menu-label">Pages</span></a>
+                        </div>
+                        <ul class="sub-menu">
+                        
+                
+                    
+                            <li><a href="/cgi-bin/mt/mt.cgi?__mode=list_page&amp;blog_id=7" class="sub-menu-link"><span class="menu-label">Manage</span></a></li>
+                    
+                
+                        
+                
+                    
+                            <li><a href="/cgi-bin/mt/mt.cgi?__mode=view&amp;_type=page&amp;blog_id=7" class="sub-menu-link"><span class="menu-label">New</span></a></li>
+                    
+                
+                        
+                
+                    
+                            <li><a href="/cgi-bin/mt/mt.cgi?__mode=list_folder&amp;blog_id=7&amp;filter_key=page" class="sub-menu-link"><span class="menu-label">Folders</span></a></li>
+                    
+                
+                        
+                
+                    
+                            <li><a href="/cgi-bin/mt/mt.cgi?__mode=list_tag&amp;blog_id=7&amp;filter_key=page" class="sub-menu-link"><span class="menu-label">Tags</span></a></li>
+                    
+                
+                        
+                        </ul>
+                    </li>
+            
+                
+            
+                    <li id="menu-asset" class="top-menu">
+                        <div>
+                            <a href="/cgi-bin/mt/mt.cgi?__mode=list_asset&amp;blog_id=7" class="top-menu-link"><span class="menu-label">Assets</span></a>
+                        </div>
+                        <ul class="sub-menu">
+                        
+                
+                    
+                            <li><a href="/cgi-bin/mt/mt.cgi?__mode=list_asset&amp;blog_id=7" class="sub-menu-link"><span class="menu-label">Manage</span></a></li>
+                    
+                
+                        
+                
+                    
+                            <li><a href="/cgi-bin/mt/mt.cgi?__mode=start_upload&amp;blog_id=7" class="sub-menu-link"><span class="menu-label">New</span></a></li>
+                    
+                
+                        
+                
+                    
+                            <li><a href="/cgi-bin/mt/mt.cgi?__mode=bfu_start&amp;blog_id=7" class="sub-menu-link mt-open-dialog"><span class="menu-label">Better File Uploader</span></a></li>
+                    
+                
+                        
+                
+                    
+                            <li><a href="/cgi-bin/mt/mt.cgi?__mode=list_tag&amp;blog_id=7&amp;filter_key=asset" class="sub-menu-link"><span class="menu-label">Tags</span></a></li>
+                    
+                
+                        
+                        </ul>
+                    </li>
+            
+                
+            
+                    <li id="menu-feedback" class="top-menu">
+                        <div>
+                            <a href="/cgi-bin/mt/mt.cgi?__mode=list_comment&amp;blog_id=7" class="top-menu-link"><span class="menu-label">Comments</span></a>
+                        </div>
+                        <ul class="sub-menu">
+                        
+                
+                    
+                            <li><a href="/cgi-bin/mt/mt.cgi?__mode=list_comment&amp;blog_id=7" class="sub-menu-link"><span class="menu-label">Comments</span></a></li>
+                    
+                
+                        
+                
+                    
+                            <li><a href="/cgi-bin/mt/mt.cgi?__mode=list_pings&amp;blog_id=7" class="sub-menu-link"><span class="menu-label">TrackBacks</span></a></li>
+                    
+                
+                        
+                        </ul>
+                    </li>
+            
+                
+            
+                    <li id="menu-user" class="top-menu">
+                        <div>
+                            <a href="/cgi-bin/mt/mt.cgi?__mode=list_member&amp;blog_id=7" class="top-menu-link"><span class="menu-label">Users</span></a>
+                        </div>
+                        <ul class="sub-menu">
+                        
+                
+                    
+                            <li><a href="/cgi-bin/mt/mt.cgi?__mode=list_member&amp;blog_id=7" class="sub-menu-link"><span class="menu-label">Manage</span></a></li>
+                    
+                
+                        
+                        </ul>
+                    </li>
+            
+                
+            
+                    <li id="menu-design" class="top-menu current-menu top-menu-open">
+                        <div>
+                            <a href="/cgi-bin/mt/mt.cgi?__mode=list_template&amp;blog_id=7" class="top-menu-link"><span class="menu-label">Design</span></a>
+                        </div>
+                        <ul class="sub-menu">
+                        
+                
+                    
+                            <li><a href="/cgi-bin/mt/mt.cgi?__mode=list_template&amp;blog_id=7" class="sub-menu-link"><span class="menu-label">Templates</span></a></li>
+                    
+                
+                        
+                
+                    
+                            <li><a href="/cgi-bin/mt/mt.cgi?__mode=list_widget&amp;blog_id=7" class="current sub-menu-link"><em><span class="menu-label">Widgets</span></em></a></li>
+                    
+                
+                        
+                
+                    
+                            <li><a href="/cgi-bin/mt/mt.cgi?__mode=stylecatcher_theme&amp;blog_id=7" class="sub-menu-link"><span class="menu-label">Styles</span></a></li>
+                    
+                
+                        
+                
+                    
+                            <li><a href="/cgi-bin/mt/mt.cgi?__mode=list_theme&amp;blog_id=7" class="sub-menu-link"><span class="menu-label">Themes</span></a></li>
+                    
+                
+                        
+                        </ul>
+                    </li>
+            
+                
+            
+                    <li id="menu-custom_fields" class="top-menu">
+                        <div>
+                            <a href="/cgi-bin/mt/mt.cgi?__mode=list_field&amp;blog_id=7" class="top-menu-link"><span class="menu-label">Custom Fields</span></a>
+                        </div>
+                        <ul class="sub-menu">
+                        
+                
+                    
+                            <li><a href="/cgi-bin/mt/mt.cgi?__mode=list_field&amp;blog_id=7" class="sub-menu-link"><span class="menu-label">Manage</span></a></li>
+                    
+                
+                        
+                
+                    
+                            <li><a href="/cgi-bin/mt/mt.cgi?__mode=view&amp;_type=field&amp;blog_id=7" class="sub-menu-link"><span class="menu-label">New</span></a></li>
+                    
+                
+                        
+                        </ul>
+                    </li>
+            
+                
+            
+                    <li id="menu-settings" class="top-menu">
+                        <div>
+                            <a href="/cgi-bin/mt/mt.cgi?__mode=cfg_prefs&amp;blog_id=7" class="top-menu-link"><span class="menu-label">Settings</span></a>
+                        </div>
+                        <ul class="sub-menu">
+                        
+                
+                    
+                            <li><a href="/cgi-bin/mt/mt.cgi?__mode=cfg_prefs&amp;blog_id=7" class="sub-menu-link"><span class="menu-label">General</span></a></li>
+                    
+                
+                        
+                
+                    
+                            <li><a href="/cgi-bin/mt/mt.cgi?__mode=cfg_community_prefs&amp;blog_id=7" class="sub-menu-link"><span class="menu-label">Community</span></a></li>
+                    
+                
+                        
+                
+                    
+                            <li><a href="/cgi-bin/mt/mt.cgi?__mode=cfg_entry&amp;blog_id=7" class="sub-menu-link"><span class="menu-label">Compose</span></a></li>
+                    
+                
+                        
+                
+                    
+                            <li><a href="/cgi-bin/mt/mt.cgi?__mode=cfg_feedback&amp;blog_id=7" class="sub-menu-link"><span class="menu-label">Feedback</span></a></li>
+                    
+                
+                        
+                
+                    
+                            <li><a href="/cgi-bin/mt/mt.cgi?__mode=cfg_registration&amp;blog_id=7" class="sub-menu-link"><span class="menu-label">Registration</span></a></li>
+                    
+                
+                        
+                
+                    
+                            <li><a href="/cgi-bin/mt/mt.cgi?__mode=cfg_web_services&amp;blog_id=7" class="sub-menu-link"><span class="menu-label">Web Services</span></a></li>
+                    
+                
+                        
+                        </ul>
+                    </li>
+            
+                
+            
+                    <li id="menu-tools" class="top-menu">
+                        <div>
+                            <a href="/cgi-bin/mt/mt.cgi?__mode=search_replace&amp;blog_id=7" class="top-menu-link"><span class="menu-label">Tools</span></a>
+                        </div>
+                        <ul class="sub-menu">
+                        
+                
+                    
+                            <li><a href="/cgi-bin/mt/mt.cgi?__mode=search_replace&amp;blog_id=7" class="sub-menu-link"><span class="menu-label">Search &amp; Replace</span></a></li>
+                    
+                
+                        
+                
+                    
+                            <li><a href="/cgi-bin/mt/mt.cgi?__mode=cfg_plugins&amp;blog_id=7" class="sub-menu-link"><span class="menu-label">Plugins</span></a></li>
+                    
+                
+                        
+                
+                    
+                            <li><a href="/cgi-bin/mt/mt.cgi?__mode=start_import&amp;blog_id=7" class="sub-menu-link"><span class="menu-label">Import Entries</span></a></li>
+                    
+                
+                        
+                
+                    
+                            <li><a href="/cgi-bin/mt/mt.cgi?__mode=start_export&amp;blog_id=7" class="sub-menu-link"><span class="menu-label">Export Entries</span></a></li>
+                    
+                
+                        
+                
+                    
+                            <li><a href="/cgi-bin/mt/mt.cgi?__mode=export_theme&amp;blog_id=7" class="sub-menu-link"><span class="menu-label">Export Theme</span></a></li>
+                    
+                
+                        
+                
+                    
+                            <li><a href="/cgi-bin/mt/mt.cgi?__mode=start_backup&amp;blog_id=7" class="sub-menu-link"><span class="menu-label">Backup</span></a></li>
+                    
+                
+                        
+                
+                    
+                            <li><a href="/cgi-bin/mt/mt.cgi?__mode=view_log&amp;blog_id=7" class="sub-menu-link"><span class="menu-label">Activity Log</span></a></li>
+                    
+                
+                        
+                        </ul>
+                    </li>
+            
+                
+                </ul>
+            </div><!-- /blog Wide Menu -->
+        
+    
+
+
+        <!-- Content  -->
+            <div id="content">
+            <!-- Content Header -->
+                <div id="content-header">
+
+
+                    <h2 id="page-title">Manage Blog Widgets</h2>
+
+                    
+    
+    
+
+
+
+                </div><!-- /Content Header -->
+
+            <!-- Content Body -->
+                <div id="content-body">
+                    
+
+                <!-- Main COntent -->
+                    <div id="main-content">
+
+                    <!-- Main Content Inner  -->
+                        <div id="main-content-inner">
+
+
+
+<div id="template-listing" class="listing ">
+    <div class="listing-header">
+        
+    <h3>Widget Sets</h3>
+    <p><a href="/cgi-bin/mt/mt.cgi?__mode=edit_widget&amp;blog_id=7" class="icon-left icon-create">Create Widget Set</a></p>
+
+    </div>
+    <form id="template-listing-form" class="listing-form"
+        action="/cgi-bin/mt/mt.cgi" method="post" 
+        onsubmit="return this['__mode'] ? true : false">
+        <input type="hidden" name="__mode" value="" />
+        <input type="hidden" name="_type" value="template" />
+        <input type="hidden" name="action_name" value="" />
+        <input type="hidden" name="itemset_action_input" value="" />
+
+        <input type="hidden" name="return_args" value="__mode=list_widget&amp;blog_id=7" />
+
+        <input type="hidden" name="blog_id" value="7" />
+        <input type="hidden" name="magic_token" value="xT67AciAITcK4qqYznb58RO9hAd8k28DgLgJv7MO" />
+        
+<div id="actions-bar-top" class="actions-bar actions-bar-top">
+    
+    <span class="button-actions actions">
+    <button
+        onclick="doRemoveItems(getByID('template-listing-form'), 'Widget Set', 'Widget Sets', '', '', 'delete_widget'); return false;"
+        accesskey="x"
+        title="Delete selected Widget Sets (x)"
+        >Delete</button>
+</span>
+    <span class="plugin-actions actions">
+
+    </span>
+</div>
+
+                <table id="template-listing-table" class="template-listing-table compact" cellspacing="0">
+
+    
+    
+    <thead>
+        
+        <tr>
+            <th class="cb"><input type="checkbox" name="id-head" value="all" class="select" /></th>
+            <th class="widgetmanager-name primary-col">Name</th>
+            <th class="widgetmanager-widgets primary-col">Installed Widgets</th>
+        </tr>
+    
+    </thead>
+    <tfoot>
+        
+        <tr>
+            <th class="cb"><input type="checkbox" name="id-head" value="all" class="select" /></th>
+            <th class="widgetmanager-name primary-col">Name</th>
+            <th class="widgetmanager-widgets primary-col">Installed Widgets</th>
+        </tr>
+    
+    </tfoot>
+    <tbody>
+    
+        <tr class="odd">
+            <td class="cb"><input type="checkbox" name="id" value="335" class="select" /></td>
+            <td class="widgetmanager-name"><a href="?__mode=edit_widget&blog_id=7&id=335">Blog Activity</a></td>
+            <td class="widgetmanager-widgets">About This Page, Home Page Widgets Group</td>
+        </tr>
+    
+
+    
+        <tr class="even">
+            <td class="cb"><input type="checkbox" name="id" value="334" class="select" /></td>
+            <td class="widgetmanager-name"><a href="?__mode=edit_widget&blog_id=7&id=334">Blog Archives</a></td>
+            <td class="widgetmanager-widgets">Archive Widgets Group, OpenID Accepted, Syndication</td>
+        </tr>
+    
+
+    
+        <tr class="odd">
+            <td class="cb"><input type="checkbox" name="id" value="418" class="select" /></td>
+            <td class="widgetmanager-name"><a href="?__mode=edit_widget&blog_id=7&id=418">SNOW Article Sidebar</a></td>
+            <td class="widgetmanager-widgets">SNOW Recent Articles, SNOW Category Archives, SNOW Feedback</td>
+        </tr>
+    
+
+    
+        <tr class="even">
+            <td class="cb"><input type="checkbox" name="id" value="595" class="select" /></td>
+            <td class="widgetmanager-name"><a href="?__mode=edit_widget&blog_id=7&id=595">SNOW Search Sidebar</a></td>
+            <td class="widgetmanager-widgets">SNOW Search, SNOW Search Subnav</td>
+        </tr>
+    
+    </tbody>
+    
+
+        </table>
+
+        
+<div id="actions-bar-bottom" class="actions-bar actions-bar-bottom">
+    
+    <span class="button-actions actions">
+    <button
+        onclick="doRemoveItems(getByID('template-listing-form'), 'Widget Set', 'Widget Sets', '', '', 'delete_widget'); return false;"
+        accesskey="x"
+        title="Delete selected Widget Sets (x)"
+        >Delete</button>
+</span>
+    <span class="plugin-actions actions">
+
+    </span>
+</div>
+
+    </form>
+</div>
+
+
+
+<div id="widget-listing" class="listing show-actions-bar">
+    <div class="listing-header">
+        
+    <h3>Widget Templates</h3>
+
+    
+        
+        
+<p><a href="/cgi-bin/mt/mt.cgi?__mode=view&amp;_type=template&amp;type=widget&amp;blog_id=7" class="icon-left icon-create">Create widget template</a></p>
+
+        
+    
+
+    </div>
+    <form id="widget-listing-form" class="listing-form"
+        action="/cgi-bin/mt/mt.cgi" method="post" 
+        onsubmit="return this['__mode'] ? true : false">
+        <input type="hidden" name="__mode" value="" />
+        <input type="hidden" name="_type" value="template" />
+        <input type="hidden" name="action_name" value="" />
+        <input type="hidden" name="itemset_action_input" value="" />
+
+        <input type="hidden" name="return_args" value="__mode=list_widget&amp;blog_id=7" />
+
+        <input type="hidden" name="blog_id" value="7" />
+        <input type="hidden" name="magic_token" value="xT67AciAITcK4qqYznb58RO9hAd8k28DgLgJv7MO" />
+        
+<div id="actions-bar-top" class="actions-bar actions-bar-top">
+    
+    <span class="button-actions actions">
+    
+    
+    
+    
+    
+    <button
+        accesskey="x"
+        title="Delete selected Widget Templates (x)"
+        class="mt-delete-widget-templates"
+        >Delete</button>
+    
+</span>
+    <span class="plugin-actions actions">
+<script type="text/javascript">
+/* <![CDATA[ */
+itemset_options['refresh_tmpl_templates'] = {type:'core'};
+itemset_options['copy_templates'] = {type:'core'};
+
+
+/* ]]> */
+</script>
+<select name="plugin_action_selector" onchange="updatePluginAction(this)">
+    <option value="0">More actions...</option>
+    
+    <option value="refresh_tmpl_templates">Refresh Template(s)</option>
+    
+    <option value="copy_templates">Clone Template(s)</option>
+    
+    
+</select>
+
+<button
+     class="small-button mt-widget-listing-form-action"
+     >Go</button>
+
+
+
+    </span>
+</div>
+
+                <table id="widget-listing-table" class="widget-listing-table compact" cellspacing="0">
+
+    
+        
+        <thead>
+            
+            <tr>
+                <th class="cb"><input type="checkbox" name="id-head" value="all" class="select" /></th>
+                <th class="template-name primary-col">Template Name</th>
+        
+        
+        
+        
+        
+            
+                <th class="ssi-method">SSI</th>
+                <th class="cache-method">Cached</th>
+            
+        
+        
+                <th class="linked-template si"><img src="http://news.sciencemag.org/mt-static/images/status_icons/linked.gif" alt="Linked Template" title="Linked Template" width="17" height="9" /></th>
+        
+        
+            </tr>
+        
+        </thead>
+        <tfoot>
+            
+            <tr>
+                <th class="cb"><input type="checkbox" name="id-head" value="all" class="select" /></th>
+                <th class="template-name primary-col">Template Name</th>
+        
+        
+        
+        
+        
+            
+                <th class="ssi-method">SSI</th>
+                <th class="cache-method">Cached</th>
+            
+        
+        
+                <th class="linked-template si"><img src="http://news.sciencemag.org/mt-static/images/status_icons/linked.gif" alt="Linked Template" title="Linked Template" width="17" height="9" /></th>
+        
+        
+            </tr>
+        
+        </tfoot>
+        <tbody>
+    
+            <tr class="odd template-widget">
+                <td class="cb"><input type="checkbox" name="id" class="select" value="308" /></td>
+                <td class="template-name"><a href="/cgi-bin/mt/mt.cgi?__mode=view&amp;_type=template&amp;id=308&amp;blog_id=7">About This Page</a></td>
+    
+    
+    
+        
+                <td class="ssi-method si status-disabled"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="" width="9" height="9" title="" /></td>
+                <td class="cache-method si status-uncached"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="" width="9" height="9" title="" /></td>
+        
+    
+    
+                <td class="linked-template si status-unlinked"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="No" width="9" height="9"  /></td>
+    
+    
+            </tr>
+    
+
+    
+            <tr class="even template-widget">
+                <td class="cb"><input type="checkbox" name="id" class="select" value="319" /></td>
+                <td class="template-name"><a href="/cgi-bin/mt/mt.cgi?__mode=view&amp;_type=template&amp;id=319&amp;blog_id=7">Archive Widgets Group</a></td>
+    
+    
+    
+        
+                <td class="ssi-method si status-disabled"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="" width="9" height="9" title="" /></td>
+                <td class="cache-method si status-uncached"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="" width="9" height="9" title="" /></td>
+        
+    
+    
+                <td class="linked-template si status-unlinked"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="No" width="9" height="9"  /></td>
+    
+    
+            </tr>
+    
+
+    
+            <tr class="odd template-widget">
+                <td class="cb"><input type="checkbox" name="id" class="select" value="300" /></td>
+                <td class="template-name"><a href="/cgi-bin/mt/mt.cgi?__mode=view&amp;_type=template&amp;id=300&amp;blog_id=7">Author Archives</a></td>
+    
+    
+    
+        
+                <td class="ssi-method si status-disabled"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="" width="9" height="9" title="" /></td>
+                <td class="cache-method si status-uncached"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="" width="9" height="9" title="" /></td>
+        
+    
+    
+                <td class="linked-template si status-unlinked"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="No" width="9" height="9"  /></td>
+    
+    
+            </tr>
+    
+
+    
+            <tr class="even template-widget">
+                <td class="cb"><input type="checkbox" name="id" class="select" value="321" /></td>
+                <td class="template-name"><a href="/cgi-bin/mt/mt.cgi?__mode=view&amp;_type=template&amp;id=321&amp;blog_id=7">Calendar</a></td>
+    
+    
+    
+        
+                <td class="ssi-method si status-disabled"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="" width="9" height="9" title="" /></td>
+                <td class="cache-method si status-uncached"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="" width="9" height="9" title="" /></td>
+        
+    
+    
+                <td class="linked-template si status-unlinked"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="No" width="9" height="9"  /></td>
+    
+    
+            </tr>
+    
+
+    
+            <tr class="odd template-widget">
+                <td class="cb"><input type="checkbox" name="id" class="select" value="311" /></td>
+                <td class="template-name"><a href="/cgi-bin/mt/mt.cgi?__mode=view&amp;_type=template&amp;id=311&amp;blog_id=7">Creative Commons</a></td>
+    
+    
+    
+        
+                <td class="ssi-method si status-disabled"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="" width="9" height="9" title="" /></td>
+                <td class="cache-method si status-uncached"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="" width="9" height="9" title="" /></td>
+        
+    
+    
+                <td class="linked-template si status-unlinked"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="No" width="9" height="9"  /></td>
+    
+    
+            </tr>
+    
+
+    
+            <tr class="even template-widget">
+                <td class="cb"><input type="checkbox" name="id" class="select" value="332" /></td>
+                <td class="template-name"><a href="/cgi-bin/mt/mt.cgi?__mode=view&amp;_type=template&amp;id=332&amp;blog_id=7">Current Author Monthly Archives</a></td>
+    
+    
+    
+        
+                <td class="ssi-method si status-disabled"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="" width="9" height="9" title="" /></td>
+                <td class="cache-method si status-uncached"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="" width="9" height="9" title="" /></td>
+        
+    
+    
+                <td class="linked-template si status-unlinked"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="No" width="9" height="9"  /></td>
+    
+    
+            </tr>
+    
+
+    
+            <tr class="odd template-widget">
+                <td class="cb"><input type="checkbox" name="id" class="select" value="307" /></td>
+                <td class="template-name"><a href="/cgi-bin/mt/mt.cgi?__mode=view&amp;_type=template&amp;id=307&amp;blog_id=7">Current Category Monthly Archives</a></td>
+    
+    
+    
+        
+                <td class="ssi-method si status-disabled"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="" width="9" height="9" title="" /></td>
+                <td class="cache-method si status-uncached"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="" width="9" height="9" title="" /></td>
+        
+    
+    
+                <td class="linked-template si status-unlinked"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="No" width="9" height="9"  /></td>
+    
+    
+            </tr>
+    
+
+    
+            <tr class="even template-widget">
+                <td class="cb"><input type="checkbox" name="id" class="select" value="301" /></td>
+                <td class="template-name"><a href="/cgi-bin/mt/mt.cgi?__mode=view&amp;_type=template&amp;id=301&amp;blog_id=7">Date-Based Author Archives</a></td>
+    
+    
+    
+        
+                <td class="ssi-method si status-disabled"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="" width="9" height="9" title="" /></td>
+                <td class="cache-method si status-uncached"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="" width="9" height="9" title="" /></td>
+        
+    
+    
+                <td class="linked-template si status-unlinked"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="No" width="9" height="9"  /></td>
+    
+    
+            </tr>
+    
+
+    
+            <tr class="odd template-widget">
+                <td class="cb"><input type="checkbox" name="id" class="select" value="327" /></td>
+                <td class="template-name"><a href="/cgi-bin/mt/mt.cgi?__mode=view&amp;_type=template&amp;id=327&amp;blog_id=7">Date-Based Category Archives</a></td>
+    
+    
+    
+        
+                <td class="ssi-method si status-disabled"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="" width="9" height="9" title="" /></td>
+                <td class="cache-method si status-uncached"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="" width="9" height="9" title="" /></td>
+        
+    
+    
+                <td class="linked-template si status-unlinked"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="No" width="9" height="9"  /></td>
+    
+    
+            </tr>
+    
+
+    
+            <tr class="even template-widget">
+                <td class="cb"><input type="checkbox" name="id" class="select" value="302" /></td>
+                <td class="template-name"><a href="/cgi-bin/mt/mt.cgi?__mode=view&amp;_type=template&amp;id=302&amp;blog_id=7">Footer Links</a></td>
+    
+    
+    
+        
+                <td class="ssi-method si status-disabled"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="" width="9" height="9" title="" /></td>
+                <td class="cache-method si status-uncached"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="" width="9" height="9" title="" /></td>
+        
+    
+    
+                <td class="linked-template si status-unlinked"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="No" width="9" height="9"  /></td>
+    
+    
+            </tr>
+    
+
+    
+            <tr class="odd template-widget">
+                <td class="cb"><input type="checkbox" name="id" class="select" value="328" /></td>
+                <td class="template-name"><a href="/cgi-bin/mt/mt.cgi?__mode=view&amp;_type=template&amp;id=328&amp;blog_id=7">Home Page Widgets Group</a></td>
+    
+    
+    
+        
+                <td class="ssi-method si status-disabled"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="" width="9" height="9" title="" /></td>
+                <td class="cache-method si status-uncached"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="" width="9" height="9" title="" /></td>
+        
+    
+    
+                <td class="linked-template si status-unlinked"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="No" width="9" height="9"  /></td>
+    
+    
+            </tr>
+    
+
+    
+            <tr class="even template-widget">
+                <td class="cb"><input type="checkbox" name="id" class="select" value="295" /></td>
+                <td class="template-name"><a href="/cgi-bin/mt/mt.cgi?__mode=view&amp;_type=template&amp;id=295&amp;blog_id=7">Monthly Archives</a></td>
+    
+    
+    
+        
+                <td class="ssi-method si status-disabled"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="" width="9" height="9" title="" /></td>
+                <td class="cache-method si status-uncached"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="" width="9" height="9" title="" /></td>
+        
+    
+    
+                <td class="linked-template si status-unlinked"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="No" width="9" height="9"  /></td>
+    
+    
+            </tr>
+    
+
+    
+            <tr class="odd template-widget">
+                <td class="cb"><input type="checkbox" name="id" class="select" value="289" /></td>
+                <td class="template-name"><a href="/cgi-bin/mt/mt.cgi?__mode=view&amp;_type=template&amp;id=289&amp;blog_id=7">Monthly Archives Dropdown</a></td>
+    
+    
+    
+        
+                <td class="ssi-method si status-disabled"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="" width="9" height="9" title="" /></td>
+                <td class="cache-method si status-uncached"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="" width="9" height="9" title="" /></td>
+        
+    
+    
+                <td class="linked-template si status-unlinked"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="No" width="9" height="9"  /></td>
+    
+    
+            </tr>
+    
+
+    
+            <tr class="even template-widget">
+                <td class="cb"><input type="checkbox" name="id" class="select" value="310" /></td>
+                <td class="template-name"><a href="/cgi-bin/mt/mt.cgi?__mode=view&amp;_type=template&amp;id=310&amp;blog_id=7">OpenID Accepted</a></td>
+    
+    
+    
+        
+                <td class="ssi-method si status-disabled"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="" width="9" height="9" title="" /></td>
+                <td class="cache-method si status-uncached"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="" width="9" height="9" title="" /></td>
+        
+    
+    
+                <td class="linked-template si status-unlinked"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="No" width="9" height="9"  /></td>
+    
+    
+            </tr>
+    
+
+    
+            <tr class="odd template-widget">
+                <td class="cb"><input type="checkbox" name="id" class="select" value="318" /></td>
+                <td class="template-name"><a href="/cgi-bin/mt/mt.cgi?__mode=view&amp;_type=template&amp;id=318&amp;blog_id=7">Powered By (Footer)</a></td>
+    
+    
+    
+        
+                <td class="ssi-method si status-disabled"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="" width="9" height="9" title="" /></td>
+                <td class="cache-method si status-uncached"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="" width="9" height="9" title="" /></td>
+        
+    
+    
+                <td class="linked-template si status-unlinked"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="No" width="9" height="9"  /></td>
+    
+    
+            </tr>
+    
+
+    
+            <tr class="even template-widget">
+                <td class="cb"><input type="checkbox" name="id" class="select" value="287" /></td>
+                <td class="template-name"><a href="/cgi-bin/mt/mt.cgi?__mode=view&amp;_type=template&amp;id=287&amp;blog_id=7">Recent Assets</a></td>
+    
+    
+    
+        
+                <td class="ssi-method si status-disabled"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="" width="9" height="9" title="" /></td>
+                <td class="cache-method si status-uncached"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="" width="9" height="9" title="" /></td>
+        
+    
+    
+                <td class="linked-template si status-unlinked"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="No" width="9" height="9"  /></td>
+    
+    
+            </tr>
+    
+
+    
+            <tr class="odd template-widget">
+                <td class="cb"><input type="checkbox" name="id" class="select" value="331" /></td>
+                <td class="template-name"><a href="/cgi-bin/mt/mt.cgi?__mode=view&amp;_type=template&amp;id=331&amp;blog_id=7">Recent Comments</a></td>
+    
+    
+    
+        
+                <td class="ssi-method si status-disabled"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="" width="9" height="9" title="" /></td>
+                <td class="cache-method si status-uncached"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="" width="9" height="9" title="" /></td>
+        
+    
+    
+                <td class="linked-template si status-unlinked"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="No" width="9" height="9"  /></td>
+    
+    
+            </tr>
+    
+
+    
+            <tr class="even template-widget">
+                <td class="cb"><input type="checkbox" name="id" class="select" value="299" /></td>
+                <td class="template-name"><a href="/cgi-bin/mt/mt.cgi?__mode=view&amp;_type=template&amp;id=299&amp;blog_id=7">Recent Entries</a></td>
+    
+    
+    
+        
+                <td class="ssi-method si status-disabled"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="" width="9" height="9" title="" /></td>
+                <td class="cache-method si status-uncached"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="" width="9" height="9" title="" /></td>
+        
+    
+    
+                <td class="linked-template si status-unlinked"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="No" width="9" height="9"  /></td>
+    
+    
+            </tr>
+    
+
+    
+            <tr class="odd template-widget">
+                <td class="cb"><input type="checkbox" name="id" class="select" value="309" /></td>
+                <td class="template-name"><a href="/cgi-bin/mt/mt.cgi?__mode=view&amp;_type=template&amp;id=309&amp;blog_id=7">Sign In</a></td>
+    
+    
+    
+        
+                <td class="ssi-method si status-disabled"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="" width="9" height="9" title="" /></td>
+                <td class="cache-method si status-uncached"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="" width="9" height="9" title="" /></td>
+        
+    
+    
+                <td class="linked-template si status-unlinked"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="No" width="9" height="9"  /></td>
+    
+    
+            </tr>
+    
+
+    
+            <tr class="even template-widget">
+                <td class="cb"><input type="checkbox" name="id" class="select" value="421" /></td>
+                <td class="template-name"><a href="/cgi-bin/mt/mt.cgi?__mode=view&amp;_type=template&amp;id=421&amp;blog_id=7">SNOW Add This</a></td>
+    
+    
+    
+        
+                <td class="ssi-method si status-disabled"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="" width="9" height="9" title="" /></td>
+                <td class="cache-method si status-uncached"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="" width="9" height="9" title="" /></td>
+        
+    
+    
+                <td class="linked-template si status-unlinked"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="No" width="9" height="9"  /></td>
+    
+    
+            </tr>
+    
+
+    
+            <tr class="odd template-widget">
+                <td class="cb"><input type="checkbox" name="id" class="select" value="294" /></td>
+                <td class="template-name"><a href="/cgi-bin/mt/mt.cgi?__mode=view&amp;_type=template&amp;id=294&amp;blog_id=7">SNOW Category Archives</a></td>
+    
+    
+    
+        
+                <td class="ssi-method si status-enabled"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="" width="9" height="9" title="" /></td>
+                <td class="cache-method si status-cached"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="" width="9" height="9" title="" /></td>
+        
+    
+    
+                <td class="linked-template si status-unlinked"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="No" width="9" height="9"  /></td>
+    
+    
+            </tr>
+    
+
+    
+            <tr class="even template-widget">
+                <td class="cb"><input type="checkbox" name="id" class="select" value="637" /></td>
+                <td class="template-name"><a href="/cgi-bin/mt/mt.cgi?__mode=view&amp;_type=template&amp;id=637&amp;blog_id=7">SNOW Feedback</a></td>
+    
+    
+    
+        
+                <td class="ssi-method si status-disabled"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="" width="9" height="9" title="" /></td>
+                <td class="cache-method si status-uncached"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="" width="9" height="9" title="" /></td>
+        
+    
+    
+                <td class="linked-template si status-unlinked"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="No" width="9" height="9"  /></td>
+    
+    
+            </tr>
+    
+
+    
+            <tr class="odd template-widget">
+                <td class="cb"><input type="checkbox" name="id" class="select" value="419" /></td>
+                <td class="template-name"><a href="/cgi-bin/mt/mt.cgi?__mode=view&amp;_type=template&amp;id=419&amp;blog_id=7">SNOW Recent Articles</a></td>
+    
+    
+    
+        
+                <td class="ssi-method si status-disabled"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="" width="9" height="9" title="" /></td>
+                <td class="cache-method si status-uncached"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="" width="9" height="9" title="" /></td>
+        
+    
+    
+                <td class="linked-template si status-unlinked"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="No" width="9" height="9"  /></td>
+    
+    
+            </tr>
+    
+
+    
+            <tr class="even template-widget">
+                <td class="cb"><input type="checkbox" name="id" class="select" value="747" /></td>
+                <td class="template-name"><a href="/cgi-bin/mt/mt.cgi?__mode=view&amp;_type=template&amp;id=747&amp;blog_id=7">SNOW ScienceBloggers Button</a></td>
+    
+    
+    
+        
+                <td class="ssi-method si status-enabled"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="" width="9" height="9" title="" /></td>
+                <td class="cache-method si status-cached"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="" width="9" height="9" title="" /></td>
+        
+    
+    
+                <td class="linked-template si status-unlinked"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="No" width="9" height="9"  /></td>
+    
+    
+            </tr>
+    
+
+    
+            <tr class="odd template-widget">
+                <td class="cb"><input type="checkbox" name="id" class="select" value="330" /></td>
+                <td class="template-name"><a href="/cgi-bin/mt/mt.cgi?__mode=view&amp;_type=template&amp;id=330&amp;blog_id=7">SNOW Search</a></td>
+    
+    
+    
+        
+                <td class="ssi-method si status-disabled"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="" width="9" height="9" title="" /></td>
+                <td class="cache-method si status-uncached"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="" width="9" height="9" title="" /></td>
+        
+    
+    
+                <td class="linked-template si status-unlinked"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="No" width="9" height="9"  /></td>
+    
+    
+            </tr>
+    
+
+    
+            <tr class="even template-widget">
+                <td class="cb"><input type="checkbox" name="id" class="select" value="594" /></td>
+                <td class="template-name"><a href="/cgi-bin/mt/mt.cgi?__mode=view&amp;_type=template&amp;id=594&amp;blog_id=7">SNOW Search Subnav</a></td>
+    
+    
+    
+        
+                <td class="ssi-method si status-disabled"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="" width="9" height="9" title="" /></td>
+                <td class="cache-method si status-uncached"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="" width="9" height="9" title="" /></td>
+        
+    
+    
+                <td class="linked-template si status-unlinked"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="No" width="9" height="9"  /></td>
+    
+    
+            </tr>
+    
+
+    
+            <tr class="odd template-widget">
+                <td class="cb"><input type="checkbox" name="id" class="select" value="420" /></td>
+                <td class="template-name"><a href="/cgi-bin/mt/mt.cgi?__mode=view&amp;_type=template&amp;id=420&amp;blog_id=7">SNOW Section Links</a></td>
+    
+    
+    
+        
+                <td class="ssi-method si status-enabled"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="" width="9" height="9" title="" /></td>
+                <td class="cache-method si status-uncached"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="" width="9" height="9" title="" /></td>
+        
+    
+    
+                <td class="linked-template si status-unlinked"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="No" width="9" height="9"  /></td>
+    
+    
+            </tr>
+    
+
+    
+            <tr class="even template-widget">
+                <td class="cb"><input type="checkbox" name="id" class="select" value="320" /></td>
+                <td class="template-name"><a href="/cgi-bin/mt/mt.cgi?__mode=view&amp;_type=template&amp;id=320&amp;blog_id=7">Syndication</a></td>
+    
+    
+    
+        
+                <td class="ssi-method si status-disabled"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="" width="9" height="9" title="" /></td>
+                <td class="cache-method si status-uncached"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="" width="9" height="9" title="" /></td>
+        
+    
+    
+                <td class="linked-template si status-unlinked"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="No" width="9" height="9"  /></td>
+    
+    
+            </tr>
+    
+
+    
+            <tr class="odd template-widget">
+                <td class="cb"><input type="checkbox" name="id" class="select" value="297" /></td>
+                <td class="template-name"><a href="/cgi-bin/mt/mt.cgi?__mode=view&amp;_type=template&amp;id=297&amp;blog_id=7">Tag Cloud</a></td>
+    
+    
+    
+        
+                <td class="ssi-method si status-disabled"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="" width="9" height="9" title="" /></td>
+                <td class="cache-method si status-uncached"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="" width="9" height="9" title="" /></td>
+        
+    
+    
+                <td class="linked-template si status-unlinked"><img src="http://news.sciencemag.org/mt-static/images/spacer.gif" alt="No" width="9" height="9"  /></td>
+    
+    
+            </tr>
+    
+        </tbody>
+    
+
+        </table>
+
+        
+<div id="actions-bar-bottom" class="actions-bar actions-bar-bottom">
+    
+    <span class="button-actions actions">
+    
+    
+    
+    
+    
+    <button
+        accesskey="x"
+        title="Delete selected Widget Templates (x)"
+        class="mt-delete-widget-templates"
+        >Delete</button>
+    
+</span>
+    <span class="plugin-actions actions">
+<script type="text/javascript">
+/* <![CDATA[ */
+itemset_options['refresh_tmpl_templates'] = {type:'core'};
+itemset_options['copy_templates'] = {type:'core'};
+
+
+/* ]]> */
+</script>
+<select name="plugin_action_selector" onchange="updatePluginAction(this)">
+    <option value="0">More actions...</option>
+    
+    <option value="refresh_tmpl_templates">Refresh Template(s)</option>
+    
+    <option value="copy_templates">Clone Template(s)</option>
+    
+    
+</select>
+
+<button
+     class="small-button mt-widget-listing-form-action"
+     >Go</button>
+
+
+
+    </span>
+</div>
+
+    </form>
+</div>
+
+
+
+
+
+</div><!-- /main-content inner -->
+                    </div><!-- /main-content -->
+
+                    <div id="related-content">
+                        <div id="tips" class="widget tips">
+        <div class="widget-header ">
+                
+                
+<h3 class="widget-label"><span>Helpful Tips</span></h3>
+        </div>
+        <div class="widget-content">
+
+            <p>To add a widget set to your templates, use the following syntax:</p>
+            <p><strong>&lt;$MTWidgetSet name=&quot;Name of the Widget Set&quot;$&gt;</strong></p>
+        
+        </div>
+        <div class="widget-footer"></div>
+</div>
+                    </div><!-- /related-content -->
+
+                    
+                </div><!-- /content-body -->
+            </div><!-- /content -->
+        </div><!-- /container -->
+
+        <div id="footer">
+
+
+
+            <ul id="footer-nav" class="inline-nav">
+                <li><a href="http://www.movabletype.org">MovableType.org</a></li>
+                <li><a href="http://plugins.movabletype.org/">Plugins</a></li>
+                <li><a href="http://www.movabletype.org/documentation/">Documentation</a></li>
+                <li><a href="http://wiki.movabletype.org/">Wiki</a></li>
+                <li><a href="http://www.movabletype.com/support/">Support</a></li>
+                <li><a href="http://forums.movabletype.org/">Forums</a></li>
+                <li><a href="http://www.movabletype.org/feedback.html">Send Us Feedback</a></li>
+            </ul>
+
+            <div id="copyright">
+    Copyright &copy; 2001-2010 Six Apart. All Rights Reserved.
+</div>
+
+            <p id="version">
+                <strong><a href="http://www.sixapart.com/movabletype/">Movable Type Pro</a> version 5.01</strong>
+
+                with: <a href="http://www.sixapart.com/movabletype/pack/community/">Community Pack 1.71</a>, <a href="http://www.sixapart.com/movabletype/pack/commercial/">Professional Pack 1.51</a>
+
+            </p>
+        </div><!-- /footer -->
+
+        
+
+        <div id="bootstrapper" class="hidden"></div>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+
+
+App.bootstrapInline( false );
+
+
+jQuery(function() {
+
+    jQuery('button.mt-delete-widget-templates').mtDeleteItems({
+        id: 'widget-listing-form',
+        singular: 'widget template',
+        plural: 'widget templates'
+    });
+    jQuery('button.mt-publish-widget-templates').mtPublishItems({
+        id: 'widget-listing-form',
+        singular: 'template',
+        plural: 'templates',
+        mode: 'publish_widget_templates',
+        args: {},
+        phrase: 'to publish'
+    });
+    jQuery('button.mt-widget-listing-form-action').mtDoPluginAction({
+        id: 'widget-listing-form',
+        plural: 'Widget Templates',
+        phrase: 'to act upon'
+    });
+
+    init();
+    jQuery.mtCheckbox();
+
+    if (typeof document.body.style.maxHeight == "undefined") {
+        if ($.fn.pngfix) jQuery('#brand a span, .nav-link a, .search-submit img, .welcome-widget img').pngfix();
+    }
+    jQuery.mtAddEdgeClass();
+    jQuery.mtMenu();
+    jQuery.mtSelector();
+    jQuery.mtFavActions();
+    jQuery.mtCMSSearch();
+    jQuery('a.mt-open-dialog').mtDialog();
+    jQuery('a.mt-rebuild').mtRebuild({blog_id: '7'});
+    jQuery('img.mt-close-msg').live('click', function() {
+        jQuery(this).parent('div.msg').remove();
+    });
+    jQuery('input.mt-edit-field').mtEditInput({
+        edit: 'Edit'
+    });
+    jQuery('div.has-option').mtCheckboxOption();
+    jQuery('.msg').mtToggleNext();
+    jQuery('input.text-date').datepicker({
+        dateFormat: 'yy-mm-dd',
+        dayNamesMin: ['S', 'M', 'T', 'W', 'T', 'F', 'S'],
+        monthNames: ['-01','-02','-03','-04','-05','-06','-07','-08','-09','-10','-11','-12'],
+        showMonthAfterYear: true,
+        prevText: '&lt;',
+        nextText: '&gt;'
+    });
+    jQuery('#brand > a').hover(
+        function() {
+            jQuery(this).after('<span class="tips">Your Dashboard</span>');
+        },
+        function(){
+            jQuery('#brand span.tips').remove();
+        }
+    );
+    jQuery('input').each(function() {
+        jQuery(this).addClass(jQuery(this).attr('type'));
+    });
+    jQuery('.widget-header').hover(
+        function() {
+            jQuery(this).children('.widget-close-link').toggle();
+        },
+        function() {
+            jQuery(this).children('.widget-close-link').toggle();
+        }
+    );
+
+});
+/* ]]> */
+</script>
+
+    </body>
+</html>
+

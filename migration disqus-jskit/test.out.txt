@@ -1,0 +1,1 @@
+JSReplyMSGId('jst-1', 'jsid-1271803914-717', { "TS": 1271803928, "Text": "To able to control how crystals grow is the key. Mankind should be able to fully empower the  equipment with in-situ monitoring tools to make things work. That is science plus Arts. " });

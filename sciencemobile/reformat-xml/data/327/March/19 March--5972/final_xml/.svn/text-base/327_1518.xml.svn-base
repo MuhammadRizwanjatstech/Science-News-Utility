@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="research-article" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title><issn pub-type="ppub">0036-8075</issn><issn pub-type="epub">1095-9203</issn>
+<publisher><publisher-name>American Association for the Advancement of Science</publisher-name></publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">1184178</article-id>
+<article-id pub-id-type="doi">10.1126/science.1184178</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>Report</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Reports</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>reports</subject></subj-group>
+<subj-group subj-group-type="field"><subject>NEUROSCIENCE</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>CKAMP44: A Brain-Specific Protein Attenuating Short-Term Synaptic Plasticity in the Dentate Gyrus</article-title>
+</title-group>
+<contrib-group><contrib contrib-type="author"><name><surname>von Engelhardt</surname><given-names>Jakob</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="fn" rid="afn1">*</xref></contrib><contrib contrib-type="author"><name><surname>Mack</surname><given-names>Volker</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="aff" rid="aff2"><sup>2</sup></xref><xref ref-type="fn" rid="afn1">*</xref></contrib><contrib contrib-type="author"><name><surname>Sprengel</surname><given-names>Rolf</given-names></name><xref ref-type="aff" rid="aff3"><sup>3</sup></xref></contrib><contrib contrib-type="author"><name><surname>Kavenstock</surname><given-names>Netta</given-names></name><xref ref-type="aff" rid="aff4"><sup>4</sup></xref></contrib><contrib contrib-type="author"><name><surname>Li</surname><given-names>Ka Wan</given-names></name><xref ref-type="aff" rid="aff2"><sup>2</sup></xref></contrib><contrib contrib-type="author"><name><surname>Stern-Bach</surname><given-names>Yael</given-names></name><xref ref-type="aff" rid="aff4"><sup>4</sup></xref></contrib><contrib contrib-type="author"><name><surname>Smit</surname><given-names>August B.</given-names></name><xref ref-type="aff" rid="aff2"><sup>2</sup></xref></contrib><contrib contrib-type="author"><name><surname>Seeburg</surname><given-names>Peter H.</given-names></name><xref ref-type="aff" rid="aff3"><sup>3</sup></xref></contrib><contrib contrib-type="author" corresp="yes"><name><surname>Monyer</surname><given-names>Hannah</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="corresp" rid="cor1"><sup>&#x2020;</sup></xref></contrib>
+<aff id="aff1"><label>1</label>Department of Clinical Neurobiology, University of Heidelberg, 6910 Heidelberg, Germany.</aff>
+<aff id="aff2"><label>2</label>Department of Molecular and Cellular Neurobiology, Center for Neurogenomics and Cognitive Research, Vrije Universiteit, 1081 HV Amsterdam, the Netherlands.</aff>
+<aff id="aff3"><label>3</label>Department of Molecular Neurobiology, Max Planck Institute for Medical Research, 69120 Heidelberg, Germany.</aff>
+<aff id="aff4"><label>4</label>Department of Biochemistry and Molecular Biology, Institute for Medical Research Israel-Canada (IMRIC), the Hebrew University&#x2013;Hadassah Medical School, Jerusalem 91120, Israel.</aff></contrib-group>
+<author-notes>
+<fn id="afn1"><label>*</label><p>These authors contributed equally to this work.</p>
+</fn>
+<corresp id="cor1"><label>&#x2020;</label>To whom correspondence should be addressed. E-mail: 
+<email xlink:href="monyer@urz.uni-hd.de">monyer@urz.uni-hd.de</email></corresp></author-notes>
+<pub-date pub-type="ppub"><day>19</day><month>03</month><year>2010</year></pub-date>
+<volume>327</volume>
+<issue>5972</issue>
+<fpage>1518</fpage>
+<lpage>1522</lpage>
+<history><date date-type="received"><day>03</day><month>11</month><year>2009</year></date><date date-type="accepted"><day>22</day><month>01</month><year>2010</year></date><date date-type="epub"><day>25</day><month>02</month><year>2010</year></date></history>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2010, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2010</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder></permissions>
+<abstract abstract-type="editor"><title>Dancing with AMPARs</title><p>A type of transmembrane receptor for glutamate, known as AMPAR, mediates most of the fast excitatory transmission in the mammalian central nervous system. Their function is regulated by the composition of their subunits, posttranslational modifications, and protein-protein interactions. Recently, several proteins that interact with AMPARs have been identified that affect their subcellular localization, synaptic stabilization, and kinetics. Using proteomic analysis, immunohistochemistry, and electrophysiology, <bold>von Engelhardt <italic>et al.</italic></bold> (p. <related-article related-article-type="in-this-issue" vol="327" page="1518">1518</related-article>, published online 25 February; see the Perspective by <bold><related-article related-article-type="in-this-issue" vol="327" page="1463" issue="5972">Farrant and Cull-Candy</related-article></bold>) identified a protein, CKAMP44, which modulates postsynaptic AMPA receptor gating, deactivation, and desentization.</p></abstract>
+<abstract abstract-type="teaser"><p>A synaptic protein that regulates postsynaptic AMPA receptor responses has been cloned and functionally characterized.</p></abstract>
+<abstract>
+<p>CKAMP44, identified here by a proteomic approach, is a brain-specific type I transmembrane protein that associates with AMPA receptors in synaptic spines. CKAMP44 expressed in <italic>Xenopus oocytes</italic> reduced GluA1- and A2-mediated steady-state currents, but did not affect kainate- or <italic>N</italic>-methyl-
+<sc>d</sc>-aspartate (NMDA) receptor&#x2013;mediated currents. Mouse hippocampal CA1 pyramidal neurons expressed CKAMP44 at low abundance, and overexpression of CKAMP44 led to stronger and faster AMPA receptor desensitization, slower recovery from desensitization, and a reduction in the paired-pulse ratio of AMPA currents. By contrast, dentate gyrus granule cells exhibited strong CKAMP44 expression, and CKAMP44 knockout increased the paired-pulse ratio of AMPA currents in lateral and medial perforant path&#x2013;granule cell synapses. CKAMP44 thus modulates short-term plasticity at specific excitatory synapses.</p>
+</abstract>
+<custom-meta-wrap><custom-meta><meta-name>Editor</meta-name><meta-value>Peter Stern</meta-value></custom-meta><custom-meta><meta-name>Copyeditor</meta-name><meta-value>Harry Jach</meta-value></custom-meta></custom-meta-wrap>
+</article-meta>
+</front>
+<body>
+<p>AMPA receptors (AMPARs) mediate most of the fast excitatory transmission in the vertebrate central nervous system, and their function is regulated by subunit composition, posttranslational modifications, and protein-protein interactions (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>). Several AMPAR-interacting proteins such as TARPs (transmembrane AMPAR regulatory proteins), Sol-1, and cornichons have been identified that affect the receptors&#x2019; subcellular localization, synaptic stabilization, and kinetics (<xref ref-type="bibr" rid="R2"><italic>2</italic></xref>&#x2013;<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>). We searched for previously unknown AMPAR-interacting proteins using immunoprecipitation and mass spectrometry of AMPAR complexes [see Supporting Online Material (SOM)]. This proteomic search suggested an interaction of AMPARs with the gene product of the <italic>Mus musculus</italic> RIKEN cDNA gene locus 2700045P11Rik. Our reverse transcription polymerase chain reaction (RT-PCR) analysis identified this protein as a type I transmembrane protein, containing an extracellular N-terminal cysteine-rich motif, with eight cysteines highly conserved across vertebrate species. We named the protein according to its predicted molecular weight of 44 kD CKAMP44 (cystine-knot AMPAR modulating protein) (<xref ref-type="fig" rid="F1">Fig. 1A</xref>). The CKAMP44 gene is located on mouse and human chromosome 16 and contains five translated exons. The CKAMP44 precursor protein of 424 amino acids features an N-terminal signal peptide (23 amino acids) and a single putative transmembrane segment (20 amino acids), the latter separating the N-terminal extracellular region (128 amino acids) from the cytoplasmic segment (253 amino acids), which terminates in a PDZ type II ligand motif (Glu-Val-Thr-Val). Six of the eight cysteine residues in CKAMP44 might stabilize a Cys-knot structure found in &#x03C9;-conotoxins (<xref ref-type="fig" rid="F1">Fig. 1A</xref>) (<xref ref-type="bibr" rid="R6"><italic>6</italic></xref>). CKAMP44 might thus operate as an endogenous modulator of the AMPARs.</p>
+<fig id="F1" position="float" fig-type="figure"><label>Fig. 1</label><caption><p>CKAMP44 is a brain-specific type I transmembrane protein associated with AMPAR complexes. (<bold>A</bold>) Schematic representation of the 424-residue CKAMP44 protein, with signal peptide (SP), extracellular domain with cysteine-rich region (C&#x2019;s in red), single transmembrane region (TM), and intracellular domain containing a PDZ domain interaction site at the C terminus. Gray lines border protein regions encoded by separate exons. Below is a comparison of the Cys-knot motifs of CKAMP44 and of the Ly6/Plaur domain of lynx1. Proposed disulfide bridges are indicated by brackets. (<bold>B</bold>) CKAMP44 is expressed in brain but not in other tissues, as documented by Northern blot analysis (left) and RT-PCR (right). The amplified DNA spanning the alternative exon 4 features two bands (CKAMP44a and b). (<bold>C</bold>) CKAMP44 mRNA expression by in situ hybridization on sagittal sections of a mouse at E19, on brain sections of P15 and adult mice. Hi, hindbrain; Fb, forebrain; Bs, brainstem; Ob, olfactory bulb; Cx, cerebral cortex; Hc, hippocampus; Cb, cerebellum. (<bold>D</bold>) Coimmunoprecipitation (IP) with antibody against CKAMP44 (anti-CKAMP44) or nonspecific antibodies (IP IgG) of CKAMP44-associated proteins from forebrain lysates of adult mice deficient in the AMPAR subunit GluA1 (A1<sup>&#x2212;/&#x2212;</sup>), GluA2 (A2<sup>&#x2212;/&#x2212;</sup>), or GluA3 (A3<sup>&#x2212;/&#x2212;</sup>) and of wild-type (WT) mice. Of each input used for the anti-CKAMP44 immunoprecipitation (IP), 4% was loaded in the first four lanes (IP-Input). Immunoblot detection was performed with antibodies for the postsynaptic proteins (indicated on the right). IgG, immunoglobulin G.</p>
+</caption>
+<graphic xlink:href="327_1518_F1"></graphic></fig>
+<p>The gene for CKAMP44 is specifically expressed in the brain, as demonstrated by a tissue-specific Northern blot (<xref ref-type="fig" rid="F1">Fig. 1B</xref>). RT-PCR on RNA from different mouse tissues confirmed the brain-specific expression and revealed two splice variants, CKAMP44a and CKAMP44b, that differ by only 48 bases (<xref ref-type="fig" rid="F1">Fig. 1B</xref>). In situ hybridization on horizontal mouse brain sections with a probe recognizing both splice variants of CKAMP44 indicated neuronal expression in the majority of brain regions, including hippocampus, cerebral cortex, striatum, thalamus, olfactory bulb, and cerebellum (<xref ref-type="fig" rid="F1">Fig. 1C</xref>). CKAMP44 mRNA can be seen in most brain structures during embryonic and postnatal development.</p>
+<p>We used a CKAMP44-specific antibody that recognizes both splice variants (see fig. S1 for antibody specificity) to determine whether the interaction of endogenous CKAMP44 and AMPARs is subunit specific. The antibody immunoprecipitated proteins associated with CKAMP44 from forebrain lysates of wild-type mice and of mice lacking either the AMPAR subunit GluA1, GluA2, or GluA3. The immunoprecipitates from all three genetically altered mouse lines coprecipitated CKAMP44 and AMPARs, indicating that the interaction is not subunit specific (<xref ref-type="fig" rid="F1">Fig. 1D</xref>). We also detected TARP-&#x03B3;-2 and small amounts of PSD-95 in CKAMP44 immunoprecipitates from all genotypes. Thus, TARP-&#x03B3;-2 and CKAMP44 appear to participate in the same AMPAR complexes. The lack of the <italic>N</italic>-methyl-
+<sc>d</sc>-aspartate (NMDA) receptor (NMDAR) subunit GluN2B in the immunoprecipitates points to an AMPAR-specific association of CKAMP44.</p>
+<p>We subsequently studied the subcellular distribution of CKAMP44 by biochemical fractionation of forebrain homogenates. CKAMP44 was enriched in a Triton X-100&#x2013;insoluble postsynaptic density (PSD) fraction together with GluA1, PSD-95, and TARP-&#x03B3;-2, indicating postsynaptic localization of endogenous CKAMP44 (<xref ref-type="fig" rid="F2">Fig. 2A</xref>). We expressed, along with enhanced green fluorescent protein (EGFP), in cultured hippocampal neurons recombinant CKAMP44 tagged with a FLAG epitope at the N terminus (FLAG-CKAMP44). We observed a strong signal for FLAG at the surface of dendritic spines of transfected neurons, confirming that CKAMP44 is a type I transmembrane protein that is localized in spine heads, which also can be visualized by GluA1 or GluA2/A3 staining (<xref ref-type="fig" rid="F2">Fig. 2B</xref>). Close proximity of FLAG-CKAMP44 to the presynaptic marker synapsin I further indicates that CKAMP44 is synaptically localized.</p>
+<fig id="F2" position="float" fig-type="figure"><label>Fig. 2</label><caption><p>CKAMP44 is enriched at postsynaptic sites of excitatory synapses. (<bold>A</bold>) Immunoblots for CKAMP44, TARP-&#x03B3;-2, GluA1, PSD95, and Synapsin (Syn.) of subcellular fractions from adult mouse forebrain homogenate. Synaptos., synaptosomes; syn. memb., synaptosomal membranes; PSD, Triton X-100&#x2013;insoluble postsynaptic density fraction. (<bold>B</bold>) Synaptic and dendritic distribution of GFP, GluA1, GluA2/3 GFP, and synapsin (left), detected in dendrites of cultured hippocampal neurons at 20 days in vitro, expressing recombinant FLAG-CKAMP44 and GFP. Surface FLAG-CKAMP44 was detected by anti-FLAG (middle). For the analysis of synapsin 1, triple staining (merged) was performed with anti-Synapsin 1, anti-Flag, and anti-GFP. Scale bars, 5 &#x03BC;m.</p>
+</caption>
+<graphic xlink:href="327_1518_F2"></graphic></fig>
+<p>In <italic>Xenopus laevis</italic> oocytes that express GluA1, GluA2, or GluA3, agonist-evoked currents with coapplication of cyclothiazide (CTZ) to prevent desensitization were prominently reduced when CKAMP44 was coexpressed (the CKAMP44a splice variant was used for recombinant expression throughout this study) (<xref ref-type="fig" rid="F3">Fig. 3A</xref> and table S2). Due to the slow perfusion of glutamate, only steady-state currents were measured in oocytes (see also fig. S2 and table S4 for peak and steady-state currents in nucleated patches in the presence of CTZ). A surface biotinylation assay on GluA1-expressing oocytes revealed no obvious change in either total or surface GluA1 protein levels (<xref ref-type="fig" rid="F3">Fig. 3B</xref>). CKAMP44 inhibition of GluA1 steady-state current was a function of the cRNA ratio of CKAMP44/GluA1 injected into oocytes (<xref ref-type="fig" rid="F3">Fig. 3C</xref> and table S2), suggesting a stoichiometric ratio between GluA1 and CKAMP44. Glutamate dose-response experiments showed that CKAMP44 coexpression decreases the glutamate median effective concentration (EC<sub>50</sub>) (fig. S3A and table S2). CTZ dose-response experiments revealed that CKAMP44 coexpression not only reduces the potency of CTZ in preventing AMPAR desensitization, but also increases the EC<sub>50</sub> of CTZ (fig. S3B and table S2). CKAMP44 did not affect currents of the nondesensitizing AMPAR mutant GluA1 L497Y (in which Leu<sup>497 </sup>is replaced with Tyr) (<xref ref-type="bibr" rid="R7"><italic>7</italic></xref>) (fig. S3C and table S2), suggesting a role for CKAMP44 in the desensitization of AMPARs, which we subsequently confirmed in neurons.</p>
+<fig id="F3" position="float" fig-type="figure"><label>Fig. 3</label><caption><p>CKAMP44 overexpression modulates AMPAR-mediated currents. (<bold>A</bold>) GluA1-, GluA2-, and GluA3- but not GluK2- or GluN1/2B-mediated steady-state currents (with coapplication of CTZ) in oocytes are strongly reduced by coexpression of CKAMP44. Sample traces are shown for GluA1-mediated currents without and with coexpression of CKAMP44. Error bars represent the mean &#x00B1; SD. (<bold>B</bold>) The ratio of surface bound (S) to total (T) GluA1 is unaffected by coexpression of CKAMP44, as quantified by Western blot analysis of total and biotinylated protein. (<bold>C</bold>) Inhibition of GluA1-mediated steady-state current is dependent on the concentration of CKAMP44-RNA injected into the oocyte. Error bars represent the mean &#x00B1; SD. (<bold>D</bold>) Overexpression of CKAMP44 increases the deactivation time constant (&#x03C4;<sub>deact</sub>) of AMPAR-mediated currents. Error bars represent the median &#x00B1; IQR (interquartile range). (<bold>E</bold>) Overexpression of CKAMP44 leads to slower, and CKAMP44 KO to faster, recovery from desensitization (two 1-ms glutamate pulses with interpulse-intervals of 10, 30, 100, 300, 1000, and 3000 ms) in nucleated patches. Error bars represent the mean &#x00B1; SEM (left panel) or median &#x00B1; IQR (right panel).</p>
+</caption>
+<graphic xlink:href="327_1518_F3"></graphic></fig>
+<p>We recorded from acute hippocampal brain slices of wild-type, CKAMP44-overexpressing, and knockout (KO) mice, first investigating CA1 pyramidal cells, which express relatively small amounts of CKAMP44 (<xref ref-type="fig" rid="F1">Fig. 1C</xref>). Hence, additional CKAMP44, overexpressed by virus-mediated gene transfer (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>), should affect AMPAR function in these cells. In outside-out patches of CA1 pyramidal cells, current amplitude and rise time of AMPAR-mediated currents evoked by 1-ms glutamate (1 mM) pulses were not altered by overexpression (or KO) of CKAMP44, but we observed a significant increase in the deactivation time constant (&#x03C4;<sub>deact</sub>) of CKAMP44-overexpressing cells (<xref ref-type="fig" rid="F3">Fig. 3D</xref> and table S3; see table S4 for deactivation kinetics in nucleated patches). The difference in &#x03C4;<sub>deact</sub> was much more pronounced in the presence of CTZ (fig. S4A and table S3).</p>
+<p>There was no difference in the desensitization time constant (&#x03C4;<sub>des</sub>) of AMPAR-mediated currents to a 500-ms glutamate pulse in outside-out patches of CKAMP44-overexpressing or CKAMP44 KO cells compared to controls (fig. S5A and table S3). The steady-state currents during these 500-ms glutamate pulses were usually too small for quantification in outside-out patches. We thus evoked AMPAR-mediated currents in nucleated patches and found in CKAMP44-overexpressing cells a reduction in both steady-state current and &#x03C4;<sub>des</sub>. Conversely, nucleated patches of CKAMP44 KO CA1 cells exhibited an increased steady-state current and &#x03C4;<sub>des</sub> (fig. S5B and table S4). The effect of CKAMP44 on desensitization was also reflected in a more pronounced desensitization 10 ms after a short glutamate pulse, and a significantly slower recovery from desensitization in nucleated patches from CKAMP44-overexpressing CA1 cells but, in contrast, in a reduced desensitization and faster recovery from desensitization in nucleated patches from CKAMP44 KO CA1 cells (<xref ref-type="fig" rid="F3">Fig. 3E</xref> and table S4). The effect of the KO indicates that CKAMP44, despite its seemingly low abundance, has a functional role in CA1 pyramidal neurons. This was also found by short hairpin RNA&#x2013;mediated knockdown (fig. S6 and table S4), providing evidence against compensatory mechanisms by the KO. Together, these results show that CKAMP44 modulates most of the tested electrophysiological properties of extrasynaptic AMPARs, including the EC<sub>50</sub> and IC<sub>50</sub> of glutamate (fig. S7 and table S4).</p>
+<p>To investigate synaptic AMPAR function, we evoked excitatory postsynaptic currents (EPSCs) by Schaffer collateral/commissural fiber stimulation and recorded them in CA1 neurons. Peak amplitudes of AMPAR-mediated EPSCs (recorded at &#x2212;70 mV in the presence of 1 mM extracellular Mg<sup>2+</sup>) were normalized to the amplitude of NMDAR-mediated EPSCs (recorded at +40 mV). There was no difference in the &#x2212;70/+40 mV EPSC amplitude ratio or in the AMPAR-mediated current decay time constant in wild-type, CKAMP44-overexpressing, and CKAMP44 KO CA1 neurons. Neither was there a difference in the interevent interval (IEI), amplitude, rise time, and decay time constant of miniature EPSCs (mEPSCs) (<xref ref-type="fig" rid="F4">Fig. 4A</xref> and table S5).</p>
+<fig id="F4" position="float" fig-type="figure"><label>Fig. 4</label><caption><p>CKAMP44 modulates the PPR of AMPAR-mediated synaptic transmission. (<bold>A</bold>) Neither CKAMP44 overexpression nor KO changes the AMPA/NMDA ratio of evoked EPSCs (upper traces), the peak amplitude, or the IEI of mEPSCs (lower traces) in CA1 pyramidal cells. Error bars represent the mean &#x00B1; SD. (<bold>B</bold>) Control and CKAMP44 KO CA1 cells show a stronger facilitating PPR of AMPAR-mediated EPSCs than do CKAMP44-overexpressing cells. There is no difference in the PPR of NMDAR-mediated currents. Error bars represent the mean &#x00B1; SEM. (<bold>C</bold>) The paired-pulse depression observed during MPP stimulation in control and CKAMP44-overexpressing DG granule cells is switched to paired-pulse facilitation by CKAMP44 KO (left). The weak paired-pulse facilitation observed during LPP stimulation in control and CKAMP44-overexpressing cells becomes strong by CKAMP44 KO (middle). Lack of effect on NMDA PPR by CKAMP44 KO (right) demonstrates the postsynaptic effect of AMPA PPR changes. Error bars represent the mean &#x00B1; SEM.</p>
+</caption>
+<graphic xlink:href="327_1518_F4"></graphic></fig>
+<p>We noticed an increase in &#x03C4;<sub>deact</sub> for currents in outside-out patches but, unexpectedly, no change in the decay of synaptic EPSCs and mEPSCs. To reveal a potential effect of CKAMP44 on synaptic EPSCs, we used CTZ, which increases the difference in &#x03C4;<sub>deact</sub> substantially in outside-out patches of control and CKAMP44-overexpressing cells (fig. S4A). In the presence of CTZ (100 &#x03BC;M), we observed a pronounced kinetic mEPSC decay difference between control and CKAMP44-overexpressing cells (fig. S4B and table S5). Thus, CKAMP44 affects synaptic AMPAR function.</p>
+<p>Paired-pulse experiments of EPSCs, evoked at IEIs of 20 to 3000 ms, revealed a strong reduction in the paired-pulse ratio (PPR) for IEIs of 20 to 200 ms in CA1 cells overexpressing CKAMP44, compared to control cells. AMPA PPR (in the presence of APV) was not different in CA1 neurons of CKAMP44 KO and control cells (<xref ref-type="fig" rid="F4">Fig. 4B</xref> and table S5; see fig. S8 and table S5 for CKAMP44 influence on trains of five EPSCs at 10 Hz). This indicates that the slower recovery from desensitization observed for extrasynaptic AMPARs in CKAMP44-overexpressing cells also holds true for synaptic receptors and therefore reduces the PPR of synaptic EPSCs. PPR measurements commonly probe presynaptic function (release probability). To rule out that presynaptic function is altered by CKAMP44 overexpression, we measured the PPR of NMDAR-mediated EPSCs at &#x2212;30 mV in the presence of an AMPAR antagonist. There was no difference in the NMDAR-mediated EPSC PPR in control and CKAMP44-overexpressing cells (<xref ref-type="fig" rid="F4">Fig. 4B</xref> and table S5), showing that AMPAR-mediated EPSC changes upon PPR are a consequence not of alterations in presynaptic release probability, but of changed postsynaptic AMPAR function.</p>
+<p>CKAMP44 mRNA expression is higher in the granule cell layer of the dentate gyrus (DG) than in the CA1 area (<xref ref-type="fig" rid="F1">Fig. 1C</xref>). We thus performed PPR experiments in the DG. As lateral perforant path (LPP) and medial perforant path (MPP) synapses differ in PPR by facilitation in the LPP and depression in the MPP (<xref ref-type="bibr" rid="R9"><italic>9</italic></xref>), we investigated the PPR of both pathways separately. Neither LPP nor MPP PPR was altered by overexpression of CKAMP44, although there was a trend toward a reduction in MPP PPR. We observed a significant increase in the PPR of LPP and MPP synapses in cells from CKAMP44 KO mice, as compared to controls. NMDAR-mediated EPSCs, investigated for the LPP in control and CKAMP44 KO mice, revealed unchanged PPRs (<xref ref-type="fig" rid="F4">Fig. 4C</xref> and table S6). The unaltered AMPAR PPR in cells overexpressing CKAMP44 and the strong increase in CKAMP44 KO cells indeed indicate that most synaptic AMPARs in DG granule cells interact with CKAMP44, in stark contrast to AMPARs in CA1 neurons.</p>
+<p>We identified CKAMP44 as a constituent of AMPAR complexes. The most characteristic CKAMP44 features are the extracellular Cys-knot and C-terminal PDZ-like ligand motif. The PDZ-like interaction site could be necessary for the postsynaptic localization of the membrane-bound CKAMP44. The Cys-knot might well interact with the extracellular domain of the AMPARs. Six of the eight Cys-knot forming cysteines share the Cys-pattern with &#x03C9;-conotoxins. It is possible that the Cys-knot of CKAMP44 shares mechanistic features with the Cys-knot of the recently identified snail conotoxin Cys-ikot-ikot that disrupts AMPAR desensitization (<xref ref-type="bibr" rid="R10"><italic>10</italic></xref>).</p>
+<p>CKAMP44 bound to different AMPAR assemblies and can therefore affect any AMPAR type. The transmembrane AMPAR regulatory proteins (TARPs) also fail to show subunit preference (<xref ref-type="bibr" rid="R3"><italic>3</italic></xref>, <xref ref-type="bibr" rid="R11"><italic>11</italic></xref>, <xref ref-type="bibr" rid="R12"><italic>12</italic></xref>). The interaction with CKAMP44 influences AMPAR function, changing many of the physiological AMPAR properties. There are some similarities in CKAMP44&#x2019;s modulatory role and that of TARPs and the recently identified cornichon homologs 2 and 3 (<xref ref-type="bibr" rid="R2"><italic>2</italic></xref>), because CKAMP44 also slows AMPAR deactivation, although in a less pronounced manner, and, similarly to TARPs, CKAMP44 increases glutamate affinity (<xref ref-type="bibr" rid="R3"><italic>3</italic></xref>, <xref ref-type="bibr" rid="R12"><italic>12</italic></xref>, <xref ref-type="bibr" rid="R13"><italic>13</italic></xref>).</p>
+<p>However, CKAMP44 differs considerably from other AMPAR auxiliary proteins in its modulation of AMPAR desensitization. It modulates AMPAR function by increasing desensitization, decreasing &#x03C4;<sub>des</sub>, and slowing the recovery from desensitization, whereas TARPs and cornichons reduce and slow desensitization (<xref ref-type="bibr" rid="R2"><italic>2</italic></xref>, <xref ref-type="bibr" rid="R3"><italic>3</italic></xref>, <xref ref-type="bibr" rid="R12"><italic>12</italic></xref>). The influence of CKAMP44 on &#x03C4;<sub>deact</sub> and &#x03C4;<sub>des</sub> is noteworthy, as TARPs and cornichons increase both &#x03C4;<sub>deact</sub> and &#x03C4;<sub>des</sub> (<xref ref-type="bibr" rid="R2"><italic>2</italic></xref>, <xref ref-type="bibr" rid="R3"><italic>3</italic></xref>, <xref ref-type="bibr" rid="R12"><italic>12</italic></xref>). Coregulation of &#x03C4;<sub>deact</sub> and &#x03C4;<sub>des</sub> (increase or decrease of both) was also observed for most AMPAR mutations that, for example, influence the dimer interface stability (<xref ref-type="bibr" rid="R14"><italic>14</italic></xref>, <xref ref-type="bibr" rid="R15"><italic>15</italic></xref>). In contrast, AMPAR mutations in the ligand-binding cleft that affect the stability of the closed-cleft conformation (interaction between domains D1 and D2) have opposite effects on &#x03C4;<sub>deact</sub> and &#x03C4;<sub>des</sub>. Mutations that disrupt interactions between these domains decrease &#x03C4;<sub>deact</sub> and increase &#x03C4;<sub>des</sub>. In addition, such mutations decrease agonist affinity and also accelerate recovery from desensitization (<xref ref-type="bibr" rid="R16"><italic>16</italic></xref>). Conversely, mutations that stabilize the closed-cleft conformation slow both deactivation and recovery from desensitization, and increase agonist apparent affinity (<xref ref-type="bibr" rid="R17"><italic>17</italic></xref>). Therefore, the effects of CKAMP44 on AMPAR properties are consistent with CKAMP44 stabilizing the closed-cleft conformation of the ligand-binding core.</p>
+<p>The role that CKAMP44 exerts on desensitization is opposite to that of TARPs, but cannot be explained by the replacement or elimination of TARPs from the AMPAR complex. According to our coimmunoprecipitation studies, CKAMP44 appears to act on AMPARs associated with TARPs. Moreover, as demonstrated by the comparison of CA1 and DG synapses and the differential expression of CKAMP44, the modulation of AMPARs occurs to different extents at these synapses. By contrast, cornichons and TARPs seem to be essential auxiliary subunits of the AMPAR complex in the central nervous system.</p>
+<p>The CKAMP44-mediated increase in AMPAR desensitization influences short-term plasticity of EPSCs by reducing paired-pulse facilitation. In most synapses, short-term plasticity is thought to reflect changes in transmitter release probability. There are only a few synapses for which AMPAR desensitization has been shown to influence PPR (<xref ref-type="bibr" rid="R18"><italic>18</italic></xref>&#x2013;<xref ref-type="bibr" rid="R20"><italic>20</italic></xref>). Slow recovery from desensitization, pronounced glutamate spillover, and high release probability are thought to enable AMPAR desensitization to influence PPR. As we have demonstrated here, AMPAR desensitization can reduce the PPR in CA1 pyramidal and DG granule cell synapses at physiological temperatures provided that recovery from desensitization is slow. In CA1 neurons, CKAMP44 expression is low and, hence, CKAMP44 overexpression is required to reduce the PPR. In contrast, endogenous CKAMP44 expression in DG granule cells is sufficiently high for CKAMP44 KO to increase PPR. An approximately fourfold slower recovery from desensitization was described for AMPA EPSCs in DG granule cells compared to CA1 pyramidal neurons, which led to the hypothesis that this distinction might underlie the different PPRs in CA1 and DG neurons (<xref ref-type="bibr" rid="R21"><italic>21</italic></xref>). Our data confirm this hypothesis and identify CKAMP44 as the protein that differentially modulates short-term plasticity in these synapses.</p>
+</body>
+<back>
+<app-group>
+<app>
+<title>Supporting Online Material</title>
+<supplementary-material>
+<p><ext-link ext-link-type="uri" xlink:href="http://www.sciencemag.org/cgi/content/full/science.1184178/DC1">www.sciencemag.org/cgi/content/full/science.1184178/DC1</ext-link></p>
+<p>Materials and Methods</p>
+<p>SOM Text</p>
+<p>Tables S1 to S6</p>
+<p>Figs. S1 to S8</p>
+<p>References</p>
+</supplementary-material></app></app-group>
+<ref-list>
+<title>References and Notes</title>
+<ref id="R1"><label>1</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Palmer</surname><given-names>C. L.</given-names></name><name><surname>Cotton</surname><given-names>L.</given-names></name><name><surname>Henley</surname><given-names>J. M.</given-names></name></person-group>, 
+<article-title>The molecular pharmacology and cell biology of alpha-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid receptors.</article-title> 
+<source>Pharmacol. Rev.</source> 
+<volume>57</volume>, 
+<fpage>253</fpage> (<year>2005</year>). 
+<pub-id pub-id-type="doi">10.1124/pr.57.2.7</pub-id>
+<pub-id pub-id-type="pmid">15914469</pub-id></citation></ref>
+<ref id="R2"><label>2</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Schwenk</surname><given-names>J.</given-names></name><etal /></person-group>., 
+<article-title>Functional proteomics identify cornichon proteins as auxiliary subunits of AMPA receptors.</article-title> 
+<source>Science</source> 
+<volume>323</volume>, 
+<fpage>1313</fpage> (<year>2009</year>). 
+<pub-id pub-id-type="doi">10.1126/science.1167852</pub-id>
+<pub-id pub-id-type="pmid">19265014</pub-id></citation></ref>
+<ref id="R3"><label>3</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Tomita</surname><given-names>S.</given-names></name><etal /></person-group>., 
+<article-title>Stargazin modulates AMPA receptor gating and trafficking by distinct domains.</article-title> 
+<source>Nature</source> 
+<volume>435</volume>, 
+<fpage>1052</fpage> (<year>2005</year>). 
+<pub-id pub-id-type="doi">10.1038/nature03624</pub-id>
+<pub-id pub-id-type="pmid">15858532</pub-id></citation></ref>
+<ref id="R4"><label>4</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Tomita</surname><given-names>S.</given-names></name><etal /></person-group>., 
+<article-title>Functional studies and distribution define a family of transmembrane AMPA receptor regulatory proteins.</article-title> 
+<source>J. Cell Biol.</source> 
+<volume>161</volume>, 
+<fpage>805</fpage> (<year>2003</year>). 
+<pub-id pub-id-type="doi">10.1083/jcb.200212116</pub-id>
+<pub-id pub-id-type="pmid">12771129</pub-id></citation></ref>
+<ref id="R5"><label>5</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Zheng</surname><given-names>Y.</given-names></name><name><surname>Mellem</surname><given-names>J. E.</given-names></name><name><surname>Brockie</surname><given-names>P. J.</given-names></name><name><surname>Madsen</surname><given-names>D. M.</given-names></name><name><surname>Maricq</surname><given-names>A. V.</given-names></name></person-group>, 
+<article-title>SOL-1 is a CUB-domain protein required for GLR-1 glutamate receptor function in C. elegans.</article-title> 
+<source>Nature</source> 
+<volume>427</volume>, 
+<fpage>451</fpage> (<year>2004</year>). 
+<pub-id pub-id-type="doi">10.1038/nature02244</pub-id>
+<pub-id pub-id-type="pmid">14749834</pub-id></citation></ref>
+<ref id="R6"><label>6</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Heinemann</surname><given-names>S. H.</given-names></name><name><surname>Leipold</surname><given-names>E.</given-names></name></person-group>, 
+<article-title>Conotoxins of the O-superfamily affecting voltage-gated sodium channels.</article-title> 
+<source>Cell. Mol. Life Sci.</source> 
+<volume>64</volume>, 
+<fpage>1329</fpage> (<year>2007</year>). 
+<pub-id pub-id-type="doi">10.1007/s00018-007-6565-5</pub-id>
+<pub-id pub-id-type="pmid">17385074</pub-id></citation></ref>
+<ref id="R7"><label>7</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Stern-Bach</surname><given-names>Y.</given-names></name><name><surname>Russo</surname><given-names>S.</given-names></name><name><surname>Neuman</surname><given-names>M.</given-names></name><name><surname>Rosenmund</surname><given-names>C.</given-names></name></person-group>, 
+<article-title>A point mutation in the glutamate binding site blocks desensitization of AMPA receptors.</article-title> 
+<source>Neuron</source> 
+<volume>21</volume>, 
+<fpage>907</fpage> (<year>1998</year>). 
+<pub-id pub-id-type="doi">10.1016/S0896-6273(00)80605-4</pub-id>
+<pub-id pub-id-type="pmid">9808475</pub-id></citation></ref>
+<ref id="R8"><label>8</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Pilpel</surname><given-names>N.</given-names></name><name><surname>Landeck</surname><given-names>N.</given-names></name><name><surname>Klugmann</surname><given-names>M.</given-names></name><name><surname>Seeburg</surname><given-names>P. H.</given-names></name><name><surname>Schwarz</surname><given-names>M. K.</given-names></name></person-group>, 
+<article-title>Rapid, reproducible transduction of select forebrain regions by targeted recombinant virus injection into the neonatal mouse brain.</article-title> 
+<source>J. Neurosci. Methods</source> 
+<volume>182</volume>, 
+<fpage>55</fpage> (<year>2009</year>). 
+<pub-id pub-id-type="doi">10.1016/j.jneumeth.2009.05.020</pub-id>
+<pub-id pub-id-type="pmid">19505498</pub-id></citation></ref>
+<ref id="R9"><label>9</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>McNaughton</surname><given-names>B. L.</given-names></name></person-group>, 
+<article-title>Evidence for two physiologically distinct perforant pathways to the fascia dentata.</article-title> 
+<source>Brain Res.</source> 
+<volume>199</volume>, 
+<fpage>1</fpage> (<year>1980</year>). 
+<pub-id pub-id-type="doi">10.1016/0006-8993(80)90226-7</pub-id>
+<pub-id pub-id-type="pmid">7407615</pub-id></citation></ref>
+<ref id="R10"><label>10</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Walker</surname><given-names>C. S.</given-names></name><etal /></person-group>., 
+<article-title>A novel Conus snail polypeptide causes excitotoxicity by blocking desensitization of AMPA receptors.</article-title> 
+<source>Curr. Biol.</source> 
+<volume>19</volume>, 
+<fpage>900</fpage> (<year>2009</year>). 
+<pub-id pub-id-type="doi">10.1016/j.cub.2009.05.017</pub-id>
+<pub-id pub-id-type="pmid">19481459</pub-id></citation></ref>
+<ref id="R11"><label>11</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Chen</surname><given-names>L.</given-names></name><name><surname>El-Husseini</surname><given-names>A.</given-names></name><name><surname>Tomita</surname><given-names>S.</given-names></name><name><surname>Bredt</surname><given-names>D. S.</given-names></name><name><surname>Nicoll</surname><given-names>R. A.</given-names></name></person-group>, 
+<article-title>Stargazin differentially controls the trafficking of alpha-amino-3-hydroxyl-5-methyl-4-isoxazolepropionate and kainate receptors.</article-title> 
+<source>Mol. Pharmacol.</source> 
+<volume>64</volume>, 
+<fpage>703</fpage> (<year>2003</year>). 
+<pub-id pub-id-type="doi">10.1124/mol.64.3.703</pub-id>
+<pub-id pub-id-type="pmid">12920207</pub-id></citation></ref>
+<ref id="R12"><label>12</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Priel</surname><given-names>A.</given-names></name><etal /></person-group>., 
+<article-title>Stargazin reduces desensitization and slows deactivation of the AMPA-type glutamate receptors.</article-title> 
+<source>J. Neurosci.</source> 
+<volume>25</volume>, 
+<fpage>2682</fpage> (<year>2005</year>). 
+<pub-id pub-id-type="doi">10.1523/JNEUROSCI.4834-04.2005</pub-id>
+<pub-id pub-id-type="pmid">15758178</pub-id></citation></ref>
+<ref id="R13"><label>13</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Morimoto-Tomita</surname><given-names>M.</given-names></name><etal /></person-group>., 
+<article-title>Autoinactivation of neuronal AMPA receptors via glutamate-regulated TARP interaction.</article-title> 
+<source>Neuron</source> 
+<volume>61</volume>, 
+<fpage>101</fpage> (<year>2009</year>). 
+<pub-id pub-id-type="doi">10.1016/j.neuron.2008.11.009</pub-id>
+<pub-id pub-id-type="pmid">19146816</pub-id></citation></ref>
+<ref id="R14"><label>14</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Horning</surname><given-names>M. S.</given-names></name><name><surname>Mayer</surname><given-names>M. L.</given-names></name></person-group>, 
+<article-title>Regulation of AMPA receptor gating by ligand binding core dimers.</article-title> 
+<source>Neuron</source> 
+<volume>41</volume>, 
+<fpage>379</fpage> (<year>2004</year>). 
+<pub-id pub-id-type="doi">10.1016/S0896-6273(04)00018-2</pub-id>
+<pub-id pub-id-type="pmid">14766177</pub-id></citation></ref>
+<ref id="R15"><label>15</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Partin</surname><given-names>K. M.</given-names></name><name><surname>Fleck</surname><given-names>M. W.</given-names></name><name><surname>Mayer</surname><given-names>M. L.</given-names></name></person-group>, 
+<article-title>AMPA receptor flip/flop mutants affecting deactivation, desensitization, and modulation by cyclothiazide, aniracetam, and thiocyanate.</article-title> 
+<source>J. Neurosci.</source> 
+<volume>16</volume>, 
+<fpage>6634</fpage> (<year>1996</year>).
+<pub-id pub-id-type="pmid">8824304</pub-id></citation></ref>
+<ref id="R16"><label>16</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Robert</surname><given-names>A.</given-names></name><name><surname>Armstrong</surname><given-names>N.</given-names></name><name><surname>Gouaux</surname><given-names>J. E.</given-names></name><name><surname>Howe</surname><given-names>J. R.</given-names></name></person-group>, 
+<article-title>AMPA receptor binding cleft mutations that alter affinity, efficacy, and recovery from desensitization.</article-title> 
+<source>J. Neurosci.</source> 
+<volume>25</volume>, 
+<fpage>3752</fpage> (<year>2005</year>). 
+<pub-id pub-id-type="doi">10.1523/JNEUROSCI.0188-05.2005</pub-id>
+<pub-id pub-id-type="pmid">15829627</pub-id></citation></ref>
+<ref id="R17"><label>17</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Weston</surname><given-names>M. C.</given-names></name><name><surname>Gertler</surname><given-names>C.</given-names></name><name><surname>Mayer</surname><given-names>M. L.</given-names></name><name><surname>Rosenmund</surname><given-names>C.</given-names></name></person-group>, 
+<article-title>Interdomain interactions in AMPA and kainate receptors regulate affinity for glutamate.</article-title> 
+<source>J. Neurosci.</source> 
+<volume>26</volume>, 
+<fpage>7650</fpage> (<year>2006</year>). 
+<pub-id pub-id-type="doi">10.1523/JNEUROSCI.1519-06.2006</pub-id>
+<pub-id pub-id-type="pmid">16855092</pub-id></citation></ref>
+<ref id="R18"><label>18</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Chen</surname><given-names>C.</given-names></name><name><surname>Blitz</surname><given-names>D. M.</given-names></name><name><surname>Regehr</surname><given-names>W. G.</given-names></name></person-group>, 
+<article-title>Contributions of receptor desensitization and saturation to plasticity at the retinogeniculate synapse.</article-title> 
+<source>Neuron</source> 
+<volume>33</volume>, 
+<fpage>779</fpage> (<year>2002</year>). 
+<pub-id pub-id-type="doi">10.1016/S0896-6273(02)00611-6</pub-id>
+<pub-id pub-id-type="pmid">11879654</pub-id></citation></ref>
+<ref id="R19"><label>19</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Trussell</surname><given-names>L. O.</given-names></name><name><surname>Zhang</surname><given-names>S.</given-names></name><name><surname>Raman</surname><given-names>I. M.</given-names></name></person-group>, 
+<article-title>Desensitization of AMPA receptors upon multiquantal neurotransmitter release.</article-title> 
+<source>Neuron</source> 
+<volume>10</volume>, 
+<fpage>1185</fpage> (<year>1993</year>). 
+<pub-id pub-id-type="doi">10.1016/0896-6273(93)90066-Z</pub-id>
+<pub-id pub-id-type="pmid">7686382</pub-id></citation></ref>
+<ref id="R20"><label>20</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Wall</surname><given-names>M. J.</given-names></name></person-group>, 
+<article-title>Short-term synaptic plasticity during development of rat mossy fibre to granule cell synapses.</article-title> 
+<source>Eur. J. Neurosci.</source> 
+<volume>21</volume>, 
+<fpage>2149</fpage> (<year>2005</year>). 
+<pub-id pub-id-type="doi">10.1111/j.1460-9568.2005.04048.x</pub-id>
+<pub-id pub-id-type="pmid">15869511</pub-id></citation></ref>
+<ref id="R21"><label>21</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Colquhoun</surname><given-names>D.</given-names></name><name><surname>Jonas</surname><given-names>P.</given-names></name><name><surname>Sakmann</surname><given-names>B.</given-names></name></person-group>, 
+<article-title>Action of brief pulses of glutamate on AMPA/kainate receptors in patches from different neurones of rat hippocampal slices.</article-title> 
+<source>J. Physiol.</source> 
+<volume>458</volume>, 
+<fpage>261</fpage> (<year>1992</year>).
+<pub-id pub-id-type="pmid">1338788</pub-id></citation></ref></ref-list>
+<ack><label>22</label>
+<p>We thank M. K. Schwarz for recombinant adeno-associated virus delivery into the brains of mouse pups, A. Zivkovich for electrophysiological experiments during the initial stages of this project, L. Layer and S. Giese for help with molecular cloning, R. van der Schors for his contribution to the mass spectrometry, and R. Hinz-Herkommer, I. Preugschat-Gumprecht, and R. Zilberstein for technical assistance. Supported by the Schilling Foundation (H.M.); EU-Synapse LSHM-CT-2005-019055 (H.M., P.H.S., Y.S.B.); SFB636 (R.S.P.) and Nationales Genomforschungsnetz (NGFN) (R.S.P.); the Center for Medical Systems Biology (K.W.L. and A.B.S.); and the Max Planck Society (R.S.P. and P.H.S.). The experimentally verified cDNA CKAMP44 sequences are annotated at the National Center for Biotechnology Information under the accession numbers GU479981 (CKAMP44a) and GU479982 (CKAMP44b).</p>
+</ack></back>
+</article>

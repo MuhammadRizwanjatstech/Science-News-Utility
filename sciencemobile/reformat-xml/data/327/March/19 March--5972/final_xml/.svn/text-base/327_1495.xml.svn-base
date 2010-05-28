@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="research-article" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title><issn pub-type="ppub">0036-8075</issn><issn pub-type="epub">1095-9203</issn>
+<publisher>
+<publisher-name>American Association for the Advancement of Science</publisher-name></publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">1183167</article-id>
+<article-id pub-id-type="doi">10.1126/science.1183167</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>Report</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Reports</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>reports</subject></subj-group>
+<subj-group subj-group-type="field"><subject>APP PHYSICS</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Microcavity Laser Oscillating in a Circuit-Based Resonator</article-title></title-group>
+<contrib-group><contrib contrib-type="author" corresp="yes"><name><surname>Walther</surname><given-names>Christoph</given-names></name><xref ref-type="corresp" rid="cor1">*</xref></contrib><contrib contrib-type="author"><name><surname>Scalari</surname><given-names>Giacomo</given-names></name></contrib><contrib contrib-type="author"><name><surname>Amanti</surname><given-names>Maria Ines</given-names></name></contrib><contrib contrib-type="author"><name><surname>Beck</surname><given-names>Mattias</given-names></name></contrib><contrib contrib-type="author" corresp="yes"><name><surname>Faist</surname><given-names>J&#x00E9;r&#x00F4;me</given-names></name><xref ref-type="corresp" rid="cor1">*</xref></contrib>
+<aff id="aff1">Institute for Quantum Electronics, ETH Zurich, Wolfgang-Pauli-Strasse 16, 8093 Zurich, Switzerland.</aff></contrib-group>
+<author-notes>
+<corresp id="cor1"><label>*</label>To whom correspondence should be addressed. E-mail: 
+<email xlink:href="walther@phys.ethz.ch">walther@phys.ethz.ch</email> (C.W.); <email xlink:href="jerome.faist@phys.ethz.ch">jerome.faist@phys.ethz.ch</email> (J.F.)</corresp></author-notes>
+<pub-date pub-type="ppub"><day>19</day><month>03</month><year>2010</year></pub-date>
+<volume>327</volume>
+<issue>5972</issue>
+<fpage>1495</fpage>
+<lpage>1497</lpage>
+<history><date date-type="received"><day>12</day><month>10</month><year>2009</year></date><date date-type="accepted"><day>11</day><month>01</month><year>2010</year></date></history>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2010, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2010</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder></permissions>
+<abstract abstract-type="editor"><title>Small Is Beautiful</title><p>Shrinking the size of lasers is attractive because it generally leads to a reduction in power requirements, an increase in switching speed, and possibly a cleaner output. <bold>Walther <italic>et al.</italic></bold> (p. <related-article related-article-type="in-this-issue" vol="327" page="1495">1495</related-article>) combined patterned electronic components (inductor and capacitor) and an active gain material to develop a submillimeter laser that emits in the microwave regime at low temperature. The use of established patterning techniques and tunable superlattice structures offer the prospect of shrinking the size still further, as well as providing a route to designer laser output for high-speed information transport and optical processing.</p></abstract>
+<abstract abstract-type="teaser"><p>An ultrasmall laser is fabricated from conventional electronic components combined with an amplifying medium.</p></abstract>
+<abstract>
+<p>Lasers based on microcavities are extremely attractive for their compactness, low power dissipation, and potential for ultrafast modulation speed. We describe an ultrasmall laser based on a subwavelength electronic inductor-capacitor (LC) resonant circuit that allows for extreme confinement of the electric field. This electrically injected laser operates at a frequency of 1.5 terahertz, and the mode volume is strongly subwavelength. The design concept of the LC resonator can be extended from the terahertz range to higher frequencies and also applied to detectors and modulators.</p>
+</abstract>
+<custom-meta-wrap><custom-meta><meta-name>Editor</meta-name><meta-value>Ian Osborne</meta-value></custom-meta><custom-meta><meta-name>Copyeditor</meta-name><meta-value>Lauren Kmec</meta-value></custom-meta></custom-meta-wrap>
+</article-meta>
+</front>
+<body>
+<p>In microcavities, the large electric field generated by vacuum fluctuations enables the observation of quantum optics effects such as the Purcell effect (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>), which is, in that case, the enhancement of the spontaneous emission by the presence of a strongly confined optical mode (<xref ref-type="bibr" rid="R2"><italic>2</italic></xref>, <xref ref-type="bibr" rid="R3"><italic>3</italic></xref>) or the strong light-matter coupling (<xref ref-type="bibr" rid="R4"><italic>4</italic></xref>). A measure of the confinement is the effective mode volume <italic>V</italic><sub>eff</sub> taken by the energy density of the oscillating electric field. Lasers based on small cavities confined by dielectrics (<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>), such as vertical-cavity surface-emitting lasers (<xref ref-type="bibr" rid="R6"><italic>6</italic></xref>), are limited to <italic>V</italic><sub>eff</sub> values larger than ~2(&#x03BB;/2<italic>n</italic><sub>eff</sub>)<sup>3</sup>, where &#x03BB; is the wavelength, and <italic>n</italic><sub>eff</sub> is the effective refractive index (<xref ref-type="bibr" rid="R7"><italic>7</italic></xref>&#x2013;<xref ref-type="bibr" rid="R11"><italic>11</italic></xref>). Further reduction of the mode volume beyond these values can only be achieved with the use of metallic cavities. Progress has been made in the use of plasmonic cavities in a waveguide configuration (<xref ref-type="bibr" rid="R12"><italic>12</italic></xref>), with plasmon resonances of nanowires (<xref ref-type="bibr" rid="R13"><italic>13</italic></xref>), or with resonances of nanoparticles (<xref ref-type="bibr" rid="R14"><italic>14</italic></xref>, <xref ref-type="bibr" rid="R15"><italic>15</italic></xref>).</p>
+<p>We demonstrate that in the infrared range, the large negative value of the dielectric constant of metals enables the fabrication of lasers using cavities that borrow their concepts from conventional electronics and microwave technology (<xref ref-type="bibr" rid="R16"><italic>16</italic></xref>). These cavities can be seen (<xref ref-type="fig" rid="F1">Fig. 1A</xref>) as consisting of electronic lumped circuit elements: in our case, an inductor-capacitor (LC) resonant circuit (<xref ref-type="bibr" rid="R17"><italic>17</italic></xref>, <xref ref-type="bibr" rid="R18"><italic>18</italic></xref>). Recently, metamaterials based on planar subwavelength lumped circuit resonators were used to design artificial magnetic and electric response in the terahertz range (<xref ref-type="bibr" rid="R19"><italic>19</italic></xref>), and even up to the near-infrared range (<xref ref-type="bibr" rid="R20"><italic>20</italic></xref>). The gain medium [in our implementation, a terahertz quantum cascade (<xref ref-type="bibr" rid="R21"><italic>21</italic></xref>, <xref ref-type="bibr" rid="R22"><italic>22</italic></xref>) active region] is inserted between the plates of the capacitor. Amplification of the electric field in the capacitor by the optical gain medium allows the resonator losses to be overcome, thus leading to self-sustained laser oscillations. This approach is especially well suited for an electrically pumped active region biased by a voltage applied between the metallic capacitor plates. The LC laser enables an effective mode volume much smaller than the cube of the half-wavelength in the material <italic>V</italic><sub>eff</sub> = 0.12(&#x03BB;/2<italic>n</italic><sub>eff</sub>)<sup>3</sup> and also smaller than has previously been reported for other electrically pumped cavities (<xref ref-type="bibr" rid="R9"><italic>9</italic></xref>, <xref ref-type="bibr" rid="R12"><italic>12</italic></xref>, <xref ref-type="bibr" rid="R23"><italic>23</italic></xref>). Moreover, a further reduction in size is possible by a mere rescaling of the elements. The quality factor <italic>Q</italic>  of the cavities investigated here is limited by ohmic losses. However, it is noteworthy that the radiative losses of resonant LC cavities will decrease as the volume of the cavity decreases (<xref ref-type="bibr" rid="R24"><italic>24</italic></xref>), offering the possibility of a combination of ultrasmall size and very high <italic>Q</italic> for cavities based on superconductors (<xref ref-type="bibr" rid="R25"><italic>25</italic></xref>).</p>
+<fig id="F1" position="float" fig-type="figure"><label>Fig. 1</label><caption><p>(<bold>A</bold>) Schematic of the LC laser. <inline-formula><mml:math id="m1"><mml:semantics><mml:mstyle mathvariant="bold" mathsize="normal"><mml:mover accent="true"><mml:mi>J</mml:mi><mml:mo>&#x2192;</mml:mo></mml:mover></mml:mstyle></mml:semantics></mml:math></inline-formula> is the alternating current in the resonator, <inline-formula><mml:math id="m2"><mml:semantics><mml:mstyle mathvariant="bold" mathsize="normal"><mml:mover accent="true"><mml:mi>B</mml:mi><mml:mo>&#x2192;</mml:mo></mml:mover></mml:mstyle></mml:semantics></mml:math></inline-formula> is the induced magnetic field, and <inline-formula><mml:math id="m3"><mml:semantics><mml:mstyle mathvariant="bold" mathsize="normal"><mml:mover accent="true"><mml:mi>E</mml:mi><mml:mo>&#x2192;</mml:mo></mml:mover></mml:mstyle></mml:semantics></mml:math></inline-formula> is the electric field. The active gain medium is biased by the voltage source V<sub>DC</sub>. (<bold>B</bold>) Scanning electron micrograph picture of the LC laser device. (<bold>C</bold>) Schematic cross section through the device along the symmetry axis. The red layer is undoped Al<sub>0.5</sub>Ga<sub>0.5</sub>As and prevents current injection into the active region below the bonding pad. (<bold>D</bold> and <bold>E</bold>) Finite-element simulations of the electromagnetic field in the resonator showing the dominating electric field component <italic>E</italic><sub>z</sub> and the norm of the magnetic field <inline-formula><mml:math id="m4"><mml:semantics><mml:mrow><mml:mrow><mml:mo>|</mml:mo> <mml:mstyle mathvariant="bold" mathsize="normal"><mml:mover accent="true"><mml:mi>B</mml:mi><mml:mo>&#x2192;</mml:mo></mml:mover></mml:mstyle> <mml:mo>|</mml:mo></mml:mrow></mml:mrow></mml:semantics></mml:math></inline-formula>. (<bold>F</bold>) Measured reflectivity at 10 K of an array of 400 identical LC resonators, shown in the inset and designed for a frequency of 1.45 THz, without gain medium and without electrical connection.</p>
+</caption>
+<graphic xlink:href="327_1495_F1"></graphic></fig>
+<p>A scanning electron micrograph image of our device (<xref ref-type="fig" rid="F1">Fig. 1B</xref>) shows that the resonator consists of two half-circular&#x2013;shaped capacitors connected by a short line acting as an inductor. The geometry that we chose is a compromise between size, losses, and ease of fabrication. To allow electrical pumping of the active medium, we selected a symmetric LC resonator that naturally defines a virtual ground for the resonance frequency in the middle of the inductor that is used for the connection to the bonding pad. A 8-&#x03BC;m-thick active region of a quantum cascade laser having the gain peaked at 1.5 THz (<xref ref-type="bibr" rid="R26"><italic>26</italic></xref>) is inserted between the capacitor plates (<xref ref-type="fig" rid="F1">Fig. 1C</xref>). The fabrication of the LC laser is similar to the fabrication technique used for terahertz double-metal waveguides (<xref ref-type="bibr" rid="R27"><italic>27</italic></xref>). The active material below the bonding pad is electrically isolated from the metal to avoid pumping of the latter. Electromagnetic mode simulations are performed with the use of a commercial software package  (<xref ref-type="bibr" rid="R28"><italic>28</italic></xref>). The electric field is found to be mainly polarized in the <italic>z</italic> direction, perpendicular to the capacitors plates, as required by the selection rules of the active gain material. A plot of the electric field component <italic>E</italic><sub>z</sub> in the resonant mode on a section through the LC resonator at half-gain medium height (<xref ref-type="fig" rid="F1">Fig. 1D</xref>) shows that the electric field is antisymmetric with respect to the axis of symmetry of the structure and is mostly concentrated and uniform under the capacitor plates. The magnetic field (<xref ref-type="fig" rid="F1">Fig. 1E</xref>), on the other hand, is mainly concentrated around the inductor. The laser resonator shown in <xref ref-type="fig" rid="F1">Fig. 1B</xref> is designed for 1.45 THz (&#x03BB; = 207 &#x03BC;m). We used room-temperature values for the complex refractive index of gold (<xref ref-type="bibr" rid="R29"><italic>29</italic></xref>) to compute a value of the confinement factor of the electric field energy in the active region &#x0393; = 0.85 and a cold resonator <italic>Q</italic><sub>ohm</sub> = 53, mainly caused by ohmic losses in the gold layer. The simulated radiative losses lead to a relatively large radiative <italic>Q</italic><sub>rad</sub> = 189, which is in good agreement with the upper limit of 220 given by Wheeler&#x2019;s formula (<xref ref-type="bibr" rid="R24"><italic>24</italic></xref>). The resonator is expected to exhibit a final <italic>Q</italic> = 41, limited by the ohmic losses [supporting online material (SOM) text section S1]. A Purcell factor of 17 is computed, quantifying the enhancement of the spontaneous emission, and mainly limited by the nonradiative transition broadening of the spontaneous emission linewidth. For the validation of the LC resonator concept, we measured the frequency-dependent reflectivity of an array of identical LC resonators without gain medium or electrical connection. The observed absorption resonance of the reflectivity at 1.45 THz with <italic>Q</italic> =  20 at 10 K (<xref ref-type="fig" rid="F1">Fig. 1F</xref>) is in good agreement with the mode simulation and fits well with a simple calculation based on microwave formulas. An inhomogeneous broadening due to lithographic issues and coupling between resonators explain the lower measured <italic>Q</italic> of the LC array, compared with the single-resonator <italic>Q</italic> (SOM text S2).</p>
+<p>The light and voltage versus current characteristics of a LC laser operated at 10 K show a strong increase in the optical power observed at a current of ~1.20 mA, as the voltage reaches the value corresponding to the alignment of the structure, with a maximum detected peak power of ~80 pW reached at 1.55 mA (<xref ref-type="fig" rid="F2">Fig. 2A</xref>). To characterize the nature of the emission, we performed a measurement of the device spectrum as a function of increasing current. The spectra in <xref ref-type="fig" rid="F2">Fig. 2B</xref> show a single emission line peaking at a frequency of 1.477 THz, close to the value expected by simulation of 1.45 THz. At currents between 1.01 and 1.10 mA, corresponding to the lowest detectable optical signal, the linewidth corresponds to <italic>Q</italic> = 11 to 21, which is lower than the value computed for the cold cavity. This discrepancy is attributed to two different factors: First, during the alignment regime of the quantum structure near 1 mA, the active-region losses may be higher than at the threshold (<xref ref-type="bibr" rid="R30"><italic>30</italic></xref>). Second, as the transition occurs between two states with a clear spatial separation, the gain curve exhibits a strong Stark shift with the applied bias. At low biases, the gain peaks at 1.3 THz and is therefore clearly detuned from the cavity resonance, which acts as a filter to further broaden the emission spectrum. The observation of electroluminescence at such low current and frequency points toward a large value of the Purcell factor. As the current is increased, the linewidth decreases steeply and falls below the resolution limit of our Fourier transform infrared (FTIR) spectrometer, corresponding to a linewidth of ~3 GHz at a current of 1.4 mA and a detected power of ~7 pW. As the current is increased beyond this value, any further narrowing of the transition is hidden behind the limitation of our measurement system. The plot of the linewidth versus injected current combined with the super-exponential increase of the optical power in <xref ref-type="fig" rid="F2">Fig. 2A</xref> strongly suggests that the device is reaching the laser threshold regime near to 1.5 mA. However, the gain in our structure is not sufficient to operate the device clearly in the regime above the lasing threshold.</p>
+<fig id="F2" position="float" fig-type="figure"><label>Fig. 2</label><caption><p>(<bold>A</bold>) Electrical (red curve) and optical (blue curve) characterization at 10 K of the LC laser. The output power is measured with an He-cooled bolometer. Black dots represent the full width at half maximum of the emitted radiation. The emission spectra of the device is measured with an FTIR spectrometer, and the linewidth is obtained by a Lorentzian fit of the spectra. The green area indicates the resolution limit of 3 GHz of our FTIR spectrometer. (<bold>B</bold>) Normalized measured spectra at various injection currents corresponding to points in (A). (<bold>C</bold>) Electrical (red) and optical (blue) measurements at 4.2 K for an applied perpendicular magnetic field of 2.3 T. The differential resistance (black curve) shows a large discontinuity at the onset of the lasing threshold at 1.1 mA.</p>
+</caption>
+<graphic xlink:href="327_1495_F2"></graphic></fig>
+<p>To access the operation in this regime, we have enhanced the gain of the active medium by immersing the device in a strong magnetic field perpendicular to the quantum wells plane. The magnetic field breaks the in-plane parabolic energy dispersion of the electronic sub-bands and leads to the formation of discrete Landau levels, allowing the creation of quasi&#x2013;zero-dimensional states. The spacing of the Landau levels is equal to the cyclotron energy <italic>E</italic><sub>c</sub> = <italic>&#x0127;eB</italic>/<italic>m</italic>*, where <italic>&#x0127;</italic> is Planck&#x2019;s constant divided by 2&#x03C0;, <italic>B</italic> is the magnetic field, <italic>e</italic> is the electron charge, and <italic>m</italic>* is the effective mass of the electron. By varying the relative ratio between the cyclotron energy and sub-band energy spacing, the electron dynamics and the subsequent lasing properties of a terahertz quantum cascade laser are strongly affected (<xref ref-type="bibr" rid="R31"><italic>31</italic></xref>). The optical characteristics of the LC laser in a magnetic field of 2.3 T (<xref ref-type="fig" rid="F2">Fig. 2C</xref>) show that, above the threshold, the power increases linearly with the current up to 16 nW until the electrical roll-over is reached. The onset of lasing is accompanied by an abrupt decrease of the differential resistance and is a clear demonstration of the lasing threshold (<xref ref-type="bibr" rid="R32"><italic>32</italic></xref>). By measuring the threshold current of a control laser with a conventional metal-metal waveguide, we estimate an enhancement of the gain due to the magnetic field by 5 to 10% at 2.3 T.</p>
+<p>A number of resonant cavities have been fabricated, continuously modifying the value of the inductor. As expected, the emission spectra (<xref ref-type="fig" rid="F3">Fig. 3</xref>) shift correspondingly between 1.43 and 1.57 THz. The spectra of the devices operating in the edge of the gain curve are barely reaching the threshold regime because they are strongly detuned from the maximum of the gain curve.</p>
+<fig id="F3" position="float" fig-type="figure"><label>Fig. 3</label><caption><p>Lithographic tuning of the laser frequency by changing the inductor length of the resonator.</p>
+</caption>
+<graphic xlink:href="327_1495_F3"></graphic></fig>
+<p>Our ultrasmall, electrically injected laser based on a resonator combines elements from microwave electronics with a gain medium. The strong confinement achievable with resonant LC cavities is of great interest for both applications and quantum optics studies. Our results can be seen as implementing gain in one cell of a LC-based metamaterial (<xref ref-type="bibr" rid="R33"><italic>33</italic></xref>). Because of its monomode output, low dissipation, and tunability, such a source could be integrated with hot-electron bolometers to create arrays of highly sensitive heterodyne receptors for demanding applications such as radio-astronomy (<xref ref-type="bibr" rid="R34"><italic>34</italic></xref>). The strong coupling that is achieved in such resonators could also lead to interesting applications, not only for optical sources, but also for detectors and modulators, as the latter devices do not require very high <italic>Q</italic> factors and would benefit greatly from the reduction of the mode volume brought by this resonator. <italic>V</italic><sub>eff</sub> can be reduced almost at will, as long as the reduction in the capacitance can be compensated by an increase of the inductance to keep the product constant. An attractive feature of the LC resonator is the spatial separation of the electric and magnetic fields, simultaneously allowing extremely high confinement of the electric field and an efficient out-coupling to the environment by the magnetic field. An LC resonator with a bent inductor could act as a magnetic loop antenna, which is efficiently coupled to both the vacuum and the matter, such as a quantum dot (SOM text S3). The design concept of the LC resonator can be extended from the terahertz range to near-infrared frequencies (SOM text S4).</p>
+</body>
+<back>
+<app-group>
+<app>
+<title>Supporting Online Material</title>
+<supplementary-material>
+<p><ext-link ext-link-type="uri" xlink:href="http://www.sciencemag.org/cgi/content/full/327/5972/1495/DC1">www.sciencemag.org/cgi/content/full/327/5972/1495/DC1</ext-link></p>
+<p>Materials and Methods</p>
+<p>SOM Text</p>
+<p>Figs. S1 to S4</p>
+<p>References</p>
+</supplementary-material></app></app-group>
+<ref-list>
+<title>References and Notes</title>
+<ref id="R1"><label>1</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Purcell</surname><given-names>E. M.</given-names></name></person-group>, <article-title>Spontaneous emission probabilities at radio frequencies</article-title>. 
+<source>Phys. Rev.</source> 
+<volume>69</volume>, 
+<fpage>681</fpage> (<year>1946</year>).</citation></ref>
+<ref id="R2"><label>2</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>G&#x00E9;rard</surname><given-names>J.</given-names></name><etal /></person-group>., 
+<article-title>Enhanced spontaneous emission by quantum boxes in a monolithic optical microcavity</article-title>. 
+<source>Phys. Rev. Lett.</source> 
+<volume>81</volume>, 
+<fpage>1110</fpage> (<year>1998</year>). 
+<pub-id pub-id-type="doi">10.1103/PhysRevLett.81.1110</pub-id></citation></ref>
+<ref id="R3"><label>3</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Ogawa</surname><given-names>S.</given-names></name><name><surname>Imada</surname><given-names>M.</given-names></name><name><surname>Yoshimoto</surname><given-names>S.</given-names></name><name><surname>Okano</surname><given-names>M.</given-names></name><name><surname>Noda</surname><given-names>S.</given-names></name></person-group>, 
+<article-title>Control of light emission by 3D photonic crystals</article-title>. 
+<source>Science</source> 
+<volume>305</volume>, 
+<fpage>227</fpage> (<year>2004</year>); published online 3 June 2004 (). 
+<pub-id pub-id-type="doi">10.1126/science.1097968</pub-id>
+<pub-id pub-id-type="pmid">15178750</pub-id></citation></ref>
+<ref id="R4"><label>4</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Weisbuch</surname><given-names>C.</given-names></name><name><surname>Nishioka</surname><given-names>M.</given-names></name><name><surname>Ishikawa</surname><given-names>A.</given-names></name><name><surname>Arakawa</surname><given-names>Y.</given-names></name></person-group>, 
+<article-title>Observation of the coupled exciton-photon mode splitting in a semiconductor quantum microcavity</article-title>. 
+<source>
+Phys. Rev. Lett.</source> 
+<volume>69</volume>, 
+<fpage>3314</fpage> (<year>1992</year>). 
+<pub-id pub-id-type="doi">10.1103/PhysRevLett.69.3314</pub-id>
+<pub-id pub-id-type="pmid">10046787</pub-id></citation></ref>
+<ref id="R5"><label>5</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Vahala</surname><given-names>K. J.</given-names></name></person-group>, 
+<article-title>Optical microcavities</article-title>. 
+<source>Nature</source> 
+<volume>424</volume>, 
+<fpage>839</fpage> (<year>2003</year>). 
+<pub-id pub-id-type="doi">10.1038/nature01939</pub-id>
+<pub-id pub-id-type="pmid">12917698</pub-id></citation></ref>
+<ref id="R6"><label>6</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Koyama</surname><given-names>F.</given-names></name></person-group>, 
+<article-title>Recent advances of VCSEL photonics</article-title>. 
+<source>Lightwave Technol.</source> 
+<volume>24</volume>, 
+<fpage>4502</fpage> (<year>2006</year>). 
+<pub-id pub-id-type="doi">10.1109/JLT.2006.886064</pub-id></citation></ref>
+<ref id="R7"><label>7</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Coccioli</surname><given-names>R.</given-names></name><name><surname>Boroditsky</surname><given-names>M.</given-names></name><name><surname>Kim</surname><given-names>K. W.</given-names></name><name><surname>Rahmat-Samii</surname><given-names>Y.</given-names></name><name><surname>Yablonovitch</surname><given-names>
+E.</given-names></name></person-group>, 
+<article-title>Smallest possible electromagnetic mode volume in a dielectric cavity</article-title>. 
+<source>IEE Proc. Optoelectron.</source> 
+<volume>145</volume>, 
+<fpage>391</fpage> (<year>1998</year>). 
+<pub-id pub-id-type="doi">10.1049/ip-opt:19982468</pub-id></citation></ref>
+<ref id="R8"><label>8</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Painter</surname><given-names>O.</given-names></name><etal /></person-group>., 
+<article-title>Two-dimensional photonic band-gap defect mode laser</article-title>. 
+<source>Science</source> 
+<volume>284</volume>, 
+<fpage>1819</fpage> (<year>1999</year>). 
+<pub-id pub-id-type="doi">10.1126/science.284.5421.1819</pub-id>
+<pub-id pub-id-type="pmid">10364550</pub-id></citation></ref>
+<ref id="R9"><label>9</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Park</surname><given-names>H.-G.</given-names></name><etal /></person-group>., 
+<article-title>Electrically driven single-cell photonic crystal laser</article-title>. 
+<source>Science</source> 
+<volume>305</volume>, 
+<fpage>1444</fpage> (<year>2004</year>). 
+<pub-id pub-id-type="doi">10.1126/science.1100968</pub-id>
+<pub-id pub-id-type="pmid">15353796</pub-id></citation></ref>
+<ref id="R10"><label>10</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Scheuer</surname><given-names>J.</given-names></name><name><surname>Green</surname><given-names>W.</given-names></name><name><surname>DeRose</surname><given-names>G.</given-names></name><name><surname>Yariv</surname><given-names>A.</given-names></name></person-group>, 
+<article-title>Lasing from a circular Bragg nanocavity with an ultrasmall modal volume</article-title>. 
+<source>Appl. Phys. Lett.</source> 
+<volume>86</volume>, 
+<fpage>251101</fpage> (<year>2005</year>). 
+<pub-id pub-id-type="doi">10.1063/1.1947375</pub-id></citation></ref>
+<ref id="R11"><label>11</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Nozaki</surname><given-names>K.</given-names></name><name><surname>Baba</surname><given-names>T.</given-names></name></person-group>, 
+<article-title>Laser characteristics with ultimate-small modal volume in photonic crystal slab point-shift nanolasers</article-title>. 
+<source>Appl. Phys. Lett.</source> 
+<volume>88</volume>, 
+<fpage>211101</fpage> (<year>2006</year>). 
+<pub-id pub-id-type="doi">10.1063/1.2206087</pub-id></citation></ref>
+<ref id="R12"><label>12</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Hill</surname><given-names>M.</given-names></name><etal /></person-group>., 
+<article-title>Lasing in metallic-coated nanocavities</article-title>. 
+<source>Nat. Photonics</source> 
+<volume>1</volume>, 
+<fpage>589</fpage> (<year>2007</year>). 
+<pub-id pub-id-type="doi">10.1038/nphoton.2007.171</pub-id></citation></ref>
+<ref id="R13"><label>13</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Oulton</surname><given-names>R. F.</given-names></name><etal /></person-group>., 
+<article-title>Plasmon lasers at deep subwavelength scale</article-title>. 
+<source>Nature</source> 
+<volume>461</volume>, 
+<fpage>629</fpage> (<year>2009</year>). 
+<pub-id pub-id-type="doi">10.1038/nature08364</pub-id>
+<pub-id pub-id-type="pmid">19718019</pub-id></citation></ref>
+<ref id="R14"><label>14</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>K&#x00FC;hn</surname><given-names>S.</given-names></name><name><surname>H&#x00E5;kanson</surname><given-names>U.</given-names></name><name><surname>Rogobete</surname><given-names>L.</given-names></name><name><surname>Sandoghdar</surname><given-names>V.</given-names></name></person-group>, 
+<article-title>Enhancement of single-molecule fluorescence using a gold nanoparticle as an optical nanoantenna</article-title>. 
+<source>Phys. Rev. Lett.</source> 
+<volume>97</volume>, 
+<fpage>017402</fpage> (<year>2006</year>). 
+<pub-id pub-id-type="doi">10.1103/PhysRevLett.97.017402</pub-id>
+<pub-id pub-id-type="pmid">16907406</pub-id></citation></ref>
+<ref id="R15"><label>15</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Noginov</surname><given-names>M. A.</given-names></name><etal /></person-group>., 
+<article-title>Demonstration of a spaser-based nanolaser</article-title>. 
+<source>Nature</source> 
+<volume>460</volume>, 
+<fpage>1110</fpage> (<year>2009</year>). 
+<pub-id pub-id-type="doi">10.1038/nature08318</pub-id>
+<pub-id pub-id-type="pmid">19684572</pub-id></citation></ref>
+<ref id="R16"><label>16</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Slater</surname><given-names>J.</given-names></name></person-group>, 
+<article-title>Microwave electronics</article-title>. 
+<source>Rev. Mod. Phys.</source> 
+<volume>18</volume>, 
+<fpage>441</fpage> (<year>1946</year>). 
+<pub-id pub-id-type="doi">10.1103/RevModPhys.18.441</pub-id></citation></ref>
+<ref id="R17">
+<note><label>17</label><p>The lumped element circuit approach was proposed at optical frequencies (<italic>18</italic>).</p>
+</note></ref>
+<ref id="R18"><label>18</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Engheta</surname><given-names>N.</given-names></name></person-group>, 
+<article-title>Circuits with light at nanoscales: Optical nanocircuits inspired bymetamaterials</article-title>. 
+<source>Science</source> 
+<volume>317</volume>, 
+<fpage>1698</fpage> (<year>2007</year>).</citation></ref>
+<ref id="R19"><label>19</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Yen</surname><given-names>T. J.</given-names></name><etal /></person-group>., 
+<article-title>Terahertz magnetic response from artificial materials</article-title>. 
+<source>Science</source> 
+<volume>303</volume>, 
+<fpage>1494</fpage> (<year>2004</year>). 
+<pub-id pub-id-type="doi">10.1126/science.1094025</pub-id>
+<pub-id pub-id-type="pmid">15001772</pub-id></citation></ref>
+<ref id="R20"><label>20</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Linden</surname><given-names>S.</given-names></name><etal /></person-group>., 
+<article-title>Magnetic response of metamaterials at 100 terahertz</article-title>. 
+<source>Science</source> 
+<volume>306</volume>, 
+<fpage>1351</fpage> (<year>2004</year>). 
+<pub-id pub-id-type="doi">10.1126/science.1105371</pub-id>
+<pub-id pub-id-type="pmid">15550664</pub-id></citation></ref>
+<ref id="R21"><label>21</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Faist</surname><given-names>J.</given-names></name><etal /></person-group>., 
+<article-title>Quantum cascade laser</article-title>. 
+<source>Science</source> 
+<volume>264</volume>, 
+<fpage>553</fpage> (<year>1994</year>). 
+<pub-id pub-id-type="doi">10.1126/science.264.5158.553</pub-id>
+<pub-id pub-id-type="pmid">17732739</pub-id></citation></ref>
+<ref id="R22"><label>22</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>K&#x00F6;hler</surname><given-names>R.</given-names></name><etal /></person-group>., 
+<article-title>Terahertz semiconductor-heterostructure laser</article-title>. 
+<source>Nature</source> 
+<volume>417</volume>, 
+<fpage>156</fpage> (<year>2002</year>). 
+<pub-id pub-id-type="doi">10.1038/417156a</pub-id>
+<pub-id pub-id-type="pmid">12000955</pub-id></citation></ref>
+<ref id="R23"><label>23</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Chassagneux</surname><given-names>Y.</given-names></name><etal /></person-group>., 
+<article-title>Terahertz microcavity lasers with subwavelength mode volumes and thresholds in the milliampere range</article-title>. 
+<source>Appl. Phys. Lett.</source> 
+<volume>90</volume>, 
+<fpage>091113</fpage> (<year>2007</year>). 
+<pub-id pub-id-type="doi">10.1063/1.2710754</pub-id></citation></ref>
+<ref id="R24"><label>24</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Wheeler</surname><given-names>H.</given-names></name></person-group>, 
+<article-title>Fundamental limitations of small antennas</article-title>. 
+<source>IRE Trans. Antennas Propag.</source> 
+<volume>35</volume>, 
+<fpage>1479</fpage> (<year>1947</year>).</citation></ref>
+<ref id="R25"><label>25</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Wallraff</surname><given-names>A.</given-names></name><etal /></person-group>., 
+<article-title>Strong coupling of a single photon to a superconducting qubit using circuit quantum electrodynamics</article-title>. 
+<source>Nature</source> 
+<volume>431</volume>, 
+<fpage>162</fpage> (<year>2004</year>). 
+<pub-id pub-id-type="doi">10.1038/nature02851</pub-id>
+<pub-id pub-id-type="pmid">15356625</pub-id></citation></ref>
+<ref id="R26"><label>26</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Walther</surname><given-names>C.</given-names></name><etal /></person-group>., 
+<article-title>Quantum cascade lasers operating from 1.2 to 1.6 THz</article-title>. 
+<source>Appl. Phys. Lett.</source> 
+<volume>91</volume>, 
+<fpage>131122</fpage> (<year>2007</year>). 
+<pub-id pub-id-type="doi">10.1063/1.2793177</pub-id></citation></ref>
+<ref id="R27"><label>27</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Williams</surname><given-names>B.</given-names></name><name><surname>Kumar</surname><given-names>S.</given-names></name><name><surname>Hu</surname><given-names>Q.</given-names></name><name><surname>Reno</surname><given-names>J.</given-names></name></person-group>, 
+<article-title>Operation of terahertz quantum-cascade lasers at 164 K in pulsed mode and at 117 K in continuous-wave mode</article-title>. 
+<source>Opt. Express</source> 
+<volume>13</volume>, 
+<fpage>3331</fpage> (<year>2005</year>). 
+<pub-id pub-id-type="doi">10.1364/OPEX.13.003331</pub-id>
+<pub-id pub-id-type="pmid">19495235</pub-id></citation></ref>
+<ref id="R28">
+<note><label>28</label><p>Multiphysics Modeling and Simulation Software (COMSOL) was used for our simulations (<ext-link ext-link-type="uri" xlink:href="http://www.comsol.com">www.comsol.com</ext-link>).</p>
+</note></ref>
+<ref id="R29"><label>29</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Ordal</surname><given-names>M.</given-names></name><name><surname>Bell</surname><given-names>R.</given-names></name><name><surname>Alexander</surname><given-names>R.</given-names><suffix>Jr.</suffix></name><name><surname>Long</surname><given-names>L.</given-names></name><name><surname>Querry</surname><given-names>M.</given-names></name></person-group>, 
+<article-title>Optical properties of Au, Ni, and Pb at submillimeter wavelengths</article-title>. 
+<source>Appl. Opt.</source> 
+<volume>26</volume>, 
+<fpage>744</fpage> (<year>1987</year>). 
+<pub-id pub-id-type="doi">10.1364/AO.26.000744</pub-id></citation></ref>
+<ref id="R30"><label>30</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Scalari</surname><given-names>G.</given-names></name><etal /></person-group>., 
+<article-title>THz and sub-THz quantum cascade lasers</article-title>. 
+<source>Laser and Photonics Rev.</source> 
+<volume>3</volume>, 
+<fpage>45</fpage> (<year>2009</year>). 
+<pub-id pub-id-type="doi">10.1002/lpor.200810030</pub-id></citation></ref>
+<ref id="R31"><label>31</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Scalari</surname><given-names>G.</given-names></name><etal /></person-group>., 
+<article-title>Terahertz emission from quantum cascade lasers in the quantum Hall regime: Evidence for many body resonances and localization effects</article-title>. 
+<source>Phys. Rev. Lett.</source> 
+<volume>93</volume>, 
+<fpage>237403</fpage> (<year>2004</year>). 
+<pub-id pub-id-type="doi">10.1103/PhysRevLett.93.237403</pub-id>
+<pub-id pub-id-type="pmid">15601202</pub-id></citation></ref>
+<ref id="R32"><label>32</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Sirtori</surname><given-names>C.</given-names></name><etal /></person-group>., 
+<article-title>Resonant tunneling in quantum cascade lasers</article-title>. 
+<source>IEEE J. Quantum Electron.</source> 
+<volume>34</volume>, 
+<fpage>1722</fpage> (<year>1998</year>). 
+<pub-id pub-id-type="doi">10.1109/3.709589</pub-id></citation></ref>
+<ref id="R33"><label>33</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Wegener</surname><given-names>M.</given-names></name><etal /></person-group>., 
+<article-title>Toy model for plasmonic metamaterial resonances coupled to two-level system gain</article-title>. 
+<source>Opt. Express</source> 
+<volume>16</volume>, 
+<fpage>19785</fpage> (<year>2008</year>). 
+<pub-id pub-id-type="doi">10.1364/OE.16.019785</pub-id>
+<pub-id pub-id-type="pmid">19030064</pub-id></citation></ref>
+<ref id="R34"><label>34</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Gao</surname><given-names>J.</given-names></name><etal /></person-group>., 
+<article-title>Terahertz heterodyne receiver based on a quantum cascade laser and a superconducting bolometer</article-title>. 
+<source>Appl. Phys. Lett.</source> 
+<volume>86</volume>, 
+<fpage>244104</fpage> (<year>2005</year>). 
+<pub-id pub-id-type="doi">10.1063/1.1949724</pub-id></citation></ref></ref-list>
+<ack><label>35</label>
+<p>We thank the Swiss National Science Foundation and the National Center of Competence in Research &#x201C;Quantum Photonics&#x201D; for support and L. Nevou for key contributions to the reflectivity measurement. This work was partly carried out in the Center for Micro- and Nanotechnology (FIRST) at ETH Zurich. J.F. would like to acknowledge fruitful discussions with E. Yablonovitch and A. Imamoglu.</p>
+</ack></back>
+</article>

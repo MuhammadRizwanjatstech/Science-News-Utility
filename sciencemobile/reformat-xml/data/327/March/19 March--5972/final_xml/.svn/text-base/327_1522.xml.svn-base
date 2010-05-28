@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="research-article" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title><issn pub-type="ppub">0036-8075</issn><issn pub-type="epub">1095-9203</issn>
+<publisher><publisher-name>American Association for the Advancement of Science</publisher-name></publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">1181759</article-id>
+<article-id pub-id-type="doi">10.1126/science.1181759</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>Report</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Reports</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>reports</subject></subj-group>
+<subj-group subj-group-type="field"><subject>CELL BIOL</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Circadian Gating of the Cell Cycle Revealed in Single Cyanobacterial Cells</article-title>
+</title-group>
+<contrib-group><contrib contrib-type="author"><name><surname>Yang</surname><given-names>Qiong</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="fn" rid="afn1">*</xref></contrib><contrib contrib-type="author"><name><surname>Pando</surname><given-names>Bernardo F.</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="fn" rid="afn1">*</xref></contrib><contrib contrib-type="author"><name><surname>Dong</surname><given-names>Guogang</given-names></name><xref ref-type="aff" rid="aff2"><sup>2</sup></xref></contrib><contrib contrib-type="author"><name><surname>Golden</surname><given-names>Susan S.</given-names></name><xref ref-type="aff" rid="aff2"><sup>2</sup></xref></contrib><contrib contrib-type="author" corresp="yes"><name><surname>van Oudenaarden</surname><given-names>Alexander</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="aff" rid="aff3"><sup>3</sup></xref><xref ref-type="corresp" rid="cor1">&#x2020;</xref></contrib>
+<aff id="aff1"><label>1</label>Department of Physics, Massachusetts Institute of Technology, Cambridge, MA 02139, USA.</aff>
+<aff id="aff2"><label>2</label>Center for Chronobiology and Division of Biological Sciences, University of California, San Diego, La Jolla, CA 92093, USA.</aff>
+<aff id="aff3"><label>3</label>Department of Biology, Massachusetts Institute of Technology, Cambridge, MA 02139, USA.</aff></contrib-group>
+<author-notes>
+<fn id="afn1"><label>*</label><p>These authors contributed equally to this work.</p>
+</fn>
+<corresp id="cor1"><label>&#x2020;</label>To whom correspondence should be addressed. E-mail: 
+<email xlink:href="avano@mit.edu">avano@mit.edu</email></corresp></author-notes>
+<pub-date pub-type="ppub"><day>19</day><month>03</month><year>2010</year></pub-date>
+<volume>327</volume>
+<issue>5972</issue>
+<fpage>1522</fpage>
+<lpage>1526</lpage>
+<history><date date-type="received"><day>10</day><month>09</month><year>2009</year></date><date date-type="accepted"><day>16</day><month>02</month><year>2010</year></date></history>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2010, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2010</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder></permissions>
+<abstract abstract-type="editor"><title>Cycle Entrainment</title><p>Cells manage many cyclic processes that must coordinate with each other for best cellular performance. <bold>Yang <italic>et al.</italic></bold> (p. <related-article related-article-type="in-this-issue" vol="327" page="1522">1522</related-article>) present a general theoretical framework that quantitatively describes coupled cyclic processes and then apply this to the interaction between the circadian and cell-division cycles in single cyanobacteria. Simultaneously tracking individual cell divisions and circadian phases and fitting the data with the model suggest that cell-cycle progression slows down dramatically during a specific circadian interval, whereas cell-cycle progression is independent of the cell-cycle phase.</p></abstract>
+<abstract abstract-type="teaser"><p>Modeling and observation of cyanobacteria show entrainment of the cell cycle by their biological clock.</p></abstract>
+<abstract>
+<p>Although major progress has been made in uncovering the machinery that underlies individual biological clocks, much less is known about how multiple clocks coordinate their oscillations. We simultaneously tracked cell division events and circadian phases of individual cells of the cyanobacterium<italic> Synechococcus elongatus</italic> and fit the data to a model to determine when cell cycle progression slows as a function of circadian and cell cycle phases. We infer that cell cycle progression in cyanobacteria slows during a specific circadian interval but is uniform across cell cycle phases. Our model is applicable to the quantification of the coupling between biological oscillators in other organisms.</p>
+</abstract>
+<custom-meta-wrap><custom-meta><meta-name>Editor</meta-name><meta-value>Beverly Purnell</meta-value></custom-meta><custom-meta><meta-name>Copyeditor</meta-name><meta-value>Jeff Cook</meta-value></custom-meta></custom-meta-wrap>
+</article-meta>
+</front>
+<body>
+<p>Cyclic processes in biology span a wide dynamic range, from the subsecond periods of neural spike trains to annual rhythms in animal and plant reproduction (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>&#x2013;<xref ref-type="bibr" rid="R3"><italic>3</italic></xref>). Even an individual cell exposed to a constant environment may exhibit many parallel periodic activities with different frequencies, such as glycolytic, cell cycle, and circadian oscillations (<xref ref-type="bibr" rid="R4"><italic>4</italic></xref>&#x2013;<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>). Therefore, it is important to elucidate how different oscillators couple to each other (<xref ref-type="bibr" rid="R9"><italic>9</italic></xref>). In several unicellular organisms and higher vertebrates, it has been shown that the circadian system affects whether cell division is permitted (<xref ref-type="bibr" rid="R10"><italic>10</italic></xref>&#x2013;<xref ref-type="bibr" rid="R15"><italic>15</italic></xref>); similarly, the yeast metabolic cycle restricts when the cell divides (<xref ref-type="bibr" rid="R16"><italic>16</italic></xref>). Here, we integrate theoretical and experimental approaches to investigate how the circadian and cell division subsystems are coupled together in single cells of the cyanobacterium <italic>Synechococcus elongatus.</italic></p>
+<p>To quantify how one clock couples to the other, we built a model by describing the state of each cell with its circadian phase &#x03B8;(<italic>t</italic>) and cell cycle phase &#x03D5;(<italic>t</italic>) both periodic from 0 to 2&#x03C0; (<xref ref-type="bibr" rid="R17"><italic>17</italic></xref>, <xref ref-type="bibr" rid="R18"><italic>18</italic></xref>). Given the robustness of circadian oscillations to environmental and intracellular variations, it is believed that the circadian system progresses independently of the cell cycle (<xref ref-type="bibr" rid="R19"><italic>19</italic></xref>, <xref ref-type="bibr" rid="R20"><italic>20</italic></xref>). Hence, we propose that the progression rate of the circadian phase is constant except for some noise, whereas the speed of cell cycle progression could depend on both the circadian and cell cycle phases. We describe the time evolution of the phases of these clocks by two Langevin equations,
+<disp-formula id="E1"><mml:math display="block" id="m1"><mml:semantics><mml:mrow><mml:mo stretchy="true">{</mml:mo><mml:mtable columnalign="left"><mml:mtr columnalign="left"><mml:mtd columnalign="left"><mml:mrow><mml:mfrac><mml:mrow><mml:mi>d</mml:mi><mml:mo>&#x03B8;</mml:mo></mml:mrow><mml:mrow><mml:mi>d</mml:mi><mml:mi>t</mml:mi></mml:mrow></mml:mfrac><mml:mo>=</mml:mo><mml:msub><mml:mo>&#x03BD;</mml:mo><mml:mn>0</mml:mn></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mo>&#x03BE;</mml:mo><mml:mo>&#x03B8;</mml:mo></mml:msub></mml:mrow></mml:mtd></mml:mtr><mml:mtr columnalign="left"><mml:mtd columnalign="left"><mml:mrow><mml:mfrac><mml:mrow><mml:mi>d</mml:mi><mml:mi>&#x03D5;</mml:mi></mml:mrow><mml:mrow><mml:mi>d</mml:mi><mml:mi>t</mml:mi></mml:mrow></mml:mfrac><mml:mo>=</mml:mo><mml:mo>&#x03BD;</mml:mo><mml:mo>&hairsp;</mml:mo><mml:mo>&#x03B3;(</mml:mo><mml:mo>&#x03D5;</mml:mo><mml:mo>,&#x03B8;)</mml:mo><mml:mo>+</mml:mo><mml:msub><mml:mo>&#x03BE;</mml:mo><mml:mo>&#x03D5;</mml:mo></mml:msub></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:semantics></mml:math><label>(1)</label></disp-formula>where<italic> </italic>&#x03BE;<sub>&#x03B8;</sub> and &#x03BE;<sub>&#x03D5;</sub> are white-noise terms representative of intrinsic fluctuations, &#x03BD;<sub>0</sub> is the speed of the circadian clock, &#x03BD; roughly describes the average speed of cell cycle progression, and &#x03B3;(&#x03D5;, &#x03B8;), the coupling, is a non-negative function describing how the state of the clocks affects cell cycle speed. Regions in (&#x03D5;, &#x03B8;) space where &#x03B3; is close to zero indicate slowing of cell cycle progression and are usually referred to as &#x201C;gates&#x201D; (<xref ref-type="bibr" rid="R11"><italic>11</italic></xref>).</p>
+<p>This model can be simulated using Monte Carlo methods or solved using Fokker-Planck techniques (<xref ref-type="bibr" rid="R21"><italic>21</italic></xref>) to explore whether the cell cycle becomes synchronized to circadian signals and how the timing of cell divisions is distributed throughout the day. A division event happens as the variable &#x03D5; crosses the 2&#x03C0; boundary (<xref ref-type="bibr" rid="R22"><italic>22</italic></xref>). Without gating (&#x03B3; = 1), the two clocks are uncorrelated and cells divide uniformly throughout the day (<xref ref-type="fig" rid="F1">Fig. 1</xref>, left column). However, in the presence of a gate, cell cycle states synchronize to the circadian signal (<xref ref-type="fig" rid="F1">Fig. 1</xref>, center column), similarly to how nonlinear oscillators lock into periodic forcings (<xref ref-type="bibr" rid="R23"><italic>23</italic></xref>, <xref ref-type="bibr" rid="R24"><italic>24</italic></xref>). For cell cycle speeds comparable to that of the circadian clock, cells tend to divide at a single circadian phase; however, as &#x03BD; is increased, the number of times during the day at which divisions are likely to take place also increases, leading to multimodal distributions of division phases (<xref ref-type="fig" rid="F1">Fig. 1</xref>, right column, and fig. S2) (<xref ref-type="bibr" rid="R25"><italic>25</italic></xref>). This feature is generic and independent of the specific shape of the coupling function used (<xref ref-type="bibr" rid="R17"><italic>17</italic></xref>, <xref ref-type="bibr" rid="R18"><italic>18</italic></xref>, <xref ref-type="bibr" rid="R23"><italic>23</italic></xref>) (fig. S8).</p>
+<fig id="F1" position="float" fig-type="figure"><label>Fig. 1</label><caption><p>Synchronization of cell cycle phases to circadian signals. Monte Carlo simulations of the evolution of a population of cells are shown with an initially uniform distribution of cell cycle phases and synchronous circadian signals. (<bold>A</bold>) Cosine projection of cell cycle phases of 10 traces and average across 100 traces. The ratio of the average speed of cell cycle progression and circadian speed &#x03BD;/&#x03BD;<sub>0</sub> is 1.1 for the left and center columns and 2.1 for the right column. The left column represents a situation in which there is no gating (&#x03B3; = 1); in the other columns, the shape of the coupling function is color-coded in (B). (<bold>B</bold>) Color-coded coupling function and steady-state organization of trajectories in (&#x03D5;, &#x03B8;) space. In the no-gate case, straight lines show the deterministic behavior. (<bold>C</bold>) Steady-state probability distribution of circadian phases at which divisions take place, <italic>p</italic>(&#x03B8;<sub>d</sub>). The bars are the results of Monte Carlo simulations; the solid line represents the result of a Fokker-Planck computation (<xref ref-type="bibr" rid="R21"><italic>21</italic></xref>). Parameters used: <italic>D</italic><sub>&#x03B8;</sub> = 0, <italic>D</italic><sub>&#x03D5;</sub> = 0.1&#x03BD;<sub>0</sub>, and, for the center and right columns, &#x03B1; = &#x03B2; = 4, &#x03B8;<sub>0</sub> = &#x03D5;<sub>0</sub> = &#x03C0;, where <italic>D</italic><sub>&#x03B8;</sub> and <italic>D</italic><sub>&#x03D5;</sub> correspond to the noise strengths of the circadian and cell cycle oscillators, and &#x03B1;, &#x03B2;, &#x03B8;<sub>0</sub>, and &#x03D5;<sub>0</sub> are parameters defining the shape and position of the coupling function (<xref ref-type="bibr" rid="R21"><italic>21</italic></xref>).</p>
+</caption>
+<graphic xlink:href="327_1522_F1"></graphic></fig>
+<p>To quantify this gating phenomenon experimentally, we investigated the interaction between the circadian and cell cycle clocks in the cyanobacterium <italic>S. elongatus</italic> PCC 7942. A previous study at the population level indicated the existence of circadian gating in this organism (<xref ref-type="bibr" rid="R11"><italic>11</italic></xref>). To explicitly explore how one clock gates the other, we took a single-cell fluorescence microscopy approach and simultaneously tracked both clocks&#x2019; dynamics in individual cyanobacteria as they proliferated under a constant-light environment (<xref ref-type="fig" rid="F2">Fig. 2A</xref>). Circadian dynamics in each cell are faithfully reported by the SsrA-tagged yellow fluorescent protein (YFP-SsrA) under the rhythmic <italic>kaiBC</italic> promoter (<xref ref-type="bibr" rid="R26"><italic>26</italic></xref>). This promoter drives the endogenous expression of the <italic>kaiB</italic> and <italic>kaiC</italic> genes, which, together with <italic>kaiA</italic>, form the central protein circuit that orchestrates circadian rhythms in cyanobacteria. We defined the circadian phase as the time from the nearest previous YFP peak normalized by the circadian period (<xref ref-type="fig" rid="F2">Fig. 2B</xref>); our proxy for cell cycle phase progression involved tracking individual cells&#x2019; growth over time (<xref ref-type="bibr" rid="R21"><italic>21</italic></xref>). We detected nearly all cell divisions, recorded the corresponding circadian phases &#x03B8;<sub>d</sub>, and measured the cell cycle duration &#x03C4; for each cell (<xref ref-type="fig" rid="F2">Fig. 2C</xref>).</p>
+<fig id="F2" position="float" fig-type="figure"><label>Fig. 2</label><caption><p>Time-lapse microscopy allows single-cell measurements of circadian and cell cycle states. (<bold>A</bold>) Phase contrast (upper panel) and YFP images (lower panel) of a colony tracked over a few days. (<bold>B</bold>) YFP trace for the cell outlined in red in (A) (red dots, YFP intensity; black line, 10-point running average). (<bold>C</bold>) Length dynamics of the same cell (dots, instantaneous cell length; black line, exponential fit; vertical arrows, circadian phases at cell divisions; horizontal double arrow, cell cycle duration &#x03C4; for one cell).</p>
+</caption>
+<graphic xlink:href="327_1522_F2"></graphic></fig>
+<p>We first performed an experiment under a light intensity of ~25 &#x03BC;E m<sup>&#x2212;2</sup> s<sup>&#x2212;1</sup> (<xref ref-type="bibr" rid="R27"><italic>27</italic></xref>) (<xref ref-type="fig" rid="F3">Fig. 3</xref>, left column), which gave an average cell cycle speed comparable to that of the circadian clock: &#x03C4; = 18 &#x00B1; 7 hours (mean &#x00B1; SD). To test whether cell cycle phases were indeed synchronized by circadian signals, we collected all single-cell traces, aligned them on the basis of their circadian phases (<xref ref-type="bibr" rid="R21"><italic>21</italic></xref>), and constructed histograms of the circadian phases at division (<xref ref-type="fig" rid="F3">Fig. 3</xref>). Rather than the distribution expected for uncorrelated clocks (<xref ref-type="bibr" rid="R21"><italic>21</italic></xref>), we found a single-peaked distribution of divisions per circadian cycle, indicating that divisions happened mostly at a specific circadian time.</p>
+<fig id="F3" position="float" fig-type="figure"><label>Fig. 3</label><caption><p>Circadian gating as observed in single cells. (<bold>A</bold>) YFP traces for cells in 18 colonies shifted so as to maximize overlap. (<bold>B</bold>) Histogram of the timing of division events. Blue trace represents expectation for uncorrelated clocks. (<bold>C</bold>) Histogram of the timing of division events across the circadian cycle; plot constructed as in (B) but measuring time relative to the start of each circadian cycle. Left column: experiment performed under light intensity <italic>I</italic> ~ 25 &#x03BC;E m<sup>&#x2212;2</sup> s<sup>&#x2212;1</sup>; right column: <italic>I</italic> ~ 50 &#x03BC;E m<sup>&#x2212;2</sup> s<sup>&#x2212;1</sup>.</p>
+</caption>
+<graphic xlink:href="327_1522_F3"></graphic></fig>
+<p>In theory, we expect a similar locking if we double the speed of the cell cycle relative to that of the circadian clock, with divisions taking place at two specific circadian phases. Although the period of the circadian clock is nearly constant over a range of growth conditions, cell cycle progression is sensitive to environmental light intensity. These properties allowed us to tune the cell cycle speed while keeping a constant circadian rate. With a light intensity of ~50 &#x03BC;E m<sup>&#x2212;2</sup> s<sup>&#x2212;1</sup>, the average cell cycle duration shortened to 10 &#x00B1; 4 hours (mean &#x00B1; SD), whereas the average circadian period stayed around 24 hours. Hence, we obtained a factor of ~2 increase in the relative speed of the two oscillators. We observed two peaks of cell divisions per circadian cycle (<xref ref-type="fig" rid="F3">Fig. 3</xref>), in agreement with our theoretical analysis (<xref ref-type="fig" rid="F1">Fig. 1</xref>).</p>
+<p>A better understanding of the gating phenomenon relies on a direct measurement of the correlation between the two clocks for each single cell. We summarized such interaction in scatterplots of the circadian phase at cell division, &#x03B8;<sub>d</sub>, and the cell cycle duration of the corresponding cell, &#x03C4; (<xref ref-type="fig" rid="F4">Fig. 4A</xref>). We fit our model to both data sets simultaneously, considering the same coupling function &#x03B3;(&#x03D5;, &#x03B8;) and noise strengths for the two experiments. We allowed only the parameter &#x03BD; to vary across the two experimental conditions and included only coupling functions representative of a single maximal gate (<xref ref-type="bibr" rid="R21"><italic>21</italic></xref>). This procedure yielded reasonable fits for both data sets (<xref ref-type="fig" rid="F4">Fig. 4B</xref>), indicating that it is possible to explain the interaction between the clocks in the two different conditions using the same coupling function.</p>
+<fig id="F4" position="float" fig-type="figure"><label>Fig. 4</label><caption><p>Inferred coupling function. (<bold>A</bold>) Joint distribution of circadian phase at division and lifetime of all tracked cells. The color-coded density is a Gaussian-kernel average with a width corresponding to 2 hours along each direction. (<bold>B</bold>) Same data as in (A) but with density corresponding to the best fit to both data sets. For (A) and (B), left column: <italic>I</italic> ~ 25 &#x03BC;E m<sup>&#x2212;2</sup> s<sup>&#x2212;1</sup>, right column: <italic>I</italic> ~ 50 &#x03BC;E m<sup>&#x2212;2</sup> s<sup>&#x2212;1</sup>. (<bold>C</bold>) Inferred coupling function obtained by averaging across parameters sampled according to their likelihood. (<bold>D</bold>) Confidence bands (mean &#x00B1; SD) for the inferred coupling function across cuts parallel to the &#x03B8; axis [corresponding cell cycle phases indicated with arrows in (C)]. Horizontal bar: width at half maximum, which quantifies gate duration. (<bold>E</bold>) As in (D) for cuts parallel to the &#x03D5; axis [corresponding circadian phases indicated with dashed lines in (C)].</p>
+</caption>
+<graphic xlink:href="327_1522_F4"></graphic></fig>
+<p>The inferred coupling function is shown in <xref ref-type="fig" rid="F4">Fig. 4C</xref>. To relate the phase &#x03B8; to the real circadian phase, we considered that the YFP protein has a non-negligible lifetime, which makes the reported signal lag behind the day-night cycle. Measurements on cell cultures that had been synchronized by three 12:12 light-dark cycles indicate that the signal peak (identified as &#x03B8; = 0) lags (19 &#x00B1; 1 hours) behind the day start (<xref ref-type="bibr" rid="R21"><italic>21</italic></xref>), in agreement with previous studies (<xref ref-type="bibr" rid="R26"><italic>26</italic></xref>). Considering this delay, the inferred coupling function shows a gate positioned at 17 hours after the day start, lasting for 6.1 &#x00B1; 0.3 hours (<xref ref-type="fig" rid="F4">Fig. 4D</xref>) and distributed essentially uniformly across cell cycle stages (<xref ref-type="fig" rid="F4">Fig. 4E</xref>). We conclude that in this case the circadian signal acts on the cell cycle by repressing essentially all its stages in the middle of the subjective night.</p>
+<p>This suggests that in <italic>Synechococcus</italic>, regulation of cell cycle progression by the circadian system may be more extensive than interactions between circadian signals and proteins associated with specific cell cycle processes. The molecular mechanism coupling the two oscillators in <italic>Synechococcus</italic> might be fundamentally different from that found in mammalian cells in which the expression of several key cell cycle regulators, including Wee1 and Cdc2, was found to be regulated by the circadian oscillator (<xref ref-type="bibr" rid="R12"><italic>12</italic></xref>). Recent data have begun to reveal molecular interactions responsible for coupling the cell cycle and the circadian oscillator in cyanobacteria (<xref ref-type="bibr" rid="R28"><italic>28</italic></xref>). Our results suggest that it is unlikely that gating is exclusively regulated by just one mechanism that imposes a checkpoint at a specific cell cycle stage. Instead, a more overarching regulation scheme may be involved, perhaps analogous to how circadian clocks coordinate genome-wide gene expression at specific circadian times (<xref ref-type="bibr" rid="R29"><italic>29</italic></xref>).</p>
+<p>The gating phenomenon seems to be universally conserved from some prokaryotes to mammals. It would be interesting to understand why gating is important to cells. In cyanobacteria, cells enhance their fitness when their circadian period resonates with external light-dark cycles (<xref ref-type="bibr" rid="R30"><italic>30</italic></xref>), and perhaps a similar resonance between circadian and cell cycle clocks might lead to a fitness increase. Consistent with this finding, our results suggest that cell growth is prohibited during the middle of the night when energy is most limited.</p>
+<p>The proposed theoretical approach is generally applicable to any set of coupled cyclic processes in which some information about the phases of each clock could be independently measured. We expect that its use will lead to a deeper understanding of how multiple periodic processes coordinate to control the dynamic state of the cell.</p>
+</body>
+<back>
+<app-group>
+<app>
+<title>Supporting Online Material</title>
+<supplementary-material>
+<p><ext-link ext-link-type="uri" xlink:href="http://www.sciencemag.org/cgi/content/full/327/5972/1522/DC1">www.sciencemag.org/cgi/content/full/327/5972/1522/DC1</ext-link></p>
+<p>Materials and Methods</p>
+<p>Figs. S1 to S11</p>
+<p>Tables S1 to S4</p>
+<p>References</p>
+</supplementary-material></app></app-group>
+<ref-list>
+<title>References and Notes</title>
+<ref id="R1"><label>1</label><citation citation-type="book">A. Goldbeter, <italic>Biochemical Oscillations and Cellular Rhythms: The Molecular Bases of Periodic and Chaotic Behaviour</italic> (Cambridge Univ. Press, Cambridge, 1996).</citation></ref>
+<ref id="R2"><label>2</label><citation citation-type="book">L. Glass, M. C. Mackey, <italic>From Clocks to Chaos: The Rhythms of Life</italic> (Princeton Univ. Press, Princeton, NJ, 1988).</citation></ref>
+<ref id="R3"><label>3</label><citation citation-type="book">M. Maroto, N. A. M. Monk, <italic>Cellular Oscillatory Mechanisms</italic> (Springer Science+Business Media, New York, 2008).</citation></ref>
+<ref id="R4"><label>4</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Dyachok</surname><given-names>O.</given-names></name><name><surname>Isakov</surname><given-names>Y.</given-names></name><name><surname>S&#x00E5;getorp</surname><given-names>J.</given-names></name><name><surname>Tengholm</surname><given-names>A.</given-names></name></person-group>, 
+<article-title>Oscillations of cyclic AMP in hormone-stimulated insulin-secreting beta-cells</article-title>. 
+<source>Nature</source> 
+<volume>439</volume>, 
+<fpage>349</fpage> (<year>2006</year>). 
+<pub-id pub-id-type="doi">10.1038/nature04410</pub-id>
+<pub-id pub-id-type="pmid">16421574</pub-id></citation></ref>
+<ref id="R5"><label>5</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Kholodenko</surname><given-names>B. N.</given-names></name></person-group>, 
+<article-title>Cell-signalling dynamics in time and space</article-title>. 
+<source>Nat. Rev. Mol. Cell Biol.</source> 
+<volume>7</volume>, 
+<fpage>165</fpage> (<year>2006</year>). 
+<pub-id pub-id-type="doi">10.1038/nrm1838</pub-id>
+<pub-id pub-id-type="pmid">16482094</pub-id></citation></ref>
+<ref id="R6"><label>6</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Panda</surname><given-names>S.</given-names></name><name><surname>Hogenesch</surname><given-names>J. B.</given-names></name><name><surname>Kay</surname><given-names>S. A.</given-names></name></person-group>, 
+<article-title>Circadian rhythms from flies to human</article-title>. 
+<source>Nature</source> 
+<volume>417</volume>, 
+<fpage>329</fpage> (<year>2002</year>). 
+<pub-id pub-id-type="doi">10.1038/417329a</pub-id>
+<pub-id pub-id-type="pmid">12015613</pub-id></citation></ref>
+<ref id="R7"><label>7</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Goldbeter</surname><given-names>A.</given-names></name></person-group>, 
+<article-title>Biological rhythms: Clocks for all times</article-title>. 
+<source>Curr. Biol.</source> 
+<volume>18</volume>, 
+<fpage>R751</fpage> (<year>2008</year>). 
+<pub-id pub-id-type="doi">10.1016/j.cub.2008.06.044</pub-id>
+<pub-id pub-id-type="pmid">18786378</pub-id></citation></ref>
+<ref id="R8"><label>8</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Ishiura</surname><given-names>M.</given-names></name><etal /></person-group>., 
+<article-title>Expression of a gene cluster <italic>kaiABC</italic> as a circadian feedback process in cyanobacteria</article-title>. 
+<source>Science</source> 
+<volume>281</volume>, 
+<fpage>1519</fpage> (<year>1998</year>). 
+<pub-id pub-id-type="doi">10.1126/science.281.5382.1519</pub-id>
+<pub-id pub-id-type="pmid">9727980</pub-id></citation></ref>
+<ref id="R9"><label>9</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>M&#x00E9;ndez-Ferrer</surname><given-names>S.</given-names></name><name><surname>Lucas</surname><given-names>D.</given-names></name><name><surname>Battista</surname><given-names>M.</given-names></name><name><surname>Frenette</surname><given-names>P. S.</given-names></name></person-group>, 
+<article-title>Haematopoietic stem cell release is regulated by circadian oscillations</article-title>. 
+<source>Nature</source> 
+<volume>452</volume>, 
+<fpage>442</fpage> (<year>2008</year>). 
+<pub-id pub-id-type="doi">10.1038/nature06685</pub-id>
+<pub-id pub-id-type="pmid">18256599</pub-id></citation></ref>
+<ref id="R10"><label>10</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Nagoshi</surname><given-names>E.</given-names></name><etal /></person-group>., 
+<article-title>Circadian gene expression in individual fibroblasts: Cell-autonomous and self-sustained oscillators pass time to daughter cells</article-title>. 
+<source>Cell</source> 
+<volume>119</volume>, 
+<fpage>693</fpage> (<year>2004</year>).
+<pub-id pub-id-type="pmid">15550250</pub-id></citation></ref>
+<ref id="R11"><label>11</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Mori</surname><given-names>T.</given-names></name><name><surname>Binder</surname><given-names>B.</given-names></name><name><surname>Johnson</surname><given-names>C. H.</given-names></name></person-group>, 
+<article-title>Circadian gating of cell division in cyanobacteria growing with average doubling times of less than 24 hours</article-title>. 
+<source>Proc. Natl. Acad. Sci. 
+U.S.A.</source> 
+<volume>93</volume>, 
+<fpage>10183</fpage> (<year>1996</year>). 
+<pub-id pub-id-type="doi">10.1073/pnas.93.19.10183</pub-id>
+<pub-id pub-id-type="pmid">8816773</pub-id></citation></ref>
+<ref id="R12"><label>12</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Matsuo</surname><given-names>T.</given-names></name><etal /></person-group>., 
+<article-title>Control mechanism of the circadian clock for timing of cell division in vivo</article-title>. 
+<source>Science</source> 
+<volume>302</volume>, 
+<fpage>255</fpage> (<year>2003</year>). 
+<pub-id pub-id-type="doi">10.1126/science.1086271</pub-id>
+<pub-id pub-id-type="pmid">12934012</pub-id></citation></ref>
+<ref id="R13"><label>13</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Dekens</surname><given-names>M. P. S.</given-names></name><etal /></person-group>., 
+<article-title>Light regulates the cell cycle in zebrafish</article-title>. 
+<source>Curr. Biol.</source> 
+<volume>13</volume>, 
+<fpage>2051</fpage> (<year>2003</year>). 
+<pub-id pub-id-type="doi">10.1016/j.cub.2003.10.022</pub-id>
+<pub-id pub-id-type="pmid">14653994</pub-id></citation></ref>
+<ref id="R14"><label>14</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Hirayama</surname><given-names>J.</given-names></name><name><surname>Cardone</surname><given-names>L.</given-names></name><name><surname>Doi</surname><given-names>M.</given-names></name><name><surname>Sassone-Corsi</surname><given-names>P.</given-names></name></person-group>, 
+<article-title>Common pathways in circadian and cell cycle clocks: Light-dependent activation of Fos/AP-1 in zebrafish controls CRY-1a and WEE-1</article-title>. 
+<source>Proc. Natl. Acad. Sci. U.S.A.</source> 
+<volume>102</volume>, 
+<fpage>10194</fpage> (<year>2005</year>). 
+<pub-id pub-id-type="doi">10.1073/pnas.0502610102</pub-id>
+<pub-id pub-id-type="pmid">16000406</pub-id></citation></ref>
+<ref id="R15"><label>15</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Salter</surname><given-names>M. G.</given-names></name><name><surname>Franklin</surname><given-names>K. A.</given-names></name><name><surname>Whitelam</surname><given-names>G. C.</given-names></name></person-group>, 
+<article-title>Gating of the rapid shade-avoidance response by the circadian clock in plants</article-title>. 
+<source>Nature</source> 
+<volume>426</volume>, 
+<fpage>680</fpage> (<year>2003</year>). 
+<pub-id pub-id-type="doi">10.1038/nature02174</pub-id>
+<pub-id pub-id-type="pmid">14668869</pub-id></citation></ref>
+<ref id="R16"><label>16</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Tu</surname><given-names>B. P.</given-names></name><name><surname>Kudlicki</surname><given-names>A.</given-names></name><name><surname>Rowicka</surname><given-names>M.</given-names></name><name><surname>McKnight</surname><given-names>S. L.</given-names></name></person-group>, 
+<article-title>Logic of the yeast metabolic cycle: Temporal compartmentalization of cellular processes</article-title>. 
+<source>Science</source> 
+<volume>310</volume>, 
+<fpage>1152</fpage> (<year>2005</year>). 
+<pub-id pub-id-type="doi">10.1126/science.1120499</pub-id>
+<pub-id pub-id-type="pmid">16254148</pub-id></citation></ref>
+<ref id="R17"><label>17</label><citation citation-type="book">A. T. Winfree, <italic>The Geometry of Biological Time</italic> (Springer-Verlag, Rensselaer, NY, 1980).</citation></ref>
+<ref id="R18"><label>18</label><citation citation-type="book">H. S. Strogatz, <italic>Nonlinear Dynamics and Chaos</italic> (Perseus, Cambridge, MA, 1994).</citation></ref>
+<ref id="R19"><label>19</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Mori</surname><given-names>T.</given-names></name><name><surname>Johnson</surname><given-names>C. H.</given-names></name></person-group>, 
+<article-title>Independence of circadian timing from cell division in cyanobacteria</article-title>. 
+<source>J. Bacteriol.</source> 
+<volume>183</volume>, 
+<fpage>2439</fpage> (<year>2001</year>). 
+<pub-id pub-id-type="doi">10.1128/JB.183.8.2439-2444.2001</pub-id>
+<pub-id pub-id-type="pmid">11274102</pub-id></citation></ref>
+<ref id="R20"><label>20</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Mihalcescu</surname><given-names>I.</given-names></name><name><surname>Hsing</surname><given-names>W.</given-names></name><name><surname>Leibler</surname><given-names>S.</given-names></name></person-group>, 
+<article-title>Resilient circadian oscillator revealed in individual cyanobacteria</article-title>. 
+<source>Nature</source> 
+<volume>430</volume>, 
+<fpage>81</fpage> (<year>2004</year>). 
+<pub-id pub-id-type="doi">10.1038/nature02533</pub-id>
+<pub-id pub-id-type="pmid">15229601</pub-id></citation></ref>
+<ref id="R21">
+<note><label>21</label><p>See supporting material on <italic>Science </italic>Online.</p>
+</note></ref>
+<ref id="R22">
+<note><label>22</label><p>The validity of this identification is independent of the relationship between phases inside this range and specific biological processes.</p>
+</note></ref>
+<ref id="R23"><label>23</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Glass</surname><given-names>L.</given-names></name></person-group>, 
+<article-title>Synchronization and rhythmic processes in physiology</article-title>. 
+<source>Nature</source> 
+<volume>410</volume>, 
+<fpage>277</fpage> (<year>2001</year>). 
+<pub-id pub-id-type="doi">10.1038/35065745</pub-id>
+<pub-id pub-id-type="pmid">11258383</pub-id></citation></ref>
+<ref id="R24"><label>24</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Charvin</surname><given-names>G.</given-names></name><name><surname>Cross</surname><given-names>F. R.</given-names></name><name><surname>Siggia</surname><given-names>E. D.</given-names></name></person-group>, 
+<article-title>Forced periodic expression of G<sub>1</sub> cyclins phase-locks the budding yeast cell cycle</article-title>. 
+<source>Proc. Natl. Acad. Sci. U.S.A.</source> 
+<volume>106</volume>, 
+<fpage>6632</fpage> (<year>2009</year>). 
+<pub-id pub-id-type="doi">10.1073/pnas.0809227106</pub-id>
+<pub-id pub-id-type="pmid">19346485</pub-id></citation></ref>
+<ref id="R25"><label>25</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Z&#x00E1;mborszky</surname><given-names>J.</given-names></name><name><surname>Hong</surname><given-names>C. I.</given-names></name><name><surname>Csik&#x00E1;sz Nagy</surname><given-names>A.</given-names></name></person-group>, 
+<article-title>Computational analysis of mammalian cell division gated by a circadian clock: Quantized cell cycles and cell size control</article-title>. 
+<source>J. Biol. Rhythms</source> 
+<volume>22</volume>, 
+<fpage>542</fpage> (<year>2007</year>). 
+<pub-id pub-id-type="doi">10.1177/0748730407307225</pub-id>
+<pub-id pub-id-type="pmid">18057329</pub-id></citation></ref>
+<ref id="R26"><label>26</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Chabot</surname><given-names>J. R.</given-names></name><name><surname>Pedraza</surname><given-names>J. M.</given-names></name><name><surname>Luitel</surname><given-names>P.</given-names></name><name><surname>van Oudenaarden</surname><given-names>A.</given-names></name></person-group>, 
+<article-title>Stochastic gene expression out-of-steady-state in the cyanobacterial circadian clock</article-title>. 
+<source>Nature</source> 
+<volume>450</volume>, 
+<fpage>1249</fpage> (<year>2007</year>). 
+<pub-id pub-id-type="doi">10.1038/nature06395</pub-id>
+<pub-id pub-id-type="pmid">18097413</pub-id></citation></ref>
+<ref id="R27"><label>27</label><citation citation-type="other">&#x03BC;E m<sup>&#x2212;2</sup> s<sup>&#x2212;1</sup> is a measure of light intensity, where E represents an Einstein unit (one mole of photons).</citation></ref>
+<ref id="R28"><label>28</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Dong</surname><given-names>G.</given-names></name><etal /></person-group>., 
+<source>Cell</source> 
+<volume>140</volume>, 
+<fpage>529</fpage> (<year>2010</year>). 
+<pub-id pub-id-type="doi">10.1016/j.cell.2009.12.042</pub-id></citation></ref>
+<ref id="R29"><label>29</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Imai</surname><given-names>K.</given-names></name><name><surname>Nishiwaki</surname><given-names>T.</given-names></name><name><surname>Kondo</surname><given-names>T.</given-names></name><name><surname>Iwasaki</surname><given-names>H.</given-names></name></person-group>, 
+<article-title>Circadian rhythms in the synthesis and degradation of a master clock protein KaiC in cyanobacteria</article-title>. 
+<source>J. Biol. Chem.</source> 
+<volume>279</volume>, 
+<fpage>36534</fpage> (<year>2004</year>). 
+<pub-id pub-id-type="doi">10.1074/jbc.M405861200</pub-id>
+<pub-id pub-id-type="pmid">15229218</pub-id></citation></ref>
+<ref id="R30"><label>30</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Ouyang</surname><given-names>Y.</given-names></name><name><surname>Andersson</surname><given-names>C. R.</given-names></name><name><surname>Kondo</surname><given-names>T.</given-names></name><name><surname>Golden</surname><given-names>S. S.</given-names></name><name><surname>Johnson</surname><given-names>C. H.</given-names></name></person-group>, 
+<article-title>Resonating circadian clocks enhance fitness in cyanobacteria</article-title>. 
+<source>Proc. Natl. Acad. Sci. U.S.A.</source> 
+<volume>95</volume>, 
+<fpage>8660</fpage> (<year>1998</year>). 
+<pub-id pub-id-type="doi">10.1073/pnas.95.15.8660</pub-id>
+<pub-id pub-id-type="pmid">9671734</pub-id></citation></ref></ref-list>
+<ack><label>31</label>
+<p>We thank J. Gore, P. Luitel, C. Engert, and S. Klemm for helpful discussions and/or experimental help. Supported by NSF grant PHY-0548484 and by NIH grants R01-GM068957 and R01-GM062419.</p>
+</ack></back>
+</article>

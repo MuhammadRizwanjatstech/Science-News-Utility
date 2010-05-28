@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="article-commentary" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title>
+<issn pub-type="ppub">0036-8075</issn>
+<issn pub-type="epub">1095-9203</issn>
+<publisher>
+<publisher-name>American Association for the Advancement of Science</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>Editors' Choice</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Editors' Choice</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>twil</subject></subj-group>
+<subj-group subj-group-type="overline"><subject>Materials Science</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Mass Transit</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="editor"><name><surname>Hurtley</surname><given-names>Stella</given-names></name></contrib>
+<contrib contrib-type="editor"><name><surname>Yeston</surname><given-names>Jake</given-names></name></contrib>
+<contrib contrib-type="author"><name><surname>Lavine</surname><given-names>Marc S.</given-names></name></contrib>
+</contrib-group>
+<pub-date pub-type="ppub">
+<day>19</day>
+<month>03</month>
+<year>2010</year>
+</pub-date>
+<volume>327</volume>
+<issue>5972</issue>
+<fpage seq="c">1431</fpage>
+<lpage>1431</lpage>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2010, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2010</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<self-uri xlink:title="pdf" xlink:href="twil.pdf" />
+</article-meta>
+</front>
+<body>
+<p>In a crystalline material, plastic (or permanent) deformation involves the movement of dislocations in a series of elementary glide steps. Dislocations are defects in crystalline ordering, and their motion in simple materials is well understood. However, some complex metal alloys can have hundreds of atoms in their unit cell, and it is not at all clear what intricate series of steps guides the plastic deformation that is known to occur in such systems. Heggen <italic>et al.</italic> used aberration-corrected transmission electron microscopy to track the rearrangement of atoms in the T phase of an Al-Mn-Pd alloy&#x2014;a lattice with 156 atoms in its unit cell and structural subunits that appear as hexagonal tiling with alternating orientation. In deformed regions, a mix of stacking faults was observed along with neighboring regions of the orthorhombic R phase, which is closely related to the T phase but with parallel hexagonal tiling. Surrounding the dislocation core were defect regions, known as phason defects, which did not possess a strain field. During deformation, the phasons escorted the dislocation core and locally transformed the material, thus allowing the core to move.</p>
+<p><italic>Nat. Mater.</italic> <bold>9</bold>, 10.1038/nmat2713 (2010).</p>
+</body>
+</article>

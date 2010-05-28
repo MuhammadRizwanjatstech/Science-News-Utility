@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="in-brief" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title>
+<issn pub-type="ppub">0036-8075</issn>
+<issn pub-type="epub">1095-9203</issn>
+<publisher>
+<publisher-name>American Association for the Advancement of Science</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>This Week in Science</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>This Week in Science</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>twis</subject></subj-group>
+<subj-group subj-group-type="field"><subject>NEUROSCIENCE</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Puberty Impairs Plasticity</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="editor"><name><surname>Ash</surname><given-names>Caroline</given-names></name></contrib>
+</contrib-group>
+<pub-date pub-type="ppub">
+<day>19</day>
+<month>03</month>
+<year>2010</year>
+</pub-date>
+<volume>327</volume>
+<issue>5972</issue>
+<fpage seq="c">1427</fpage>
+<lpage>1427</lpage>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2010, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2010</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<self-uri xlink:title="pdf" xlink:href="twis.pdf" />
+</article-meta>
+</front>
+<body>
+<fig id="F1" position="anchor">
+<graphic xlink:href="327_1427c_F1"></graphic>
+<attrib>CREDIT: SHEN <italic>ET AL.</italic></attrib>
+</fig>
+<p>While the existence of a period of reduced learning coinciding with the onset of puberty in mice is well characterized, the underlying cellular and molecular mechanisms remain unclear. <bold>Shen <italic>et al.</italic></bold> (p. <related-article related-article-type="in-this-issue" vol="327" page="1515">1515</related-article>) assessed the role of specific &#x03B3;-aminobutyric acid type A (GABA<sub>A</sub>) receptors for restricting hippocampal plasticity during puberty. At puberty, but not in adults or the very young, GABA receptors containing the &#x03B1;4 and &#x03B4; subunits were targeted perisynaptically to excitatory synapses, shunting the depolarizing current necessary for <italic>N</italic>-methyl-<sc>d</sc>-aspartate (NMDA) receptor activation. As a consequence, signal transmission was affected and spatial learning reduced.</p>
+</body>
+</article>

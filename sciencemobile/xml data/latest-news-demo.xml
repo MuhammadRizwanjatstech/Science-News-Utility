@@ -1,0 +1,35 @@
+<channel id="1" title="Science Magazine" baseuri="http://www.sciencemag.org/">
+	<homepage uri="current.dtl" />
+	<pub-date>2010-09-16T23:59:58.75</pub-date>
+	<vol>327</vol>
+	<issue>5971</issue>
+	<cover-img>covtoc.dp.gif</cover-img>
+	<section id="1" title="Editorial">
+		<item page="557" subPage="" thumburi="img/video.jpg">
+			<pub-date>2004-09-16T23:59:58.75</pub-date>
+			<overline>ScienceNow</overline>
+			<title>Researching Birds Who Make Tools For Their Beaks</title>
+			<authors>
+				<author>Mr. Stanley Bloke</author>
+			</authors>
+			<summary>Birds have been recorded using power tools with their beaks, to make furniture and weapons.</summary>
+			<text>[!CDATA[ Lorem ipsum dolor sit amet consectetuer eli tadipiscing nonummy verite unitas.]]</text>
+			<links>
+				<link type="abstract" uri="content/full/article.html" />
+				<link type="full" uri="content/full/article-full.html" />
+				<link type="pdf" uri="content/full/article-pdf.html" />
+			</links>
+			<categories>
+				<cat name="Biology"/>
+				<cat name="Killer Avians"/>
+			</categories>
+		</item>
+		<item page="" subPage="" thumb="">
+			[... etc  ...]
+		</item>
+	</section>
+	<section id="2" title="News of the Week">
+		[... etc  ...]
+	</section>
+</channel> 
+

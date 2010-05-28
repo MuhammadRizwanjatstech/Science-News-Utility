@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+	<channel>
+		<title>newsdev.jueseph.com/sciencenow/2010/03/no-sexual-confusion-for-chicken.html comments</title>
+		<link>http://newsdev.jueseph.com/sciencenow/2010/03/no-sexual-confusion-for-chicken.html</link>
+		<atom:link rel="self" type="application/rss+xml" href="http://js-kit.com/rss/newsdev.jueseph.com/sciencenow/2010/03/no-sexual-confusion-for-chicken.html"></atom:link>
+		<jskit:attribute key="md5path" value="403e47013f79e6b97b698f9ff9f7de08"></jskit:attribute>
+		<jskit:attribute key="path" value="/sciencenow/2010/03/no-sexual-confusion-for-chicken.html"></jskit:attribute>
+		<description>RSS comments feed for newsdev.jueseph.com/sciencenow/2010/03/no-sexual-confusion-for-chicken.html</description>
+		<generator>JS-Kit Bulk Site Exporter 0.8</generator>
+		<lastBuildDate>Tue, 16 Mar 2010 11:37:51 +0000</lastBuildDate>
+		<item>
+			<guid>jsid-1268699935-69</guid>
+			<jskit:attribute key="like" value="[{<br>	profile: 'cqt-MddKsKrXqeDDxByKAQ',<br>	name: 'Jake'<br>}<br>]"></jskit:attribute>
+			<pubDate>Tue, 16 Mar 2010 00:38:55 +0000</pubDate>
+			<jskit:attribute key="IP" value="68.193.122.21"></jskit:attribute>
+			<jskit:attribute key="permalink" value="http://newsdev.jueseph.com/sciencenow/2010/03/no-sexual-confusion-for-chicken.html"></jskit:attribute>
+			<author>Jake</author>
+			<jskit:attribute key="share_gfc" value="off"></jskit:attribute>
+			<jskit:attribute key="share_twitter" value="off"></jskit:attribute>
+			<jskit:attribute key="share_friendfeed" value="off"></jskit:attribute>
+			<jskit:attribute key="share_yahoo" value="off"></jskit:attribute>
+			<jskit:attribute key="Webpresence" value="[]"></jskit:attribute>
+			<description>You guys are both wrong, there is a new study going on of cross breading animals, meaning cows to horses or snakes to rabbits, a snake to a chicken can be possible if both animals phenotypes are irregular and recessive</description>
+			<jskit:parent-guid>jsid-1268345421-115</jskit:parent-guid>
+		</item>
+		<item>
+			<guid>jsid-1268345421-115</guid>
+			<jskit:attribute key="like" value="[{<br>	profile: 'cqt-MddKsKrXqeDDxByKAQ',<br>	name: ''<br>}<br>]"></jskit:attribute>
+			<pubDate>Thu, 11 Mar 2010 22:10:21 +0000</pubDate>
+			<jskit:attribute key="IP" value="144.92.132.175"></jskit:attribute>
+			<jskit:attribute key="permalink" value="http://newsdev.jueseph.com/sciencenow/2010/03/no-sexual-confusion-for-chicken.html"></jskit:attribute>
+			<author>Ron</author>
+			<jskit:attribute key="share_gfc" value="off"></jskit:attribute>
+			<jskit:attribute key="share_twitter" value="off"></jskit:attribute>
+			<jskit:attribute key="share_friendfeed" value="off"></jskit:attribute>
+			<jskit:attribute key="share_yahoo" value="off"></jskit:attribute>
+			<jskit:attribute key="Webpresence" value="[]"></jskit:attribute>
+			<description>D.H., are you sure those are fertile eggs, or just blood spots?  Blood spots are not associated with the fertility of the egg, unless you've incubated them for a couple of days.</description>
+			<jskit:parent-guid>jsid-1268316350-548</jskit:parent-guid>
+		</item>
+		<item>
+			<guid>jsid-1268316350-548</guid>
+			<jskit:attribute key="like" value="[{<br>	profile: 'cqt-MddKsKrXqeDDxByKAQ',<br>	name: ''<br>}<br>]"></jskit:attribute>
+			<pubDate>Thu, 11 Mar 2010 14:05:50 +0000</pubDate>
+			<jskit:attribute key="IP" value="68.205.254.243"></jskit:attribute>
+			<jskit:attribute key="permalink" value="http://newsdev.jueseph.com/sciencenow/2010/03/no-sexual-confusion-for-chicken.html"></jskit:attribute>
+			<author>D. H.</author>
+			<jskit:attribute key="share_gfc" value="off"></jskit:attribute>
+			<jskit:attribute key="share_twitter" value="off"></jskit:attribute>
+			<jskit:attribute key="share_friendfeed" value="off"></jskit:attribute>
+			<jskit:attribute key="share_yahoo" value="off"></jskit:attribute>
+			<jskit:attribute key="Webpresence" value="[]"></jskit:attribute>
+			<description>What breed are those chickens?  We have long suspected that one of our white leghorns has some male characteristics, because of a larger crest and a sort-of wattle, and because every once in awhile a fertilized egg turns up.  The three chickens are penned in a large covered run, and unless a snake can fertilize a chicken, the nearest rooster is ten miles away.</description>
+			<jskit:attribute key="NotifyMode" value="noemail"></jskit:attribute>
+		</item>
+	</channel>
+</rss>

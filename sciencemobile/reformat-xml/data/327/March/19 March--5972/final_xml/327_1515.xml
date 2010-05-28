@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="research-article" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title><issn pub-type="ppub">0036-8075</issn><issn pub-type="epub">1095-9203</issn>
+<publisher><publisher-name>American Association for the Advancement of Science</publisher-name></publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">1184245</article-id>
+<article-id pub-id-type="doi">10.1126/science.1184245</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>Report</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Reports</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>reports</subject></subj-group>
+<subj-group subj-group-type="field"><subject>NEUROSCIENCE</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>A Critical Role for &#x03B1;4&#x03B2;&#x03B4; GABA<sub>A</sub> Receptors in Shaping Learning 
+Deficits at Puberty in Mice</article-title>
+</title-group>
+<contrib-group><contrib contrib-type="author"><name><surname>Shen</surname><given-names>Hui</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="fn" rid="afn1">*</xref></contrib><contrib contrib-type="author"><name><surname>Sabaliauskas</surname><given-names>Nicole</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="aff" rid="aff2"><sup>2</sup></xref><xref ref-type="fn" rid="afn1">*</xref></contrib><contrib contrib-type="author"><name><surname>Sherpa</surname><given-names>Ang</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="aff" rid="aff3"><sup>3</sup></xref></contrib><contrib contrib-type="author"><name><surname>Fenton</surname><given-names>Andr&#x00E9; A.</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="aff" rid="aff3"><sup>3</sup></xref><xref ref-type="aff" rid="aff4"><sup>4</sup></xref></contrib><contrib contrib-type="author"><name><surname>Stelzer</surname><given-names>Armin</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="aff" rid="aff3"><sup>3</sup></xref><xref ref-type="aff" rid="aff4"><sup>4</sup></xref></contrib><contrib contrib-type="author"><name><surname>Aoki</surname><given-names>Chiye</given-names></name><xref ref-type="aff" rid="aff2"><sup>2</sup></xref></contrib><contrib contrib-type="author" corresp="yes"><name><surname>Smith</surname><given-names>Sheryl S.</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="aff" rid="aff3"><sup>3</sup></xref><xref ref-type="aff" rid="aff4"><sup>4</sup></xref><xref ref-type="corresp" rid="cor1">&#x2020;</xref></contrib>
+<aff id="aff1"><label>1</label>Department of Physiology and Pharmacology, State University of New York (SUNY) Downstate Medical Center, 450 Clarkson Avenue, Brooklyn, NY 11203, USA.</aff>
+<aff id="aff2"><label>2</label>Center for Neural Science, New York University, 4 Washington Place, New York, NY 10003, USA.</aff>
+<aff id="aff3"><label>3</label>Program in Neural and Behavioral Science, SUNY Downstate Medical Center, 450 Clarkson Avenue, Brooklyn, NY 11203, USA.</aff>
+<aff id="aff4"><label>4</label>The Robert F. Furchgott Center for Neural and Behavioral Science, SUNY Downstate Medical Center, 450 Clarkson Avenue, Brooklyn, NY 11203, USA.</aff></contrib-group>
+<author-notes>
+<fn id="afn1"><label>*</label><p>These authors contributed equally to this work.</p>
+</fn>
+<corresp id="cor1"><label>&#x2020;</label>To whom correspondence should be addressed. E-mail: 
+<email xlink:href="sheryl.smith@downstate.edu">sheryl.smith@downstate.edu</email></corresp></author-notes>
+<pub-date pub-type="ppub"><day>19</day><month>03</month><year>2010</year></pub-date>
+<volume>327</volume>
+<issue>5972</issue>
+<fpage>1515</fpage>
+<lpage>1518</lpage>
+<history><date date-type="received"><day>04</day><month>11</month><year>2009</year></date><date date-type="accepted"><day>08</day><month>02</month><year>2010</year></date></history>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2010, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2010</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder></permissions>
+<abstract abstract-type="editor"><title>Puberty Impairs Plasticity</title><p>While the existence of a period of reduced learning coinciding with the onset of puberty in mice is well characterized, the underlying cellular and molecular mechanisms remain unclear. <bold>Shen <italic>et al.</italic></bold> (p. <related-article related-article-type="in-this-issue" vol="327" page="1515">1515</related-article>) assessed the role of specific &#x03B3;-aminobutyric acid type A (GABA<sub>A</sub>) receptors for restricting hippocampal plasticity during puberty. At puberty, but not in adults or the very young, GABA receptors containing the &#x03B1;4 and &#x03B4; subunits were targeted perisynaptically to excitatory synapses, shunting the depolarizing current necessary for <italic>N</italic>-methyl-<sc>d</sc>-aspartate (NMDA) receptor activation. As a consequence, signal transmission was affected and spatial learning reduced.</p></abstract>
+<abstract abstract-type="teaser"><p>Learning incapacity observed during puberty is related to receptor location in the hippocampus.</p></abstract>
+<abstract>
+<p>The onset of puberty defines a developmental stage when some learning processes are diminished, but the mechanism for this deficit remains unknown. We found that, at puberty, expression of inhibitory &#x03B1;4&#x03B2;&#x03B4; &#x03B3;-aminobutyric acid type A (GABA<sub>A</sub>) receptors (GABAR) increases perisynaptic to excitatory synapses in CA1 hippocampus. Shunting inhibition via these receptors reduced <italic>N</italic>-methyl-
+<sc>d</sc>-aspartate receptor activation, impairing induction of long-term potentiation (LTP). Pubertal mice also failed to learn a hippocampal, LTP-dependent spatial task that was easily acquired by &#x03B4;&#x2212;/&#x2212; mice. However, the stress steroid THP (3&#x03B1;OH-5&#x03B1;[&#x03B2;]-pregnan-20-one), which reduces tonic inhibition at puberty, facilitated learning. Thus, the emergence of &#x03B1;4&#x03B2;&#x03B4; GABARs at puberty impairs learning, an effect that can be reversed by a stress steroid.</p>
+</abstract>
+<custom-meta-wrap><custom-meta><meta-name>Editor</meta-name><meta-value>Peter Stern</meta-value></custom-meta><custom-meta><meta-name>Copyeditor</meta-name><meta-value>Lauren Kmec</meta-value></custom-meta></custom-meta-wrap>
+</article-meta>
+</front>
+<body>
+<p>Certain learning and cognitive processes decline at the onset of puberty (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>&#x2013;<xref ref-type="bibr" rid="R3"><italic>3</italic></xref>). The pubertal process that shapes this developmental decline is unknown but is likely to involve the hippocampus, which is widely regarded as the site for learning (<xref ref-type="bibr" rid="R4"><italic>4</italic></xref>&#x2013;<xref ref-type="bibr" rid="R6"><italic>6</italic></xref>). In addition to excitatory input, the inhibitory GABAergic (GABA, &#x03B3;-aminobutyric acid) system plays a pivotal role in shaping developmental plasticity, as in the visual cortex (<xref ref-type="bibr" rid="R7"><italic>7</italic></xref>), where drugs that target the &#x03B3;-aminobutyric acid type A (GABA<sub>A</sub>) receptor (GABAR) alter the timing of the critical period. The GABAR mediates most central nervous system inhibition and consists of diverse subtypes with distinct properties. Of these, &#x03B1;4&#x03B2;&#x03B4; GABARs increase at pubertal onset in the mouse hippocampus (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>), suggesting that they may shape plasticity here.</p>
+<p>We employed immunocytochemical, electron microscopic techniques (<xref ref-type="bibr" rid="R9"><italic>9</italic></xref>) to localize and quantify &#x03B1;4 and &#x03B4; GABAR subunits on CA1 hippocampal pyramidal cells across the pubertal state of female mice, because females exhibit greater deficits in learning at puberty than males (<xref ref-type="bibr" rid="R10"><italic>10</italic></xref>, <xref ref-type="bibr" rid="R11"><italic>11</italic></xref>). We detected immunostaining of both subunits perisynaptic to asymmetric synapses on the plasma membrane of spines of the apical dendrite, which increased up to 700% at puberty (<xref ref-type="fig" rid="F1">Fig. 1, A to C</xref>, and fig. S1; &#x03B1;4, <italic>P</italic> = 0.0048; &#x03B4;, <italic>P</italic> = 0.00091) (<xref ref-type="bibr" rid="R9"><italic>9</italic></xref>). In contrast, &#x03B1;4 and &#x03B4; immunoreactivity on the dendritic shaft increased by less than 100% at puberty (fig. S2). Functional expression of &#x03B4;-containing GABAR at puberty was demonstrated by robust responses of pyramidal cells at puberty to 100 nM gaboxadol, which, at this concentration, is selective for this receptor (<xref ref-type="fig" rid="F1">Fig. 1, D and E</xref>) (<xref ref-type="bibr" rid="R12"><italic>12</italic></xref>). Gaboxadol had no effect before puberty and only a modest effect in the adult hippocampus (<xref ref-type="fig" rid="F1">Fig. 1, D and E</xref>), where &#x03B1;4 and &#x03B4; expression is lower than at puberty (fig. S3).</p>
+<fig id="F1" position="float" fig-type="figure"><label>Fig. 1</label><caption><p>&#x03B1;4 and &#x03B4; GABA<sub>A</sub> receptor subunit expression increases on dendritic spine membranes of CA1 hippocampal pyramidal cells at puberty. (<bold>A</bold>) &#x03B1;4 and (<bold>B</bold>) &#x03B4; silver-intensified immunogold labeling (SIG) occurs along the plasma membrane of spines forming excitatory synapses. Shafts also exhibit immunoreactivity. Asterisks, postsynaptic density; t1 to t3, presynaptic axon terminals; a, nonsynaptic axons. In (B), the neck connects the labeled shaft with the spine. Scale bar, 500 nm. Arrowheads indicate SIG immunolabeling of the indicated GABAR subunits. (<bold>C</bold>) Proportion of labeled spines (upper panel: &#x03B1;4, *<italic>P</italic> &lt; 0.018; &#x03B4;, **<italic>P</italic> = 0.002) and immunoreactivity per spine (lower panel: &#x03B1;4,*<italic>P</italic> &lt; 0.005, &#x03B4;, **<italic>P</italic> = 0.00091) increase at puberty (Pub) relative to prepuberty (Pre-pub) (<xref ref-type="bibr" rid="R9"><italic>9</italic></xref>). Error bars indicate SE of the mean. (<bold>D</bold>) Representative pyramidal-cell currents in response to the GABA agonist gaboxadol (applied continuously, arrows) and the GABAR antagonist SR95531 (applied continuously, arrows). Scale, 50 pA, 50 s. (<bold>E</bold>) Averaged data. *<italic>P</italic> = 0.0002, **<italic>P</italic> = 0.02, Pub versus Pre-pub.</p>
+</caption>
+<graphic xlink:href="327_1515_F1"></graphic></fig>
+<p>Extrasynaptic &#x03B1;4&#x03B2;2&#x03B4; GABARs on spines could impair voltage-triggered Mg++ unblock of <italic>N</italic>-methyl-
+<sc>d</sc>-aspartate (NMDA) receptors. Thus, we used whole-cell voltage clamp techniques with blockade of synaptic GABARs (<xref ref-type="bibr" rid="R13"><italic>13</italic></xref>) to record evoked NMDA excitatory postsynaptic currents (EPSCs) from CA1 pyramidal cells. The threshold for triggering NMDA current was increased by 100 &#x03BC;A in CA1 hippocampal pyramidal cells at puberty (<xref ref-type="fig" rid="F2">Fig. 2, A and B</xref>; <italic>P</italic> = 0.0009), whereas maximum current amplitudes decreased by 80% (<xref ref-type="fig" rid="F2">Fig. 2A</xref> and fig. S4; <italic>P</italic> &lt; 0.05). In contrast, NMDA EPSCs from the pubertal &#x03B4;&#x2212;/&#x2212; hippocampus were similar to those from the prepubertal hippocampus (<xref ref-type="fig" rid="F2">Fig. 2B</xref>), as were NMDA EPSCs under complete GABAR blockade (fig. S5).</p>
+<fig id="F2" position="float" fig-type="figure"><label>Fig. 2</label><caption><p>NMDA current is decreased at puberty in CA1 hippocampal pyramidal cells: reversal by THP. (<bold>A</bold>) (Left) Representative traces, evoked (100 &#x03BC;A) NMDA current (0.05 Hz; Pre-pub, above; Pub, below) recorded at &#x2013;60 mV. Scale, 15 pA, 100 ms. (Right) 300 &#x03BC;A stimulation; Pub +/+, above; Pub &#x03B4;&#x2212;/&#x2212;, below. Scale for +/+, 20 pA, 100 ms; for &#x2212;/&#x2212;, 20 pA, 250 ms. Amplitudes decreased at puberty, but were restored by THP and &#x03B4; knock-out. (<bold>B</bold>) NMDA EPSC amplitude with increasing stimulation intensities (Pre-pub, black squares; +THP, open squares; Pub, black triangle; +THP, open triangle; Pub &#x03B4;&#x2212;/&#x2212;, orange; +THP, blue). *<italic>P</italic> &lt; 0.05, Pre-pub versus Pub. Error bars indicate SE of the mean. (<bold>C</bold> to <bold>F</bold>) Representative traces [(C) and (E)] and summary data [(D) and (F)] of evoked EPSPs (whole-cell current clamp, black; +THP, red) and NMDA EPSPs (blue; +THP, yellow). Scale, 1mV, 100 ms. With synaptic GABAergic current blockade [200 nM SR95531 (<xref ref-type="bibr" rid="R13"><italic>13</italic></xref>), (C) and (D)], the NMDA/AMPA ratio was reduced at puberty (*<italic>P</italic> &lt; 0.05 versus all other groups, **<italic>P</italic> &lt; 0.05 versus pre-Pub, Pub). (E and F) Complete GABAR blockade. (<bold>G</bold>) Representative EPSC responses to paired stimuli were unaltered across groups. (<bold>H</bold>) Summary, paired pulse ratio. Scale, 50 pA, 100 ms.</p>
+</caption>
+<graphic xlink:href="327_1515_F2"></graphic></fig>
+<p>With whole-cell current clamp recordings under synaptic GABAR blockade, the NMDA/AMPA ratio (<xref ref-type="fig" rid="F2">Fig. 2</xref>) was markedly reduced at puberty (0.02), as compared with adult (0.09) and prepubertal (0.14) values (<italic>P</italic> = 0.007). However, under complete GABAR blockade, nearly identical NMDA/AMPA ratios of excitatory postsynaptic potentials (EPSPs) or EPSCs were observed before and after puberty (<xref ref-type="fig" rid="F2">Fig. 2, E and F</xref>, and fig. S5).</p>
+<p>Stress steroids (<xref ref-type="bibr" rid="R14"><italic>14</italic></xref>, <xref ref-type="bibr" rid="R15"><italic>15</italic></xref>) such as THP enhance inward current at &#x03B1;4&#x03B2;2&#x03B4; GABAR (<xref ref-type="bibr" rid="R12"><italic>12</italic></xref>, <xref ref-type="bibr" rid="R16"><italic>16</italic></xref>&#x2013;<xref ref-type="bibr" rid="R19"><italic>19</italic></xref>), while reducing outward current (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>) by polarity-dependent desensitization (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>, <xref ref-type="bibr" rid="R16"><italic>16</italic></xref>). Therefore, THP should facilitate NMDA EPSCs in CA1 at puberty, when GABAergic current is outward (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>), but not before puberty, when it is inward (fig. S6).</p>
+<p>30 nM THP reduced the threshold and increased amplitudes of NMDA EPSCs and EPSPs at puberty (<xref ref-type="fig" rid="F2">Fig. 2, A, C, and D</xref>, and fig. S4; <italic>P</italic> = 0.05). In contrast, THP modestly reduced NMDA currents in the prepubertal and adult hippocampus (<xref ref-type="fig" rid="F2">Fig. 2, A and B</xref>), where THP is inhibitory (fig. S7) (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>). Importantly, THP had no effect on the NMDA/AMPA ratio under total GABAR blockade (<xref ref-type="fig" rid="F2">Fig. 2, E and F</xref>) or in the pubertal &#x03B4;&#x2212;/&#x2212; hippocampus (<xref ref-type="fig" rid="F2">Fig. 2, A and B</xref>). The paired pulse ratio was unchanged by THP at puberty (<xref ref-type="fig" rid="F2">Fig. 2, G and H</xref>), indicating that THP was not altering glutamate release.</p>
+<p>Because NMDA receptors are essential for long-term potentiation (LTP), an in vitro model of learning (<xref ref-type="bibr" rid="R6"><italic>6</italic></xref>, <xref ref-type="bibr" rid="R20"><italic>20</italic></xref>, <xref ref-type="bibr" rid="R21"><italic>21</italic></xref>), we examined whether puberty onset impaired LTP induced by theta-burst stimulation (TBS) (figs. S8 and S9) of the Schaffer collaterals (<xref ref-type="bibr" rid="R20"><italic>20</italic></xref>). TBS induced NMDA receptor&#x2013;dependent LTP (<xref ref-type="fig" rid="F3">Fig. 3A</xref> and fig. S10) in both the prepubertal and adult hippocampus, with more success before puberty (<xref ref-type="fig" rid="F3">Fig. 3A</xref>; <italic>P</italic> = 0.00018). However, LTP was not induced at puberty (<xref ref-type="fig" rid="F3">Fig. 3A</xref>; <italic>P</italic> = 0.002 versus prepuberty). In contrast, LTP was robustly produced under complete GABAR blockade (<xref ref-type="fig" rid="F3">Fig. 3C</xref>), as well as in the pubertal &#x03B4;&#x2212;/&#x2212; hippocampus (<xref ref-type="fig" rid="F3">Fig. 3B</xref>). In adults, induction of LTP was of similar magnitude in wild-type (WT) and &#x03B4;&#x2212;/&#x2212; mice (<xref ref-type="fig" rid="F3">Fig. 3, A and D</xref>).</p>
+<fig id="F3" position="float" fig-type="figure"><label>Fig. 3</label><caption><p>LTP induction is attenuated at puberty: reversal by the stress steroid THP. (<bold>A</bold>) TBS (dashed line) induced LTP (black) before puberty (Pre-pub, left) and in adult (right), but not in the pubertal (Pub, middle) CA1 hippocampus. THP (red, 30 nM) permitted LTP induction at puberty. (Inset) Representative field EPSPs. TBS, arrow. Scale, 0.5 mV, 50 ms. (<bold>B</bold>) Pubertal &#x03B4;&#x2212;/&#x2212;. (<bold>C</bold>) Complete GABAR blockade (Pre-pub, black; Pub, blue). (<bold>D</bold>) Adult &#x03B4;&#x2212;/&#x2212;. (<bold>E</bold>) Local application of THP (arrow) to stratum radiatum during TBS under synaptic GABA blockade. (<bold>F</bold>) THP (arrows) applied before TBS and after TBS (Pub).</p>
+</caption>
+<graphic xlink:href="327_1515_F3"></graphic></fig>
+<p>Because THP facilitated NMDA receptor activation at puberty, we predicted it would also facilitate LTP. Indeed, 30 nM THP restored LTP at puberty (<xref ref-type="fig" rid="F3">Fig. 3A</xref>), whereas it reduced LTP before puberty. In contrast, its inactive &#x03B2;OH-isomer (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>), which blocks THP&#x2019;s effects (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>), prevented LTP induction when administered before THP (fig. S11).</p>
+<p>Synaptic GABAR blockade did not reverse the deficit in LTP induction at puberty, nor did it prevent LTP induction by local dendritic application of THP during TBS (<xref ref-type="fig" rid="F3">Fig. 3D</xref>). Application of THP 5 min after LTP induction had no effect (<xref ref-type="fig" rid="F3">Fig. 3E</xref>), verifying that THP was facilitating LTP induction rather than maintenance.</p>
+<p>We tested whether spatial learning would be impaired at puberty using a hippocampus-dependent spatial learning task that requires LTP for memory storage (<xref ref-type="bibr" rid="R6"><italic>6</italic></xref>, <xref ref-type="bibr" rid="R22"><italic>22</italic></xref>) and produces minimal stress compared with other tasks (<xref ref-type="bibr" rid="R23"><italic>23</italic></xref>). Mice were trained across three sessions to avoid a moving zone (0.3 mA; <xref ref-type="fig" rid="F4">Fig. 4A</xref>), which delivered a minimal foot-shock subthreshold for stress steroid release (<xref ref-type="bibr" rid="R24"><italic>24</italic></xref>). The time to first enter the zone was recorded as a measure of learning.</p>
+<fig id="F4" position="float" fig-type="figure"><label>Fig. 4</label><caption><p>Spatial learning is attenuated at puberty: reversal by the stress steroid THP. (<bold>A</bold>) Spatial learning platform (shock zone, black sector). (<bold>B</bold>) Times for first entry of the shock zone. Pre-pub mice attained the longest entry times. Pre-pub, black square; +THP, open circle; Pub, black triangle; +THP, open triangle (*Pre-pub versus Pre-pub +THP, Pub, <italic>P</italic> &lt; 0.05; *Pub versus Pub +THP, <italic>P</italic> &lt; 0.05, Tukey&#x2019;s test). Error bars indicate SE of the mean. (<bold>C</bold>) Time to reach criterion (120 s) indicated for each group (numbers, best entry time). Vehicle, white bars; THP, hatched bars. *<italic>P</italic> &lt; 0.05 Pre-pub versus Pub; **<italic>P</italic> &lt; 0.05 versus vehicle. (<bold>D</bold>) Longest first entry time for Pub +/+ and &#x03B4;&#x2212;/&#x2212; mice after vehicle or THP (vehicle, white bars; THP, hatched bars). *<italic>P</italic> &lt; 0.05 versus &#x03B4;&#x2212;/&#x2212; vehicle; **<italic>P</italic> &lt; 0.05 versus +/+ THP.</p>
+</caption>
+<graphic xlink:href="327_1515_F4"></graphic></fig>
+<p>We found that puberty impaired learning: The time to enter the shock zone decreased by 70% (<xref ref-type="fig" rid="F4">Fig. 4B</xref>; <italic>P</italic> &lt; 0.05), and fewer animals learned (fig. S12) compared with prepubertal WT and pubertal &#x03B4;&#x2212;/&#x2212; mice (<xref ref-type="fig" rid="F4">Fig. 4</xref>). THP (10 mg/kg intraperitoneally) completely reversed the learning deficit at puberty (<xref ref-type="fig" rid="F4">Fig. 4, B and C</xref>), whereas it impaired learning before puberty. In contrast, the number of shocks per entry was unaltered across groups (fig. S13), indicating that the shock was equally aversive for all animals. In contrast to pubertal mice, both WT and &#x03B4;&#x2212;/&#x2212; adults learned shock avoidance, but not as well as did prepubertal mice (<xref ref-type="fig" rid="F4">Fig. 4C</xref>).</p>
+<p>Although effects of puberty on synaptic plasticity have not been studied previously, the development of LTP in the CA1 hippocampus is maximal at ~3 weeks of age (<xref ref-type="bibr" rid="R25"><italic>25</italic></xref>&#x2013;<xref ref-type="bibr" rid="R27"><italic>27</italic></xref>). In the absence of GABAR blockade, LTP declines around 35 to 45 postnatal days (<xref ref-type="bibr" rid="R27"><italic>27</italic></xref>), consistent with puberty onset. This developmental time course is also reflected behaviorally (<xref ref-type="bibr" rid="R11"><italic>11</italic></xref>). Thus, increased expression of extrasynaptic &#x03B1;4&#x03B2;&#x03B4; GABAR at puberty may represent the mechanism for this decline.</p>
+<p>LTP induction requires voltage-triggered Mg++ unblock of the NMDA receptor (<xref ref-type="bibr" rid="R28"><italic>28</italic></xref>), where local depolarization (<xref ref-type="bibr" rid="R29"><italic>29</italic></xref>) has a greater effect on LTP induction than back-propagating action potentials. In this context, a GABAR shunting inhibition on spines, where we observe the greatest increase in &#x03B1;4&#x03B2;&#x03B4; expression, would be more effective at impairing NMDA receptor activation than inhibition on the dendritic shaft. In the visual system, increased activity of fast-spiking basket cells targeting &#x03B1;1 receptors delimits the critical period (<xref ref-type="bibr" rid="R7"><italic>7</italic></xref>). Taken together, these results suggest that diverse types of GABA inhibition shape plasticity during development.</p>
+<p>In the adult, drugs that alter GABAR function also alter plasticity (<xref ref-type="bibr" rid="R30"><italic>30</italic></xref>&#x2013;<xref ref-type="bibr" rid="R33"><italic>33</italic></xref>), probably mediated by dendritic &#x03B1;5-containing GABARs (<xref ref-type="bibr" rid="R31"><italic>31</italic></xref>, <xref ref-type="bibr" rid="R33"><italic>33</italic></xref>), which localize at spines and modify learning (<xref ref-type="bibr" rid="R34"><italic>34</italic></xref>, <xref ref-type="bibr" rid="R35"><italic>35</italic></xref>). &#x03B1;4&#x03B2;&#x03B4; GABARs did not play a role in adult synaptic plasticity, when their expression is low (<xref ref-type="bibr" rid="R36"><italic>36</italic></xref>), and learning and LTP induction in &#x03B4;&#x2212;/&#x2212; mice were similar to that in WT animals.</p>
+<p>The learning deficit at puberty is acutely reversed by the stress steroid THP via its inhibition of &#x03B1;4&#x03B2;&#x03B4; GABAR, in contrast to its typical impairment of learning at other ages (<xref ref-type="bibr" rid="R30"><italic>30</italic></xref>). THP effects are distinguishable from corticosterone, which alters learning after a delay (<xref ref-type="bibr" rid="R37"><italic>37</italic></xref>, <xref ref-type="bibr" rid="R38"><italic>38</italic></xref>) but has no effect acutely (<xref ref-type="bibr" rid="R39"><italic>39</italic></xref>). Thus, the stress steroid THP provides a novel means for rapid changes in synaptic plasticity at puberty.</p>
+</body>
+<back>
+<app-group>
+<app>
+<title>Supporting Online Material</title>
+<supplementary-material>
+<p><ext-link ext-link-type="uri" xlink:href="http://www.sciencemag.org/cgi/content/full/327/5972/1515/DC1">www.sciencemag.org/cgi/content/full/327/5972/1515/DC1</ext-link></p>
+<p>Materials and Methods</p>
+<p>SOM Text</p>
+<p>Figs. S1 to S13</p>
+<p>References</p>
+</supplementary-material></app></app-group>
+<ref-list>
+<title>References and Notes</title>
+<ref id="R1"><label>1</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Johnson</surname><given-names>J. S.</given-names></name><name><surname>Newport</surname><given-names>E. L.</given-names></name></person-group>, 
+<article-title>Critical period effects in second language learning: the influence of maturational state on the acquisition of English as a second language</article-title>. 
+<source>Cognit. Psychol.</source> 
+<volume>21</volume>, 
+<fpage>60</fpage> (<year>1989</year>). 
+<pub-id pub-id-type="doi">10.1016/0010-0285(89)90003-0</pub-id>
+<pub-id pub-id-type="pmid">2920538</pub-id></citation></ref>
+<ref id="R2"><label>2</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Subrahmanyam</surname><given-names>K.</given-names></name><name><surname>Greenfield</surname><given-names>P.</given-names></name></person-group>, 
+<article-title>Effect of video game practice on spatial skills in girls and boys</article-title>. 
+<source>J. Appl. Dev. Psychol.</source> 
+<volume>15</volume>, 
+<fpage>13</fpage> (<year>1994</year>). 
+<pub-id pub-id-type="doi">10.1016/0193-3973(94)90004-3</pub-id></citation></ref>
+<ref id="R3"><label>3</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>McGivern</surname><given-names>R. F.</given-names></name><name><surname>Andersen</surname><given-names>J.</given-names></name><name><surname>Byrd</surname><given-names>D.</given-names></name><name><surname>Mutter</surname><given-names>K. L.</given-names></name><name><surname>Reilly</surname><given-names>J.</given-names></name></person-group>, 
+<article-title>Cognitive efficiency on a match to sample task decreases at the onset of puberty in children</article-title>. 
+<source>Brain Cogn.</source> 
+<volume>50</volume>, 
+<fpage>73</fpage> (<year>2002</year>). 
+<pub-id pub-id-type="doi">10.1016/S0278-2626(02)00012-X</pub-id>
+<pub-id pub-id-type="pmid">12372353</pub-id></citation></ref>
+<ref id="R4"><label>4</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Bannerman</surname><given-names>D. M.</given-names></name><etal /></person-group>., 
+<article-title>Regional dissociations within the hippocampus&#x2014;memory and anxiety</article-title>. 
+<source>Neurosci. Biobehav. Rev.</source> 
+<volume>28</volume>, 
+<fpage>273</fpage> (<year>2004</year>). 
+<pub-id pub-id-type="doi">10.1016/j.neubiorev.2004.03.004</pub-id>
+<pub-id pub-id-type="pmid">15225971</pub-id></citation></ref>
+<ref id="R5"><label>5</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Burgess</surname><given-names>N.</given-names></name><name><surname>Maguire</surname><given-names>E. A.</given-names></name><name><surname>O&#x2019;Keefe</surname><given-names>J.</given-names></name></person-group>, 
+<article-title>The human hippocampus and spatial and episodic memory</article-title>. 
+<source>Neuron</source> 
+<volume>35</volume>, 
+<fpage>625</fpage> (<year>2002</year>). 
+<pub-id pub-id-type="doi">10.1016/S0896-6273(02)00830-9</pub-id>
+<pub-id pub-id-type="pmid">12194864</pub-id></citation></ref>
+<ref id="R6"><label>6</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Pastalkova</surname><given-names>E.</given-names></name><etal /></person-group>., 
+<article-title>Storage of spatial information by the maintenance mechanism of LTP</article-title>. 
+<source>Science</source> 
+<volume>313</volume>, 
+<fpage>1141</fpage> (<year>2006</year>). 
+<pub-id pub-id-type="doi">10.1126/science.1128657</pub-id>
+<pub-id pub-id-type="pmid">16931766</pub-id></citation></ref>
+<ref id="R7"><label>7</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Fagiolini</surname><given-names>M.</given-names></name><etal /></person-group>., 
+<article-title>Specific GABA<sub>A</sub> circuits for visual cortical plasticity</article-title>. 
+<source>Science</source> 
+<volume>303</volume>, 
+<fpage>1681</fpage> (<year>2004</year>). 
+<pub-id pub-id-type="doi">10.1126/science.1091032</pub-id>
+<pub-id pub-id-type="pmid">15017002</pub-id></citation></ref>
+<ref id="R8"><label>8</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Shen</surname><given-names>H.</given-names></name><etal /></person-group>., 
+<article-title>Reversal of neurosteroid effects at &#x03B1;4&#x03B2;2&#x03B4; GABA<sub>A</sub> receptors triggers anxiety at puberty</article-title>. 
+<source>Nat. Neurosci.</source> 
+<volume>10</volume>, 
+<fpage>469</fpage> (<year>2007</year>).
+<pub-id pub-id-type="pmid">17351635</pub-id></citation></ref>
+<ref id="R9">
+<note><label>9</label><p>Materials and methods and complete statistics are available as supporting material on <italic>Science</italic> Online.</p>
+</note></ref>
+<ref id="R10"><label>10</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Hassler</surname><given-names>M.</given-names></name></person-group>, 
+<article-title>Maturation rate and spatial, verbal, and musical abilities: A seven-year-longitudinal study</article-title>. 
+<source>Int. J. Neurosci.</source> 
+<volume>58</volume>, 
+<fpage>183</fpage> (<year>1991</year>). 
+<pub-id pub-id-type="doi">10.3109/00207459108985434</pub-id>
+<pub-id pub-id-type="pmid">1365041</pub-id></citation></ref>
+<ref id="R11"><label>11</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Krasnoff</surname><given-names>A.</given-names></name><name><surname>Weston</surname><given-names>L. M.</given-names></name></person-group>, 
+<article-title>Puberal status and sex differences: Activity and maze behavior in rats</article-title>. 
+<source>Dev. Psychobiol.</source> 
+<volume>9</volume>, 
+<fpage>261</fpage> (<year>1976</year>). 
+<pub-id pub-id-type="doi">10.1002/dev.420090310</pub-id>
+<pub-id pub-id-type="pmid">986331</pub-id></citation></ref>
+<ref id="R12"><label>12</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Brown</surname><given-names>N.</given-names></name><name><surname>Kerby</surname><given-names>J.</given-names></name><name><surname>Bonnert</surname><given-names>T. P.</given-names></name><name><surname>Whiting</surname><given-names>P. J.</given-names></name><name><surname>Wafford</surname><given-names>K. A.</given-names></name></person-group>, 
+<article-title>Pharmacological characterization of a novel cell line expressing human &#x03B1;4&#x03B2;3&#x03B4; GABA<sub>A</sub> receptors</article-title>. 
+<source>Br. J. Pharmacol.</source> 
+<volume>136</volume>, 
+<fpage>965</fpage> (<year>2002</year>). 
+<pub-id pub-id-type="doi">10.1038/sj.bjp.0704795</pub-id>
+<pub-id pub-id-type="pmid">12145096</pub-id></citation></ref>
+<ref id="R13"><label>13</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Stell</surname><given-names>B. M.</given-names></name><name><surname>Mody</surname><given-names>I.</given-names></name></person-group>, 
+<article-title>Receptors with different affinities mediate phasic and tonic GABA<sub>A</sub> conductances in hippocampal neurons</article-title>. 
+<source>J. Neurosci.</source> 
+<volume>22</volume>, 
+<fpage>RC223</fpage> (<year>2002</year>).
+<pub-id pub-id-type="pmid">12006605</pub-id></citation></ref>
+<ref id="R14"><label>14</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Purdy</surname><given-names>R. H.</given-names></name><name><surname>Morrow</surname><given-names>A. L.</given-names></name><name><surname>Moore</surname><given-names>P. H.</given-names><suffix>Jr.</suffix></name><name><surname>Paul</surname><given-names>S. M.</given-names></name></person-group>, 
+<article-title>Stress-induced elevations of gamma-aminobutyric acid type A receptor-active steroids in the rat brain</article-title>. 
+<source>Proc. Natl. Acad. Sci. U.S.A.</source> 
+<volume>88</volume>, 
+<fpage>4553</fpage> (<year>1991</year>). 
+<pub-id pub-id-type="doi">10.1073/pnas.88.10.4553</pub-id>
+<pub-id pub-id-type="pmid">1852011</pub-id></citation></ref>
+<ref id="R15"><label>15</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Girdler</surname><given-names>S. S.</given-names></name><name><surname>Straneva</surname><given-names>P. A.</given-names></name><name><surname>Light</surname><given-names>K. C.</given-names></name><name><surname>Pedersen</surname><given-names>C. A.</given-names></name><name><surname>Morrow</surname><given-names>A. L.</given-names></name></person-group>, 
+<article-title>Allopregnanolone levels and reactivity to mental stress in premenstrual dysphoric disorder</article-title>. 
+<source>Biol. Psychol.</source> 
+<volume>49</volume>, 
+<fpage>788</fpage> (<year>2001</year>). 
+<pub-id pub-id-type="doi">10.1016/S0006-3223(00)01044-1</pub-id></citation></ref>
+<ref id="R16"><label>16</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Bianchi</surname><given-names>M. T.</given-names></name><name><surname>Haas</surname><given-names>K. F.</given-names></name><name><surname>Macdonald</surname><given-names>R. L.</given-names></name></person-group>, 
+<article-title>&#x03B1;1 and &#x03B1;6 subunits specify distinct desensitization, deactivation and neurosteroid modulation of GABA<sub>A</sub> receptors containing the &#x03B4; subunit</article-title>. 
+<source>Neuropharmacology</source> 
+<volume>43</volume>, 
+<fpage>492</fpage> (<year>2002</year>). 
+<pub-id pub-id-type="doi">10.1016/S0028-3908(02)00163-6</pub-id></citation></ref>
+<ref id="R17"><label>17</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Belelli</surname><given-names>D.</given-names></name><name><surname>Casula</surname><given-names>A.</given-names></name><name><surname>Ling</surname><given-names>A.</given-names></name><name><surname>Lambert</surname><given-names>J. J.</given-names></name></person-group>, 
+<article-title>The influence of subunit composition on the interaction of neurosteroids with GABA<sub>A</sub> receptors</article-title>. 
+<source>Neuropharmacology</source> 
+<volume>43</volume>, 
+<fpage>651</fpage> (<year>2002</year>). 
+<pub-id pub-id-type="doi">10.1016/S0028-3908(02)00172-7</pub-id></citation></ref>
+<ref id="R18"><label>18</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Stell</surname><given-names>B. M.</given-names></name><name><surname>Brickley</surname><given-names>S. G.</given-names></name><name><surname>Tang</surname><given-names>C. Y.</given-names></name><name><surname>Farrant</surname><given-names>M.</given-names></name><name><surname>Mody</surname><given-names>I.</given-names></name></person-group>, 
+<article-title>Neuroactive steroids reduce neuronal excitability by selectively enhancing tonic inhibition mediated by &#x03B4; subunit-containing GABA<sub>A</sub> receptors</article-title>. 
+<source>Proc. Natl. Acad. Sci. U.S.A.</source> 
+<volume>100</volume>, 
+<fpage>14439</fpage> (<year>2003</year>). 
+<pub-id pub-id-type="doi">10.1073/pnas.2435457100</pub-id>
+<pub-id pub-id-type="pmid">14623958</pub-id></citation></ref>
+<ref id="R19"><label>19</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Maguire</surname><given-names>J. L.</given-names></name><name><surname>Stell</surname><given-names>B. M.</given-names></name><name><surname>Rafizadeh</surname><given-names>M.</given-names></name><name><surname>Mody</surname><given-names>I.</given-names></name></person-group>, 
+<article-title>Ovarian cycle-linked changes in GABA<sub>A</sub> receptors mediating tonic inhibition alter seizure susceptibility and anxiety</article-title>. 
+<source>Nat. Neurosci.</source> 
+<volume>8</volume>, 
+<fpage>797</fpage> (<year>2005</year>). 
+<pub-id pub-id-type="doi">10.1038/nn1469</pub-id>
+<pub-id pub-id-type="pmid">15895085</pub-id></citation></ref>
+<ref id="R20"><label>20</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Larson</surname><given-names>J.</given-names></name><name><surname>Wong</surname><given-names>D.</given-names></name><name><surname>Lynch</surname><given-names>G.</given-names></name></person-group>, 
+<article-title>Patterned stimulation at the theta frequency is optimal for the induction of hippocampal long-term potention</article-title>. 
+<source>Brain Res.</source> 
+<volume>386</volume>, 
+<fpage>347</fpage> (<year>1986</year>). 
+<pub-id pub-id-type="doi">10.1111/j.1469-7793.1999.0693n.x</pub-id>
+<pub-id pub-id-type="pmid">10457084</pub-id></citation></ref>
+<ref id="R21"><label>21</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Bliss</surname><given-names>T. V.</given-names></name><name><surname>Collingridge</surname><given-names>G. L.</given-names></name></person-group>, 
+<article-title>A synaptic model of memory: Long-term potentiation in the hippocampus</article-title>. 
+<source>Nature</source> 
+<volume>361</volume>, 
+<fpage>31</fpage> (<year>1993</year>). 
+<pub-id pub-id-type="doi">10.1038/361031a0</pub-id>
+<pub-id pub-id-type="pmid">8421494</pub-id></citation></ref>
+<ref id="R22"><label>22</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Cimadevilla</surname><given-names>J. M.</given-names></name><name><surname>Wesierska</surname><given-names>M.</given-names></name><name><surname>Fenton</surname><given-names>A. A.</given-names></name><name><surname>Bures</surname><given-names>J.</given-names></name></person-group>, 
+<article-title>Inactivating one hippocampus impairs avoidance of a stable room-defined place during dissociation of arena cues from room cues by rotation of the arena</article-title>. 
+<source>Proc. Natl. Acad. Sci. U.S.A.</source> 
+<volume>98</volume>, 
+<fpage>3531</fpage> (<year>2001</year>). 
+<pub-id pub-id-type="doi">10.1073/pnas.051628398</pub-id></citation></ref>
+<ref id="R23"><label>23</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Harrison</surname><given-names>F. E.</given-names></name><name><surname>Hosseini</surname><given-names>A. H.</given-names></name><name><surname>McDonald</surname><given-names>M. P.</given-names></name></person-group>, 
+<article-title>Endogenous anxiety and stress responses in water maze and Barnes maze spatial memory tasks</article-title>. 
+<source>Behav. Brain Res.</source> 
+<volume>198</volume>, 
+<fpage>247</fpage> (<year>2009</year>). 
+<pub-id pub-id-type="doi">10.1016/j.bbr.2008.10.015</pub-id>
+<pub-id pub-id-type="pmid">18996418</pub-id></citation></ref>
+<ref id="R24"><label>24</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Friedman</surname><given-names>S. B.</given-names></name><name><surname>Ader</surname><given-names>R.</given-names></name><name><surname>Grota</surname><given-names>L. J.</given-names></name><name><surname>Larson</surname><given-names>T.</given-names></name></person-group>, 
+<article-title>Plasma corticosterone response to parameters of electric shock stimulation in the rat</article-title>. 
+<source>Psychosom. Med.</source> 
+<volume>29</volume>, 
+<fpage>323</fpage> (<year>1967</year>).
+<pub-id pub-id-type="pmid">6059909</pub-id></citation></ref>
+<ref id="R25"><label>25</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Dudek</surname><given-names>S. M.</given-names></name><name><surname>Bear</surname><given-names>M. F.</given-names></name></person-group>, 
+<article-title>Bidirectional long-term modification of synaptic effectiveness in the adult and immature hippocampus</article-title>. 
+<source>J. Neurosci.</source> 
+<volume>13</volume>, 
+<fpage>2910</fpage> (<year>1993</year>).
+<pub-id pub-id-type="pmid">8331379</pub-id></citation></ref>
+<ref id="R26"><label>26</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Izumi</surname><given-names>Y.</given-names></name><name><surname>Zorumski</surname><given-names>C. F.</given-names></name></person-group>, 
+<article-title>Developmental changes in long-term potentiation in CA1 of rat hippocampal slices</article-title>. 
+<source>Synapse</source> 
+<volume>20</volume>, 
+<fpage>19</fpage> (<year>1995</year>). 
+<pub-id pub-id-type="doi">10.1002/syn.890200104</pub-id>
+<pub-id pub-id-type="pmid">7624825</pub-id></citation></ref>
+<ref id="R27"><label>27</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Meredith</surname><given-names>R. M.</given-names></name><name><surname>Floyer-Lea</surname><given-names>A. M.</given-names></name><name><surname>Paulsen</surname><given-names>O.</given-names></name></person-group>, 
+<article-title>Maturation of long-term potentiation induction rules in rodent hippocampus: role of GABAergic inhibition</article-title>. 
+<source>J. Neurosci.</source> 
+<volume>23</volume>, 
+<fpage>11142</fpage> (<year>2003</year>).
+<pub-id pub-id-type="pmid">14657173</pub-id></citation></ref>
+<ref id="R28"><label>28</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Herron</surname><given-names>C. E.</given-names></name><name><surname>Lester</surname><given-names>R. A.</given-names></name><name><surname>Coan</surname><given-names>E. J.</given-names></name><name><surname>Collingridge</surname><given-names>G. L.</given-names></name></person-group>, 
+<article-title>Frequency-dependent involvement of NMDA receptors in the hippocampus: A novel synaptic mechanism</article-title>. 
+<source>Nature</source> 
+<volume>322</volume>, 
+<fpage>265</fpage> (<year>1986</year>). 
+<pub-id pub-id-type="doi">10.1038/322265a0</pub-id>
+<pub-id pub-id-type="pmid">2874493</pub-id></citation></ref>
+<ref id="R29"><label>29</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Hardie</surname><given-names>J.</given-names></name><name><surname>Spruston</surname><given-names>N.</given-names></name></person-group>, 
+<article-title>Synaptic depolarization is more effective than back-propagating action potentials during induction of associative long-term potentiation in hippocampal pyramidal neurons</article-title>. 
+<source>J. Neurosci.</source> 
+<volume>29</volume>, 
+<fpage>3233</fpage> (<year>2009</year>). 
+<pub-id pub-id-type="doi">10.1523/JNEUROSCI.6000-08.2009</pub-id>
+<pub-id pub-id-type="pmid">19279260</pub-id></citation></ref>
+<ref id="R30"><label>30</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Matthews</surname><given-names>D. B.</given-names></name><name><surname>Morrow</surname><given-names>A. L.</given-names></name><name><surname>Tokunaga</surname><given-names>S.</given-names></name><name><surname>McDaniel</surname><given-names>J. R.</given-names></name></person-group>, 
+<article-title>Acute ethanol administration and acute allopregnanolone administration impair spatial memory in the Morris water task</article-title>. 
+<source>Alcohol. Clin. Exp. Res.</source> 
+<volume>26</volume>, 
+<fpage>1747</fpage> (<year>2002</year>).
+<pub-id pub-id-type="pmid">12436065</pub-id></citation></ref>
+<ref id="R31"><label>31</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Cheng</surname><given-names>V. Y.</given-names></name><etal /></person-group>., 
+<article-title>&#x03B1;5GABA<sub>A</sub> receptors mediate the amnestic but not sedative-hypnotic effects of the general anesthetic etomidate</article-title>. 
+<source>J. Neurosci.</source> 
+<volume>26</volume>, 
+<fpage>3713</fpage> (<year>2006</year>). 
+<pub-id pub-id-type="doi">10.1523/JNEUROSCI.5024-05.2006</pub-id>
+<pub-id pub-id-type="pmid">16597725</pub-id></citation></ref>
+<ref id="R32"><label>32</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Wigstr&#x00F6;m</surname><given-names>H.</given-names></name><name><surname>Gustafsson</surname><given-names>B.</given-names></name></person-group>, 
+<article-title>Facilitated induction of hippocampal long-lasting potentiation during blockade of inhibition</article-title>. 
+<source>Nature</source> 
+<volume>301</volume>, 
+<fpage>603</fpage> (<year>1983</year>). 
+<pub-id pub-id-type="doi">10.1038/301603a0</pub-id>
+<pub-id pub-id-type="pmid">6298626</pub-id></citation></ref>
+<ref id="R33"><label>33</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Collinson</surname><given-names>N.</given-names></name><name><surname>Atack</surname><given-names>J. R.</given-names></name><name><surname>Laughton</surname><given-names>P.</given-names></name><name><surname>Dawson</surname><given-names>G. R.</given-names></name><name><surname>Stephens</surname><given-names>D. N.</given-names></name></person-group>, 
+<article-title>An inverse agonist selective for &#x03B1;5 subunit-containing GABA<sub>A</sub> receptors improves encoding and recall but not consolidation in the Morris water maze</article-title>. 
+<source>Psychopharmacology</source> 
+<volume>188</volume>, 
+<fpage>619</fpage> (<year>2006</year>). 
+<pub-id pub-id-type="doi">10.1007/s00213-006-0361-z</pub-id></citation></ref>
+<ref id="R34"><label>34</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Br&#x00FC;nig</surname><given-names>I.</given-names></name><name><surname>Scotti</surname><given-names>E.</given-names></name><name><surname>Sidler</surname><given-names>C.</given-names></name><name><surname>Fritschy</surname><given-names>J.-M.</given-names></name></person-group>, 
+<article-title>Intact sorting, targeting, and clustering of &#x03B3;-aminobutyric acid A receptor subtypes in hippocampal neurons in vitro</article-title>. 
+<source>J. Comp. Neurol.</source> 
+<volume>443</volume>, 
+<fpage>43</fpage> (<year>2002</year>). 
+<pub-id pub-id-type="doi">10.1002/cne.10102</pub-id>
+<pub-id pub-id-type="pmid">11793346</pub-id></citation></ref>
+<ref id="R35"><label>35</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Crestani</surname><given-names>F.</given-names></name><etal /></person-group>., 
+<article-title>Trace fear conditioning involves hippocampal &#x03B1;5 GABA<sub>A</sub> receptors</article-title>. 
+<source>Proc. Natl. Acad. Sci. U.S.A.</source> 
+<volume>99</volume>, 
+<fpage>8980</fpage> (<year>2002</year>). 
+<pub-id pub-id-type="doi">10.1073/pnas.142288699</pub-id>
+<pub-id pub-id-type="pmid">12084936</pub-id></citation></ref>
+<ref id="R36"><label>36</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Peng</surname><given-names>Z.</given-names></name><etal /></person-group>., 
+<article-title>GABA<sub>A</sub> receptor changes in &#x03B4; subunit-deficient mice: Altered expression of &#x03B1;4 and &#x03B3;2 subunits in the forebrain</article-title>. 
+<source>J. Comp. Neurol.</source> 
+<volume>446</volume>, 
+<fpage>179</fpage> (<year>2002</year>). 
+<pub-id pub-id-type="doi">10.1002/cne.10210</pub-id>
+<pub-id pub-id-type="pmid">11932935</pub-id></citation></ref>
+<ref id="R37"><label>37</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Hodes</surname><given-names>G. E.</given-names></name><name><surname>Shors</surname><given-names>T. J.</given-names></name></person-group>, 
+<article-title>Distinctive stress effects on learning during puberty</article-title>. 
+<source>Horm. Behav.</source> 
+<volume>48</volume>, 
+<fpage>163</fpage> (<year>2005</year>). 
+<pub-id pub-id-type="doi">10.1016/j.yhbeh.2005.02.008</pub-id>
+<pub-id pub-id-type="pmid">15885691</pub-id></citation></ref>
+<ref id="R38"><label>38</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Luine</surname><given-names>V.</given-names></name><name><surname>Martinez</surname><given-names>C.</given-names></name><name><surname>Villegas</surname><given-names>M.</given-names></name><name><surname>Magari&#x00F1;os</surname><given-names>A. M.</given-names></name><name><surname>McEwen</surname><given-names>B. S.</given-names></name></person-group>, 
+<article-title>Restraint stress reversibly enhances spatial memory performance</article-title>. 
+<source>Physiol. Behav.</source> 
+<volume>59</volume>, 
+<fpage>27</fpage> (<year>1996</year>). 
+<pub-id pub-id-type="doi">10.1016/0031-9384(95)02016-0</pub-id>
+<pub-id pub-id-type="pmid">8848486</pub-id></citation></ref>
+<ref id="R39"><label>39</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Sadowski</surname><given-names>R. N.</given-names></name><name><surname>Jackson</surname><given-names>G. R.</given-names></name><name><surname>Wieczorek</surname><given-names>L.</given-names></name><name><surname>Gold</surname><given-names>P. E.</given-names></name></person-group>, 
+<article-title>Effects of stress, corticosterone and epinephrine administration on learning in place and response tasks</article-title>. 
+<source>Behav. Brain Res.</source>, 
+<volume>205</volume>, 
+<fpage>19</fpage> (<year>2009</year>).</citation></ref></ref-list>
+<ack><label>40</label>
+<p>We thank D. Lovinger for a critical reading of the manuscript; W. Sieghart for his generous gift of the &#x03B4; antibody; and A. Kuver, L. Silva, and J. Molla for technical assistance. This work was supported by NIH grants DA09618 and AA12958 to S.S.S.</p>
+</ack></back>
+</article>

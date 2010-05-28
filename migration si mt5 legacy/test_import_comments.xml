@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.0">
+<channel>
+	<link>http://news.sciencemag.org/</link>
+
+<item>
+	<title>Test article</title>
+	<link>http://news.sciencemag.org/scienceinsider/2009/10/nih-institute-d.html</link>
+	<guid isPermaLink="false">http://news.sciencemag.org/scienceinsider/2009/10/nih-institute-d.html</guid>
+	<wp:post_id>/scienceinsider/2009/10/nih-institute-d.html</wp:post_id>
+		<wp:comment>
+			<wp:comment_id>1</wp:comment_id>
+			<wp:comment_author><![CDATA[Mr Tester1]]></wp:comment_author>
+			<wp:comment_author_email>test1@test.com</wp:comment_author_email>
+			<wp:comment_author_IP>79.132.125.33</wp:comment_author_IP>
+			<wp:comment_date>2010-01-19 12:45:28</wp:comment_date>
+			<wp:comment_date_gmt>2010-01-19 12:45:28</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Hi, this is a test comment 1.]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type><wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>2</wp:comment_id>
+			<wp:comment_author><![CDATA[Mr Tester2]]></wp:comment_author>
+			<wp:comment_author_email>test2@test.com</wp:comment_author_email>
+			<wp:comment_author_IP>79.132.125.43</wp:comment_author_IP>
+			<wp:comment_date>2010-01-19 13:19:02</wp:comment_date>
+			<wp:comment_date_gmt>2010-01-19 13:19:02</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Hi, this is a test comment 1.]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+	</item>
+</channel>
+</rss>

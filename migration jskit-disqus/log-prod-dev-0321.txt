@@ -1,0 +1,1437 @@
+Disqus forum prepped: News Dev 4
+BeautifulSoup xml parser prepped.
+Parsing threads from input file...
+268 threads:
+    Thread: /sciencenow/2010/02/pardon-the-intrusion-but-your-da.html
+    1 comments:
+        JSK Comment. Author: john battaglia | IP: 72.248.153.221
+        Disqus comment created: 40931151 (JSK id: jsid-1266524411-217)
+    Thread: 
+    0 comments:
+    Thread: /sciencenow/2010/02/artificial-nose-sniffs-out-good-.html
+    4 comments:
+        JSK Comment. Author: anonymous | IP: 66.173.9.222
+        Disqus comment created: 40931155 (JSK id: jsid-1266529410-197)
+        JSK Comment. Author: steve | IP: 4.240.21.116
+        Disqus comment created: 40931156 (JSK id: jsid-1266774827-501)
+        JSK Comment. Author: anonymous | IP: 208.74.247.249
+        Disqus comment created: 40931157 (JSK id: jsid-1266984520-782)
+        JSK Comment. Author: Guest | IP: 99.27.172.137
+        Disqus comment created: 40931158 (JSK id: jsid-1266724528-392)
+    Thread: /sciencenow/2010/02/lack-of-sleep-is-contagious.html
+    10 comments:
+        JSK Comment. Author: Gar | IP: 70.138.54.12
+        Disqus comment created: 40931160 (JSK id: jsid-1267101719-654)
+        JSK Comment. Author: Kre8-noyz | IP: 70.49.33.119
+        Disqus comment created: 40931161 (JSK id: jsid-1267416222-286)
+        JSK Comment. Author: sc | IP: 212.82.36.133
+        Disqus comment created: 40931162 (JSK id: jsid-1266838390-18)
+        JSK Comment. Author: Guest | IP: 24.7.100.134
+        Disqus comment created: 40931163 (JSK id: jsid-1267334069-537)
+        JSK Comment. Author: valikor | IP: 86.202.49.238
+        Disqus comment created: 40931164 (JSK id: jsid-1266827404-389)
+        JSK Comment. Author: mudd1 | IP: 78.94.202.163
+        Disqus comment created: 40931166 (JSK id: jsid-1266827244-208)
+        JSK Comment. Author: Taiwan | IP: 114.24.58.65
+        Disqus comment created: 40931167 (JSK id: jsid-1266826827-308)
+        JSK Comment. Author: xun | IP: 117.136.21.156
+        Disqus comment created: 40931168 (JSK id: jsid-1266811902-418)
+        JSK Comment. Author: Guest | IP: 66.27.98.59
+        Disqus comment created: 40931169 (JSK id: jsid-1266797856-68)
+        JSK Comment. Author: Guest | IP: 66.27.98.59
+        Disqus comment created: 40931171 (JSK id: jsid-1266797831-798)
+    Thread: /sciencenow/2010/03/stressed-men-fancy-someone-diffe.html
+    4 comments:
+        JSK Comment. Author: Guest | IP: 74.178.8.103
+        Disqus comment created: 40931175 (JSK id: jsid-1268934072-230)
+        JSK Comment. Author: Gobot | IP: 98.227.73.232
+        Disqus comment created: 40931176 (JSK id: jsid-1268594593-521)
+        JSK Comment. Author: JV | IP: 67.175.128.168
+        Disqus comment created: 40931177 (JSK id: jsid-1268326788-779)
+        JSK Comment. Author: cliggett | IP: 132.241.75.27
+        Disqus comment created: 40931178 (JSK id: jsid-1268263199-656)
+    Thread: /sciencenow/2010/03/carbon-capture-method-could-pois.html
+    9 comments:
+        JSK Comment. Author: Koru | IP: 98.185.232.143
+        Disqus comment created: 40931180 (JSK id: jsid-1268945736-222)
+        JSK Comment. Author: Alexander from Oregon | IP: 72.11.112.147
+        Disqus comment created: 40931181 (JSK id: jsid-1268900142-981)
+        JSK Comment. Author: Low Rank Genius | IP: 96.227.44.206
+        Disqus comment created: 40931182 (JSK id: jsid-1268828678-434)
+        JSK Comment. Author: aliunde | IP: 67.182.241.124
+        Disqus comment created: 40931183 (JSK id: jsid-1268776517-923)
+        JSK Comment. Author: Guest | IP: 64.247.124.94
+        Disqus comment created: 40931184 (JSK id: jsid-1268772803-898)
+        JSK Comment. Author: eddieo | IP: 173.183.11.137
+        Disqus comment created: 40931185 (JSK id: jsid-1268696186-456)
+        JSK Comment. Author: Guest | IP: 119.98.148.187
+        Disqus comment created: 40931186 (JSK id: jsid-1268745438-890)
+        JSK Comment. Author: RCS-34 | IP: 194.228.28.162
+        Disqus comment created: 40931187 (JSK id: jsid-1268717740-501)
+        JSK Comment. Author: Guest | IP: 194.228.28.162
+        Disqus comment created: 40931188 (JSK id: jsid-1268716299-555)
+    Thread: /scienceinsider/2010/02/un-climate-leader-yvo-de-boer-to.html
+    0 comments:
+    Thread: /scienceinsider/2010/02/holdren-takes-lumps-from-house-p.html
+    3 comments:
+        JSK Comment. Author: Monica | IP: 66.244.187.202
+        Disqus comment created: 40931191 (JSK id: jsid-1267232760-198)
+        JSK Comment. Author: Vlad Popovic | IP: 192.44.136.113
+        Disqus comment created: 40931192 (JSK id: jsid-1267112022-655)
+        JSK Comment. Author: Preach it, brother! | IP: 128.101.205.171
+        Disqus comment created: 40931193 (JSK id: jsid-1267131178-772)
+    Thread: /sciencenow/2010/01/27-01.html
+    0 comments:
+    Thread: /sciencenow/2010/02/fighting-back-against-a-superbug.html
+    1 comments:
+        JSK Comment. Author: Pedro | IP: 201.235.98.138
+        Disqus comment created: 40931194 (JSK id: jsid-1266815631-686)
+    Thread: /sciencenow/2010/03/appetite-suppressor-could-be-an-.html
+    2 comments:
+        JSK Comment. Author: mudd1 | IP: 78.94.202.163
+        Disqus comment created: 40931197 (JSK id: jsid-1268258233-213)
+        JSK Comment. Author: jjc | IP: 96.241.131.36
+        Disqus comment created: 40931199 (JSK id: jsid-1268615043-390)
+    Thread: 
+    0 comments:
+    Can't create thread. Skipping this one.
+    Thread: 
+    0 comments:
+    Can't create thread. Skipping this one.
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /sciencenow/2010/02/-cancer-monitoring-with-a-person.html
+    1 comments:
+        JSK Comment. Author: P.G. Narmadha | IP: 59.92.53.219
+        Disqus comment created: 40931201 (JSK id: jsid-1269008785-116)
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /sciencenow/2010/02/new-challenge-to-chronic-fatigue-virus.html
+    7 comments:
+        JSK Comment. Author: fred jolly | IP: 86.167.18.173
+        Disqus comment created: 40931202 (JSK id: jsid-1267456517-906)
+        JSK Comment. Author: Guest | IP: 94.194.68.242
+        Disqus comment created: 40931204 (JSK id: jsid-1267367254-994)
+        JSK Comment. Author: Someone with Asperger's &amp;amp; CFS/ME | IP: 94.224.170.16
+        Disqus comment created: 40931205 (JSK id: jsid-1267028218-544)
+        JSK Comment. Author: Someone with Asperger's &amp;amp; CFS/ME | IP: 94.224.170.16
+        Disqus comment created: 40931208 (JSK id: jsid-1267027997-937)
+        JSK Comment. Author: JimNYC | IP: 96.246.181.198
+        Disqus comment created: 40931209 (JSK id: jsid-1266724481-727)
+        JSK Comment. Author: Heidi Bauer | IP: 69.138.216.137
+        Disqus comment created: 40931210 (JSK id: jsid-1266536015-495)
+        JSK Comment. Author: Heidi Bauer | IP: 69.138.216.137
+        Disqus comment created: 40931211 (JSK id: jsid-1266535953-954)
+    Thread: /scienceinsider/2010/02/-us-science-told-to-stay-on-its-.html
+    1 comments:
+        JSK Comment. Author: tadchem | IP: 131.81.200.92
+        Disqus comment created: 40931213 (JSK id: jsid-1267019449-394)
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /sciencenow/2010/02/nuclear-disarmament-science-how-.html
+    4 comments:
+        JSK Comment. Author: tadchem | IP: 131.81.200.92
+        Disqus comment created: 40931216 (JSK id: jsid-1266593038-0)
+        JSK Comment. Author: Rethinasamy K | IP: 174.59.106.33
+        Disqus comment created: 40931217 (JSK id: jsid-1266582799-961)
+        JSK Comment. Author: Impartial | IP: 202.144.125.242
+        Disqus comment created: 40931218 (JSK id: jsid-1266570170-40)
+        JSK Comment. Author: Roy Sablosky | IP: 67.172.185.93
+        Disqus comment created: 40931219 (JSK id: jsid-1266555845-286)
+    Thread: /sciencenow/2010/02/harvesting-heat-for-power.html
+    7 comments:
+        JSK Comment. Author: miggs | IP: 128.103.187.220
+        Disqus comment created: 40931220 (JSK id: jsid-1267417624-510)
+        JSK Comment. Author: jonjski | IP: 192.189.218.190
+        Disqus comment created: 40931221 (JSK id: jsid-1267350098-568)
+        JSK Comment. Author: guest | IP: 59.95.10.107
+        Disqus comment created: 40931222 (JSK id: jsid-1267319890-613)
+        JSK Comment. Author: Alexander from Oregon | IP: 72.11.112.147
+        Disqus comment created: 40931225 (JSK id: jsid-1267302569-555)
+        JSK Comment. Author: John Hwalek | IP: 130.111.203.2
+        Disqus comment created: 40931227 (JSK id: jsid-1266973332-9)
+        JSK Comment. Author: Guest | IP: 72.244.207.152
+        Disqus comment created: 40931228 (JSK id: jsid-1266990646-763)
+        JSK Comment. Author: concerned | IP: 67.252.28.170
+        Disqus comment created: 40931229 (JSK id: jsid-1266880930-376)
+    Thread: 
+    0 comments:
+    Thread: /sciencenow/2010/03/researchers-turn-mosquitoes-into.html
+    8 comments:
+        JSK Comment. Author: Guest | IP: 72.64.212.225
+        Disqus comment created: 40931230 (JSK id: jsid-1269188936-474)
+        JSK Comment. Author: WRosencratz | IP: 173.19.221.3
+        Disqus comment created: 40931231 (JSK id: jsid-1269175813-422)
+        JSK Comment. Author: betaer | IP: 123.55.232.222
+        Disqus comment created: 40931232 (JSK id: jsid-1269107223-63)
+        JSK Comment. Author: kiran Deshmukh | IP: 59.95.254.31
+        Disqus comment created: 40931233 (JSK id: jsid-1269069540-405)
+        JSK Comment. Author: Some Guyt | IP: 24.9.230.89
+        Disqus comment created: 40931234 (JSK id: jsid-1269031509-588)
+        JSK Comment. Author: Dr. Bart GJ Knols | IP: 81.206.115.156
+        Disqus comment created: 40931235 (JSK id: jsid-1268997974-689)
+        JSK Comment. Author: Anna L.  | IP: 116.44.17.55
+        Disqus comment created: 40931236 (JSK id: jsid-1268984038-553)
+        JSK Comment. Author: Bruce Eggum | IP: 74.33.178.128
+        Disqus comment created: 40931237 (JSK id: jsid-1268972262-75)
+    Thread: /sciencenow/2010/02/dolphin-diabetes-could-be-import.html
+    5 comments:
+        JSK Comment. Author: Guest | IP: 222.169.142.51
+        Disqus comment created: 40931239 (JSK id: jsid-1266674293-204)
+        JSK Comment. Author: rachelryan | IP: 59.92.15.88
+        Disqus comment created: 40931241 (JSK id: jsid-1266647750-106)
+        JSK Comment. Author: theRN | IP: 206.192.168.25
+        Disqus comment created: 40931243 (JSK id: jsid-1266619782-417)
+        JSK Comment. Author: j.l.soni | IP: 59.183.175.132
+        Disqus comment created: 40931244 (JSK id: jsid-1266582828-596)
+        JSK Comment. Author: Dr miss Eshrat Halim  | IP: 202.141.47.165
+        Disqus comment created: 40931245 (JSK id: jsid-1266564545-838)
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /scienceinsider/2010/02/two-us-bills-seek-to-lure-immigr.html
+    7 comments:
+        JSK Comment. Author: www.eb5.net | IP: 94.8.19.32
+        Disqus comment created: 40931248 (JSK id: jsid-1267463113-222)
+        JSK Comment. Author: Guest | IP: 141.211.174.93
+        Disqus comment created: 40931249 (JSK id: jsid-1267374493-454)
+        JSK Comment. Author: zetlee | IP: 76.183.59.21
+        Disqus comment created: 40931250 (JSK id: jsid-1267349722-555)
+        JSK Comment. Author: Guest | IP: 208.102.131.186
+        Disqus comment created: 40931252 (JSK id: jsid-1267310721-628)
+        JSK Comment. Author: Guest | IP: 99.68.168.224
+        Disqus comment created: 40931254 (JSK id: jsid-1267291346-149)
+        JSK Comment. Author: Student | IP: 71.79.252.19
+        Disqus comment created: 40931255 (JSK id: jsid-1267227406-289)
+        JSK Comment. Author: rshoff | IP: 67.171.16.145
+        Disqus comment created: 40931257 (JSK id: jsid-1267220973-460)
+    Thread: /sciencenow/2010/02/rhic.html
+    0 comments:
+    Thread: /sciencenow/2010/01/28-03.html
+    4 comments:
+        JSK Comment. Author: billga | IP: 82.3.99.246
+        Disqus comment created: 40931261 (JSK id: jsid-1267434665-193)
+        JSK Comment. Author: Prion fan | IP: 98.194.203.10
+        Disqus comment created: 40931262 (JSK id: jsid-1266797841-691)
+        JSK Comment. Author: yervand karapetyan | IP: 192.26.251.254
+        Disqus comment created: 40931263 (JSK id: jsid-1266610077-377)
+        JSK Comment. Author: yervand karapetyan | IP: 192.26.251.254
+        Disqus comment created: 40931264 (JSK id: jsid-1266592997-673)
+    Thread: /sciencenow/2010/02/12-01.html
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /scienceinsider/2009/12/harsh-reaction.html
+    1 comments:
+        JSK Comment. Author: Rob | IP: 75.144.159.217
+        Disqus comment created: 40931269 (JSK id: jsid-1266600474-22)
+    Thread: /sciencenow/2010/03/scienceshot-sequestering-carbon-.html
+    0 comments:
+    Thread: /sciencenow/2010/02/10-02.html
+    0 comments:
+    Thread: /sciencenow/2010/03/early-polar-bear-discovered-in-a.html
+    2 comments:
+        JSK Comment. Author: ghhugh | IP: 75.71.183.208
+        Disqus comment created: 40931271 (JSK id: jsid-1267488645-481)
+        JSK Comment. Author: SayAhh.... ;] | IP: 74.97.181.123
+        Disqus comment created: 40931272 (JSK id: jsid-1267477923-295)
+    Thread: /scienceinsider/2010/02/-fbi-closes-anthrax-case-says-br.html
+    3 comments:
+        JSK Comment. Author: Eric | IP: 64.26.117.253
+        Disqus comment created: 40931273 (JSK id: jsid-1268661158-224)
+        JSK Comment. Author: brandon | IP: 67.49.43.3
+        Disqus comment created: 40931274 (JSK id: jsid-1266631338-389)
+        JSK Comment. Author: writer of the story | IP: 68.50.71.53
+        Disqus comment created: 40931277 (JSK id: jsid-1266673658-344)
+    Thread: /sciencenow/2010/03/engraved-eggs-suggest-early-symb.html
+    3 comments:
+        JSK Comment. Author: Paul Woit | IP: 76.238.7.159
+        Disqus comment created: 40931279 (JSK id: jsid-1267617297-812)
+        JSK Comment. Author: Solly | IP: 41.195.88.252
+        Disqus comment created: 40931280 (JSK id: jsid-1267704600-500)
+        JSK Comment. Author: John | IP: 75.36.151.176
+        Disqus comment created: 40931281 (JSK id: jsid-1267693420-889)
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /scienceinsider/2010/02/nih-expands-definition-of-human-.html
+    2 comments:
+        JSK Comment. Author: baltbear | IP: 74.138.152.149
+        Disqus comment created: 40931282 (JSK id: jsid-1266682259-963)
+        JSK Comment. Author: rachelryan | IP: 59.92.74.82
+        Disqus comment created: 40931283 (JSK id: jsid-1266661745-45)
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /sciencenow/2010/02/drive-green-make-money.html
+    8 comments:
+        JSK Comment. Author: EMS | IP: 74.96.117.63
+        Disqus comment created: 40931284 (JSK id: jsid-1266644779-600)
+        JSK Comment. Author: Mark | IP: 76.105.3.31
+        Disqus comment created: 40931285 (JSK id: jsid-1267585305-287)
+        JSK Comment. Author: Mark | IP: 76.105.3.31
+        Disqus comment created: 40931287 (JSK id: jsid-1267584828-886)
+        JSK Comment. Author: Aaron | IP: 198.150.194.197
+        Disqus comment created: 40931288 (JSK id: jsid-1266858103-188)
+        JSK Comment. Author: Mark | IP: 76.105.3.31
+        Disqus comment created: 40931289 (JSK id: jsid-1267584721-17)
+        JSK Comment. Author: jedsrose | IP: 189.5.238.212
+        Disqus comment created: 40931290 (JSK id: jsid-1266754238-406)
+        JSK Comment. Author: Ole | IP: 68.97.170.181
+        Disqus comment created: 40931291 (JSK id: jsid-1266718103-619)
+        JSK Comment. Author: Sig | IP: 24.179.67.91
+        Disqus comment created: 40931292 (JSK id: jsid-1266709671-664)
+    Thread: /sciencenow/2010/03/study-peels-back-more-of-the-mag.html
+    0 comments:
+    Thread: /sciencenow/2010/02/scientifically-accurate-superher.html
+    6 comments:
+        JSK Comment. Author: RavenScholar | IP: 69.255.254.86
+        Disqus comment created: 40931296 (JSK id: jsid-1266868188-4)
+        JSK Comment. Author: Forlornehope | IP: 86.131.84.139
+        Disqus comment created: 40931297 (JSK id: jsid-1266661027-897)
+        JSK Comment. Author: RavenScholar | IP: 69.255.254.86
+        Disqus comment created: 40931298 (JSK id: jsid-1266867921-506)
+        JSK Comment. Author: Michael Netzer | IP: 79.177.72.16
+        Disqus comment created: 40931300 (JSK id: jsid-1266754708-124)
+        JSK Comment. Author: Wonderment | IP: 218.180.172.101
+        Disqus comment created: 40931303 (JSK id: jsid-1266740132-648)
+        JSK Comment. Author: VN - Whippany | IP: 71.187.80.64
+        Disqus comment created: 40931304 (JSK id: jsid-1266692523-883)
+    Thread: /sciencenow/2010/02/scientists-grapple-with-complete.html
+    21 comments:
+        JSK Comment. Author: nstone | IP: 58.165.101.56
+        Disqus comment created: 40931306 (JSK id: jsid-1266760320-392)
+        JSK Comment. Author: Mel Klegerman | IP: 139.52.232.26
+        Disqus comment created: 40931308 (JSK id: jsid-1266798429-1)
+        JSK Comment. Author: nstone | IP: 116.255.25.85
+        Disqus comment created: 40931310 (JSK id: jsid-1267401214-555)
+        JSK Comment. Author: Lorenzo | IP: 203.100.230.117
+        Disqus comment created: 40931312 (JSK id: jsid-1267187485-992)
+        JSK Comment. Author: Ron Cram | IP: 70.187.133.147
+        Disqus comment created: 40931314 (JSK id: jsid-1267153622-725)
+        JSK Comment. Author: Doug L Hoffman | IP: 24.144.2.234
+        Disqus comment created: 40931315 (JSK id: jsid-1266961477-225)
+        JSK Comment. Author: Guest | IP: 71.192.188.232
+        Disqus comment created: 40931316 (JSK id: jsid-1266858570-578)
+        JSK Comment. Author: Steven Douglas | IP: 71.202.133.139
+        Disqus comment created: 40931317 (JSK id: jsid-1266664391-616)
+        JSK Comment. Author: Guest | IP: 141.4.10.238
+        Disqus comment created: 40931318 (JSK id: jsid-1266847682-257)
+        JSK Comment. Author: antonio zecca  university of trento  italy | IP: 193.205.213.166
+        Disqus comment created: 40931319 (JSK id: jsid-1266832745-575)
+        JSK Comment. Author: Brett | IP: 173.21.25.74
+        Disqus comment created: 40931320 (JSK id: jsid-1266819177-114)
+        JSK Comment. Author: jermome | IP: 124.179.97.81
+        Disqus comment created: 40931321 (JSK id: jsid-1266795248-480)
+        JSK Comment. Author: Mueller | IP: 93.220.243.159
+        Disqus comment created: 40931322 (JSK id: jsid-1266754994-872)
+        JSK Comment. Author: darryl johnston | IP: 180.180.54.248
+        Disqus comment created: 40931324 (JSK id: jsid-1266748809-831)
+        JSK Comment. Author: Jim Lemon | IP: 115.70.102.132
+        Disqus comment created: 40931325 (JSK id: jsid-1266720365-944)
+        JSK Comment. Author: Chris B | IP: 24.108.76.110
+        Disqus comment created: 40931327 (JSK id: jsid-1266717419-91)
+        JSK Comment. Author: David Turell | IP: 76.204.247.81
+        Disqus comment created: 40931328 (JSK id: jsid-1266714317-512)
+        JSK Comment. Author: John A. Jauregui | IP: 173.163.192.10
+        Disqus comment created: 40931329 (JSK id: jsid-1266694944-250)
+        JSK Comment. Author: Jman | IP: 209.33.95.20
+        Disqus comment created: 40931331 (JSK id: jsid-1266685854-944)
+        JSK Comment. Author: Luboš Motl | IP: 85.207.176.230
+        APIError in create_post.
+        JSK Comment. Author:  Tim | IP: 118.210.216.65
+        Disqus comment created: 40931333 (JSK id: jsid-1266677918-27)
+    Thread: /scienceinsider/2010/02/obama-errs-on-research-number.html
+    1 comments:
+        JSK Comment. Author: George Lester | IP: 205.188.116.19
+        Disqus comment created: 40931335 (JSK id: jsid-1267477426-594)
+    Thread: /sciencenow/2010/02/a-sexy-new-treatment-for-traumat.html
+    7 comments:
+        JSK Comment. Author: Janessa | IP: 24.107.206.129
+        Disqus comment created: 40931337 (JSK id: jsid-1266674130-11)
+        JSK Comment. Author: Jonathan | IP: 152.11.90.254
+        Disqus comment created: 40931338 (JSK id: jsid-1266849763-442)
+        JSK Comment. Author: Leha | IP: 69.109.160.80
+        Disqus comment created: 40931340 (JSK id: jsid-1266645385-449)
+        JSK Comment. Author: Jonathan | IP: 75.183.113.119
+        Disqus comment created: 40931342 (JSK id: jsid-1266767866-146)
+        JSK Comment. Author: elf | IP: 173.26.237.126
+        Disqus comment created: 40931344 (JSK id: jsid-1266726205-136)
+        JSK Comment. Author: Guest | IP: 219.78.90.118
+        Disqus comment created: 40931345 (JSK id: jsid-1266689500-474)
+        JSK Comment. Author: Guest | IP: 67.171.182.82
+        Disqus comment created: 40931346 (JSK id: jsid-1266686392-913)
+    Thread: /sciencenow/2010/02/podcast-how-did-climate-science-.html
+    3 comments:
+        JSK Comment. Author: Guest | IP: 79.224.173.238
+        Disqus comment created: 40931347 (JSK id: jsid-1266951151-654)
+        JSK Comment. Author: Rennert | IP: 130.36.62.142
+        Disqus comment created: 40931349 (JSK id: jsid-1266862874-728)
+        JSK Comment. Author: Mueller | IP: 93.220.243.159
+        Disqus comment created: 40931350 (JSK id: jsid-1266756427-582)
+    Thread: /scienceinsider/2010/03/nih-wants-to-hear-about-genetic-.html
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /scienceinsider/2009/03/laser-fusion-fa.html
+    1 comments:
+        JSK Comment. Author: Anthony H | IP: 75.185.246.147
+        Disqus comment created: 40931351 (JSK id: jsid-1266654515-491)
+    Thread: /scienceinsider/2009/02/aids-czar-named.html
+    0 comments:
+    Thread: /scienceinsider/2010/02/live-geoengineering-coverage-fro.html
+    1 comments:
+        JSK Comment. Author: J.H.  Youssef | IP: 70.26.184.100
+        Disqus comment created: 40931356 (JSK id: jsid-1267198432-481)
+    Thread: /sciencenow/2010/03/female-monkeys-make-the-best-tea.html
+    1 comments:
+        JSK Comment. Author: Mom | IP: 74.124.187.183
+        Disqus comment created: 40931358 (JSK id: jsid-1268852791-744)
+    Thread: 
+    0 comments:
+    Thread: /sciencenow/2010/02/scientists-celebrities-and-every.html
+    1 comments:
+        JSK Comment. Author: Anselmo S. Teixeira | IP: 200.143.208.14
+        Disqus comment created: 40931360 (JSK id: jsid-1266931645-286)
+    Thread: /scienceinsider/2010/02/an-overview-of-ipccclimategate-criticism.html
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /sciencenow/2009/02/12-02.html
+    0 comments:
+    Thread: /sciencenow/2010/02/podcast-the-science-of-superhero.html
+    1 comments:
+        JSK Comment. Author: Bill Ritchie | IP: 71.178.164.191
+        Disqus comment created: 40931363 (JSK id: jsid-1266796436-422)
+    Thread: /sciencenow/2010/03/burn-the-brush-save-carbon-dioxi.html
+    0 comments:
+    Thread: /scienceinsider/2010/02/new-criteria-fo.html
+    1 comments:
+        JSK Comment. Author: tes bernard | IP: 217.136.74.49
+        Disqus comment created: 40931367 (JSK id: jsid-1266701390-892)
+    Thread: /sciencenow/2010/02/did-darwin-predict-chilean-quake.html
+    1 comments:
+        JSK Comment. Author: Mark Balllington | IP: 92.23.121.179
+        Disqus comment created: 40931369 (JSK id: jsid-1267460918-476)
+    Thread: /sciencenow/2010/02/the-mathematics-of-clumpy-crime.html
+    4 comments:
+        JSK Comment. Author: Frank Barry | IP: 99.146.222.185
+        Disqus comment created: 40931371 (JSK id: jsid-1267502854-687)
+        JSK Comment. Author: Frank Barry | IP: 99.146.222.185
+        Disqus comment created: 40931372 (JSK id: jsid-1267502173-451)
+        JSK Comment. Author: Gwen Keller | IP: 190.35.7.49
+        Disqus comment created: 40931373 (JSK id: jsid-1266805713-138)
+        JSK Comment. Author: Detroit, MI should be modelled next | IP: 128.101.205.168
+        Disqus comment created: 40931374 (JSK id: jsid-1266714679-627)
+    Thread: /scienceinsider/2010/03/scientists-case-on-background-ch.html
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /scienceinsider/2010/02/the-latest-buzz-orszag-budgets-f.html
+    6 comments:
+        JSK Comment. Author: Rob G | IP: 96.39.163.192
+        Disqus comment created: 40931380 (JSK id: jsid-1266964391-605)
+        JSK Comment. Author: Kevin | IP: 173.76.228.218
+        Disqus comment created: 40931381 (JSK id: jsid-1267159773-887)
+        JSK Comment. Author: Guest | IP: 96.251.166.158
+        Disqus comment created: 40931382 (JSK id: jsid-1266988541-443)
+        JSK Comment. Author: Jonathan | IP: 152.11.90.254
+        Disqus comment created: 40931384 (JSK id: jsid-1267022359-474)
+        JSK Comment. Author: tadchem | IP: 131.81.200.92
+        Disqus comment created: 40931385 (JSK id: jsid-1267019045-645)
+        JSK Comment. Author: khedges1@yahoo.com | IP: 137.150.39.177
+        Disqus comment created: 40931386 (JSK id: jsid-1266978078-165)
+    Thread: /scienceinsider/2010/03/moon-vs-mars-at-museum.html
+    4 comments:
+        JSK Comment. Author: JeffBaranchok2 | IP: 136.141.6.76
+        Disqus comment created: 40931388 (JSK id: jsid-1268834627-969)
+        JSK Comment. Author: JeffBaranchok | IP: 136.141.6.76
+        Disqus comment created: 40931389 (JSK id: jsid-1268834415-749)
+        JSK Comment. Author: Marek | IP: 89.161.40.141
+        Disqus comment created: 40931390 (JSK id: jsid-1268826644-51)
+        JSK Comment. Author: AndyW | IP: 68.60.236.186
+        Disqus comment created: 40931392 (JSK id: jsid-1268794047-28)
+    Thread: /sciencenow/2010/02/smattering-of-activists-protest.html
+    8 comments:
+        JSK Comment. Author: Brett | IP: 68.81.75.75
+        Disqus comment created: 40931394 (JSK id: jsid-1267630114-977)
+        JSK Comment. Author: SoCalSkyWatch | IP: 76.88.119.55
+        Disqus comment created: 40931395 (JSK id: jsid-1267570835-535)
+        JSK Comment. Author: Samantha | IP: 75.158.120.123
+        Disqus comment created: 40931396 (JSK id: jsid-1267570325-743)
+        JSK Comment. Author: Brett | IP: 68.81.75.75
+        Disqus comment created: 40931397 (JSK id: jsid-1267566016-662)
+        JSK Comment. Author: Frank Barry | IP: 99.146.222.185
+        Disqus comment created: 40931398 (JSK id: jsid-1267504018-101)
+        JSK Comment. Author: Nick Taylor | IP: 64.58.30.35
+        Disqus comment created: 40931399 (JSK id: jsid-1266989310-198)
+        JSK Comment. Author: I see lines | IP: 99.132.113.218
+        Disqus comment created: 40931400 (JSK id: jsid-1266866835-996)
+        JSK Comment. Author: Xain | IP: 75.170.86.16
+        Disqus comment created: 40931401 (JSK id: jsid-1266785209-249)
+    Thread: /sciencenow/2010/02/the-latest-on-hacking-the-planet.html
+    7 comments:
+        JSK Comment. Author: Guest | IP: 173.206.142.12
+        Disqus comment created: 40931403 (JSK id: jsid-1266767842-343)
+        JSK Comment. Author: thor | IP: 99.137.192.245
+        Disqus comment created: 40931405 (JSK id: jsid-1269024198-953)
+        JSK Comment. Author: JZ | IP: 128.135.78.129
+        Disqus comment created: 40931406 (JSK id: jsid-1266954923-703)
+        JSK Comment. Author: qam1 | IP: 69.115.251.173
+        Disqus comment created: 40931407 (JSK id: jsid-1266892156-637)
+        JSK Comment. Author: Observer | IP: 76.205.193.110
+        Disqus comment created: 40931408 (JSK id: jsid-1266825474-332)
+        JSK Comment. Author: jk | IP: 81.0.178.199
+        Disqus comment created: 40931410 (JSK id: jsid-1266821441-425)
+        JSK Comment. Author: Brad Arnold | IP: 174.20.97.94
+        Disqus comment created: 40931412 (JSK id: jsid-1266760782-249)
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /sciencenow/2010/03/pardon-your-thoughts-are-showing.html
+    0 comments:
+    Thread: /sciencenow/2010/02/02-02.html
+    2 comments:
+        JSK Comment. Author: Joe D. | IP: 144.30.83.39
+        Disqus comment created: 40931413 (JSK id: jsid-1268320742-927)
+        JSK Comment. Author: http://www.turkeydog.org/ | IP: 69.128.208.173
+        Disqus comment created: 40931414 (JSK id: jsid-1268068185-23)
+    Thread: /sciencenow/2010/02/small-dogs-evolved-in-middle-eas.html
+    6 comments:
+        JSK Comment. Author: Arunn Jothidas | IP: 202.171.168.114
+        Disqus comment created: 40931417 (JSK id: jsid-1267429376-581)
+        JSK Comment. Author: bob | IP: 67.197.174.9
+        Disqus comment created: 40931419 (JSK id: jsid-1267399511-799)
+        JSK Comment. Author: John | IP: 192.58.204.226
+        Disqus comment created: 40931420 (JSK id: jsid-1267128194-909)
+        JSK Comment. Author: tommy | IP: 66.192.63.2
+        Disqus comment created: 40931421 (JSK id: jsid-1267038628-413)
+        JSK Comment. Author: Ed | IP: 75.170.92.44
+        Disqus comment created: 40931422 (JSK id: jsid-1267061854-564)
+        JSK Comment. Author: Litch | IP: 70.113.108.172
+        Disqus comment created: 40931423 (JSK id: jsid-1267050969-886)
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /sciencenow/2010/02/francis-collinss-biggest-fear.html
+    3 comments:
+        JSK Comment. Author: Guest | IP: 86.141.212.55
+        Disqus comment created: 40931426 (JSK id: jsid-1267345765-125)
+        JSK Comment. Author: anonymous | IP: 189.5.238.212
+        Disqus comment created: 40931427 (JSK id: jsid-1267127006-376)
+        JSK Comment. Author: Guest | IP: 71.139.188.173
+        Disqus comment created: 40931428 (JSK id: jsid-1266891743-472)
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /sciencebloggers/2010/02/bridging-science-and-the-public.html
+    1 comments:
+        JSK Comment. Author: Dr. Biology | IP: 149.169.223.100
+        Disqus comment created: 40931435 (JSK id: jsid-1267019654-889)
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /scienceinsider/2010/03/should-nih-funded-researchers-be.html
+    2 comments:
+        JSK Comment. Author: George | IP: 98.202.181.209
+        Disqus comment created: 40931440 (JSK id: jsid-1268844654-211)
+        JSK Comment. Author: Patrick | IP: 72.11.107.42
+        Disqus comment created: 40931441 (JSK id: jsid-1268778848-653)
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /sciencenow/2010/03/video-an-octopus-mimics-a-flound.html
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /sciencebloggers/2010/02/the-brain-on-trial.html
+    1 comments:
+        JSK Comment. Author: Daniel | IP: 150.135.206.41
+        Disqus comment created: 40931445 (JSK id: jsid-1268325956-350)
+    Thread: /sciencenow/2010/03/for-pregnant-mice-eating-matters-1.html
+    0 comments:
+    Thread: /sciencenow/2010/01/22-01.html
+    2 comments:
+        JSK Comment. Author: Robert Houston | IP: 128.122.90.166
+        Disqus comment created: 40931449 (JSK id: jsid-1267595766-42)
+        JSK Comment. Author: Skeptic | IP: 98.185.56.82
+        Disqus comment created: 40931451 (JSK id: jsid-1266776990-833)
+    Thread: /sciencenow/2010/02/music-therapy-gives-voice-to-the.html
+    7 comments:
+        JSK Comment. Author: ski dude | IP: 150.148.0.65
+        Disqus comment created: 40931452 (JSK id: jsid-1267477448-364)
+        JSK Comment. Author: Maria | IP: 72.85.227.35
+        Disqus comment created: 40931454 (JSK id: jsid-1267476840-540)
+        JSK Comment. Author: Meagan Purcell | IP: 76.231.144.8
+        Disqus comment created: 40931455 (JSK id: jsid-1266849892-313)
+        JSK Comment. Author: Gordon | IP: 78.1.222.130
+        Disqus comment created: 40931456 (JSK id: jsid-1266831182-185)
+        JSK Comment. Author: Andrea | IP: 76.100.20.128
+        Disqus comment created: 40931457 (JSK id: jsid-1266797815-260)
+        JSK Comment. Author: Hutch | IP: 199.1.129.15
+        Disqus comment created: 40931458 (JSK id: jsid-1266783857-877)
+        JSK Comment. Author: Kat Fulton | IP: 68.107.88.227
+        Disqus comment created: 40931459 (JSK id: jsid-1266781691-449)
+    Thread: /sciencenow/2010/02/podcast-can-geoengineering-save-.html
+    1 comments:
+        JSK Comment. Author: Bjorn | IP: 79.161.59.61
+        Disqus comment created: 40931463 (JSK id: jsid-1266853640-397)
+    Thread: /sciencenow/2010/02/are-test-tube-babies-healthy.html
+    4 comments:
+        JSK Comment. Author: germán chile | IP: 201.236.131.89
+        APIError in create_post.
+        JSK Comment. Author: Eliane Azevedo-from Brazil | IP: 201.50.136.207
+        Disqus comment created: 40931468 (JSK id: jsid-1267381071-168)
+        JSK Comment. Author: Peter From New York | IP: 67.241.16.172
+        Disqus comment created: 40931469 (JSK id: jsid-1267367374-294)
+        JSK Comment. Author: Alexander from Oregon | IP: 72.11.112.147
+        Disqus comment created: 40931470 (JSK id: jsid-1267303760-517)
+    Thread: /sciencenow/2010/01/08-01.html
+    1 comments:
+        JSK Comment. Author: CC | IP: 76.224.218.140
+        Disqus comment created: 40931471 (JSK id: jsid-1266787410-699)
+    Thread: /scienceinsider/2010/03/more-details-from-ipcc-official-.html
+    4 comments:
+        JSK Comment. Author: John Dodds | IP: 69.227.248.190
+        Disqus comment created: 40931474 (JSK id: jsid-1267466670-304)
+        JSK Comment. Author: rain storms | IP: 128.117.65.57
+        Disqus comment created: 40931476 (JSK id: jsid-1267829454-120)
+        JSK Comment. Author: Boyd Jahnke | IP: 72.172.113.241
+        Disqus comment created: 40931478 (JSK id: jsid-1267490314-198)
+        JSK Comment. Author: Adam Reith | IP: 68.209.190.68
+        Disqus comment created: 40931480 (JSK id: jsid-1267534460-278)
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /scienceinsider/2010/03/fresh-ideas-on-diversity-wanted-.html
+    1 comments:
+        JSK Comment. Author: Guest | IP: 202.144.125.242
+        Disqus comment created: 40931483 (JSK id: jsid-1268985068-414)
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /sciencebloggers/2010/02/climate-science-not-just-about-d.html
+    1 comments:
+        JSK Comment. Author: CaptainWeather | IP: 74.75.84.104
+        Disqus comment created: 40931488 (JSK id: jsid-1266978473-484)
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /sciencenow/2010/02/is-a-dolphin-a-person.html
+    35 comments:
+        JSK Comment. Author: Guest | IP: 145.18.152.220
+        Disqus comment created: 40931490 (JSK id: jsid-1267444912-251)
+        JSK Comment. Author: bug killer!!! | IP: 76.209.223.0
+        Disqus comment created: 40931493 (JSK id: jsid-1268964350-612)
+        JSK Comment. Author: Dr. Kristine Campbell | IP: 208.40.31.218
+        Disqus comment created: 40931494 (JSK id: jsid-1267652681-522)
+        JSK Comment. Author: Alexander from Oregon | IP: 72.11.112.147
+        Disqus comment created: 40931495 (JSK id: jsid-1267303464-206)
+        JSK Comment. Author: Aja | IP: 24.156.30.51
+        Disqus comment created: 40931496 (JSK id: jsid-1267093937-762)
+        JSK Comment. Author: Joe D. | IP: 144.30.83.39
+        Disqus comment created: 40931497 (JSK id: jsid-1267027066-539)
+        JSK Comment. Author: Joe D. | IP: 144.30.83.39
+        Disqus comment created: 40931498 (JSK id: jsid-1267026097-832)
+        JSK Comment. Author: Adriano | IP: 189.74.198.132
+        Disqus comment created: 40931499 (JSK id: jsid-1267021786-797)
+        JSK Comment. Author: Brain Observatory | IP: 137.110.179.215
+        Disqus comment created: 40931500 (JSK id: jsid-1266972743-930)
+        JSK Comment. Author: Kacey | IP: 24.14.0.5
+        Disqus comment created: 40931503 (JSK id: jsid-1266889734-843)
+        JSK Comment. Author: Guest | IP: 161.130.25.71
+        Disqus comment created: 40931504 (JSK id: jsid-1266937831-988)
+        JSK Comment. Author: Bobby Joe | IP: 138.32.32.166
+        Disqus comment created: 40931505 (JSK id: jsid-1266969283-199)
+        JSK Comment. Author: Pierre Fabre | IP: 207.162.51.5
+        Disqus comment created: 40931506 (JSK id: jsid-1266940093-539)
+        JSK Comment. Author: GoldenAh | IP: 67.80.72.83
+        Disqus comment created: 40931507 (JSK id: jsid-1266935646-880)
+        JSK Comment. Author: emma | IP: 114.76.182.150
+        Disqus comment created: 40931508 (JSK id: jsid-1266913143-234)
+        JSK Comment. Author: emma | IP: 114.76.182.150
+        Disqus comment created: 40931509 (JSK id: jsid-1266912983-661)
+        JSK Comment. Author: Rufus G. Warren | IP: 70.226.192.12
+        Disqus comment created: 40931511 (JSK id: jsid-1266911862-53)
+        JSK Comment. Author: Guest | IP: 58.178.70.25
+        Disqus comment created: 40931514 (JSK id: jsid-1266905461-94)
+        JSK Comment. Author: Paul Palmer | IP: 24.130.51.224
+        Disqus comment created: 40931515 (JSK id: jsid-1266816584-444)
+        JSK Comment. Author: Jonathan | IP: 152.11.90.254
+        Disqus comment created: 40931516 (JSK id: jsid-1266850024-912)
+        JSK Comment. Author: jonathan's spirit friend | IP: 206.168.42.213
+        Disqus comment created: 40931517 (JSK id: jsid-1266903051-473)
+        JSK Comment. Author: Zeca | IP: 93.108.173.158
+        Disqus comment created: 40931518 (JSK id: jsid-1266897555-582)
+        JSK Comment. Author: Paul R Mazur | IP: 75.194.108.188
+        Disqus comment created: 40931519 (JSK id: jsid-1266893440-894)
+        JSK Comment. Author: Jennifer | IP: 205.188.117.10
+        Disqus comment created: 40931520 (JSK id: jsid-1266881901-273)
+        JSK Comment. Author: the cove | IP: 79.147.185.112
+        Disqus comment created: 40931521 (JSK id: jsid-1266880040-876)
+        JSK Comment. Author: Guest | IP: 98.228.129.116
+        Disqus comment created: 40931523 (JSK id: jsid-1266867946-721)
+        JSK Comment. Author: Jennifer | IP: 216.107.218.222
+        Disqus comment created: 40931524 (JSK id: jsid-1266867374-535)
+        JSK Comment. Author: Judy | IP: 67.72.98.57
+        Disqus comment created: 40931525 (JSK id: jsid-1266865602-497)
+        JSK Comment. Author: Flo | IP: 134.60.65.73
+        Disqus comment created: 40931526 (JSK id: jsid-1266830590-524)
+        JSK Comment. Author: Aaron Robinson | IP: 192.91.171.36
+        Disqus comment created: 40931527 (JSK id: jsid-1266865529-834)
+        JSK Comment. Author: Matt | IP: 70.33.246.180
+        Disqus comment created: 40931529 (JSK id: jsid-1266864509-436)
+        JSK Comment. Author: Jeff | IP: 66.94.73.36
+        Disqus comment created: 40931530 (JSK id: jsid-1266859826-755)
+        JSK Comment. Author: rshoff | IP: 67.171.16.145
+        Disqus comment created: 40931531 (JSK id: jsid-1266855288-869)
+        JSK Comment. Author: diavel | IP: 83.7.96.2
+        Disqus comment created: 40931532 (JSK id: jsid-1266839308-572)
+        JSK Comment. Author: Natalia | IP: 67.129.167.101
+        Disqus comment created: 40931535 (JSK id: jsid-1266829871-379)
+    Thread: /sciencenow/2010/02/marine-reserves-help-fish-recove.html
+    0 comments:
+    Thread: /sciencenow/2010/03/how-does-a-worm-wriggle.html
+    3 comments:
+        JSK Comment. Author: otakucode | IP: 98.157.82.49
+        Disqus comment created: 40931538 (JSK id: jsid-1269058782-416)
+        JSK Comment. Author: stas | IP: 98.245.237.203
+        Disqus comment created: 40931540 (JSK id: jsid-1268970357-866)
+        JSK Comment. Author: cemery50@gmail.com | IP: 75.148.94.221
+        Disqus comment created: 40931541 (JSK id: jsid-1268953685-435)
+    Thread: /sciencenow/2010/02/03-01.html
+    1 comments:
+        JSK Comment. Author: James Smith | IP: 187.64.53.49
+        Disqus comment created: 40931542 (JSK id: jsid-1268073140-464)
+    Thread: /sciencebloggers/2010/02/wheres-swine-flu-check-the-traff.html
+    1 comments:
+        JSK Comment. Author: david young | IP: 38.96.18.253
+        Disqus comment created: 40931543 (JSK id: jsid-1266815501-493)
+    Thread: 
+    0 comments:
+    Thread: /sciencebloggers/2010/02/technological-help-seeking-behav.html
+    1 comments:
+        JSK Comment. Author: Your Enchanted Gardener | IP: 72.220.170.120
+        Disqus comment created: 40931546 (JSK id: jsid-1266847464-369)
+    Thread: /sciencenow/2010/03/catalyst-for-coastal-smog-shows-.html
+    1 comments:
+        JSK Comment. Author: Adam Reith | IP: 68.209.190.68
+        Disqus comment created: 40931547 (JSK id: jsid-1268310412-486)
+    Thread: /scienceinsider/2010/02/-end-homeopathy-on-nhs-say-briti.html
+    5 comments:
+        JSK Comment. Author: Dr. Vijay Vaishnav | IP: 59.182.146.200
+        Disqus comment created: 40931550 (JSK id: jsid-1267152122-824)
+        JSK Comment. Author: Guest | IP: 71.93.74.189
+        Disqus comment created: 40931551 (JSK id: jsid-1266961687-913)
+        JSK Comment. Author: Rebecca | IP: 213.114.76.127
+        Disqus comment created: 40931553 (JSK id: jsid-1266957419-284)
+        JSK Comment. Author: Guest | IP: 99.39.100.74
+        Disqus comment created: 40931554 (JSK id: jsid-1266940325-519)
+        JSK Comment. Author: Guest | IP: 203.197.82.242
+        Disqus comment created: 40931555 (JSK id: jsid-1266921546-80)
+    Thread: /sciencenow/2010/02/podcast-you-can-catch-more-than-.html
+    2 comments:
+        JSK Comment. Author: Robert | IP: 114.143.166.157
+        Disqus comment created: 40931556 (JSK id: jsid-1266902737-0)
+        JSK Comment. Author: Leon Arundell | IP: 203.129.45.129
+        Disqus comment created: 40931558 (JSK id: jsid-1268260981-266)
+    Thread: /scienceinsider/2010/02/texas-supplied-newborn-blood-sam.html
+    16 comments:
+        JSK Comment. Author: Guest | IP: 98.100.105.254
+        Disqus comment created: 40931559 (JSK id: jsid-1268253280-418)
+        JSK Comment. Author: Guest | IP: 74.46.178.74
+        Disqus comment created: 40931560 (JSK id: jsid-1267230987-393)
+        JSK Comment. Author: Guest | IP: 206.83.53.249
+        Disqus comment created: 40931561 (JSK id: jsid-1267208416-134)
+        JSK Comment. Author: CyperStooge | IP: 76.28.173.226
+        Disqus comment created: 40931563 (JSK id: jsid-1267066045-687)
+        JSK Comment. Author: guest | IP: 4.240.21.148
+        Disqus comment created: 40931564 (JSK id: jsid-1267044479-482)
+        JSK Comment. Author: Loving Truth! | IP: 84.81.39.209
+        Disqus comment created: 40931566 (JSK id: jsid-1267014809-294)
+        JSK Comment. Author: jack | IP: 68.47.231.238
+        Disqus comment created: 40931567 (JSK id: jsid-1266983129-528)
+        JSK Comment. Author: jayduba | IP: 71.239.12.20
+        Disqus comment created: 40931568 (JSK id: jsid-1266947355-367)
+        JSK Comment. Author: Guest | IP: 209.128.50.138
+        Disqus comment created: 40931570 (JSK id: jsid-1266939369-23)
+        JSK Comment. Author: Guest | IP: 162.129.251.30
+        Disqus comment created: 40931571 (JSK id: jsid-1266946864-275)
+        JSK Comment. Author: ErnestPayne | IP: 24.36.106.71
+        Disqus comment created: 40931573 (JSK id: jsid-1266917345-813)
+        JSK Comment. Author: Red | IP: 69.246.195.23
+        Disqus comment created: 40931575 (JSK id: jsid-1266941438-624)
+        JSK Comment. Author: Guest | IP: 152.3.33.47
+        Disqus comment created: 40931576 (JSK id: jsid-1266938427-185)
+        JSK Comment. Author: hcassho | IP: 128.101.90.232
+        Disqus comment created: 40931577 (JSK id: jsid-1266937799-61)
+        JSK Comment. Author: Mark | IP: 63.66.112.5
+        Disqus comment created: 40931578 (JSK id: jsid-1266932279-245)
+        JSK Comment. Author: Guest | IP: 71.20.71.52
+        Disqus comment created: 40931579 (JSK id: jsid-1266931583-480)
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /scienceinsider/2009/02/1000000000000-f.html
+    0 comments:
+    Thread: /scienceinsider/2010/02/european-atomsm.html
+    5 comments:
+        JSK Comment. Author: carlo | IP: 89.251.244.31
+        Disqus comment created: 40931582 (JSK id: jsid-1268847821-737)
+        JSK Comment. Author: srswart | IP: 75.227.52.117
+        Disqus comment created: 40931583 (JSK id: jsid-1268257627-478)
+        JSK Comment. Author: Moderator | IP: 198.151.217.26
+        Disqus comment created: 40931585 (JSK id: jsid-1268261756-262)
+        JSK Comment. Author: Robert Houston | IP: 128.122.90.182
+        Disqus comment created: 40931586 (JSK id: jsid-1267075512-715)
+        JSK Comment. Author: AL | IP: 68.173.59.88
+        Disqus comment created: 40931587 (JSK id: jsid-1266906214-639)
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /sciencebloggers/2010/02/student-poster-competition.html
+    0 comments:
+    Thread: /scienceinsider/2010/03/roundup-311-like-a-snake-edition.html
+    0 comments:
+    Thread: /scienceinsider/2010/02/roundup-223-the-meetings-edition.html
+    0 comments:
+    Thread: /scienceinsider/2010/03/new-cancer-approach-fast-cheap-a.html
+    1 comments:
+        JSK Comment. Author: Erschuur | IP: 69.181.163.181
+        Disqus comment created: 40931592 (JSK id: jsid-1268928295-213)
+    Thread: /sciencenow/2010/02/versailles-saturn-style.html
+    2 comments:
+        JSK Comment. Author: Guest | IP: 71.93.66.187
+        Disqus comment created: 40931594 (JSK id: jsid-1267078868-989)
+        JSK Comment. Author: Dave | IP: 71.31.247.104
+        Disqus comment created: 40931595 (JSK id: jsid-1267053276-887)
+    Thread: /sciencenow/2010/02/is-that-a-caveman-or-dick-cheney.html
+    6 comments:
+        JSK Comment. Author: Sue | IP: 76.21.43.173
+        Disqus comment created: 40931596 (JSK id: jsid-1268090512-283)
+        JSK Comment. Author: Dr. Kristine Campbell | IP: 208.40.31.218
+        Disqus comment created: 40931597 (JSK id: jsid-1267557807-643)
+        JSK Comment. Author: Brent1023 | IP: 207.216.9.1
+        Disqus comment created: 40931599 (JSK id: jsid-1267547688-863)
+        JSK Comment. Author: oldmoal | IP: 20.132.64.141
+        Disqus comment created: 40931600 (JSK id: jsid-1267028437-538)
+        JSK Comment. Author: tadchem | IP: 131.81.200.92
+        Disqus comment created: 40931601 (JSK id: jsid-1267019284-640)
+        JSK Comment. Author: Guest | IP: 134.160.214.34
+        Disqus comment created: 40931603 (JSK id: jsid-1266994187-381)
+    Thread: /sciencenow/2010/02/frog-slideshow-article.html
+    1 comments:
+        JSK Comment. Author: amylynn | IP: 76.116.68.164
+        Disqus comment created: 40931605 (JSK id: jsid-1266985816-771)
+    Thread: 
+    0 comments:
+    Thread: /sciencenow/2010/03/no-sexual-confusion-for-chicken.html
+    3 comments:
+        JSK Comment. Author: D. H. | IP: 68.205.254.243
+        Disqus comment created: 40931608 (JSK id: jsid-1268316350-548)
+        JSK Comment. Author: Ron | IP: 144.92.132.175
+        Disqus comment created: 40931609 (JSK id: jsid-1268345421-115)
+        JSK Comment. Author: Jake | IP: 68.193.122.21
+        Disqus comment created: 40931610 (JSK id: jsid-1268699935-69)
+    Thread: /scienceinsider/2009/11/critics-of-god.html
+    2 comments:
+        JSK Comment. Author: Robert Houston | IP: 128.122.90.185
+        Disqus comment created: 40931612 (JSK id: jsid-1267417363-734)
+        JSK Comment. Author: AL | IP: 68.173.59.88
+        Disqus comment created: 40931614 (JSK id: jsid-1267137139-337)
+    Thread: /sciencenow/2010/03/did-dinosaurs-start-out-on-all-f.html
+    4 comments:
+        JSK Comment. Author: Guest | IP: 169.204.189.69
+        Disqus comment created: 40931615 (JSK id: jsid-1267723798-721)
+        JSK Comment. Author: pcwildt | IP: 71.199.237.92
+        Disqus comment created: 40931617 (JSK id: jsid-1267716741-82)
+        JSK Comment. Author: Joe | IP: 99.56.94.33
+        Disqus comment created: 40931618 (JSK id: jsid-1267670372-181)
+        JSK Comment. Author: Joe | IP: 99.56.94.33
+        Disqus comment created: 40931619 (JSK id: jsid-1267669796-223)
+    Thread: /scienceinsider/2010/01/bill-gates-fund.html
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /sciencenow/2010/02/podcast-children-of-assisted-rep.html
+    0 comments:
+    Thread: /sciencenow/2009/12/14-03.html
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /sciencenow/2010/02/tropical-cyclones-turn-up-the-he.html
+    1 comments:
+        JSK Comment. Author: hunter | IP: 143.115.159.54
+        Disqus comment created: 40931624 (JSK id: jsid-1267126592-408)
+    Thread: /sciencenow/2010/03/solving-the-rangeland-paradox.html
+    6 comments:
+        JSK Comment. Author: Steve | IP: 65.214.119.2
+        Disqus comment created: 40931627 (JSK id: jsid-1268677394-392)
+        JSK Comment. Author: fishguy | IP: 71.34.102.182
+        Disqus comment created: 40931629 (JSK id: jsid-1268189626-982)
+        JSK Comment. Author: tadchem | IP: 131.81.200.92
+        Disqus comment created: 40931630 (JSK id: jsid-1267806916-684)
+        JSK Comment. Author: Guest | IP: 165.91.185.72
+        Disqus comment created: 40931631 (JSK id: jsid-1268068278-76)
+        JSK Comment. Author: Frank Barry | IP: 99.146.220.124
+        Disqus comment created: 40931632 (JSK id: jsid-1267930232-331)
+        JSK Comment. Author: Guest | IP: 209.173.255.81
+        Disqus comment created: 40931633 (JSK id: jsid-1267827630-532)
+    Thread: /scienceinsider/2010/02/-a-researcher-accused-of.html
+    0 comments:
+    Thread: /scienceinsider/2010/03/killer-quake-leaves-chilean-tele.html
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /sciencenow/2010/03/global-warming-didnt-kill-the-go.html
+    6 comments:
+        JSK Comment. Author: Nate | IP: 86.170.242.228
+        Disqus comment created: 40931637 (JSK id: jsid-1267976871-971)
+        JSK Comment. Author: Kaite | IP: 64.83.144.1
+        Disqus comment created: 40931639 (JSK id: jsid-1267645649-727)
+        JSK Comment. Author: T Ray | IP: 68.89.223.0
+        Disqus comment created: 40931640 (JSK id: jsid-1267506177-463)
+        JSK Comment. Author: tadchem | IP: 131.81.200.92
+        Disqus comment created: 40931641 (JSK id: jsid-1267633315-339)
+        JSK Comment. Author: Guest | IP: 161.152.28.163
+        Disqus comment created: 40931642 (JSK id: jsid-1267583650-607)
+        JSK Comment. Author: Vlad Popovic | IP: 192.44.136.113
+        Disqus comment created: 40931643 (JSK id: jsid-1267553549-928)
+    Thread: 
+    0 comments:
+    Thread: /sciencenow/2010/02/-deep-on-the-ocean.html
+    7 comments:
+        JSK Comment. Author: Drew Dust | IP: 173.26.201.202
+        Disqus comment created: 40931644 (JSK id: jsid-1267399526-166)
+        JSK Comment. Author: Morten | IP: 84.238.25.26
+        Disqus comment created: 40931645 (JSK id: jsid-1267480612-834)
+        JSK Comment. Author: Alexander from Oregon | IP: 72.11.112.147
+        Disqus comment created: 40931646 (JSK id: jsid-1267302063-76)
+        JSK Comment. Author: David | IP: 75.117.119.65
+        Disqus comment created: 40931647 (JSK id: jsid-1267285379-675)
+        JSK Comment. Author: shelley | IP: 74.88.226.77
+        Disqus comment created: 40931648 (JSK id: jsid-1267186565-297)
+        JSK Comment. Author: tim.correy@yahoo.com | IP: 69.47.112.39
+        Disqus comment created: 40931650 (JSK id: jsid-1267135644-886)
+        JSK Comment. Author: guest | IP: 78.94.202.163
+        Disqus comment created: 40931651 (JSK id: jsid-1267088027-938)
+    Thread: /sciencenow/2010/02/podcast-origin-of-small-dogs-bac.html
+    1 comments:
+        JSK Comment. Author: j.l.soni | IP: 59.183.133.183
+        Disqus comment created: 40931652 (JSK id: jsid-1267190514-369)
+    Thread: 
+    0 comments:
+    Thread: /scienceinsider/2010/01/a-loud-start-to.html
+    0 comments:
+    Thread: /scienceinsider/2009/12/forests-deal-lu.html
+    1 comments:
+        JSK Comment. Author: IsabelMorphius002 | IP: 174.133.249.88
+        Disqus comment created: 40931653 (JSK id: jsid-1267094934-119)
+    Thread: /sciencenow/2009/04/02-02.html
+    0 comments:
+    Thread: /scienceinsider/2009/12/nist-stuff-for.html
+    1 comments:
+        JSK Comment. Author: IsabelMorphius002 | IP: 174.133.249.88
+        Disqus comment created: 40931656 (JSK id: jsid-1267105180-588)
+    Thread: /sciencenow/2010/02/03-03.html
+    1 comments:
+        JSK Comment. Author: Wonderer | IP: 169.234.3.28
+        Disqus comment created: 40931658 (JSK id: jsid-1268858926-570)
+    Thread: /scienceinsider/2010/02/nih-director-ruffles-feathers-ag.html
+    20 comments:
+        JSK Comment. Author: Torbjörn Larsson | IP: 83.253.9.180
+        APIError in create_post.
+        JSK Comment. Author: Anonymous | IP: 145.64.134.242
+        Disqus comment created: 40931662 (JSK id: jsid-1267797857-50)
+        JSK Comment. Author: Erik F. | IP: 208.219.189.2
+        Disqus comment created: 40931664 (JSK id: jsid-1267475452-809)
+        JSK Comment. Author: Guest | IP: 192.203.127.3
+        Disqus comment created: 40931665 (JSK id: jsid-1267459760-944)
+        JSK Comment. Author: John | IP: 192.58.204.226
+        Disqus comment created: 40931666 (JSK id: jsid-1267453167-728)
+        JSK Comment. Author: P.A. Wahid | IP: 59.93.33.207
+        Disqus comment created: 40931667 (JSK id: jsid-1267369169-715)
+        JSK Comment. Author: Guest | IP: 86.141.212.55
+        Disqus comment created: 40931668 (JSK id: jsid-1267346138-932)
+        JSK Comment. Author: Greg Shenaut | IP: 168.150.235.5
+        Disqus comment created: 40931669 (JSK id: jsid-1267291558-878)
+        JSK Comment. Author: ironjustice | IP: 173.183.151.178
+        Disqus comment created: 40931671 (JSK id: jsid-1267221442-610)
+        JSK Comment. Author: Larry | IP: 149.169.239.87
+        Disqus comment created: 40931672 (JSK id: jsid-1267221430-988)
+        JSK Comment. Author: John | IP: 192.58.204.226
+        Disqus comment created: 40931673 (JSK id: jsid-1267217514-500)
+        JSK Comment. Author: Allison | IP: 76.19.222.80
+        Disqus comment created: 40931674 (JSK id: jsid-1267207969-44)
+        JSK Comment. Author: Jeffrey J. Early | IP: 68.198.35.162
+        Disqus comment created: 40931675 (JSK id: jsid-1267205484-133)
+        JSK Comment. Author: AngelaKay | IP: 204.154.137.252
+        Disqus comment created: 40931677 (JSK id: jsid-1267203338-854)
+        JSK Comment. Author: John | IP: 192.58.204.226
+        Disqus comment created: 40931680 (JSK id: jsid-1267202496-513)
+        JSK Comment. Author: From another country | IP: 201.50.134.196
+        Disqus comment created: 40931682 (JSK id: jsid-1267190292-32)
+        JSK Comment. Author: Forlornehope | IP: 86.131.84.139
+        Disqus comment created: 40931684 (JSK id: jsid-1267178472-351)
+        JSK Comment. Author: Impartial | IP: 202.144.125.242
+        Disqus comment created: 40931685 (JSK id: jsid-1267172613-873)
+        JSK Comment. Author: Westin | IP: 24.6.3.187
+        Disqus comment created: 40931686 (JSK id: jsid-1267148720-247)
+        JSK Comment. Author: anonymous | IP: 189.5.238.212
+        Disqus comment created: 40931688 (JSK id: jsid-1267145960-234)
+    Thread: 
+    0 comments:
+    Thread: /sciencenow/2010/03/psychopaths-keep-their-eyes-on-t.html
+    14 comments:
+        JSK Comment. Author: Guest | IP: 202.144.125.242
+        Disqus comment created: 40931690 (JSK id: jsid-1268630722-508)
+        JSK Comment. Author: another guest | IP: 97.97.46.216
+        Disqus comment created: 40931691 (JSK id: jsid-1268942337-333)
+        JSK Comment. Author: reader | IP: 76.102.118.73
+        Disqus comment created: 40931692 (JSK id: jsid-1268804704-256)
+        JSK Comment. Author: JV | IP: 67.175.128.168
+        Disqus comment created: 40931695 (JSK id: jsid-1268607213-297)
+        JSK Comment. Author: EMS | IP: 192.91.173.36
+        Disqus comment created: 40931696 (JSK id: jsid-1268765457-10)
+        JSK Comment. Author: mog | IP: 65.121.114.232
+        Disqus comment created: 40931697 (JSK id: jsid-1268664522-644)
+        JSK Comment. Author: r | IP: 207.15.185.6
+        Disqus comment created: 40931698 (JSK id: jsid-1268751060-271)
+        JSK Comment. Author: guest | IP: 74.40.172.74
+        Disqus comment created: 40931699 (JSK id: jsid-1268683559-891)
+        JSK Comment. Author: frag | IP: 70.20.27.109
+        Disqus comment created: 40931701 (JSK id: jsid-1268673323-612)
+        JSK Comment. Author: mike | IP: 85.179.65.212
+        Disqus comment created: 40931702 (JSK id: jsid-1268657358-710)
+        JSK Comment. Author: wencai yang | IP: 59.174.51.185
+        Disqus comment created: 40931703 (JSK id: jsid-1268643316-410)
+        JSK Comment. Author: wencai yang | IP: 59.174.51.185
+        Disqus comment created: 40931704 (JSK id: jsid-1268643082-515)
+        JSK Comment. Author: Genevieve | IP: 65.96.220.11
+        Disqus comment created: 40931707 (JSK id: jsid-1268623085-764)
+        JSK Comment. Author: Guest | IP: 98.28.146.15
+        Disqus comment created: 40931708 (JSK id: jsid-1268610595-70)
+    Thread: /sciencenow/2010/02/a-new-route-to-grassoline.html
+    7 comments:
+        JSK Comment. Author: Paul von Hartmann | IP: 74.42.187.42
+        Disqus comment created: 40931709 (JSK id: jsid-1267413723-390)
+        JSK Comment. Author: Guest | IP: 155.198.136.75
+        Disqus comment created: 40931710 (JSK id: jsid-1267178227-612)
+        JSK Comment. Author: Paul von Hartmann | IP: 74.42.187.42
+        Disqus comment created: 40931711 (JSK id: jsid-1267412318-815)
+        JSK Comment. Author: Drew | IP: 173.26.201.202
+        Disqus comment created: 40931712 (JSK id: jsid-1267401953-757)
+        JSK Comment. Author: Guest | IP: 41.221.87.249
+        Disqus comment created: 40931714 (JSK id: jsid-1267196294-137)
+        JSK Comment. Author: mudd1 | IP: 78.94.202.163
+        Disqus comment created: 40931715 (JSK id: jsid-1267209424-796)
+        JSK Comment. Author: Guest | IP: 75.11.19.251
+        Disqus comment created: 40931716 (JSK id: jsid-1267136079-821)
+    Thread: /scienceinsider/2010/02/rounup-224.html
+    1 comments:
+        JSK Comment. Author: bruf@uwm.edu | IP: 99.31.77.207
+        Disqus comment created: 40931718 (JSK id: jsid-1267156177-394)
+    Thread: 
+    0 comments:
+    Thread: /sciencenow/2008/02/20-02.html
+    1 comments:
+        JSK Comment. Author: Guest | IP: 92.235.154.140
+        Disqus comment created: 40931719 (JSK id: jsid-1268823164-135)
+    Thread: /sciencenow/2010/01/26-02.html
+    0 comments:
+    Thread: /scienceinsider/2010/02/un-review-of-ipcc-could-have-unc.html
+    2 comments:
+        JSK Comment. Author: Peter | IP: 75.82.183.228
+        Disqus comment created: 40931723 (JSK id: jsid-1267309224-943)
+        JSK Comment. Author: Dan Luke | IP: 68.209.190.68
+        Disqus comment created: 40931724 (JSK id: jsid-1267299721-917)
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /sciencenow/2007/02/16-04.html
+    0 comments:
+    Thread: /scienceinsider/2009/12/british-science.html
+    1 comments:
+        JSK Comment. Author: Guest | IP: 41.197.25.6
+        Disqus comment created: 40931730 (JSK id: jsid-1267609114-617)
+    Thread: /scienceinsider/2010/01/its-africa-vs-a.html
+    1 comments:
+        JSK Comment. Author: Joe | IP: 173.66.84.61
+        Disqus comment created: 40931734 (JSK id: jsid-1268732435-358)
+    Thread: /scienceinsider/2009/11/march-geoengine.html
+    1 comments:
+        JSK Comment. Author: Russell Seitz | IP: 65.112.14.8
+        Disqus comment created: 40931737 (JSK id: jsid-1269056215-183)
+    Thread: /sciencenow/2010/01/13-01.html
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /scienceinsider/2010/03/back-researchers-not-research-sa.html
+    0 comments:
+    Thread: /sciencenow/2010/03/autopilot-for-fruit-flies.html
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /sciencenow/2010/03/why-are-dung-beetles-so-horny.html
+    2 comments:
+        JSK Comment. Author: ai ang | IP: 119.152.232.107
+        Disqus comment created: 40931741 (JSK id: jsid-1267690998-160)
+        JSK Comment. Author: kathleen | IP: 70.161.253.7
+        Disqus comment created: 40931742 (JSK id: jsid-1267623047-877)
+    Thread: 
+    0 comments:
+    Thread: /sciencenow/2010/03/deadly-inflammation-but-no-sign-.html
+    4 comments:
+        JSK Comment. Author: rshoff | IP: 67.171.16.145
+        Disqus comment created: 40931745 (JSK id: jsid-1267672276-730)
+        JSK Comment. Author: quixoticallysober | IP: 198.16.9.11
+        Disqus comment created: 40931746 (JSK id: jsid-1267803173-919)
+        JSK Comment. Author: kalidasan | IP: 61.9.86.140
+        Disqus comment created: 40931748 (JSK id: jsid-1267779028-982)
+        JSK Comment. Author: Gadfly | IP: 216.231.36.134
+        Disqus comment created: 40931749 (JSK id: jsid-1267681303-239)
+    Thread: /sciencenow/2010/03/scienceshot-no-gold-medal-for-sk.html
+    0 comments:
+    Thread: /scienceinsider/2010/03/hopes-dashed-for-another-alzheim.html
+    1 comments:
+        JSK Comment. Author: Md Jamilur Rahman | IP: 134.93.138.95
+        Disqus comment created: 40931752 (JSK id: jsid-1267696192-414)
+    Thread: /sciencenow/2008/10/31-02.html
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /scienceinsider/2010/03/-new-study-suggests-little-chang.html
+    0 comments:
+    Thread: /scienceinsider/2010/03/mars-mission-on-earth-survives-b.html
+    1 comments:
+        JSK Comment. Author: Alexander from Oregon | IP: 72.11.112.147
+        Disqus comment created: 40931755 (JSK id: jsid-1268900395-655)
+    Thread: /scienceinsider/2010/03/chile-poised-to-build-biggest-te.html
+    2 comments:
+        JSK Comment. Author: matias diaz | IP: 201.223.164.170
+        Disqus comment created: 40931757 (JSK id: jsid-1267809059-860)
+        JSK Comment. Author: Clare Nelson | IP: 63.245.164.246
+        Disqus comment created: 40931758 (JSK id: jsid-1267751441-679)
+    Thread: 
+    0 comments:
+    Thread: /scienceinsider/2009/09/us-swine-flu-va.html
+    0 comments:
+    Thread: /sciencenow/2010/03/mental-illness-multiplied-in-chi.html
+    13 comments:
+        JSK Comment. Author: Best neurosurgical hospital | IP: 117.196.225.185
+        Disqus comment created: 40931760 (JSK id: jsid-1268721787-794)
+        JSK Comment. Author: Frank Barry | IP: 99.146.220.124
+        Disqus comment created: 40931761 (JSK id: jsid-1267933571-205)
+        JSK Comment. Author: Amanda | IP: 99.150.162.104
+        Disqus comment created: 40931762 (JSK id: jsid-1268163417-676)
+        JSK Comment. Author: Guest | IP: 69.254.153.43
+        Disqus comment created: 40931763 (JSK id: jsid-1268159752-22)
+        JSK Comment. Author: Guest | IP: 165.91.231.7
+        Disqus comment created: 40931766 (JSK id: jsid-1268154225-748)
+        JSK Comment. Author: Gest | IP: 165.91.231.7
+        Disqus comment created: 40931767 (JSK id: jsid-1268062945-917)
+        JSK Comment. Author: Wait no | IP: 65.101.129.105
+        Disqus comment created: 40931768 (JSK id: jsid-1267987808-380)
+        JSK Comment. Author: Guest | IP: 216.227.104.210
+        Disqus comment created: 40931770 (JSK id: jsid-1267760757-643)
+        JSK Comment. Author: Joseph | IP: 153.90.84.123
+        Disqus comment created: 40931771 (JSK id: jsid-1267818305-68)
+        JSK Comment. Author: Joseph | IP: 153.90.84.123
+        Disqus comment created: 40931772 (JSK id: jsid-1267818206-321)
+        JSK Comment. Author: Guest | IP: 76.180.196.3
+        Disqus comment created: 40931773 (JSK id: jsid-1267807664-739)
+        JSK Comment. Author: valikor | IP: 86.209.75.230
+        Disqus comment created: 40931774 (JSK id: jsid-1267790079-970)
+        JSK Comment. Author: jbrill | IP: 198.145.97.154
+        Disqus comment created: 40931775 (JSK id: jsid-1267769407-209)
+    Thread: /sciencenow/2010/03/hobbit-ancestors-arrived-on-flor.html
+    2 comments:
+        JSK Comment. Author: Haley | IP: 24.125.122.144
+        Disqus comment created: 40931776 (JSK id: jsid-1268872987-445)
+        JSK Comment. Author: qraal | IP: 121.223.1.53
+        Disqus comment created: 40931777 (JSK id: jsid-1268865442-127)
+    Thread: /sciencenow/2010/03/scienceshot-how-mussels-hang-on.html
+    0 comments:
+    Thread: /scienceinsider/2010/03/researchers-seek-funding-to-study.html
+    0 comments:
+    Thread: /scienceinsider/2009/12/exclusiveobama.html
+    1 comments:
+        JSK Comment. Author: Razvan | IP: 89.34.48.94
+        Disqus comment created: 40931779 (JSK id: jsid-1268924221-389)
+    Thread: /scienceinsider/2010/03/in-annual-rite-chinese-science-s.html
+    1 comments:
+        JSK Comment. Author: Charles | IP: 188.61.128.239
+        Disqus comment created: 40931781 (JSK id: jsid-1268113709-212)
+    Thread: 
+    0 comments:
+    Thread: /scienceinsider/2010/03/place-mammoth-telescope-on-our-i.html
+    4 comments:
+        JSK Comment. Author: Carl | IP: 83.38.39.78
+        Disqus comment created: 40931782 (JSK id: jsid-1268762872-879)
+        JSK Comment. Author: Nicolás Luco | IP: 200.12.27.10
+        APIError in create_post.
+        JSK Comment. Author: Carl | IP: 85.155.88.166
+        Disqus comment created: 40931784 (JSK id: jsid-1268267658-422)
+        JSK Comment. Author: tadchem | IP: 131.81.200.92
+        Disqus comment created: 40931785 (JSK id: jsid-1268246585-355)
+    Thread: /scienceinsider/2010/03/researchers-in-chile-hit-hard-by.html
+    0 comments:
+    Thread: /scienceinsider/2009/12/italy-science-a.html
+    0 comments:
+    Thread: /scienceinsider/2009/11/physicists-back.html
+    1 comments:
+        JSK Comment. Author: Robert Houston | IP: 128.122.88.75
+        Disqus comment created: 40931792 (JSK id: jsid-1267854896-963)
+    Thread: 
+    0 comments:
+    Thread: /sciencenow/2010/02/01-01.html
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /sciencenow/2010/03/playing-fair-came-late.html
+    3 comments:
+        JSK Comment. Author: Joe D. | IP: 144.30.83.39
+        Disqus comment created: 40931794 (JSK id: jsid-1269024700-501)
+        JSK Comment. Author: Joe D. | IP: 144.30.83.39
+        Disqus comment created: 40931795 (JSK id: jsid-1269024807-913)
+        JSK Comment. Author: Stevee Ray | IP: 66.182.52.45
+        Disqus comment created: 40931796 (JSK id: jsid-1269018066-388)
+    Thread: /sciencenow/2010/03/new-hiv-hiding-spot-revealed.html
+    3 comments:
+        JSK Comment. Author: Melissa Trible | IP: 129.219.40.71
+        Disqus comment created: 40931799 (JSK id: jsid-1268079134-859)
+        JSK Comment. Author: dvheil | IP: 130.14.254.26
+        Disqus comment created: 40931800 (JSK id: jsid-1268676941-582)
+        JSK Comment. Author: Michael Trueblood | IP: 174.98.176.15
+        Disqus comment created: 40931801 (JSK id: jsid-1268653250-655)
+    Thread: 
+    0 comments:
+    Thread: /sciencenow/2010/03/scouring-the-whole-genome-to-nai.html
+    1 comments:
+        JSK Comment. Author: Isabelle Seif | IP: 81.249.243.182
+        Disqus comment created: 40931803 (JSK id: jsid-1268302764-600)
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /scienceinsider/2010/03/elsevier-to-editor-change-contro.html
+    11 comments:
+        JSK Comment. Author: Marco Ruggiero | IP: 150.217.63.136
+        Disqus comment created: 40931804 (JSK id: jsid-1268392714-164)
+        JSK Comment. Author: Peter Duesberg | IP: 136.152.170.11
+        Disqus comment created: 40931805 (JSK id: jsid-1268349072-697)
+        JSK Comment. Author: VS Ramachandran | IP: 84.97.218.164
+        Disqus comment created: 40931808 (JSK id: jsid-1268318896-441)
+        JSK Comment. Author: Guest | IP: 129.132.228.81
+        Disqus comment created: 40931809 (JSK id: jsid-1268306472-622)
+        JSK Comment. Author: Guest | IP: 72.219.252.144
+        Disqus comment created: 40931810 (JSK id: jsid-1268270420-742)
+        JSK Comment. Author: Erschuur | IP: 69.181.163.181
+        Disqus comment created: 40931811 (JSK id: jsid-1268241816-727)
+        JSK Comment. Author: Guest | IP: 144.171.190.130
+        Disqus comment created: 40931813 (JSK id: jsid-1268238654-729)
+        JSK Comment. Author: Guest | IP: 128.32.195.86
+        Disqus comment created: 40931814 (JSK id: jsid-1268190229-497)
+        JSK Comment. Author: Sam | IP: 173.51.4.40
+        Disqus comment created: 40931815 (JSK id: jsid-1268184532-624)
+        JSK Comment. Author: Guest | IP: 98.220.29.112
+        Disqus comment created: 40931816 (JSK id: jsid-1268179381-562)
+        JSK Comment. Author: Censor Denial | IP: 202.144.125.242
+        Disqus comment created: 40931817 (JSK id: jsid-1268124839-29)
+    Thread: 
+    0 comments:
+    Thread: /sciencenow/2010/03/scienceshot-midget-stars-dance-c.html
+    1 comments:
+        JSK Comment. Author: tadchem | IP: 131.81.200.92
+        Disqus comment created: 40931818 (JSK id: jsid-1268246720-760)
+    Thread: /sciencenow/2010/03/scienceshot-titanic-explosion-ro.html
+    0 comments:
+    Thread: /scienceinsider/2010/03/winners-of-the-intel-science-tal-1.html
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /sciencenow/2010/03/-thalidomide-ranks-as-one.html
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /sciencenow/2009/11/24-01.html
+    0 comments:
+    Thread: /scienceinsider/2010/03/ocean-probe-lost-at-sea.html
+    1 comments:
+        JSK Comment. Author: Abe | IP: 130.91.62.95
+        Disqus comment created: 40931824 (JSK id: jsid-1268258832-469)
+    Thread: 
+    0 comments:
+    Thread: /scienceinsider/2010/03/fusion-delayed-iter-startdate-mo.html
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /scienceinsider/2010/03/half-a-million-for-gene-sequence.html
+    1 comments:
+        JSK Comment. Author: Rachanee OCharoen | IP: 58.137.189.178
+        Disqus comment created: 40931829 (JSK id: jsid-1268978077-397)
+    Thread: 
+    0 comments:
+    Thread: /sciencenow/2010/03/ringach.html
+    1 comments:
+        JSK Comment. Author: Metalhaid | IP: 71.109.118.57
+        Disqus comment created: 40931831 (JSK id: jsid-1268446582-355)
+    Thread: 
+    0 comments:
+    Thread: /scienceinsider/2010/03/should-social-scientists-help-th.html
+    6 comments:
+        JSK Comment. Author: Dave | IP: 64.1.68.252
+        Disqus comment created: 40931833 (JSK id: jsid-1268438925-124)
+        JSK Comment. Author: John Stanton | IP: 74.93.212.169
+        Disqus comment created: 40931834 (JSK id: jsid-1268411629-220)
+        JSK Comment. Author: David Kennedy | IP: 71.106.96.174
+        Disqus comment created: 40931835 (JSK id: jsid-1268410585-827)
+        JSK Comment. Author: tadchem | IP: 131.81.200.92
+        Disqus comment created: 40931836 (JSK id: jsid-1268407892-402)
+        JSK Comment. Author: Frank Hannaford | IP: 98.175.195.130
+        Disqus comment created: 40931837 (JSK id: jsid-1268406442-334)
+        JSK Comment. Author: scott atran | IP: 200.88.230.79
+        Disqus comment created: 40931839 (JSK id: jsid-1268377243-457)
+    Thread: /sciencenow/2010/03/among-seahorses-mr-moms-play-fav.html
+    2 comments:
+        JSK Comment. Author: Perry Clark | IP: 24.145.160.46
+        Disqus comment created: 40931840 (JSK id: jsid-1268928138-237)
+        JSK Comment. Author: Disconnected | IP: 71.112.13.140
+        Disqus comment created: 40931842 (JSK id: jsid-1268920650-91)
+    Thread: 
+    0 comments:
+    Thread: /sciencenow/2009/04/16-02.html
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /sciencenow/2010/03/csis-latest-clue--bacteria.html
+    3 comments:
+        JSK Comment. Author: Synbio | IP: 129.176.151.14
+        Disqus comment created: 40931846 (JSK id: jsid-1268746498-907)
+        JSK Comment. Author: B | IP: 24.9.46.98
+        Disqus comment created: 40931847 (JSK id: jsid-1268699271-373)
+        JSK Comment. Author: Combo | IP: 128.118.237.23
+        Disqus comment created: 40931848 (JSK id: jsid-1268686652-904)
+    Thread: /sciencenow/2010/03/video-babies-are-born-to-dance.html
+    7 comments:
+        JSK Comment. Author: szuletik | IP: 65.41.162.254
+        Disqus comment created: 40931849 (JSK id: jsid-1268794427-542)
+        JSK Comment. Author: Guest | IP: 76.179.28.51
+        Disqus comment created: 40931850 (JSK id: jsid-1268772144-600)
+        JSK Comment. Author: AndreaF | IP: 84.156.188.7
+        Disqus comment created: 40931851 (JSK id: jsid-1268776451-474)
+        JSK Comment. Author: jj2204 | IP: 76.113.82.144
+        Disqus comment created: 40931852 (JSK id: jsid-1268764747-458)
+        JSK Comment. Author: AndreaF | IP: 84.156.188.7
+        Disqus comment created: 40931853 (JSK id: jsid-1268771132-495)
+        JSK Comment. Author: rintintin | IP: 24.128.188.2
+        Disqus comment created: 40931854 (JSK id: jsid-1268750931-798)
+        JSK Comment. Author: Guest | IP: 98.247.139.253
+        Disqus comment created: 40931855 (JSK id: jsid-1268766790-545)
+    Thread: /sciencenow/2009/10/27-01.html
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /scienceinsider/2010/03/japan-maps-out-big-science-plans.html
+    1 comments:
+        JSK Comment. Author: Anna L. | IP: 141.223.46.71
+        Disqus comment created: 40931860 (JSK id: jsid-1268895514-761)
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /sciencenow/2010/03/the-best-refrigerator-magnet-eve.html
+    0 comments:
+    Thread: /sciencenow/2009/02/20-02.html
+    0 comments:
+    Thread: /sciencenow/2008/06/23-03.html
+    0 comments:
+    Thread: /sciencenow/2010/03/scienceshot-bumblebees-have-the-.html
+    5 comments:
+        JSK Comment. Author: Peter Nelson | IP: 12.185.22.226
+        Disqus comment created: 40931868 (JSK id: jsid-1269093348-9)
+        JSK Comment. Author: Sam Droege | IP: 173.66.139.249
+        Disqus comment created: 40931869 (JSK id: jsid-1269081545-851)
+        JSK Comment. Author: Marmaladehills.com | IP: 99.185.60.181
+        Disqus comment created: 40931871 (JSK id: jsid-1269060813-856)
+        JSK Comment. Author: Guest | IP: 24.29.95.94
+        Disqus comment created: 40931872 (JSK id: jsid-1269049077-853)
+        JSK Comment. Author: Guest | IP: 129.8.66.93
+        Disqus comment created: 40931874 (JSK id: jsid-1269043055-122)
+    Thread: /scienceinsider/2009/11/roundup-112-pus.html
+    0 comments:
+    Thread: /sciencenow/2010/03/nano-gadget-holds-the-salt.html
+    0 comments:
+Processing complete.
+Detected (in import file): 446 comments; 268 threads.
+Created: 442 comments; 266 threads.

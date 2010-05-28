@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="article-commentary" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML"><front>
+<journal-meta><journal-id journal-id-type="publisher-id">SCIENCE</journal-id><journal-title>Science</journal-title><abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title><issn pub-type="ppub">0036-8075</issn><issn pub-type="epub">1095-9203</issn>
+<publisher>
+<publisher-name>American Association for the Advancement of Science</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta><article-id pub-id-type="publisher-id">1187607</article-id><article-id pub-id-type="doi">10.1126/science.1187607</article-id><article-categories>
+<subj-group subj-group-type="article-type"><subject>Perspective</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Perspectives</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>perspective</subject></subj-group>
+<subj-group subj-group-type="overline"><subject>Applied Physics</subject></subj-group>
+<subj-group subj-group-type="field"><subject>APP PHYSICS</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Controlling Turbulence</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes"><name><surname>McKeon</surname><given-names>Beverley J.</given-names></name></contrib>
+<aff id="aff1">Graduate Aerospace Laboratories, California Institute of Technology, 1200 East California Boulevard, Pasadena, CA 91125, USA.</aff>
+</contrib-group>
+<author-notes>
+<corresp>E-mail: <email>mckeon@caltech.edu</email></corresp>
+</author-notes><pub-date pub-type="ppub">
+<day>19</day>
+<month>03</month>
+<year>2010</year>
+</pub-date><volume>327</volume><issue>5972</issue><fpage>1462</fpage><lpage>1463</lpage><permissions>
+<copyright-statement>Copyright &#x00A9; 2010, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2010</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<abstract abstract-type="teaser">
+<p>Injecting a fluid jet into a pipe at an optimized location can control the development of turbulent flow.</p>
+</abstract>
+<abstract abstract-type="excerpt">
+<p>Pipes feature strongly in the infrastructure of everyday life, from domestic water pipes to oil and natural gas conduits. A primary consequence of the onset of turbulence in the fluid flowing through the pipes is the dramatically increased power required to pump stuff at the same rate. Thus, the incentives to understand and control the transition process are strong. However, more than 100 years after Osborne Reynolds's seminal experiments on the transition of flow through a pipe from a laminar (smooth) to a turbulent state, the exact physical mechanism that drives this phenomenon still vexes the fluid mechanics community. On page 1491 of this issue, Hof <italic>et al.</italic> (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>) describe a mechanism that feeds energy into a turbulent flow system, allowing the onset of the transition to be manipulated and even the suppression of the turbulence.</p>
+</abstract><custom-meta-wrap><custom-meta><meta-name>Editor</meta-name><meta-value>Ian Osborne</meta-value></custom-meta><custom-meta><meta-name>Copyeditor</meta-name><meta-value>Cynthia Howe</meta-value></custom-meta></custom-meta-wrap></article-meta>
+</front>
+<body>
+<p>Pipes feature strongly in the infrastructure of everyday life, from domestic water pipes to oil and natural gas conduits. A primary consequence of the onset of turbulence in the fluid flowing through the pipes is the dramatically increased power required to pump stuff at the same rate. Thus, the incentives to understand and control the transition process are strong. However, more than 100 years after Osborne Reynolds's seminal experiments on the transition of flow through a pipe from a laminar (smooth) to a turbulent state, the exact physical mechanism that drives this phenomenon still vexes the fluid mechanics community. On page <related-article related-article-type="in-this-issue" vol="327" page="1491" issue="5972">1491</related-article> of this issue, Hof <italic>et al.</italic> (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>) describe a mechanism that feeds energy into a turbulent flow system, allowing the onset of the transition to be manipulated and even the suppression of the turbulence.</p>
+<p>Reynolds's 1883 paper (see the figure, left panel) (<xref ref-type="bibr" rid="R2"><italic>2</italic></xref>) initiated an enduring framework with which to understand the flow of fluid, and particularly the range of conditions under which the transition from an ordered laminar state to a three-dimensional turbulent one will occur. The ratio of inertial to viscous forces is typically expressed in terms of the Reynolds number, <italic>Re</italic><sub>D</sub> = <italic>UD/v</italic> in pipeflow (where <italic>U</italic> is the average velocity in the pipe cross section, <italic>D</italic> is the pipe diameter, and <italic>v</italic> is the kinematic viscosity of the fluid). If the <italic>Re</italic><sub>D</sub> is identical between two idealized, incompressible flows in similar geometries, then similar flow behavior will occur. Thus, an experiment in which air compressed to a pressure of 200 atmospheres flows through a 12-cm-diameter pipe, or liquid helium through a 0.47-cm pipe, can accurately mimic flow through a transcontinental natural gas pipeline of diameter larger than one meter (see the figure, right panel) (<xref ref-type="bibr" rid="R3"><italic>3</italic></xref>).</p>
+<p>For all Reynolds numbers, laminar pipe flow is linearly stable. Yet a transition to turbulence still occurs at Reynolds numbers on the order of a few thousands, with the flow displaying the characteristic, spatially intermittent structure of turbulent &#x201C;puffs&#x201D; followed by extents of laminar flow (<xref ref-type="bibr" rid="R4"><italic>4</italic></xref>) (see also figure 4 in Hof <italic>et al.</italic>). Although considerable progress has been made in using unstable, traveling wave solutions of the Navier-Stokes equations, which govern fluid flow to define the state-space boundary between laminar and turbulent flow (<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>), these concepts still do not explain the origin of the observed puffs.</p>
+<p>Hof <italic>et al.</italic> introduce controlled disturbances using small jets at an upstream location in a fully developed laminar pipe flow experiment, which permits the study of &#x201C;designer puffs.&#x201D; The physics of their observations is elegant. In the reference frame of the disturbance, the transition is a local phenomenon&#x2014;the streamwise velocity gradients associated with a change from a laminar to a turbulent velocity distribution lead to a local inflectional instability in the radial profile of streamwise velocity. This instability is capable of driving turbulent dynamics in the puff. When a second identical disturbance is introduced at an optimal point upstream, the leading edge of the second puff can reduce the local velocity gradient at the trailing edge of the first puff, suppressing the inflectional instability that feeds the turbulence.</p>
+<p>The control of turbulence has long been a &#x201C;holy grail&#x201D; of fluid mechanics, and the field is highly active. The term &#x201C;flow control&#x201D; can be something of a misnomer, in that the complexity of fluid systems and the constraints on sensing and actuation are often too difficult for successful application of control theory. However, &#x201C;flow manipulation&#x201D; is possible with some active and passive techniques. Hof <italic>et al.</italic> exploit their understanding of a particular transition mechanism to identify an elegantly simple, physically realizable active approach. Most important, this control is obtained with a net gain: The reduction in pumping power associated with the elimination of turbulence outweighs the energy input required to generate the control disturbances, an essential element of practical flow control.</p>
+<fig id="F1" position="float">
+<caption>
+<title>Pipe flows.</title>
+<p>From the 19th-century laboratory to the pressing energy questions of today. (<bold>Left</bold>) Osborne Reynolds's experimental demonstration of the transition to turbulence in pipe flows and (<bold>right</bold>) the Yamal-Europe natural gas pipeline.</p>
+</caption>
+<graphic xlink:href="327_1462_F1" />
+<attrib>CREDIT: (RIGHT) KOMATSU LTD.</attrib>
+</fig>
+<p>For large-scale pipelines, the impact of preventing the transition to turbulence could be expressed in terms of more than a 100-fold decrease in the friction drag acting on the fluid for the same flow rate, a gain that would be directly reflected in the reduction in required pumping power. The economic impact and energy implications of controlling the transition to turbulence are apparent. However, the continued effectiveness of the control strategy for turbulent Reynolds numbers suggests that this approach could also give insight into fundamental physics of fully developed turbulence, the multiscale nature of which provides an equally challenging problem to fluid mechanicians. There are important differences between pipe flow and other internal and external flows, such as the flow over a wing, but there is perhaps potential to develop the approach to address a broader class of flows.</p>
+</body>
+<back>
+<ref-list>
+<title>References</title>
+<ref id="R1">
+<label>1</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Hof</surname><given-names>B.</given-names></name><etal/></person-group>., <source>Science</source>
+<volume>327</volume>, <fpage>1491</fpage> (<year>2010</year>).</citation>
+</ref>
+<ref id="R2">
+<label>2</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Reynolds</surname><given-names>O.</given-names></name></person-group>, <source>Philos. Trans. R. Soc. Lond.</source>
+<volume>174</volume>, <fpage>935</fpage> (<year>1883</year>).</citation>
+</ref>
+<ref id="R3">
+<label>3</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>McKeon</surname><given-names>B. J.</given-names></name><etal/></person-group>., <source>J. Fluid Mech.</source>
+<volume>511</volume>, <fpage>41</fpage> (<year>2004</year>).</citation>
+</ref>
+<ref id="R4">
+<label>4</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Wygnanski</surname><given-names>I. J.</given-names></name><name><surname>Champagne</surname><given-names>F. H.</given-names></name></person-group>, <source>J. Fluid Mech.</source>
+<volume>59</volume>, <fpage>281</fpage> (<year>1973</year>).</citation>
+</ref>
+<ref id="R5">
+<label>5</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Eckhardt</surname><given-names>B.</given-names></name><etal/></person-group>., <source>Annu. Rev. Fluid Mech.</source>
+<volume>39</volume>, <fpage>447</fpage> (<year>2007</year>).</citation>
+</ref>
+</ref-list>
+</back>
+</article>

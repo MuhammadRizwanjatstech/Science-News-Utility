@@ -1,0 +1,953 @@
+Disqus forum prepped: News Dev 3
+BeautifulSoup xml parser prepped.
+Parsing threads from input file...
+266 threads:
+    Thread: /sciencenow/2010/02/pardon-the-intrusion-but-your-da.html
+    1 comments:
+    Disqus APIError.
+    Can't create thread. Skipping this one.
+    Thread: 
+    0 comments:
+    Thread: /sciencenow/2010/02/artificial-nose-sniffs-out-good-.html
+    4 comments:
+    Disqus APIError.
+    Can't create thread. Skipping this one.
+    Thread: /sciencenow/2010/02/lack-of-sleep-is-contagious.html
+    10 comments:
+    Disqus APIError.
+    Can't create thread. Skipping this one.
+    Thread: /sciencenow/2010/03/stressed-men-fancy-someone-diffe.html
+    4 comments:
+        JSK Comment. Author: Guest | IP: 74.178.8.103
+        JSK Comment. Author: Gobot | IP: 98.227.73.232
+        JSK Comment. Author: JV | IP: 67.175.128.168
+        JSK Comment. Author: cliggett | IP: 132.241.75.27
+    Thread: /sciencenow/2010/03/carbon-capture-method-could-pois.html
+    9 comments:
+        JSK Comment. Author: Koru | IP: 98.185.232.143
+        JSK Comment. Author: Alexander from Oregon | IP: 72.11.112.147
+        JSK Comment. Author: Low Rank Genius | IP: 96.227.44.206
+        JSK Comment. Author: aliunde | IP: 67.182.241.124
+        JSK Comment. Author: Guest | IP: 64.247.124.94
+        JSK Comment. Author: eddieo | IP: 173.183.11.137
+        JSK Comment. Author: Guest | IP: 119.98.148.187
+        JSK Comment. Author: RCS-34 | IP: 194.228.28.162
+        JSK Comment. Author: Guest | IP: 194.228.28.162
+    Thread: /scienceinsider/2010/02/un-climate-leader-yvo-de-boer-to.html
+    0 comments:
+    Thread: /scienceinsider/2010/02/holdren-takes-lumps-from-house-p.html
+    3 comments:
+        JSK Comment. Author: Monica | IP: 66.244.187.202
+        JSK Comment. Author: Vlad Popovic | IP: 192.44.136.113
+        JSK Comment. Author: Preach it, brother! | IP: 128.101.205.171
+    Thread: /sciencenow/2010/01/27-01.html
+    0 comments:
+    Thread: /sciencenow/2010/02/fighting-back-against-a-superbug.html
+    1 comments:
+        JSK Comment. Author: Pedro | IP: 201.235.98.138
+    Thread: /sciencenow/2010/03/appetite-suppressor-could-be-an-.html
+    2 comments:
+        JSK Comment. Author: mudd1 | IP: 78.94.202.163
+        JSK Comment. Author: jjc | IP: 96.241.131.36
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /sciencenow/2010/02/-cancer-monitoring-with-a-person.html
+    1 comments:
+        JSK Comment. Author: P.G. Narmadha | IP: 59.92.53.219
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /sciencenow/2010/02/new-challenge-to-chronic-fatigue-virus.html
+    7 comments:
+        JSK Comment. Author: fred jolly | IP: 86.167.18.173
+        JSK Comment. Author: Guest | IP: 94.194.68.242
+        JSK Comment. Author: Someone with Asperger's &amp;amp; CFS/ME | IP: 94.224.170.16
+        JSK Comment. Author: Someone with Asperger's &amp;amp; CFS/ME | IP: 94.224.170.16
+        JSK Comment. Author: JimNYC | IP: 96.246.181.198
+        JSK Comment. Author: Heidi Bauer | IP: 69.138.216.137
+        JSK Comment. Author: Heidi Bauer | IP: 69.138.216.137
+    Thread: /scienceinsider/2010/02/-us-science-told-to-stay-on-its-.html
+    1 comments:
+        JSK Comment. Author: tadchem | IP: 131.81.200.92
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /sciencenow/2010/02/nuclear-disarmament-science-how-.html
+    4 comments:
+        JSK Comment. Author: tadchem | IP: 131.81.200.92
+        JSK Comment. Author: Rethinasamy K | IP: 174.59.106.33
+        JSK Comment. Author: Impartial | IP: 202.144.125.242
+        JSK Comment. Author: Roy Sablosky | IP: 67.172.185.93
+    Thread: /sciencenow/2010/02/harvesting-heat-for-power.html
+    7 comments:
+        JSK Comment. Author: miggs | IP: 128.103.187.220
+        JSK Comment. Author: jonjski | IP: 192.189.218.190
+        JSK Comment. Author: guest | IP: 59.95.10.107
+        JSK Comment. Author: Alexander from Oregon | IP: 72.11.112.147
+        JSK Comment. Author: John Hwalek | IP: 130.111.203.2
+        JSK Comment. Author: Guest | IP: 72.244.207.152
+        JSK Comment. Author: concerned | IP: 67.252.28.170
+    Thread: 
+    0 comments:
+    Thread: /sciencenow/2010/03/researchers-turn-mosquitoes-into.html
+    5 comments:
+        JSK Comment. Author: kiran Deshmukh | IP: 59.95.254.31
+        JSK Comment. Author: Some Guyt | IP: 24.9.230.89
+        JSK Comment. Author: Dr. Bart GJ Knols | IP: 81.206.115.156
+        JSK Comment. Author: Anna L.  | IP: 116.44.17.55
+        JSK Comment. Author: Bruce Eggum | IP: 74.33.178.128
+    Thread: /sciencenow/2010/02/dolphin-diabetes-could-be-import.html
+    5 comments:
+        JSK Comment. Author: Guest | IP: 222.169.142.51
+        JSK Comment. Author: rachelryan | IP: 59.92.15.88
+        JSK Comment. Author: theRN | IP: 206.192.168.25
+        JSK Comment. Author: j.l.soni | IP: 59.183.175.132
+        JSK Comment. Author: Dr miss Eshrat Halim  | IP: 202.141.47.165
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /scienceinsider/2010/02/two-us-bills-seek-to-lure-immigr.html
+    7 comments:
+        JSK Comment. Author: www.eb5.net | IP: 94.8.19.32
+        JSK Comment. Author: Guest | IP: 141.211.174.93
+        JSK Comment. Author: zetlee | IP: 76.183.59.21
+        JSK Comment. Author: Guest | IP: 208.102.131.186
+        JSK Comment. Author: Guest | IP: 99.68.168.224
+        JSK Comment. Author: Student | IP: 71.79.252.19
+        JSK Comment. Author: rshoff | IP: 67.171.16.145
+    Thread: /sciencenow/2010/02/rhic.html
+    0 comments:
+    Thread: /sciencenow/2010/01/28-03.html
+    4 comments:
+        JSK Comment. Author: billga | IP: 82.3.99.246
+        JSK Comment. Author: Prion fan | IP: 98.194.203.10
+        JSK Comment. Author: yervand karapetyan | IP: 192.26.251.254
+        JSK Comment. Author: yervand karapetyan | IP: 192.26.251.254
+    Thread: /sciencenow/2010/02/12-01.html
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /scienceinsider/2009/12/harsh-reaction.html
+    1 comments:
+        JSK Comment. Author: Rob | IP: 75.144.159.217
+    Thread: /sciencenow/2010/03/scienceshot-sequestering-carbon-.html
+    0 comments:
+    Thread: /sciencenow/2010/02/10-02.html
+    0 comments:
+    Thread: /sciencenow/2010/03/early-polar-bear-discovered-in-a.html
+    2 comments:
+        JSK Comment. Author: ghhugh | IP: 75.71.183.208
+        JSK Comment. Author: SayAhh.... ;] | IP: 74.97.181.123
+    Thread: /scienceinsider/2010/02/-fbi-closes-anthrax-case-says-br.html
+    3 comments:
+        JSK Comment. Author: Eric | IP: 64.26.117.253
+        JSK Comment. Author: brandon | IP: 67.49.43.3
+        JSK Comment. Author: writer of the story | IP: 68.50.71.53
+    Thread: /sciencenow/2010/03/engraved-eggs-suggest-early-symb.html
+    3 comments:
+        JSK Comment. Author: Paul Woit | IP: 76.238.7.159
+        JSK Comment. Author: Solly | IP: 41.195.88.252
+        JSK Comment. Author: John | IP: 75.36.151.176
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /scienceinsider/2010/02/nih-expands-definition-of-human-.html
+    2 comments:
+        JSK Comment. Author: baltbear | IP: 74.138.152.149
+        JSK Comment. Author: rachelryan | IP: 59.92.74.82
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /sciencenow/2010/02/drive-green-make-money.html
+    8 comments:
+        JSK Comment. Author: EMS | IP: 74.96.117.63
+        JSK Comment. Author: Mark | IP: 76.105.3.31
+        JSK Comment. Author: Mark | IP: 76.105.3.31
+        JSK Comment. Author: Aaron | IP: 198.150.194.197
+        JSK Comment. Author: Mark | IP: 76.105.3.31
+        JSK Comment. Author: jedsrose | IP: 189.5.238.212
+        JSK Comment. Author: Ole | IP: 68.97.170.181
+        JSK Comment. Author: Sig | IP: 24.179.67.91
+    Thread: /sciencenow/2010/03/study-peels-back-more-of-the-mag.html
+    0 comments:
+    Thread: /sciencenow/2010/02/scientifically-accurate-superher.html
+    6 comments:
+        JSK Comment. Author: RavenScholar | IP: 69.255.254.86
+        JSK Comment. Author: Forlornehope | IP: 86.131.84.139
+        JSK Comment. Author: RavenScholar | IP: 69.255.254.86
+        JSK Comment. Author: Michael Netzer | IP: 79.177.72.16
+        JSK Comment. Author: Wonderment | IP: 218.180.172.101
+        JSK Comment. Author: VN - Whippany | IP: 71.187.80.64
+    Thread: /sciencenow/2010/02/scientists-grapple-with-complete.html
+    21 comments:
+    Disqus APIError.
+    Can't create thread. Skipping this one.
+    Thread: /scienceinsider/2010/02/obama-errs-on-research-number.html
+    1 comments:
+        JSK Comment. Author: George Lester | IP: 205.188.116.19
+    Thread: /sciencenow/2010/02/a-sexy-new-treatment-for-traumat.html
+    7 comments:
+        JSK Comment. Author: Janessa | IP: 24.107.206.129
+        JSK Comment. Author: Jonathan | IP: 152.11.90.254
+        JSK Comment. Author: Leha | IP: 69.109.160.80
+        JSK Comment. Author: Jonathan | IP: 75.183.113.119
+        JSK Comment. Author: elf | IP: 173.26.237.126
+        JSK Comment. Author: Guest | IP: 219.78.90.118
+        JSK Comment. Author: Guest | IP: 67.171.182.82
+    Thread: /sciencenow/2010/02/podcast-how-did-climate-science-.html
+    3 comments:
+        JSK Comment. Author: Guest | IP: 79.224.173.238
+        JSK Comment. Author: Rennert | IP: 130.36.62.142
+        JSK Comment. Author: Mueller | IP: 93.220.243.159
+    Thread: /scienceinsider/2010/03/nih-wants-to-hear-about-genetic-.html
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /scienceinsider/2009/03/laser-fusion-fa.html
+    1 comments:
+        JSK Comment. Author: Anthony H | IP: 75.185.246.147
+    Thread: /scienceinsider/2009/02/aids-czar-named.html
+    0 comments:
+    Thread: /scienceinsider/2010/02/live-geoengineering-coverage-fro.html
+    1 comments:
+        JSK Comment. Author: J.H.  Youssef | IP: 70.26.184.100
+    Thread: /sciencenow/2010/03/female-monkeys-make-the-best-tea.html
+    1 comments:
+        JSK Comment. Author: Mom | IP: 74.124.187.183
+    Thread: 
+    0 comments:
+    Thread: /sciencenow/2010/02/scientists-celebrities-and-every.html
+    1 comments:
+        JSK Comment. Author: Anselmo S. Teixeira | IP: 200.143.208.14
+    Thread: /scienceinsider/2010/02/an-overview-of-ipccclimategate-criticism.html
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /sciencenow/2009/02/12-02.html
+    0 comments:
+    Thread: /sciencenow/2010/02/podcast-the-science-of-superhero.html
+    1 comments:
+        JSK Comment. Author: Bill Ritchie | IP: 71.178.164.191
+    Thread: /sciencenow/2010/03/burn-the-brush-save-carbon-dioxi.html
+    0 comments:
+    Thread: /scienceinsider/2010/02/new-criteria-fo.html
+    1 comments:
+        JSK Comment. Author: tes bernard | IP: 217.136.74.49
+    Thread: /sciencenow/2010/02/did-darwin-predict-chilean-quake.html
+    1 comments:
+        JSK Comment. Author: Mark Balllington | IP: 92.23.121.179
+    Thread: /sciencenow/2010/02/the-mathematics-of-clumpy-crime.html
+    4 comments:
+        JSK Comment. Author: Frank Barry | IP: 99.146.222.185
+        JSK Comment. Author: Frank Barry | IP: 99.146.222.185
+        JSK Comment. Author: Gwen Keller | IP: 190.35.7.49
+        JSK Comment. Author: Detroit, MI should be modelled next | IP: 128.101.205.168
+    Thread: /scienceinsider/2010/03/scientists-case-on-background-ch.html
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /scienceinsider/2010/02/the-latest-buzz-orszag-budgets-f.html
+    6 comments:
+        JSK Comment. Author: Rob G | IP: 96.39.163.192
+        JSK Comment. Author: Kevin | IP: 173.76.228.218
+        JSK Comment. Author: Guest | IP: 96.251.166.158
+        JSK Comment. Author: Jonathan | IP: 152.11.90.254
+        JSK Comment. Author: tadchem | IP: 131.81.200.92
+        JSK Comment. Author: khedges1@yahoo.com | IP: 137.150.39.177
+    Thread: /scienceinsider/2010/03/moon-vs-mars-at-museum.html
+    4 comments:
+        JSK Comment. Author: JeffBaranchok2 | IP: 136.141.6.76
+        JSK Comment. Author: JeffBaranchok | IP: 136.141.6.76
+        JSK Comment. Author: Marek | IP: 89.161.40.141
+        JSK Comment. Author: AndyW | IP: 68.60.236.186
+    Thread: /sciencenow/2010/02/smattering-of-activists-protest.html
+    8 comments:
+        JSK Comment. Author: Brett | IP: 68.81.75.75
+        JSK Comment. Author: SoCalSkyWatch | IP: 76.88.119.55
+        JSK Comment. Author: Samantha | IP: 75.158.120.123
+        JSK Comment. Author: Brett | IP: 68.81.75.75
+        JSK Comment. Author: Frank Barry | IP: 99.146.222.185
+        JSK Comment. Author: Nick Taylor | IP: 64.58.30.35
+        JSK Comment. Author: I see lines | IP: 99.132.113.218
+        JSK Comment. Author: Xain | IP: 75.170.86.16
+    Thread: /sciencenow/2010/02/the-latest-on-hacking-the-planet.html
+    7 comments:
+        JSK Comment. Author: Guest | IP: 173.206.142.12
+        JSK Comment. Author: thor | IP: 99.137.192.245
+        JSK Comment. Author: JZ | IP: 128.135.78.129
+        JSK Comment. Author: qam1 | IP: 69.115.251.173
+        JSK Comment. Author: Observer | IP: 76.205.193.110
+        JSK Comment. Author: jk | IP: 81.0.178.199
+        JSK Comment. Author: Brad Arnold | IP: 174.20.97.94
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /sciencenow/2010/03/pardon-your-thoughts-are-showing.html
+    0 comments:
+    Thread: /sciencenow/2010/02/02-02.html
+    2 comments:
+        JSK Comment. Author: Joe D. | IP: 144.30.83.39
+        JSK Comment. Author: http://www.turkeydog.org/ | IP: 69.128.208.173
+    Thread: /sciencenow/2010/02/small-dogs-evolved-in-middle-eas.html
+    6 comments:
+        JSK Comment. Author: Arunn Jothidas | IP: 202.171.168.114
+        JSK Comment. Author: bob | IP: 67.197.174.9
+        JSK Comment. Author: John | IP: 192.58.204.226
+        JSK Comment. Author: tommy | IP: 66.192.63.2
+        JSK Comment. Author: Ed | IP: 75.170.92.44
+        JSK Comment. Author: Litch | IP: 70.113.108.172
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /sciencenow/2010/02/francis-collinss-biggest-fear.html
+    3 comments:
+        JSK Comment. Author: Guest | IP: 86.141.212.55
+        JSK Comment. Author: anonymous | IP: 189.5.238.212
+        JSK Comment. Author: Guest | IP: 71.139.188.173
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /sciencebloggers/2010/02/bridging-science-and-the-public.html
+    1 comments:
+        JSK Comment. Author: Dr. Biology | IP: 149.169.223.100
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /scienceinsider/2010/03/should-nih-funded-researchers-be.html
+    2 comments:
+        JSK Comment. Author: George | IP: 98.202.181.209
+        JSK Comment. Author: Patrick | IP: 72.11.107.42
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /sciencenow/2010/03/video-an-octopus-mimics-a-flound.html
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /sciencebloggers/2010/02/the-brain-on-trial.html
+    1 comments:
+        JSK Comment. Author: Daniel | IP: 150.135.206.41
+    Thread: /sciencenow/2010/03/for-pregnant-mice-eating-matters-1.html
+    0 comments:
+    Thread: /sciencenow/2010/01/22-01.html
+    2 comments:
+        JSK Comment. Author: Robert Houston | IP: 128.122.90.166
+        JSK Comment. Author: Skeptic | IP: 98.185.56.82
+    Thread: /sciencenow/2010/02/music-therapy-gives-voice-to-the.html
+    7 comments:
+        JSK Comment. Author: ski dude | IP: 150.148.0.65
+        JSK Comment. Author: Maria | IP: 72.85.227.35
+        JSK Comment. Author: Meagan Purcell | IP: 76.231.144.8
+        JSK Comment. Author: Gordon | IP: 78.1.222.130
+        JSK Comment. Author: Andrea | IP: 76.100.20.128
+        JSK Comment. Author: Hutch | IP: 199.1.129.15
+        JSK Comment. Author: Kat Fulton | IP: 68.107.88.227
+    Thread: /sciencenow/2010/02/podcast-can-geoengineering-save-.html
+    1 comments:
+        JSK Comment. Author: Bjorn | IP: 79.161.59.61
+    Thread: /sciencenow/2010/02/are-test-tube-babies-healthy.html
+    4 comments:
+        JSK Comment. Author: germán chile | IP: 201.236.131.89
+        JSK Comment. Author: Eliane Azevedo-from Brazil | IP: 201.50.136.207
+        JSK Comment. Author: Peter From New York | IP: 67.241.16.172
+        JSK Comment. Author: Alexander from Oregon | IP: 72.11.112.147
+    Thread: /sciencenow/2010/01/08-01.html
+    1 comments:
+        JSK Comment. Author: CC | IP: 76.224.218.140
+    Thread: /scienceinsider/2010/03/more-details-from-ipcc-official-.html
+    4 comments:
+        JSK Comment. Author: John Dodds | IP: 69.227.248.190
+        JSK Comment. Author: rain storms | IP: 128.117.65.57
+        JSK Comment. Author: Boyd Jahnke | IP: 72.172.113.241
+        JSK Comment. Author: Adam Reith | IP: 68.209.190.68
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /scienceinsider/2010/03/fresh-ideas-on-diversity-wanted-.html
+    1 comments:
+        JSK Comment. Author: Guest | IP: 202.144.125.242
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /sciencebloggers/2010/02/climate-science-not-just-about-d.html
+    1 comments:
+        JSK Comment. Author: CaptainWeather | IP: 74.75.84.104
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /sciencenow/2010/02/is-a-dolphin-a-person.html
+    35 comments:
+        JSK Comment. Author: Guest | IP: 145.18.152.220
+        JSK Comment. Author: bug killer!!! | IP: 76.209.223.0
+        JSK Comment. Author: Dr. Kristine Campbell | IP: 208.40.31.218
+        JSK Comment. Author: Alexander from Oregon | IP: 72.11.112.147
+        JSK Comment. Author: Aja | IP: 24.156.30.51
+        JSK Comment. Author: Joe D. | IP: 144.30.83.39
+        JSK Comment. Author: Joe D. | IP: 144.30.83.39
+        JSK Comment. Author: Adriano | IP: 189.74.198.132
+        JSK Comment. Author: Brain Observatory | IP: 137.110.179.215
+        JSK Comment. Author: Kacey | IP: 24.14.0.5
+        JSK Comment. Author: Guest | IP: 161.130.25.71
+        JSK Comment. Author: Bobby Joe | IP: 138.32.32.166
+        JSK Comment. Author: Pierre Fabre | IP: 207.162.51.5
+        JSK Comment. Author: GoldenAh | IP: 67.80.72.83
+        JSK Comment. Author: emma | IP: 114.76.182.150
+        JSK Comment. Author: emma | IP: 114.76.182.150
+        JSK Comment. Author: Rufus G. Warren | IP: 70.226.192.12
+        JSK Comment. Author: Guest | IP: 58.178.70.25
+        JSK Comment. Author: Paul Palmer | IP: 24.130.51.224
+        JSK Comment. Author: Jonathan | IP: 152.11.90.254
+        JSK Comment. Author: jonathan's spirit friend | IP: 206.168.42.213
+        JSK Comment. Author: Zeca | IP: 93.108.173.158
+        JSK Comment. Author: Paul R Mazur | IP: 75.194.108.188
+        JSK Comment. Author: Jennifer | IP: 205.188.117.10
+        JSK Comment. Author: the cove | IP: 79.147.185.112
+        JSK Comment. Author: Guest | IP: 98.228.129.116
+        JSK Comment. Author: Jennifer | IP: 216.107.218.222
+        JSK Comment. Author: Judy | IP: 67.72.98.57
+        JSK Comment. Author: Flo | IP: 134.60.65.73
+        JSK Comment. Author: Aaron Robinson | IP: 192.91.171.36
+        JSK Comment. Author: Matt | IP: 70.33.246.180
+        JSK Comment. Author: Jeff | IP: 66.94.73.36
+        JSK Comment. Author: rshoff | IP: 67.171.16.145
+        JSK Comment. Author: diavel | IP: 83.7.96.2
+        JSK Comment. Author: Natalia | IP: 67.129.167.101
+    Thread: /sciencenow/2010/02/marine-reserves-help-fish-recove.html
+    0 comments:
+    Thread: /sciencenow/2010/03/how-does-a-worm-wriggle.html
+    3 comments:
+        JSK Comment. Author: otakucode | IP: 98.157.82.49
+        JSK Comment. Author: stas | IP: 98.245.237.203
+        JSK Comment. Author: cemery50@gmail.com | IP: 75.148.94.221
+    Thread: /sciencenow/2010/02/03-01.html
+    1 comments:
+        JSK Comment. Author: James Smith | IP: 187.64.53.49
+    Thread: /sciencebloggers/2010/02/wheres-swine-flu-check-the-traff.html
+    1 comments:
+        JSK Comment. Author: david young | IP: 38.96.18.253
+    Thread: 
+    0 comments:
+    Thread: /sciencebloggers/2010/02/technological-help-seeking-behav.html
+    1 comments:
+        JSK Comment. Author: Your Enchanted Gardener | IP: 72.220.170.120
+    Thread: /sciencenow/2010/03/catalyst-for-coastal-smog-shows-.html
+    1 comments:
+        JSK Comment. Author: Adam Reith | IP: 68.209.190.68
+    Thread: /scienceinsider/2010/02/-end-homeopathy-on-nhs-say-briti.html
+    5 comments:
+        JSK Comment. Author: Dr. Vijay Vaishnav | IP: 59.182.146.200
+        JSK Comment. Author: Guest | IP: 71.93.74.189
+        JSK Comment. Author: Rebecca | IP: 213.114.76.127
+        JSK Comment. Author: Guest | IP: 99.39.100.74
+        JSK Comment. Author: Guest | IP: 203.197.82.242
+    Thread: /sciencenow/2010/02/podcast-you-can-catch-more-than-.html
+    2 comments:
+        JSK Comment. Author: Robert | IP: 114.143.166.157
+        JSK Comment. Author: Leon Arundell | IP: 203.129.45.129
+    Thread: /scienceinsider/2010/02/texas-supplied-newborn-blood-sam.html
+    16 comments:
+        JSK Comment. Author: Guest | IP: 98.100.105.254
+        JSK Comment. Author: Guest | IP: 74.46.178.74
+        JSK Comment. Author: Guest | IP: 206.83.53.249
+        JSK Comment. Author: CyperStooge | IP: 76.28.173.226
+        JSK Comment. Author: guest | IP: 4.240.21.148
+        JSK Comment. Author: Loving Truth! | IP: 84.81.39.209
+        JSK Comment. Author: jack | IP: 68.47.231.238
+        JSK Comment. Author: jayduba | IP: 71.239.12.20
+        JSK Comment. Author: Guest | IP: 209.128.50.138
+        JSK Comment. Author: Guest | IP: 162.129.251.30
+        JSK Comment. Author: ErnestPayne | IP: 24.36.106.71
+        JSK Comment. Author: Red | IP: 69.246.195.23
+        JSK Comment. Author: Guest | IP: 152.3.33.47
+        JSK Comment. Author: hcassho | IP: 128.101.90.232
+        JSK Comment. Author: Mark | IP: 63.66.112.5
+        JSK Comment. Author: Guest | IP: 71.20.71.52
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /scienceinsider/2009/02/1000000000000-f.html
+    0 comments:
+    Thread: /scienceinsider/2010/02/european-atomsm.html
+    5 comments:
+        JSK Comment. Author: carlo | IP: 89.251.244.31
+        JSK Comment. Author: srswart | IP: 75.227.52.117
+        JSK Comment. Author: Moderator | IP: 198.151.217.26
+        JSK Comment. Author: Robert Houston | IP: 128.122.90.182
+        JSK Comment. Author: AL | IP: 68.173.59.88
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /sciencebloggers/2010/02/student-poster-competition.html
+    0 comments:
+    Thread: /scienceinsider/2010/03/roundup-311-like-a-snake-edition.html
+    0 comments:
+    Thread: /scienceinsider/2010/02/roundup-223-the-meetings-edition.html
+    0 comments:
+    Thread: /scienceinsider/2010/03/new-cancer-approach-fast-cheap-a.html
+    1 comments:
+        JSK Comment. Author: Erschuur | IP: 69.181.163.181
+    Thread: /sciencenow/2010/02/versailles-saturn-style.html
+    2 comments:
+        JSK Comment. Author: Guest | IP: 71.93.66.187
+        JSK Comment. Author: Dave | IP: 71.31.247.104
+    Thread: /sciencenow/2010/02/is-that-a-caveman-or-dick-cheney.html
+    6 comments:
+        JSK Comment. Author: Sue | IP: 76.21.43.173
+        JSK Comment. Author: Dr. Kristine Campbell | IP: 208.40.31.218
+        JSK Comment. Author: Brent1023 | IP: 207.216.9.1
+        JSK Comment. Author: oldmoal | IP: 20.132.64.141
+        JSK Comment. Author: tadchem | IP: 131.81.200.92
+        JSK Comment. Author: Guest | IP: 134.160.214.34
+    Thread: /sciencenow/2010/02/frog-slideshow-article.html
+    1 comments:
+        JSK Comment. Author: amylynn | IP: 76.116.68.164
+    Thread: 
+    0 comments:
+    Thread: /sciencenow/2010/03/no-sexual-confusion-for-chicken.html
+    3 comments:
+        JSK Comment. Author: D. H. | IP: 68.205.254.243
+        JSK Comment. Author: Ron | IP: 144.92.132.175
+        JSK Comment. Author: Jake | IP: 68.193.122.21
+    Thread: /scienceinsider/2009/11/critics-of-god.html
+    2 comments:
+        JSK Comment. Author: Robert Houston | IP: 128.122.90.185
+        JSK Comment. Author: AL | IP: 68.173.59.88
+    Thread: /sciencenow/2010/03/did-dinosaurs-start-out-on-all-f.html
+    4 comments:
+        JSK Comment. Author: Guest | IP: 169.204.189.69
+        JSK Comment. Author: pcwildt | IP: 71.199.237.92
+        JSK Comment. Author: Joe | IP: 99.56.94.33
+        JSK Comment. Author: Joe | IP: 99.56.94.33
+    Thread: /scienceinsider/2010/01/bill-gates-fund.html
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /sciencenow/2010/02/podcast-children-of-assisted-rep.html
+    0 comments:
+    Thread: /sciencenow/2009/12/14-03.html
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /sciencenow/2010/02/tropical-cyclones-turn-up-the-he.html
+    1 comments:
+        JSK Comment. Author: hunter | IP: 143.115.159.54
+    Thread: /sciencenow/2010/03/solving-the-rangeland-paradox.html
+    6 comments:
+        JSK Comment. Author: Steve | IP: 65.214.119.2
+        JSK Comment. Author: fishguy | IP: 71.34.102.182
+        JSK Comment. Author: tadchem | IP: 131.81.200.92
+        JSK Comment. Author: Guest | IP: 165.91.185.72
+        JSK Comment. Author: Frank Barry | IP: 99.146.220.124
+        JSK Comment. Author: Guest | IP: 209.173.255.81
+    Thread: /scienceinsider/2010/02/-a-researcher-accused-of.html
+    0 comments:
+    Thread: /scienceinsider/2010/03/killer-quake-leaves-chilean-tele.html
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /sciencenow/2010/03/global-warming-didnt-kill-the-go.html
+    6 comments:
+        JSK Comment. Author: Nate | IP: 86.170.242.228
+        JSK Comment. Author: Kaite | IP: 64.83.144.1
+        JSK Comment. Author: T Ray | IP: 68.89.223.0
+        JSK Comment. Author: tadchem | IP: 131.81.200.92
+        JSK Comment. Author: Guest | IP: 161.152.28.163
+        JSK Comment. Author: Vlad Popovic | IP: 192.44.136.113
+    Thread: 
+    0 comments:
+    Thread: /sciencenow/2010/02/-deep-on-the-ocean.html
+    7 comments:
+        JSK Comment. Author: Drew Dust | IP: 173.26.201.202
+        JSK Comment. Author: Morten | IP: 84.238.25.26
+        JSK Comment. Author: Alexander from Oregon | IP: 72.11.112.147
+        JSK Comment. Author: David | IP: 75.117.119.65
+        JSK Comment. Author: shelley | IP: 74.88.226.77
+        JSK Comment. Author: tim.correy@yahoo.com | IP: 69.47.112.39
+        JSK Comment. Author: guest | IP: 78.94.202.163
+    Thread: /sciencenow/2010/02/podcast-origin-of-small-dogs-bac.html
+    1 comments:
+        JSK Comment. Author: j.l.soni | IP: 59.183.133.183
+    Thread: 
+    0 comments:
+    Thread: /scienceinsider/2010/01/a-loud-start-to.html
+    0 comments:
+    Thread: /scienceinsider/2009/12/forests-deal-lu.html
+    1 comments:
+        JSK Comment. Author: IsabelMorphius002 | IP: 174.133.249.88
+    Thread: /sciencenow/2009/04/02-02.html
+    0 comments:
+    Thread: /scienceinsider/2009/12/nist-stuff-for.html
+    1 comments:
+        JSK Comment. Author: IsabelMorphius002 | IP: 174.133.249.88
+    Thread: /sciencenow/2010/02/03-03.html
+    1 comments:
+        JSK Comment. Author: Wonderer | IP: 169.234.3.28
+    Thread: /scienceinsider/2010/02/nih-director-ruffles-feathers-ag.html
+    20 comments:
+        JSK Comment. Author: Torbjörn Larsson | IP: 83.253.9.180
+        JSK Comment. Author: Anonymous | IP: 145.64.134.242
+        JSK Comment. Author: Erik F. | IP: 208.219.189.2
+        JSK Comment. Author: Guest | IP: 192.203.127.3
+        JSK Comment. Author: John | IP: 192.58.204.226
+        JSK Comment. Author: P.A. Wahid | IP: 59.93.33.207
+        JSK Comment. Author: Guest | IP: 86.141.212.55
+        JSK Comment. Author: Greg Shenaut | IP: 168.150.235.5
+        JSK Comment. Author: ironjustice | IP: 173.183.151.178
+        JSK Comment. Author: Larry | IP: 149.169.239.87
+        JSK Comment. Author: John | IP: 192.58.204.226
+        JSK Comment. Author: Allison | IP: 76.19.222.80
+        JSK Comment. Author: Jeffrey J. Early | IP: 68.198.35.162
+        JSK Comment. Author: AngelaKay | IP: 204.154.137.252
+        JSK Comment. Author: John | IP: 192.58.204.226
+        JSK Comment. Author: From another country | IP: 201.50.134.196
+        JSK Comment. Author: Forlornehope | IP: 86.131.84.139
+        JSK Comment. Author: Impartial | IP: 202.144.125.242
+        JSK Comment. Author: Westin | IP: 24.6.3.187
+        JSK Comment. Author: anonymous | IP: 189.5.238.212
+    Thread: 
+    0 comments:
+    Thread: /sciencenow/2010/03/psychopaths-keep-their-eyes-on-t.html
+    14 comments:
+        JSK Comment. Author: Guest | IP: 202.144.125.242
+        JSK Comment. Author: another guest | IP: 97.97.46.216
+        JSK Comment. Author: reader | IP: 76.102.118.73
+        JSK Comment. Author: JV | IP: 67.175.128.168
+        JSK Comment. Author: EMS | IP: 192.91.173.36
+        JSK Comment. Author: mog | IP: 65.121.114.232
+        JSK Comment. Author: r | IP: 207.15.185.6
+        JSK Comment. Author: guest | IP: 74.40.172.74
+        JSK Comment. Author: frag | IP: 70.20.27.109
+        JSK Comment. Author: mike | IP: 85.179.65.212
+        JSK Comment. Author: wencai yang | IP: 59.174.51.185
+        JSK Comment. Author: wencai yang | IP: 59.174.51.185
+        JSK Comment. Author: Genevieve | IP: 65.96.220.11
+        JSK Comment. Author: Guest | IP: 98.28.146.15
+    Thread: /sciencenow/2010/02/a-new-route-to-grassoline.html
+    7 comments:
+        JSK Comment. Author: Paul von Hartmann | IP: 74.42.187.42
+        JSK Comment. Author: Guest | IP: 155.198.136.75
+        JSK Comment. Author: Paul von Hartmann | IP: 74.42.187.42
+        JSK Comment. Author: Drew | IP: 173.26.201.202
+        JSK Comment. Author: Guest | IP: 41.221.87.249
+        JSK Comment. Author: mudd1 | IP: 78.94.202.163
+        JSK Comment. Author: Guest | IP: 75.11.19.251
+    Thread: /scienceinsider/2010/02/rounup-224.html
+    1 comments:
+        JSK Comment. Author: bruf@uwm.edu | IP: 99.31.77.207
+    Thread: 
+    0 comments:
+    Thread: /sciencenow/2008/02/20-02.html
+    1 comments:
+        JSK Comment. Author: Guest | IP: 92.235.154.140
+    Thread: /sciencenow/2010/01/26-02.html
+    0 comments:
+    Thread: /scienceinsider/2010/02/un-review-of-ipcc-could-have-unc.html
+    2 comments:
+        JSK Comment. Author: Peter | IP: 75.82.183.228
+        JSK Comment. Author: Dan Luke | IP: 68.209.190.68
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /sciencenow/2007/02/16-04.html
+    0 comments:
+    Thread: /scienceinsider/2009/12/british-science.html
+    1 comments:
+        JSK Comment. Author: Guest | IP: 41.197.25.6
+    Thread: /scienceinsider/2010/01/its-africa-vs-a.html
+    1 comments:
+        JSK Comment. Author: Joe | IP: 173.66.84.61
+    Thread: /scienceinsider/2009/11/march-geoengine.html
+    1 comments:
+        JSK Comment. Author: Russell Seitz | IP: 65.112.14.8
+    Thread: /sciencenow/2010/01/13-01.html
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /scienceinsider/2010/03/back-researchers-not-research-sa.html
+    0 comments:
+    Thread: /sciencenow/2010/03/autopilot-for-fruit-flies.html
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /sciencenow/2010/03/why-are-dung-beetles-so-horny.html
+    2 comments:
+        JSK Comment. Author: ai ang | IP: 119.152.232.107
+        JSK Comment. Author: kathleen | IP: 70.161.253.7
+    Thread: 
+    0 comments:
+    Thread: /sciencenow/2010/03/deadly-inflammation-but-no-sign-.html
+    4 comments:
+        JSK Comment. Author: rshoff | IP: 67.171.16.145
+        JSK Comment. Author: quixoticallysober | IP: 198.16.9.11
+        JSK Comment. Author: kalidasan | IP: 61.9.86.140
+        JSK Comment. Author: Gadfly | IP: 216.231.36.134
+    Thread: /sciencenow/2010/03/scienceshot-no-gold-medal-for-sk.html
+    0 comments:
+    Thread: /scienceinsider/2010/03/hopes-dashed-for-another-alzheim.html
+    1 comments:
+        JSK Comment. Author: Md Jamilur Rahman | IP: 134.93.138.95
+    Thread: /sciencenow/2008/10/31-02.html
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /scienceinsider/2010/03/-new-study-suggests-little-chang.html
+    0 comments:
+    Thread: /scienceinsider/2010/03/mars-mission-on-earth-survives-b.html
+    1 comments:
+        JSK Comment. Author: Alexander from Oregon | IP: 72.11.112.147
+    Thread: /scienceinsider/2010/03/chile-poised-to-build-biggest-te.html
+    2 comments:
+        JSK Comment. Author: matias diaz | IP: 201.223.164.170
+        JSK Comment. Author: Clare Nelson | IP: 63.245.164.246
+    Thread: 
+    0 comments:
+    Thread: /scienceinsider/2009/09/us-swine-flu-va.html
+    0 comments:
+    Thread: /sciencenow/2010/03/mental-illness-multiplied-in-chi.html
+    13 comments:
+        JSK Comment. Author: Best neurosurgical hospital | IP: 117.196.225.185
+        JSK Comment. Author: Frank Barry | IP: 99.146.220.124
+        JSK Comment. Author: Amanda | IP: 99.150.162.104
+        JSK Comment. Author: Guest | IP: 69.254.153.43
+        JSK Comment. Author: Guest | IP: 165.91.231.7
+        JSK Comment. Author: Gest | IP: 165.91.231.7
+        JSK Comment. Author: Wait no | IP: 65.101.129.105
+        JSK Comment. Author: Guest | IP: 216.227.104.210
+        JSK Comment. Author: Joseph | IP: 153.90.84.123
+        JSK Comment. Author: Joseph | IP: 153.90.84.123
+        JSK Comment. Author: Guest | IP: 76.180.196.3
+        JSK Comment. Author: valikor | IP: 86.209.75.230
+        JSK Comment. Author: jbrill | IP: 198.145.97.154
+    Thread: /sciencenow/2010/03/hobbit-ancestors-arrived-on-flor.html
+    2 comments:
+        JSK Comment. Author: Haley | IP: 24.125.122.144
+        JSK Comment. Author: qraal | IP: 121.223.1.53
+    Thread: /sciencenow/2010/03/scienceshot-how-mussels-hang-on.html
+    0 comments:
+    Thread: /scienceinsider/2010/03/researchers-seek-funding-to-study.html
+    0 comments:
+    Thread: /scienceinsider/2009/12/exclusiveobama.html
+    1 comments:
+        JSK Comment. Author: Razvan | IP: 89.34.48.94
+    Thread: /scienceinsider/2010/03/in-annual-rite-chinese-science-s.html
+    1 comments:
+        JSK Comment. Author: Charles | IP: 188.61.128.239
+    Thread: 
+    0 comments:
+    Thread: /scienceinsider/2010/03/place-mammoth-telescope-on-our-i.html
+    4 comments:
+        JSK Comment. Author: Carl | IP: 83.38.39.78
+        JSK Comment. Author: Nicolás Luco | IP: 200.12.27.10
+        JSK Comment. Author: Carl | IP: 85.155.88.166
+        JSK Comment. Author: tadchem | IP: 131.81.200.92
+    Thread: /scienceinsider/2010/03/researchers-in-chile-hit-hard-by.html
+    0 comments:
+    Thread: /scienceinsider/2009/12/italy-science-a.html
+    0 comments:
+    Thread: /scienceinsider/2009/11/physicists-back.html
+    1 comments:
+        JSK Comment. Author: Robert Houston | IP: 128.122.88.75
+    Thread: 
+    0 comments:
+    Thread: /sciencenow/2010/02/01-01.html
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /sciencenow/2010/03/playing-fair-came-late.html
+    3 comments:
+        JSK Comment. Author: Joe D. | IP: 144.30.83.39
+        JSK Comment. Author: Joe D. | IP: 144.30.83.39
+        JSK Comment. Author: Stevee Ray | IP: 66.182.52.45
+    Thread: /sciencenow/2010/03/new-hiv-hiding-spot-revealed.html
+    3 comments:
+        JSK Comment. Author: Melissa Trible | IP: 129.219.40.71
+        JSK Comment. Author: dvheil | IP: 130.14.254.26
+        JSK Comment. Author: Michael Trueblood | IP: 174.98.176.15
+    Thread: 
+    0 comments:
+    Thread: /sciencenow/2010/03/scouring-the-whole-genome-to-nai.html
+    1 comments:
+        JSK Comment. Author: Isabelle Seif | IP: 81.249.243.182
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /scienceinsider/2010/03/elsevier-to-editor-change-contro.html
+    11 comments:
+        JSK Comment. Author: Marco Ruggiero | IP: 150.217.63.136
+        JSK Comment. Author: Peter Duesberg | IP: 136.152.170.11
+        JSK Comment. Author: VS Ramachandran | IP: 84.97.218.164
+        JSK Comment. Author: Guest | IP: 129.132.228.81
+        JSK Comment. Author: Guest | IP: 72.219.252.144
+        JSK Comment. Author: Erschuur | IP: 69.181.163.181
+        JSK Comment. Author: Guest | IP: 144.171.190.130
+        JSK Comment. Author: Guest | IP: 128.32.195.86
+        JSK Comment. Author: Sam | IP: 173.51.4.40
+        JSK Comment. Author: Guest | IP: 98.220.29.112
+        JSK Comment. Author: Censor Denial | IP: 202.144.125.242
+    Thread: 
+    0 comments:
+    Thread: /sciencenow/2010/03/scienceshot-midget-stars-dance-c.html
+    1 comments:
+        JSK Comment. Author: tadchem | IP: 131.81.200.92
+    Thread: /sciencenow/2010/03/scienceshot-titanic-explosion-ro.html
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /sciencenow/2009/11/24-01.html
+    0 comments:
+    Thread: /scienceinsider/2010/03/ocean-probe-lost-at-sea.html
+    1 comments:
+        JSK Comment. Author: Abe | IP: 130.91.62.95
+    Thread: 
+    0 comments:
+    Thread: /scienceinsider/2010/03/fusion-delayed-iter-startdate-mo.html
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /scienceinsider/2010/03/half-a-million-for-gene-sequence.html
+    1 comments:
+        JSK Comment. Author: Rachanee OCharoen | IP: 58.137.189.178
+    Thread: 
+    0 comments:
+    Thread: /sciencenow/2010/03/ringach.html
+    1 comments:
+        JSK Comment. Author: Metalhaid | IP: 71.109.118.57
+    Thread: 
+    0 comments:
+    Thread: /scienceinsider/2010/03/should-social-scientists-help-th.html
+    6 comments:
+        JSK Comment. Author: Dave | IP: 64.1.68.252
+        JSK Comment. Author: John Stanton | IP: 74.93.212.169
+        JSK Comment. Author: David Kennedy | IP: 71.106.96.174
+        JSK Comment. Author: tadchem | IP: 131.81.200.92
+        JSK Comment. Author: Frank Hannaford | IP: 98.175.195.130
+        JSK Comment. Author: scott atran | IP: 200.88.230.79
+    Thread: /sciencenow/2010/03/among-seahorses-mr-moms-play-fav.html
+    2 comments:
+        JSK Comment. Author: Perry Clark | IP: 24.145.160.46
+        JSK Comment. Author: Disconnected | IP: 71.112.13.140
+    Thread: 
+    0 comments:
+    Thread: /sciencenow/2009/04/16-02.html
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /sciencenow/2010/03/csis-latest-clue--bacteria.html
+    3 comments:
+        JSK Comment. Author: Synbio | IP: 129.176.151.14
+        JSK Comment. Author: B | IP: 24.9.46.98
+        JSK Comment. Author: Combo | IP: 128.118.237.23
+    Thread: /sciencenow/2010/03/video-babies-are-born-to-dance.html
+    7 comments:
+        JSK Comment. Author: szuletik | IP: 65.41.162.254
+        JSK Comment. Author: Guest | IP: 76.179.28.51
+        JSK Comment. Author: AndreaF | IP: 84.156.188.7
+        JSK Comment. Author: jj2204 | IP: 76.113.82.144
+        JSK Comment. Author: AndreaF | IP: 84.156.188.7
+        JSK Comment. Author: rintintin | IP: 24.128.188.2
+        JSK Comment. Author: Guest | IP: 98.247.139.253
+    Thread: /sciencenow/2009/10/27-01.html
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /scienceinsider/2010/03/japan-maps-out-big-science-plans.html
+    1 comments:
+        JSK Comment. Author: Anna L. | IP: 141.223.46.71
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: 
+    0 comments:
+    Thread: /sciencenow/2009/02/20-02.html
+    0 comments:
+    Thread: /sciencenow/2008/06/23-03.html
+    0 comments:
+    Thread: /sciencenow/2010/03/scienceshot-bumblebees-have-the-.html
+    4 comments:
+        JSK Comment. Author: Sam Droege | IP: 173.66.139.249
+        JSK Comment. Author: Marmaladehills.com | IP: 99.185.60.181
+        JSK Comment. Author: Guest | IP: 24.29.95.94
+        JSK Comment. Author: Guest | IP: 129.8.66.93
+Processing complete.
+Detected (in import file): 442 comments; 266 threads.
+Created: 406 comments; 262 threads.

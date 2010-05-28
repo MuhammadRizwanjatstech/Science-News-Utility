@@ -1,0 +1,88 @@
+Disqus forum prepped: News Dev 3
+BeautifulSoup xml parser prepped.
+Parsing threads from input file...
+10 threads:
+    Thread: /sciencenow/2010/02/pardon-the-intrusion-but-your-da.html
+    1 comments:
+        IP: 72.248.153.221
+        Disqus comment created: 40691037 (JSK id: jsid-1266524411-217)
+    Thread: 
+    0 comments:
+    Thread: /sciencenow/2010/02/artificial-nose-sniffs-out-good-.html
+    4 comments:
+        IP: 208.74.247.249
+        IP: 4.240.21.116
+        IP: 99.27.172.137
+        IP: 66.173.9.222
+        Disqus comment created: 40691041 (JSK id: jsid-1266529410-197)
+        Disqus comment created: 40691043 (JSK id: jsid-1266774827-501)
+        Disqus comment created: 40691044 (JSK id: jsid-1266724528-392)
+        Disqus comment created: 40691045 (JSK id: jsid-1266984520-782)
+    Thread: /sciencenow/2010/02/lack-of-sleep-is-contagious.html
+    10 comments:
+        IP: 70.49.33.119
+        IP: 24.7.100.134
+        IP: 70.138.54.12
+        IP: 212.82.36.133
+        IP: 86.202.49.238
+        IP: 78.94.202.163
+        IP: 114.24.58.65
+        IP: 117.136.21.156
+        IP: 66.27.98.59
+        IP: 66.27.98.59
+        Disqus comment created: 40691048 (JSK id: jsid-1267101719-654)
+        Disqus comment created: 40691051 (JSK id: jsid-1267416222-286)
+        Disqus comment created: 40691053 (JSK id: jsid-1266838390-18)
+        Disqus comment created: 40691054 (JSK id: jsid-1267334069-537)
+        Disqus comment created: 40691056 (JSK id: jsid-1266827404-389)
+        Disqus comment created: 40691057 (JSK id: jsid-1266827244-208)
+        Disqus comment created: 40691058 (JSK id: jsid-1266826827-308)
+        Disqus comment created: 40691059 (JSK id: jsid-1266811902-418)
+        Disqus comment created: 40691060 (JSK id: jsid-1266797856-68)
+        Disqus comment created: 40691062 (JSK id: jsid-1266797831-798)
+    Thread: /sciencenow/2010/03/stressed-men-fancy-someone-diffe.html
+    4 comments:
+        IP: 74.178.8.103
+        IP: 98.227.73.232
+        IP: 67.175.128.168
+        IP: 132.241.75.27
+        Disqus comment created: 40691064 (JSK id: jsid-1268934072-230)
+        Disqus comment created: 40691065 (JSK id: jsid-1268594593-521)
+        Disqus comment created: 40691066 (JSK id: jsid-1268326788-779)
+        Disqus comment created: 40691068 (JSK id: jsid-1268263199-656)
+    Thread: /sciencenow/2010/03/carbon-capture-method-could-pois.html
+    9 comments:
+        IP: 98.185.232.143
+        IP: 72.11.112.147
+        IP: 96.227.44.206
+        IP: 67.182.241.124
+        IP: 64.247.124.94
+        IP: 119.98.148.187
+        IP: 194.228.28.162
+        IP: 194.228.28.162
+        IP: 173.183.11.137
+        Disqus comment created: 40691070 (JSK id: jsid-1268945736-222)
+        Disqus comment created: 40691071 (JSK id: jsid-1268900142-981)
+        Disqus comment created: 40691072 (JSK id: jsid-1268828678-434)
+        Disqus comment created: 40691073 (JSK id: jsid-1268776517-923)
+        Disqus comment created: 40691074 (JSK id: jsid-1268772803-898)
+        Disqus comment created: 40691075 (JSK id: jsid-1268696186-456)
+        Disqus comment created: 40691076 (JSK id: jsid-1268745438-890)
+        Disqus comment created: 40691077 (JSK id: jsid-1268717740-501)
+        Disqus comment created: 40691079 (JSK id: jsid-1268716299-555)
+    Thread: /scienceinsider/2010/02/un-climate-leader-yvo-de-boer-to.html
+    0 comments:
+    Thread: /scienceinsider/2010/02/holdren-takes-lumps-from-house-p.html
+    3 comments:
+        IP: 66.244.187.202
+        IP: 128.101.205.171
+        IP: 192.44.136.113
+        Disqus comment created: 40691080 (JSK id: jsid-1267232760-198)
+        Disqus comment created: 40691082 (JSK id: jsid-1267112022-655)
+        Disqus comment created: 40691084 (JSK id: jsid-1267131178-772)
+    Thread: /sciencenow/2010/01/27-01.html
+    0 comments:
+    Thread: /sciencenow/2010/02/fighting-back-against-a-superbug.html
+    1 comments:
+        IP: 201.235.98.138
+        Disqus comment created: 40691086 (JSK id: jsid-1266815631-686)

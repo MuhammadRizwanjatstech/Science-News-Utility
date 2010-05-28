@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="research-article" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title><issn pub-type="ppub">0036-8075</issn><issn pub-type="epub">1095-9203</issn>
+<publisher><publisher-name>American Association for the Advancement of Science</publisher-name></publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">1185694</article-id>
+<article-id pub-id-type="doi">10.1126/science.1185694</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>Report</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Reports</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>reports</subject></subj-group>
+<subj-group subj-group-type="field"><subject>CHEMISTRY</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Transition-State Spectroscopy of Partial Wave Resonances in the F + HD Reaction</article-title>
+</title-group>
+<contrib-group><contrib contrib-type="author"><name><surname>Dong</surname><given-names>Wenrui</given-names></name><xref ref-type="fn" rid="afn1">*</xref></contrib><contrib contrib-type="author"><name><surname>Xiao</surname><given-names>Chunlei</given-names></name><xref ref-type="fn" rid="afn1">*</xref></contrib><contrib contrib-type="author"><name><surname>Wang</surname><given-names>Tao</given-names></name></contrib><contrib contrib-type="author"><name><surname>Dai</surname><given-names>Dongxu</given-names></name></contrib><contrib contrib-type="author" corresp="yes"><name><surname>Yang</surname><given-names>Xueming</given-names></name><xref ref-type="corresp" rid="cor1">&#x2020;</xref></contrib><contrib contrib-type="author" corresp="yes"><name><surname>Zhang</surname><given-names>Dong H.</given-names></name><xref ref-type="corresp" rid="cor1">&#x2020;</xref></contrib>
+<aff id="aff1">State Key Laboratory of Molecular Reaction Dynamics, Dalian Institute of Chemical Physics, Chinese Academy of Sciences, Dalian 116023, Liaoning, People&#x2019;s Republic of China.</aff></contrib-group>
+<author-notes>
+<fn id="afn1"><label>*</label><p>These authors contributed equally to this work.</p>
+</fn>
+<corresp id="cor1"><label>&#x2020;</label>To whom correspondence should be addressed. E-mail: 
+<email xlink:href="xmyang@dicp.ac.cn">xmyang@dicp.ac.cn</email> (X.Y.); 
+<email xlink:href="zhangdh@dicp.ac.cn">zhangdh@dicp.ac.cn</email> (D.H.Z.)</corresp></author-notes>
+<pub-date pub-type="ppub"><day>19</day><month>03</month><year>2010</year></pub-date>
+<volume>327</volume>
+<issue>5972</issue>
+<fpage>1501</fpage>
+<lpage>1502</lpage>
+<history><date date-type="received"><day>08</day><month>12</month><year>2009</year></date><date date-type="accepted"><day>28</day><month>01</month><year>2010</year></date></history>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2010, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2010</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder></permissions>
+<abstract abstract-type="editor"><title>Partial View</title><p>Skilled billiard players can easily predict how spinning of one ball will affect the trajectory of the second ball it strikes in a collision. In principle, quantum mechanics can be used to predict the analogous impact of the angular momentum of reagents on the outcome of a chemical reaction. In practice, however, observation of most chemical reactions&#x2014;even in the confines of a molecular beam apparatus&#x2014;encompasses a vast number of collisions over multiple angular momentum distributions. <bold>Dong <italic>et al.</italic></bold> (p. <related-article related-article-type="in-this-issue" vol="327" page="1501">1501</related-article>; see the Perspective by <bold><related-article related-article-type="in-this-issue" vol="327" page="1460" issue="5972">Althorpe</related-article></bold>) have honed their spectroscopic resolution sufficiently to distinguish the impact of subtle angular momentum variations on the reactivity of fluorine with hydrogen atoms. Their data agree with theory and reveal oscillating peaks in reaction probability, termed partial wave resonances.</p></abstract>
+<abstract abstract-type="teaser"><p>Spectroscopy can distinguish the reaction paths in a collision between an atom and a diatomic system.</p></abstract>
+<abstract>
+<p>Partial wave resonances, quasi-bound resonance states with well-defined rotation in the transition state region of a chemical reaction, play a governing role in reaction dynamics but have eluded direct experimental characterization. Here, we report the observation of individual partial wave resolved resonances in the F + HD &#x2192; HF + D reaction by measuring the collision energy&#x2013;dependent, angle- and state-resolved differential cross section with extremely high resolution, providing a spectroscopic probe to the transition state of F + HD &#x2192; HF + D. The agreement of the data with the high-level theoretical calculations confirms the sensitivity of this probe to the subtle quantum mechanical factors guiding this benchmark reaction.</p>
+</abstract>
+<custom-meta-wrap><custom-meta><meta-name>Editor</meta-name><meta-value>Jake Yeston</meta-value></custom-meta><custom-meta><meta-name>Copyeditor</meta-name><meta-value>Trista Wagoner</meta-value></custom-meta></custom-meta-wrap>
+</article-meta>
+</front>
+<body>
+<p>Direct characterization of transition states, the fleeting structures at the boundary between the reactants and products in molecular transformations, is one of the grand challenges in physical chemistry (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>&#x2013;<xref ref-type="bibr" rid="R3"><italic>3</italic></xref>). Substantial progress toward this goal has been made in the past two decades by using negative-ion photodetachment spectroscopy, which probes a reaction transition state by directly photodetaching an electron from an appropriate negative-ion precursor that has a similar geometric structure to the transition state (<xref ref-type="bibr" rid="R4"><italic>4</italic></xref>). However, it is much more difficult to measure the transition-state structures in crossed molecular-beam experiments, even with full quantum mechanical state resolution of the initial and final states, because in most chemical reactions experimental observables come from the contributions of collisions with many partial waves, or in classical terms, of collisions with a range of impact parameters or total angular momentum. A partial wave is a quantum-scattering state with a well-defined total angular momentum quantum number (<italic>J</italic>), which specifies the overall rotation of the reaction system and is conserved in the reaction process. A full reaction process can be considered as a combination of reactions of many partial waves (<italic>J</italic> = 0 to <italic>J</italic><sub>max</sub>) that contain the most detailed information on the reaction transition state. However, contribution of a single partial wave to the experimental observables is extremely hard to resolve because different partial wave contributions are severely overlapped under most circumstances.</p>
+<p>Reaction resonances are transiently stabilized quantum states in the transition-state region with well-defined energies, and energy widths, which change with individual partial waves. When the energy changes associated with certain partial waves are larger than the energy width of the resonance states, the experimental observables may be largely determined by a few or even one partial wave in that energy region. As a result, detection of partial wave reaction resonances would offer the most detailed picture of the quantum mechanical factors guiding chemical reactivity and so has attracted great attention in the field. The F + H<sub>2</sub> reaction system has been a textbook case in the study of resonances (<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>&#x2013;<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>). In this work, we report the experimental observation of partial wave resolved resonances in the F + HD &#x2192; HF + D reaction, providing an extremely accurate probe of its reactive resonance potential energy surface (PES).</p>
+<p>We performed a fully quantum state&#x2013;resolved, crossed-beam reactive scattering experiment on the F(<sup>2</sup>P<sub>3/2</sub>) + HD(<italic>j</italic> = 0) &#x2192; HF(<italic>v</italic>&#x2032;, <italic>j</italic>&#x2032;) + D reaction by using the D-atom Rydberg tagging technique (<xref ref-type="bibr" rid="R9"><italic>9</italic></xref>). A unique double-stage discharge F-atom beam was used in this experiment so that a high-intensity F-atom beam with high-speed ratio (<italic>v</italic>/&#x03B4;<italic>v</italic>) could be obtained (<xref ref-type="bibr" rid="R10"><italic>10</italic></xref>). Both beam sources (F and HD) were cooled cryogenically to maximize resolution.</p>
+<p>Time-of-flight (TOF) spectra of the D atom products from the F + HD reaction in the backward scattering direction were measured at various collision energies from 0.9 to 1.5 kcal/mol and are shown in fig. S1. Full product (HF) rotational state resolution was achieved, and differential cross sections (DCS) for HF(<italic>v</italic>&#x2032; = 2) products in individual rotational states were obtained. A clear oscillatory structure is evident (<xref ref-type="fig" rid="F1">Fig. 1</xref>) in the collision energy dependence of the DCS for the HF(<italic>v</italic>&#x2032; = 2, <italic>j</italic>&#x2032; = 6) product in the backward scattering direction. Theoretically, we carried out full quantum scattering calculations on a recently reported PES (<xref ref-type="bibr" rid="R11"><italic>11</italic></xref>). The theoretical DCS in the backward direction for the HF(<italic>v</italic>&#x2032; = 2,<italic> j</italic>&#x2032; = 6) product were computed at various collision energies. For better comparison, the experimental resolution factor was included in the theoretical simulation. The original theoretical results are shifted lower in energy by 0.03 kcal/mol in <xref ref-type="fig" rid="F1">Fig. 1</xref> to compare with the experimental results. With this small shift, the agreement between the theory and the experiment is remarkable.</p>
+<fig id="F1" position="float" fig-type="figure"><label>Fig. 1</label><caption><p>Experimental and theoretical DCS of the HF(<italic>v</italic>&#x2032; = 2, <italic>j</italic>&#x2032; = 6) product of the F(<sup>2</sup>P<sub>3/2</sub>) + HD(<italic>j</italic> = 0) reaction in the backward scattering direction. The solid circles are experimental data; the red curve, the result of full quantum dynamics calculations convoluted with the experimental resolution and shifted 0.03 kcal/mol lower in energy. The error bars in the experimental data are the estimated measurement errors (&#x00B1;1&#x03C3;) for the HF(<italic>v</italic>&#x2032; = 2, <italic>j</italic>&#x2032; = 6) product peak intensity (fig. S1) in the collision energy scan. The three peaks are assigned to the partial wave Feshbach resonances of <italic>J</italic> = 12, 13, and 14 in the F + HD &#x2192; HF + D reaction, as explained in the text. The three-dimensional DCS shown was measured at 1.285 kcal/mol, with F and B indicating the forward- and backward-scattering, respectively, directions for HF with respect to the F-atom beam direction.</p>
+</caption>
+<graphic xlink:href="327_1501_F1"></graphic></fig>
+<p>In order to trace the dynamical origin of the oscillatory structures, we calculated the DCS in the backward direction for the HF(<italic>v</italic>&#x2032; = 2, <italic>j</italic>&#x2032; = 6) product with different <italic>J</italic><sub>max</sub>. It turns out that the three main peaks exhibited in <xref ref-type="fig" rid="F1">Fig. 1</xref> emerge subsequently by taking <italic>J</italic><sub>max</sub> = 12, 13, and 14 (fig. S2). In other words, the assigned <italic>J </italic>= 12 peak in <xref ref-type="fig" rid="F1">Fig. 1</xref> emerges only after including the <italic>J </italic>= 12 partial wave in the calculations. The same is true for the peaks labeled <italic>J </italic>= 13 and 14. This clearly confirms that the detected oscillations are contributed by the <italic>J </italic>= 12, 13, and 14 partial wave Feshbach resonances in the F + HD &#x2192; HF + D reaction. It is interesting to point out that the final heights of the specific peaks of these oscillations can be obtained only by including larger <italic>J</italic> contributions in the calculations, implying that quantum interference among the partial wave resonances is quite significant in the observed DCS. In addition to the HF(<italic>v</italic>&#x2032; = 2, <italic>j</italic>&#x2032; = 6) product, partial wave resonances are also observed in the DCS of other well-resolved rotationally excited HF(<italic>v</italic>&#x2032; = 2) products in the backward direction.</p>
+<p>The partial wave resolved resonances can only be observed in both angle- and state-resolved DCS measurement with extremely high translational energy resolution in a scattering experiment. It is necessary to point out that the reaction resonance that we are dealing with here is the same resonance studied in (<xref ref-type="bibr" rid="R7"><italic>7</italic></xref>) and (<xref ref-type="bibr" rid="R11"><italic>11</italic></xref>). DCS in different scattering directions was also measured in this work at the collision energy of 1.285 kcal/mol (<xref ref-type="fig" rid="F1">Fig. 1</xref>). The three-dimensional DCS plot shows a narrow forward-scattering peak with a broader backward-scattering distribution, indicating a strong resonance effect in the reaction. The present experiment provides a spectroscopic probe of the resonance potential far beyond the generally accepted &#x201C;chemical accuracy&#x201D; of about 1 kcal/mol. The observation of the partial wave resolved resonances provides opportunities to study their effect on chemical reactivity at the truly state-to-state-to-state level.</p>
+</body>
+<back>
+<app-group>
+<app>
+<title>Supporting Online Material</title>
+<supplementary-material>
+<p><ext-link ext-link-type="uri" xlink:href="http://www.sciencemag.org/cgi/content/full/327/5972/1501/DC1">www.sciencemag.org/cgi/content/full/327/5972/1501/DC1</ext-link></p>
+<p>Materials and Methods</p>
+<p>Figs. S1 and S2</p>
+<p>References</p>
+</supplementary-material></app></app-group>
+<ref-list>
+<title>References and Notes</title>
+<ref id="R1"><label>1</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Schatz</surname><given-names>G. C.</given-names></name></person-group>, 
+<article-title>Reaction dynamics: Detecting resonances</article-title>. 
+<source>Science</source> 
+<volume>288</volume>, 
+<fpage>1599</fpage> (<year>2000</year>). 
+<pub-id pub-id-type="doi">10.1126/science.288.5471.1599</pub-id></citation></ref>
+<ref id="R2"><label>2</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Fern&#x00E1;ndez-Alonso</surname><given-names>F.</given-names></name><name><surname>Zare</surname><given-names>R. N.</given-names></name></person-group>, 
+<article-title>Scattering resonances in the simplest chemical reaction</article-title>. 
+<source>Annu. Rev. Phys. Chem.</source> 
+<volume>53</volume>, 
+<fpage>67</fpage> (<year>2002</year>). 
+<pub-id pub-id-type="doi">10.1146/annurev.physchem.53.091001.094554</pub-id>
+<pub-id pub-id-type="pmid">11972003</pub-id></citation></ref>
+<ref id="R3"><label>3</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Polanyi</surname><given-names>J. C.</given-names></name><name><surname>Zewail</surname><given-names>A. H.</given-names></name></person-group>, 
+<article-title>Direct observation of the transition state</article-title>. 
+<source>Acc. Chem. Res.</source> 
+<volume>28</volume>, 
+<fpage>119</fpage> (<year>1995</year>). 
+<pub-id pub-id-type="doi">10.1021/ar00051a005</pub-id></citation></ref>
+<ref id="R4"><label>4</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Neumark</surname><given-names>D. M.</given-names></name></person-group>, 
+<article-title>Transition state spectroscopy</article-title>. 
+<source>Science</source> 
+<volume>272</volume>, 
+<fpage>1446</fpage> (<year>1996</year>). 
+<pub-id pub-id-type="doi">10.1126/science.272.5267.1446</pub-id></citation></ref>
+<ref id="R5"><label>5</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Manolopoulos</surname><given-names>D. E.</given-names></name><etal /></person-group>., 
+<article-title>The transition state of the F + H<sub>2</sub> reaction</article-title>. 
+<source>Science</source> 
+<volume>262</volume>, 
+<fpage>1852</fpage> (<year>1993</year>). 
+<pub-id pub-id-type="doi">10.1126/science.262.5141.1852</pub-id>
+<pub-id pub-id-type="pmid">17829631</pub-id></citation></ref>
+<ref id="R6"><label>6</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Skodje</surname><given-names>R. T.</given-names></name><etal /></person-group>., 
+<article-title>Resonance-mediated chemical reaction: F+HD&#x2014;&gt;HF+D</article-title>. 
+<source>Phys. Rev. Lett.</source> 
+<volume>85</volume>, 
+<fpage>1206</fpage> (<year>2000</year>). 
+<pub-id pub-id-type="doi">10.1103/PhysRevLett.85.1206</pub-id>
+<pub-id pub-id-type="pmid">10991513</pub-id></citation></ref>
+<ref id="R7"><label>7</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Skodje</surname><given-names>R. T.</given-names></name><etal /></person-group>., 
+<article-title>Observation of a transition state resonance in the integral cross section of the F+HD reaction</article-title>. 
+<source>J. Chem. Phys.</source> 
+<volume>112</volume>, 
+<fpage>4536</fpage> (<year>2000</year>). 
+<pub-id pub-id-type="doi">10.1063/1.481041</pub-id></citation></ref>
+<ref id="R8"><label>8</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Qiu</surname><given-names>M.</given-names></name><etal /></person-group>., 
+<article-title>Observation of Feshbach resonances in the F + H<sub>2</sub> &#x2014;&gt; HF + H reaction</article-title>. 
+<source>Science</source> 
+<volume>311</volume>, 
+<fpage>1440</fpage> (<year>2006</year>). 
+<pub-id pub-id-type="doi">10.1126/science.1123452</pub-id>
+<pub-id pub-id-type="pmid">16527975</pub-id></citation></ref>
+<ref id="R9">
+<note><label>9</label><p>The experimental technique used in this work is described in detail in the supporting materials available on <italic>Science</italic> Online.</p>
+</note></ref>
+<ref id="R10"><label>10</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Ren</surname><given-names>Z.</given-names></name><etal /></person-group>., 
+<article-title>A double-stage pulsed discharge fluorine atom beam source</article-title>. 
+<source>Rev. Sci. Instrum.</source> 
+<volume>77</volume>, 
+<fpage>016102</fpage> (<year>2006</year>). 
+<pub-id pub-id-type="doi">10.1063/1.2140338</pub-id></citation></ref>
+<ref id="R11"><label>11</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Ren</surname><given-names>Z.</given-names></name><etal /></person-group>., 
+<article-title>Probing the resonance potential in the F atom reaction with hydrogen deuteride with spectroscopic accuracy</article-title>. 
+<source>Proc. Natl. Acad. Sci. U.S.A.</source> 
+<volume>105</volume>, 
+<fpage>12662</fpage> (<year>2008</year>). 
+<pub-id pub-id-type="doi">10.1073/pnas.0709974105</pub-id>
+<pub-id pub-id-type="pmid">18687888</pub-id></citation></ref></ref-list>
+<ack><label>12</label>
+<p>We acknowledge the support of this work by the Chinese Academy of Sciences, the National Natural Science Foundation of China, and the Ministry of Science and Technology of China.</p>
+</ack></back>
+</article>

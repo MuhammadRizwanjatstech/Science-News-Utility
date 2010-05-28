@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="book-review" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title>
+<issn pub-type="ppub">0036-8075</issn>
+<issn pub-type="epub">1095-9203</issn>
+<publisher>
+<publisher-name>American Association for the Advancement of Science</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">1187723</article-id>
+<article-id pub-id-type="doi">10.1126/science.1187723</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>Book Review</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Books <italic>et al.</italic></subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>books</subject></subj-group>
+<subj-group subj-group-type="field"><subject>SOCIOLOGY</subject><subject>COMP/MATH</subject></subj-group>
+<subj-group subj-group-type="overline"><subject>Computers and Society</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Programming to Forget</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes"><name><surname>Dutton</surname><given-names>William</given-names></name></contrib>
+<aff id="aff1">The reviewer is at the Oxford Internet Institute, University of Oxford, 1 St. Giles', Oxford OX1 3JS, UK.</aff>
+</contrib-group>
+<author-notes>
+<corresp>E-mail: <email>william.dutton@oii.ox.ac.uk</email></corresp>
+</author-notes>
+<pub-date pub-type="ppub">
+<day>19</day>
+<month>03</month>
+<year>2010</year>
+</pub-date>
+<volume>327</volume>
+<issue>5972</issue>
+<fpage seq="a">1456</fpage>
+<lpage>1456</lpage>
+<product product-type="book"><bold>Delete</bold> The Virtue of Forgetting in the Digital Age <bold><italic>by Viktor Mayer-Sch&#x00F6;nberger</italic></bold> Princeton University Press, Princeton, NJ, 2009. 251 pp. $24.95, &#x00A3;16.95. ISBN 9780691138619.</product>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2010, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2010</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<abstract abstract-type="teaser"><p>Mayer-Sch&#xF6;nberger explores a range of concerns arising from the fact that information technology makes us less able to forget our pasts.</p></abstract>
+<abstract abstract-type="web-summary"><p>Mayer-Sch&#xF6;nberger explores a range of concerns arising from the fact that information technology makes us less able to forget our pasts.</p></abstract>
+<custom-meta-wrap><custom-meta><meta-name>Editor</meta-name><meta-value>Sherman J. Suter</meta-value></custom-meta><custom-meta><meta-name>Copyeditor</meta-name><meta-value>Cynthia Howe</meta-value></custom-meta></custom-meta-wrap></article-meta>
+</front>
+<body>
+<p>The growing centrality of the Internet is leading to initiatives to archive, curate, and otherwise preserve digital collections. While experts and resources are focused on these problems of remembering, Viktor Mayer-Sch&#x00F6;nberger tells us that there is also a virtue in forgetting.</p>
+<p><italic>Delete</italic> begins with an anecdote about a student, Stacy, who is denied her teaching certificate because a colleague discovered an old photo of Stacy wearing a pirate hat and drinking alcohol&#x2014;one she had posted on a social networking Web site. As the author put it: &#x201C;The Internet remembered what Stacy wanted to have forgotten.&#x201D; Similar stories of individuals compromised by information stored on the Internet or related devices are numerous. Mayer-Sch&#x00F6;nberger (a legal scholar at the National University of Singapore) diagnoses the problem, explains its growing importance, and answers the question &#x201C;What can be done?&#x201D;</p>
+<p>The book's central argument is that in the analog world of yesterday, forgetting was the default position. It was somewhat harder to remember than to forget, so unless we put effort into it, such as in taking notes or storing text, information disappeared. &#x201C;Not anymore.&#x201D; In tomorrow's digital world, the default will be remembering. The efficiency of remembering is gaining ground because of the lower costs of memory devices and the accuracy of digital technologies, which can replicate content endlessly, creating the potential for a future of &#x201C;perfect remembering.&#x201D;</p>
+<p>Taken to its logical conclusion, this capability could create a dystopian scenario of self-censorship that moves beyond contemporary conceptions of a surveillance society. Building on Bentham's notion of the panopticon, digital memory is extending the &#x201C;mechanism of panoptic control&#x201D; into the past. However, Mayer-Sch&#x00F6;nberger argues, this problem can be addressed through a variety of legal and technical initiatives, such as creating a means for users to place an expiration date on information they post.</p>
+<fig id="F1" position="float">
+<caption>
+<title>The memory of the Internet.</title>
+<p>Collectively, server farms house hundreds of exabytes of information.</p>
+</caption>
+<graphic xlink:href="327_1456a_F1"></graphic>
+<attrib>CREDIT: BOB SACHA/CORBIS</attrib>
+</fig>
+<p>The book offers a provocative counter to prevailing neologisms about information wanting to be shared. Our circumstances are far more complicated, with many not wanting all information to be remembered. In developing a clear line of reasoning behind his argument, Mayer-Sch&#x00F6;nberger draws evidence from multiple disciplines, bringing together considerations from the neurosciences, computation, and networking technology as well as from law, policy, and literature. It is rare but wonderful for an expert on digital technology to glean from works of major literary figures with the same ease as he discusses shared memory devices and Vannevar Bush's &#x201C;memex.&#x201D; His book also stands out in being truly international, anchored in European and Asian examples as firmly as North American legal and policy cases.</p>
+<p>Mayer-Sch&#x00F6;nberger's focus on a single issue&#x2014;remembering and forgetting as enabled by digital technology&#x2014;enables him to address some familiar subjects, such as the history of the communications revolution, in a fresh and engaging way. Moreover, his style is accessible and clearly targeted beyond his academic peers to reach an audience engaged by the issue rather than the technology or the law. That said, readers will learn about technology, law, and other fields as his narrative unfolds.</p>
+<p>Most important, Mayer-Sch&#x00F6;nberger's focus illustrates a major turn in debates about the Internet. Since the dot-com bubble of the late 1990s, most research on the Internet has dealt primarily with its use and impact in the broadest sense. Will the technology become a routine aspect of everyday life and work? This book takes the Internet's role in society as a given and concentrates on the critical design features that make it easier for machines to remember than to forget. Refocusing on key design issues, as the author does, will enable social and policy research to contribute more to shaping the future Internet.</p>
+<p>The author's diagnosis of the problem raises questions. Hasn't memory always been long-term for some people, such as those forced out of a community that will not forget a major transgression? In such cases, the Internet is transforming the geography of memory more than extending its longevity. Also, if individuals can delete their past, will we face Orwellian issues over the rewriting of history?</p>
+<p>Mayer-Sch&#x00F6;nberger's discussion of potential remedies is less convincing than his exposition of the problem. He admits as much in suggesting that his solutions are less than perfect. For example, expiration dates will be difficult to realize, given the distributed nature of the Web, and might cause other problems. Since the book's publication, new applications have been released that enable a text message, for example, to vanish after being read or on a specified date. However, employing software to erase messages can create unwarranted suspicion, or we might lose information we later want to retrieve.</p>
+<p>Even if I am not completely convinced of the problem or solutions, <italic>Delete</italic> is well placed to accomplish the author's aim: &#x201C;to commence a wide-ranging, open, and intense discussion about forgetting, and how we can ensure that we'll remember its importance in our digital future.&#x201D; There is no better source for fostering an informed debate on this issue.</p>
+</body>
+</article>

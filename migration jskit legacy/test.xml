@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+	<channel>
+		<title>sciencenow.sciencemag.org/cgi/content/full/2009/1104/3 comments</title>
+		<link>http://sciencenow.sciencemag.org/cgi/content/full/2009/1104/3</link>
+		<atom:link rel="self" type="application/rss+xml" href="http://js-kit.com/rss/sciencenow.sciencemag.org/cgi/content/full/2009/1104/3"></atom:link>
+		<jskit:attribute key="md5path" value="1fb8cfba4441f8439cedf904c90f04b5"></jskit:attribute>
+		<jskit:attribute key="path" value="/cgi/content/full/2009/1104/3"></jskit:attribute>
+		<description>RSS comments feed for sciencenow.sciencemag.org/cgi/content/full/2009/1104/3</description>
+		<generator>JS-Kit Bulk Site Exporter 0.8</generator>
+		<lastBuildDate>Sun, 15 Nov 2009 14:13:03 +0000</lastBuildDate>
+		<item>
+			<guid>jsid-1258238768-695</guid>
+			<pubDate>Sat, 14 Nov 2009 22:46:08 +0000</pubDate>
+			<jskit:attribute key="IP" value="90.58.117.80"></jskit:attribute>
+			<jskit:attribute key="permalink" value="http://sciencenow.sciencemag.org/cgi/content/full/2009/1104/3"></jskit:attribute>
+			<author>Photon_french</author>
+			<jskit:attribute key="share_facebook" value="off"></jskit:attribute>
+			<jskit:attribute key="share_gfc" value="off"></jskit:attribute>
+			<jskit:attribute key="share_twitter" value="off"></jskit:attribute>
+			<jskit:attribute key="share_friendfeed" value="off"></jskit:attribute>
+			<jskit:attribute key="share_yahoo" value="off"></jskit:attribute>
+			<jskit:attribute key="Webpresence" value="[]"></jskit:attribute>
+			<description>The probability to made a little black hole is high because the universe have more than 3 space dimensions…
+
+The question for 6 billion human beings is the hole is going to evaporate like the unchecked Hawking theory or not ?
+
+I add that strictly no observation have been made on an evaporated phenomenon of however numerous black holes in the universe...</description>
+		</item>
+	</channel>
+</rss>

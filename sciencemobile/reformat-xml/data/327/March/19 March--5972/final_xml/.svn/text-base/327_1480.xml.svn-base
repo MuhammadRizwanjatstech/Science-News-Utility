@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="research-article" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title><issn pub-type="ppub">0036-8075</issn><issn pub-type="epub">1095-9203</issn>
+<publisher><publisher-name>American Association for the Advancement of Science</publisher-name></publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">1182238</article-id>
+<article-id pub-id-type="doi">10.1126/science.1182238</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>Research Article</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Research Articles</subject></subj-group><subj-group subj-group-type="legacy-article-type"><subject>r-articles</subject></subj-group>
+<subj-group subj-group-type="field"><subject>ECONOMICS</subject><subject>PSYCHOLOGY</subject></subj-group>
+</article-categories>
+<title-group><article-title>Markets, Religion, Community Size, and the Evolution of Fairness and Punishment</article-title>
+</title-group>
+<contrib-group><contrib contrib-type="author" corresp="yes"><name><surname>Henrich</surname><given-names>Joseph</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="corresp" rid="cor1">*</xref></contrib><contrib contrib-type="author"><name><surname>Ensminger</surname><given-names>Jean</given-names></name><xref ref-type="aff" rid="aff2"><sup>2</sup></xref></contrib><contrib contrib-type="author"><name><surname>McElreath</surname><given-names>Richard</given-names></name><xref ref-type="aff" rid="aff3"><sup>3</sup></xref></contrib><contrib contrib-type="author"><name><surname>Barr</surname><given-names>Abigail</given-names></name><xref ref-type="aff" rid="aff4"><sup>4</sup></xref></contrib><contrib contrib-type="author"><name><surname>Barrett</surname><given-names>Clark</given-names></name><xref ref-type="aff" rid="aff5"><sup>5</sup></xref></contrib><contrib contrib-type="author"><name><surname>Bolyanatz</surname><given-names>Alexander</given-names></name><xref ref-type="aff" rid="aff6"><sup>6</sup></xref></contrib><contrib contrib-type="author"><name><surname>Cardenas</surname><given-names>Juan Camilo</given-names></name><xref ref-type="aff" rid="aff7"><sup>7</sup></xref></contrib><contrib contrib-type="author"><name><surname>Gurven</surname><given-names>Michael</given-names></name><xref ref-type="aff" rid="aff8"><sup>8</sup></xref></contrib><contrib contrib-type="author"><name><surname>Gwako</surname><given-names>Edwins</given-names></name><xref ref-type="aff" rid="aff9"><sup>9</sup></xref></contrib><contrib contrib-type="author"><name><surname>Henrich</surname><given-names>Natalie</given-names></name><xref ref-type="aff" rid="aff10"><sup>10</sup></xref></contrib><contrib contrib-type="author"><name><surname>Lesorogol</surname><given-names>Carolyn</given-names></name><xref ref-type="aff" rid="aff11"><sup>11</sup></xref></contrib><contrib contrib-type="author"><name><surname>Marlowe</surname><given-names>Frank</given-names></name><xref ref-type="aff" rid="aff12"><sup>12</sup></xref></contrib><contrib contrib-type="author"><name><surname>Tracer</surname><given-names>David</given-names></name><xref ref-type="aff" rid="aff13"><sup>13</sup></xref></contrib><contrib contrib-type="author"><name><surname>Ziker</surname><given-names>John</given-names></name><xref ref-type="aff" rid="aff14"><sup>14</sup></xref></contrib>
+<aff id="aff1"><label>1</label>Departments of Psychology and Economics, University of British Columbia, 2136 West Mall, Vancouver, British Columbia V6T 1Z4, Canada.</aff>
+<aff id="aff2"><label>2</label>Division of the Humanities and Social Sciences, California Institute of Technology, Pasadena, CA 91125, USA.</aff>
+<aff id="aff3"><label>3</label>Department of Anthropology, University of California, Davis, CA 95616, USA.</aff>
+<aff id="aff4"><label>4</label>Centre for the Study of African Economies, Department of Economics, University of Oxford, Manor Road, Oxford OX1 3UQ, UK.</aff>
+<aff id="aff5"><label>5</label>Department of Anthropology, University of California, 341 Haines Hall, Box 951553, Los Angeles, CA 90095, USA.</aff>
+<aff id="aff6"><label>6</label>Department of Anthropology, College of DuPage, Glen Ellyn, IL 60137, USA.</aff>
+<aff id="aff7"><label>7</label>Facultad de Economia, Universidad de Los Andes, K1 Number 18A-70, Bogot&#x00E1;, Colombia.</aff>
+<aff id="aff8"><label>8</label>Department of Anthropology, University of California, Santa Barbara, CA 93106, USA.</aff>
+<aff id="aff9"><label>9</label>Department of Sociology and Anthropology, Guilford College, 5800 West Friendly Avenue, Greensboro, NC 27410, USA.</aff>
+<aff id="aff10"><label>10</label>Centre for Health Evaluation and Outcome Sciences, Providence Health Care Research Institute, Vancouver, British Columbia V6Z 1Y6, Canada.</aff>
+<aff id="aff11"><label>11</label>George Warren Brown School of Social Work, Washington University, 1 Brookings Drive, St. Louis, MO 63130, USA.</aff>
+<aff id="aff12"><label>12</label>Department of Anthropology, Florida State University, Tallahassee, FL 32306, USA.</aff>
+<aff id="aff13"><label>13</label>Department of Anthropology, University of Colorado, Post Office Box 173364, Campus Box 103, Denver, CO 80217, USA.</aff>
+<aff id="aff14"><label>14</label>Department of Anthropology, Boise State University, 1910 University Drive, Boise, ID 83725, USA.</aff></contrib-group>
+<author-notes>
+<corresp id="cor1"><label>*</label>To whom correspondence should be addressed. E-mail: 
+<email xlink:href="henrich@psych.ubc.ca">henrich@psych.ubc.ca</email></corresp></author-notes><pub-date pub-type="ppub"><day>19</day><month>03</month><year>2010</year></pub-date>
+<volume>327</volume>
+<issue>5972</issue>
+<fpage>1480</fpage>
+<lpage>1484</lpage>
+<history><date date-type="received"><day>21</day><month>09</month><year>2009</year></date><date date-type="accepted"><day>22</day><month>01</month><year>2010</year></date></history>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2010, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2010</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder></permissions>
+<abstract abstract-type="editor"><title>A Fair Society</title><p>Many of the social interactions of everyday life, especially those involving economic exchange, take place between individuals who are unrelated to each other and often do not know each other. Countless laboratory experiments have documented the propensity of subjects to behave fairly in these interactions and to punish those participants deemed to have behaved unfairly. <bold>Henrich <italic>et al.</italic></bold> (p. <related-article related-article-type="in-this-issue" vol="327" page="1480">1480</related-article>, see the Perspective by <bold><related-article related-article-type="in-this-issue" vol="327" page="1467" issue="5972">Hoff</related-article></bold>) measured fairness in thousands of individuals from 15 contemporary, small-scale societies to gain an understanding of the evolution of trustworthy exchange among human societies. Fairness was quantitated using three economic games. Various societal parameters, such as the extent to which food was purchased versus produced, were also collected. Institutions, as represented by markets, community size, and adherence to a world religion all predict a greater exercise of fairness in social exchange.</p></abstract>
+<abstract abstract-type="teaser"><p>The origins of modern social norms and behaviors may be found in the evolution of institutions.</p></abstract>
+<abstract>
+<p>Large-scale societies in which strangers regularly engage in mutually beneficial transactions are puzzling. The evolutionary mechanisms associated with kinship and reciprocity, which underpin much of primate sociality, do not readily extend to large unrelated groups. Theory suggests that the evolution of such societies may have required norms and institutions that sustain fairness in ephemeral exchanges. If that is true, then engagement in larger-scale institutions, such as markets and world religions, should be associated with greater fairness, and larger communities should punish unfairness more. Using three behavioral experiments administered across 15 diverse populations, we show that market integration (measured as the percentage of purchased calories) positively covaries with fairness while community size positively covaries with punishment. Participation in a world religion is associated with fairness, although not across all measures. These results suggest that modern prosociality is not solely the product of an innate psychology, but also reflects norms and institutions that have emerged over the course of human history.</p>
+</abstract>
+<custom-meta-wrap><custom-meta><meta-name>Editor</meta-name><meta-value>Gilbert Chin</meta-value></custom-meta><custom-meta><meta-name>Copyeditor</meta-name><meta-value>Alexis Mogul</meta-value></custom-meta></custom-meta-wrap>
+</article-meta>
+</front>
+<body>
+<p>At the onset of the Holocene, the stabilization of global climates created possibilities for the emergence of larger-scale sedentary human societies (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>). Over the next 10 millennia, the scale of some human communities dramatically expanded from kin-based foraging bands to complex, intensely cooperative societies in which strangers frequently engage in mutually beneficial transactions (<xref ref-type="bibr" rid="R2"><italic>2</italic></xref>). Consistent with life in these large-scale societies, behavioral experiments performed with people from these populations reveal fair, trusting, and cooperative behavior among strangers, even in one-shot encounters (<xref ref-type="bibr" rid="R3"><italic>3</italic></xref>).</p>
+<p>Two major theoretical approaches have sought to explain both the relatively rapid expansion of human societal scales and the puzzlingly prosocial behavior observed in experiments. The first approach proposes that humans possess an innate social psychology calibrated to life in the small-scale societies of our Paleolithic ancestors. Rooted in the evolutionary logic of kinship and reciprocity, these heuristics were mistakenly extended to nonkin and ephemeral interactants, as societies expanded with the emergence of agriculture. From this view, the prosocial behavior observed in experiments directly reflects the operation of these ancient heuristics (<xref ref-type="bibr" rid="R4"><italic>4</italic></xref>, <xref ref-type="bibr" rid="R5"><italic>5</italic></xref>).</p>
+<p>An alternative approach proposes that a crucial ingredient in the rise of more-complex societies was the development of new social norms and informal institutions that are capable of domesticating our innate psychology for life in ever-expanding populations (<xref ref-type="bibr" rid="R6"><italic>6</italic></xref>). Larger and more-complex societies prospered and spread to the degree that their norms and institutions effectively sustained successful interaction in ever-widening socioeconomic spheres, well beyond individuals&#x2019; local networks of kin and long-term relationships (<xref ref-type="bibr" rid="R7"><italic>7</italic></xref>). It is these particular norms and their gradual internalization as proximate motivations (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>) that recalibrate our innate psychology for life in small-scale societies in a manner that permits successful larger-scale cooperation and exchange in vast communities.</p>
+<p>Much research suggests that norms arise because humans use evolved learning mechanisms to calibrate their behavior, motivations, and beliefs to variable circumstances (<xref ref-type="bibr" rid="R7"><italic>7</italic></xref>, <xref ref-type="bibr" rid="R9"><italic>9</italic></xref>). Modeling work shows that when these learning mechanisms are applied to different kinds of social interactions, such as large-scale cooperation or ephemeral exchange, individually costly behaviors can be sustained by punishment, signaling, and reputational mechanisms (<xref ref-type="bibr" rid="R10"><italic>10</italic></xref>&#x2013;<xref ref-type="bibr" rid="R13"><italic>13</italic></xref>). By sustaining such behaviors, norms can facilitate trust, fairness, and cooperation in a diverse array of interactions, thereby allowing the most productive use of unevenly distributed skills, knowledge, and resources, as well as increasing cooperation in exchange, public goods, and warfare. More-effective norms and institutions can spread among societies by a variety of theoretically and empirically grounded mechanisms, including conquest and assimilation, preferential imitation of more-successful societies, or forward-looking decision making by leaders or high-status coalitions (<xref ref-type="bibr" rid="R14"><italic>14</italic></xref>, <xref ref-type="bibr" rid="R15"><italic>15</italic></xref>).</p>
+<p>Norms that enhance fairness among strangers are likely causally interconnected with the diffusion of several kinds of institutions. Here we focus on two: (i) the expansion of both the breadth and intensity of market exchange (<xref ref-type="bibr" rid="R16"><italic>16</italic></xref>, <xref ref-type="bibr" rid="R17"><italic>17</italic></xref>), and (ii) the spread of world religions (<xref ref-type="bibr" rid="R18"><italic>18</italic></xref>). The efficiency of market exchange involving infrequent or anonymous interactions improves with an increasingly shared set of motivations and expectations related to trust, fairness, and cooperation. This lowers transaction costs, raises the frequency of successful transactions, and increases long-term rewards (<xref ref-type="bibr" rid="R16"><italic>16</italic></xref>). Although frequent and efficient exchanges among strangers are now commonplace, studies of nonhuman primates and small-scale societies suggest that during most of our evolutionary history, transactions beyond the local group, and certainly beyond the ethnolinguistic unit, were fraught with danger, mistrust, and exploitation (<xref ref-type="bibr" rid="R2"><italic>2</italic></xref>, <xref ref-type="bibr" rid="R16"><italic>16</italic></xref>, <xref ref-type="bibr" rid="R19"><italic>19</italic></xref>). Thus, we propose that such &#x201C;market norms&#x201D; may have evolved as part of an overall process of societal evolution to sustain mutually beneficial exchanges in contexts where established social relationships (for example, kin, reciprocity, and status) were insufficient. If our theory is correct, then measures of fairness in situations lacking relationship information (for example, anonymous others) should positively covary with market integration.</p>
+<p>Recent work has also tentatively proposed that certain religious institutions, beliefs, and rituals may have coevolved with the norms that support large-scale societies and broad exchange (<xref ref-type="bibr" rid="R18"><italic>18</italic></xref>, <xref ref-type="bibr" rid="R20"><italic>20</italic></xref>, <xref ref-type="bibr" rid="R21"><italic>21</italic></xref>). Intersocietal competition may have favored those religious systems that galvanize prosocial behavior in broader communities, perhaps using both supernatural incentives (for example, hell) and recurrent rituals that intensify group solidarity (<xref ref-type="bibr" rid="R20"><italic>20</italic></xref>, <xref ref-type="bibr" rid="R22"><italic>22</italic></xref>). Consistent with this view, analyses of ethnographic data show that the emergence of moralizing religions increases with greater societal size and complexity (<xref ref-type="bibr" rid="R18"><italic>18</italic></xref>, <xref ref-type="bibr" rid="R23"><italic>23</italic></xref>). Archaeologically, regular rituals and the construction of monumental religious architecture co-emerge with societal size and complexity (<xref ref-type="bibr" rid="R24"><italic>24</italic></xref>). In experiments, unconsciously priming the faithful with religious concepts favors greater fairness toward anonymous others (<xref ref-type="bibr" rid="R21"><italic>21</italic></xref>). This suggests that, in contrast to the religions that likely dominated our evolutionary history, modern world religions such as Christianity and Islam may be unusual in ways that buttress the norms and institutions that sustain larger-scale interaction [supporting online material (SOM) text]. If this theory is correct, then greater fairness toward anonymous others should be associated with adherence to a world religion.</p>
+<p>Evolutionary approaches to norms also afford a prediction about the willingness of individuals across populations to engage in the costly punishment of norm violations. Theoretical modeling reveals at least two different kinds of norm-stabilizing mechanisms: One involves reputational effects in which norm violators are sanctioned in another interaction by, for example, not receiving aid in a dyadic helping situation (<xref ref-type="bibr" rid="R10"><italic>10</italic></xref>), and a second involves the use of diffuse (<xref ref-type="bibr" rid="R25"><italic>25</italic></xref>) costly punishment (<xref ref-type="bibr" rid="R12"><italic>12</italic></xref>). Because the effectiveness of reputational systems in sustaining norms degrades rapidly as communities expand (<xref ref-type="bibr" rid="R26"><italic>26</italic></xref>, <xref ref-type="bibr" rid="R27"><italic>27</italic></xref>), fairness in larger communities must increasingly be maintained by diffuse punishment; that is, larger communities should punish more.</p>
+<p><bold>Experiments.</bold> The evidence presented below derives from a second round of cross-cultural experiments that were designed to illuminate findings from our first project (<xref ref-type="bibr" rid="R28"><italic>28</italic></xref>, <xref ref-type="bibr" rid="R29"><italic>29</italic></xref>). This round replaces 10 populations from our earlier effort with 10 new ones (swapping several researchers as well), while resampling from five of the same populations used previously (<xref ref-type="table" rid="T1">Table 1</xref>). This analysis complements prior work from our team, which focused on the distributional patterns of punishment (<xref ref-type="bibr" rid="R30"><italic>30</italic></xref>), by seeking to explain the variation in our experimental measures of both fairness and punishment. Our analysis converges with recent work comparing diverse industrialized populations (<xref ref-type="bibr" rid="R31"><italic>31</italic></xref>).</p>
+<table-wrap id="T1" position="float"><label>Table 1</label><caption>
+<p>Summary information for the populations studied. The column Economic Base classifies the production systems (for example, horticulturalists rely primarily on slash-and-burn agriculture; pastoralists rely on herding). Residence classifies the nature and frequency of each population&#x2019;s movements. Mean MI is the average percentage of total household calories that are purchased in the market. Mean WR gives the percentage of the sample that reported adhering to a world religion. Mean CS gives the average CS for the populations studied. These CSs are for villages, except among the Hadza (who live in camps) and Accra. Com Sam (DG/UG/TPG) gives the number of different communities from which participants were drawn for the DG, UG, and TPG. <italic>N</italic> gives the number of pairs or trios for each experiment (table S4).</p></caption>
+<table frame="above">
+<col width="9.66%" />
+<col width="12.64%" />
+<col width="13.9%" />
+<col width="17.91%" />
+<col width="10.11%" />
+<col width="5.68%" />
+<col width="4.42%" />
+<col width="4.42%" />
+<col width="10.52%" />
+<col width="10.74%" />
+<thead>
+<tr>
+<td valign="middle" align="left" scope="col"><bold>Population</bold></td>
+<td valign="middle" align="center" scope="col"><bold>Location</bold></td>
+<td valign="middle" align="center" scope="col"><bold>Environs</bold></td>
+<td valign="middle" align="center" scope="col"><bold>Economic base</bold></td>
+<td valign="middle" align="center" scope="col"><bold>Residence</bold></td>
+<td valign="middle" align="center" scope="col"><bold>Mean MI</bold></td>
+<td valign="middle" align="center" scope="col"><bold>Mean WR</bold></td>
+<td valign="middle" align="center" scope="col"><bold>Mean CS</bold></td>
+<td valign="middle" align="center" scope="col"><bold>Com Sam (DG/UG/TPG)</bold></td>
+<td valign="middle" align="center" scope="col"><bold><italic>N</italic> (DG/UG/TPG)</bold></td></tr></thead>
+<tbody>
+<tr>
+<td valign="middle" align="left" scope="row">Accra City</td>
+<td valign="middle" align="center">Ghana</td>
+<td valign="middle" align="center">Urban</td>
+<td valign="middle" align="center">Wage work</td>
+<td valign="middle" align="center">Sedentary</td>
+<td valign="middle" align="center">100</td>
+<td valign="middle" align="center">97</td>
+<td valign="middle" align="center">44&#x2020;</td>
+<td valign="middle" align="center">3/3/11</td>
+<td valign="middle" align="center">30/30/39</td></tr>
+<tr>
+<td valign="middle" align="left" scope="row">Au*</td>
+<td valign="middle" align="center">Papua New Guinea</td>
+<td valign="middle" align="center">Mountainous forest</td>
+<td valign="middle" align="center">Horticulture and foraging</td>
+<td valign="middle" align="center">Sedentary</td>
+<td valign="middle" align="center">1</td>
+<td valign="middle" align="center">100</td>
+<td valign="middle" align="center">309</td>
+<td valign="middle" align="center">3/3/1</td>
+<td valign="middle" align="center">30/30/30</td></tr>
+<tr>
+<td valign="middle" align="left" scope="row">Dolgan/ Ng.</td>
+<td valign="middle" align="center">Siberia</td>
+<td valign="middle" align="center">Tundra-taiga</td>
+<td valign="middle" align="center">Hunting, fishing, and wages</td>
+<td valign="middle" align="center">Semi-sedentary</td>
+<td valign="middle" align="center">63</td>
+<td valign="middle" align="center">59</td>
+<td valign="middle" align="center">612</td>
+<td valign="middle" align="center">1/1/0</td>
+<td valign="middle" align="center">30/30/0</td></tr>
+<tr>
+<td valign="middle" align="left" scope="row">Gusii</td>
+<td valign="middle" align="center">Kenya</td>
+<td valign="middle" align="center">Fertile high plains</td>
+<td valign="middle" align="center">Farming and wage work</td>
+<td valign="middle" align="center">Sedentary</td>
+<td valign="middle" align="center">28</td>
+<td valign="middle" align="center">100</td>
+<td valign="middle" align="center">4063</td>
+<td valign="middle" align="center">2/2/1</td>
+<td valign="middle" align="center">25/25/30</td></tr>
+<tr>
+<td valign="middle" align="left" scope="row">Hadza*</td>
+<td valign="middle" align="center">Tanzania</td>
+<td valign="middle" align="center">Savanna-woodlands</td>
+<td valign="middle" align="center">Foraging</td>
+<td valign="middle" align="center">Nomadic</td>
+<td valign="middle" align="center">0</td>
+<td valign="middle" align="center">0</td>
+<td valign="middle" align="center">43</td>
+<td valign="middle" align="center">4/4/3</td>
+<td valign="middle" align="center">31/31/27</td></tr>
+<tr>
+<td valign="middle" align="left" scope="row">Isanga village</td>
+<td valign="middle" align="center">Tanzania</td>
+<td valign="middle" align="center">Mountainous forest</td>
+<td valign="middle" align="center">Farming and wage work</td>
+<td valign="middle" align="center">Sedentary</td>
+<td valign="middle" align="center">70</td>
+<td valign="middle" align="center">99</td>
+<td valign="middle" align="center">1500</td>
+<td valign="middle" align="center">1/1/1</td>
+<td valign="middle" align="center">30/30/20</td></tr>
+<tr>
+<td valign="middle" align="left" scope="row">Maragoli</td>
+<td valign="middle" align="center">Kenya</td>
+<td valign="middle" align="center">Fertile plains</td>
+<td valign="middle" align="center">Farming and wage work</td>
+<td valign="middle" align="center">Sedentary</td>
+<td valign="middle" align="center">43</td>
+<td valign="middle" align="center">100</td>
+<td valign="middle" align="center">3843</td>
+<td valign="middle" align="center">2/2/1</td>
+<td valign="middle" align="center">25/25/30</td></tr>
+<tr>
+<td valign="middle" align="left" scope="row">Orma*</td>
+<td valign="middle" align="center">Kenya</td>
+<td valign="middle" align="center">Semi-arid savanna</td>
+<td valign="middle" align="center">Pastoralism</td>
+<td valign="middle" align="center">Semi-nomadic</td>
+<td valign="middle" align="center">72</td>
+<td valign="middle" align="center">100</td>
+<td valign="middle" align="center">125</td>
+<td valign="middle" align="center">4/0/0</td>
+<td valign="middle" align="center">26/0/0</td></tr>
+<tr>
+<td valign="middle" align="left" scope="row">Samburu</td>
+<td valign="middle" align="center">Kenya</td>
+<td valign="middle" align="center">Semi-arid savanna</td>
+<td valign="middle" align="center">Pastoralism</td>
+<td valign="middle" align="center">Semi-nomadic</td>
+<td valign="middle" align="center">69</td>
+<td valign="middle" align="center">66</td>
+<td valign="middle" align="center">2000</td>
+<td valign="middle" align="center">1/1/1</td>
+<td valign="middle" align="center">31/31/30</td></tr>
+<tr>
+<td valign="middle" align="left" scope="row">Sanquianga</td>
+<td valign="middle" align="center">Colombia</td>
+<td valign="middle" align="center">Mangrove forest</td>
+<td valign="middle" align="center">Fisheries</td>
+<td valign="middle" align="center">Sedentary</td>
+<td valign="middle" align="center">82</td>
+<td valign="middle" align="center">84</td>
+<td valign="middle" align="center">1931</td>
+<td valign="middle" align="center">1/1/2</td>
+<td valign="middle" align="center">30/30/32</td></tr>
+<tr>
+<td valign="middle" align="left" scope="row">Shuar</td>
+<td valign="middle" align="center">Ecuador</td>
+<td valign="middle" align="center">Tropical forest</td>
+<td valign="middle" align="center">Horticulture</td>
+<td valign="middle" align="center">Sedentary</td>
+<td valign="middle" align="center">22</td>
+<td valign="middle" align="center">76</td>
+<td valign="middle" align="center">498</td>
+<td valign="middle" align="center">2/2/1</td>
+<td valign="middle" align="center">21/21/15</td></tr>
+<tr>
+<td valign="middle" align="left" scope="row">Sursurunga</td>
+<td valign="middle" align="center">Papua New Guinea</td>
+<td valign="middle" align="center">Island</td>
+<td valign="middle" align="center">Horticulture</td>
+<td valign="middle" align="center">Sedentary</td>
+<td valign="middle" align="center">24</td>
+<td valign="middle" align="center">100</td>
+<td valign="middle" align="center">186</td>
+<td valign="middle" align="center">3/3/1</td>
+<td valign="middle" align="center">30/30/32</td></tr>
+<tr>
+<td valign="middle" align="left" scope="row">Tsimane*</td>
+<td valign="middle" align="center">Bolivia</td>
+<td valign="middle" align="center">Tropical forest</td>
+<td valign="middle" align="center">Horticulture and foraging</td>
+<td valign="middle" align="center">Semi-nomadic</td>
+<td valign="middle" align="center">7</td>
+<td valign="middle" align="center">100</td>
+<td valign="middle" align="center">314</td>
+<td valign="middle" align="center">2/2/1</td>
+<td valign="middle" align="center">38/36/27</td></tr>
+<tr>
+<td valign="middle" align="left" scope="row">United States*</td>
+<td valign="middle" align="center">Missouri</td>
+<td valign="middle" align="center">Prairie</td>
+<td valign="middle" align="center">Wage work</td>
+<td valign="middle" align="center">Sedentary</td>
+<td valign="middle" align="center">100</td>
+<td valign="middle" align="center">100</td>
+<td valign="middle" align="center">1813</td>
+<td valign="middle" align="center">1/1/0</td>
+<td valign="middle" align="center">15/26/0</td></tr>
+<tr>
+<td valign="middle" align="left" scope="row">Yasawa</td>
+<td valign="middle" align="center">Fiji</td>
+<td valign="middle" align="center">Coastal tropical pacific</td>
+<td valign="middle" align="center">Horticulture and marine foraging</td>
+<td valign="middle" align="center">Sedentary</td>
+<td valign="middle" align="center">21</td>
+<td valign="middle" align="center">100</td>
+<td valign="middle" align="center">109</td>
+<td valign="middle" align="center">2/2/2</td>
+<td valign="middle" align="center">35/34/30</td></tr></tbody></table>
+<table-wrap-foot>
+<p>*These populations were also sampled from during our first project (<italic>28</italic>).</p>
+<p>&#x2020;Participants were sampled from small enterprises in the city of Accra. The value 44 is the average number of employees in the enterprises. Because of the anomalous nature of this situation with regard to obtaining a CS comparable with our other populations, we did not include Accra in analyses involving CS.</p>
+</table-wrap-foot></table-wrap>
+<p>If markets and world religions are linked to the norms that sustain exchange in large-scale societies, we expect that experimental measures of fairness in anonymous interactions will positively covary with measures of involvement in these two institutions. To test this, we used three experiments that were designed to measure individuals&#x2019; propensities for fairness and their willingness to punish unfairness across 15 populations that vary in their degree of market integration and their participation in world religions. Our three experiments are the Dictator, Ultimatum, and Third-Party Punishment Games (<xref ref-type="bibr" rid="R32"><italic>32</italic></xref>).</p>
+<p>In the Dictator Game (DG), two anonymous players are allotted a sum of money (the stake) in a one-shot interaction (<xref ref-type="bibr" rid="R3"><italic>3</italic></xref>). Player 1 must decide how to divide this sum between himself or herself and Player 2. Player 2 receives the allocation (offer), and the game ends. Player 1&#x2019;s offer to Player 2 provides a measure of Player 1&#x2019;s behavioral fairness in this context.</p>
+<p>In the Ultimatum Game (UG), two anonymous players are again allotted a sum in a one-shot interaction (<xref ref-type="bibr" rid="R3"><italic>3</italic></xref>). Player 1 can offer a portion of this to Player 2. Player 2, before hearing the actual offer from Player 1, must decide whether to accept or reject each of the possible offers (in 10% increments). Decisions are binding. If Player 2 specified that he or she would accept the amount of the actual offer, then Player 2 receives the offered amount and Player 1 gets the remainder. If Player 2 specified that he or she would reject the offered amount, then both players receive zero. If people are motivated purely by money maximization, Player 2s will always accept any positive offer; realizing this, Player 1 should offer the smallest nonzero amount. Because this is a one-shot anonymous interaction, Player 2&#x2019;s willingness to reject provides a measure of punishment. Player 1&#x2019;s offer measures a combination of social motivations and an assessment of the likelihood of rejection; this gives us a second behavioral measure of fairness.</p>
+<p>In the Third-Party Punishment Game (TPG), two players are again allotted a stake, but now a third player also receives the equivalent of one-half of the stake (<xref ref-type="bibr" rid="R33"><italic>33</italic></xref>). Player 1 must decide how much to allocate to Player 2, who has no choices. Player 3, before hearing the actual amount that Player 1 allocated to Player 2, has to decide whether to pay 20% of his or her allocation to punish Player 1 for each of the possible offers (in 10% increments). If punished, Player 1 loses triple the amount paid by Player 3. Suppose the stake is $100; if Player 1 offers $10 to Player 2 (keeping $90), and Player 3 wants to punish this offer amount, then Player 1 takes home $60 ($90 &#x2013; $30), Player 2 gets $10, and Player 3 gets $40 ($50 &#x2013; $10). If Player 3 had instead decided not to punish offers of $10, then the take-home amounts would be $90, $10, and $50, respectively. Because a money-maximizing Player 3 would never pay to punish, a similarly motivated Player 1 should always give zero to Player 2. Thus, Player 3&#x2019;s willingness-to-pay provides another measure of punishment. Player 1&#x2019;s offer measures a mixture of his or her social motivations in this context and an assessment of the punishment threat; this provides a third behavioral measure of fairness.</p>
+<p>These experiments, with their salient contextual cues of cash and anonymity, seem well suited to tapping the particular norms that support cooperation and exchange among ephemeral interactants in market transactions. Cash is closely associated with market transactions (<xref ref-type="bibr" rid="R34"><italic>34</italic></xref>) and often signals a desire to avoid a longer-term nonmarket relationship (<xref ref-type="bibr" rid="R35"><italic>35</italic></xref>). Anonymity in our games means that players lack the cues or information necessary to apply the expectations and motivations associated with other kinds of relationships, such as those based on kinship, reciprocity, or status differences, forcing players to default to local norms for dealing with people outside durable relationships. However, an important concern in interpreting such experiments involves the degree to which participants accept the experimental situation, believe the anonymity, and worry about the experimenter&#x2019;s judgments of them (SOM text).</p>
+<p>Our standardized protocols and methods included the following: (i) random adult samples from our communities (with little attrition in most sites), (ii) stakes set at 1 day&#x2019;s local wage, (iii) a show-up fee of 20% of the stake, (iv) back-translation of scripts, (v) one-on-one instruction and pregame testing for comprehension, (vi) steps to preclude collusion and contamination, and (vii) no deception (<xref ref-type="bibr" rid="R32"><italic>32</italic></xref>). Our pregame tests combined with analyses of the relationships between experimental decisions and measures of comprehension, indicate no measurable impact of differences in comprehension on behavior (<xref ref-type="bibr" rid="R30"><italic>30</italic></xref>).</p>
+<p>We performed these experiments with 2148 individuals across populations from Africa, North and South America, Oceania, New Guinea, and Asia that included small-scale societies of hunter-gatherers, marine foragers, pastoralists, horticulturalists, and wage laborers. <xref ref-type="table" rid="T1">Table 1</xref> provides the location (mapped in fig. S3), environment, economic base, residence pattern, and sampling information for each population, as well as averages for three key variables.</p>
+<p><bold>Results</bold>. The theory outlined above predicts a positive relationship between our three measures of fairness&#x2014;offers in each game&#x2014;with market integration and adherence to a world religion. Individuals&#x2019; offers are measured as a percentage of the total stake (1 day&#x2019;s local wage). Market Integration (MI) is measured at the household level by calculating the percentage of a household&#x2019;s total calories that were purchased from the market, as opposed to home-grown, hunted, or fished, and then averaged to obtain a community-level measure. We use the community average for MI both to remain consistent with our definition of norms (as local equilibria) and to remove day-to-day stochastic variation (<xref ref-type="bibr" rid="R32"><italic>32</italic></xref>). <xref ref-type="table" rid="T1">Table 1</xref> shows that the population means for MI range from 0 to 100%, with a mean of 57.3%. World Religion (WR) was assessed by asking participants what religion they practiced, and coding these as a binary variable, with &#x201C;1&#x201D; indicating Islam or Christianity, and &#x201C;0&#x201D; marking the practice of a tribal religion or &#x201C;no religion.&#x201D; <xref ref-type="table" rid="T1">Table 1</xref> provides the percentage of each population that adheres to a world religion. The mean value of WR is 89%.</p>
+<p>To analyze these data, we regressed offers on MI and WR, as well as seven control variables: age, sex, education, income, wealth, household size, and community size (CS). Except for wealth and household size, which are both measured at the household level, and CS, these control variables are individual-level measures. We used 30 (DG), 26 (UG), and 16 (TPG) community-level means for MI to predict 416 (DG), 398 (UG), and 272 (TPG) individual offers with a minimal set of controls, or 336 (DG), 319 (UG), and 265 (TPG) individual offers with the full set of controls.</p>
+<p><xref ref-type="table" rid="T2">Table 2</xref> shows four regression models using MI and WR to predict all offers together and offers from the DG, UG, and TPG, separately. Independent of the other sociodemographic variables, the coefficients on MI are large and significant at conventional levels across all four models. A 20&#x2013;percentage point increase in MI is associated with an increase in percentage offered ranging from roughly 2 to 3.4. The same qualitative results are obtained for MI whether one uses household measures, community averages, or population averages.</p>
+<table-wrap id="T2" position="float"><label>Table 2</label><caption>
+<p>Linear regression models for offers. These ordinary least-squares models include four additional control variables (sex, age, community size, and education). Coefficients are followed by standard errors, indicated with &#x00B1;; <italic>P</italic> values are given  in parentheses.</p></caption>
+<table frame="above">
+<col width="30.46%" />
+<col width="17.49%" />
+<col width="17.49%" />
+<col width="18.3%" />
+<col width="16.26%" />
+<thead>
+<tr>
+<td valign="top" align="left" scope="col"><bold>Variables</bold></td>
+<td valign="middle" align="center" scope="col"><bold>All offers*</bold></td>
+<td valign="middle" align="center" scope="col"><bold>DG offers&#x2020;</bold></td>
+<td valign="middle" align="center" scope="col"><bold>UG</bold>
+<break /><bold>offers&#x2020;</bold></td>
+<td valign="middle" align="center" scope="col"><bold>TPG</bold>
+<break /><bold>offers&#x2020;</bold></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="middle" align="left" scope="row">MI</td>
+<td valign="top" align="center">0.12 &#x00B1; 0.023 (&lt;0.001)</td>
+<td valign="top" align="center">0.17 &#x00B1; 0.035 (&lt;0.001)</td>
+<td valign="top" align="center">0.098 &#x00B1; 0.035 (0.005)</td>
+<td valign="top" align="center">0.11 &#x00B1; 0.044 (0.044)</td></tr>
+<tr>
+<td valign="middle" align="left" scope="row">WR&#x2021;</td>
+<td valign="top" align="center">5.96 &#x00B1; 2.04 (0.0036)</td>
+<td valign="top" align="center">6.4 &#x00B1; 3.61 (0.079)</td>
+<td valign="top" align="center">10.4 &#x00B1; 2.67 (&lt;0.001)</td>
+<td valign="top" align="center">0.45 &#x00B1; 3.06 (0.879)</td></tr>
+<tr>
+<td valign="middle" align="left" scope="row">Income (per U.S. $1000)</td>
+<td valign="top" align="center">0.096 &#x00B1; 0.089 (0.28)</td>
+<td valign="top" align="center">&#x2013;0.012 &#x00B1; 0.15 (0.93)</td>
+<td valign="top" align="center">0.16 &#x00B1; 0.10 (0.13)</td>
+<td valign="top" align="center">&#x2013;2.25 &#x00B1; 0.94 (0.017)</td></tr>
+<tr>
+<td valign="middle" align="left" scope="row">Wealth (per U.S. $1000)</td>
+<td valign="top" align="center">0.0012 &#x00B1; 0.006 (0.83)</td>
+<td valign="top" align="center">0.0013 &#x00B1; 0.008 (0.88)</td>
+<td valign="top" align="center">&#x2013;0.0056 &#x00B1; 0.008 (0.43)</td>
+<td valign="top" align="center">1.2 &#x00B1; 0.25 (&lt;0.001)</td></tr>
+<tr>
+<td valign="middle" align="left" scope="row">Household size</td>
+<td valign="top" align="center">&#x2013;0.24 &#x00B1; 0.21 (0.24)</td>
+<td valign="top" align="center">&#x2013;0.13 &#x00B1; 0.31 (0.67)</td>
+<td valign="top" align="center">&#x2013;0.24 &#x00B1; 0.2 
+<break />(0.37)</td>
+<td valign="top" align="center">&#x2013;1.0 &#x00B1; 0.43 (0.019)</td></tr>
+<tr>
+<td valign="middle" align="left" scope="row">Observations;<italic> R</italic><sup>2</sup></td>
+<td valign="top" align="center">920; 0.084</td>
+<td valign="top" align="center">336; 0.10</td>
+<td valign="top" align="center">319; 0.14</td>
+<td valign="top" align="center">265; 0.10</td></tr></tbody></table>
+<table-wrap-foot>
+<p>*Clustered robust standard errors adjust for repeated observations of the same people, 596 individuals (clusters). Indicator variables for each experiment (UG, TPG) were included to control for differences among offers in the three games (table S5).</p>
+<p>&#x2020;Robust standard errors used. See (<italic>32</italic>) for models with clustered robust standard errors [clustering on populations (<xref ref-type="table" rid="T1">Table 1</xref>) to control for the nonindependence of individuals], continental-level controls to address any shared culture history (Model 1 in tables S8, S11 and S14), and a variety of other robustness checks, which are summarized in the text.</p>
+<p>&#x2021;WR is an individual-level dummy variable with &#x201C;1&#x201D; indicating Islam or Christianity, and &#x201C;0&#x201D; marking the practice of a tribal religion or &#x201C;no religion.&#x201D; We have few &#x201C;no religion&#x201D; responses, and ethnography suggests that in the wake of missionary activities people associate &#x201C;religion&#x201D; with &#x201C;Christianity&#x201D;. Thus, responses of &#x201C;no religion&#x201D; probably imply belief in the local or traditional religion. </p>
+</table-wrap-foot></table-wrap>
+<p>The coefficients on WR are also large across all offers and in both the UG and DG, though not well estimated in the DG (<italic>P</italic> &lt; 0.10). However, WR&#x2019;s coefficients are significant (<italic>P</italic> &lt; 0.05) across all other specifications (tables S5, S8, and S11). Participating in a world religion is associated with an increase in percentage offered of between about 6 and 10 (<xref ref-type="bibr" rid="R36"><italic>36</italic></xref>).</p>
+<p>Taken together, these data indicate that going from a fully subsistence-based society (MI = 0) with a local religion to a fully market-incorporated society (MI = 100%) with a world religion predicts an increase in percentage offered of roughly 23, 20, and 11 in the DG, UG, and TPG, respectively. This spans most of the range of variation across our populations: DG means range from 26 to 47%, UG from 25 to 51%, and TPG from 20 to 43%.</p>
+<p>For the seven other socioeconomic variables, none of their coefficients is significant (<italic>P </italic>&lt; 0.05) across all offers or in the DG (tables S5 and S8). For UG offers, the coefficient on age is also positive (<italic>P </italic>&lt; 0.05, table S11). For TPG offers, <xref ref-type="table" rid="T2">Table 2</xref> shows that the coefficients on income, wealth, and household size are significant (<italic>P</italic> &lt; 0.05, table S14).</p>
+<p><xref ref-type="fig" rid="F1">Figure 1</xref> plots mean offers versus mean MI values for our 15 populations. Population mean MI values account for 52% of the variation in mean DG offers [correlation &#x03C1; = 0.72, 95% bootstrap confidence interval (CI) = 0.4 to 1.0 , <italic>P </italic> &lt; 0.01, <italic>n</italic> = 15 populations]. In designing this second round of experiments, we sought out an additional New Guinea population (Sursurunga), because in the first round, the Au of New Guinea revealed highly unusual behavior, including relatively high offers with little market integration. The Au pattern replicated, and now extends to the Sursurunga. However, because we targeted a second population that skews our world sample unrepresentatively toward New Guinea, we also examined this relationship with either the Au or the Sursurunga dropped. Dropping the Sursurunga leads to mean MI accounting for 58% of the variation (&#x03C1; = 0.76, 95% bootstrap CI = 0.44 to 0.95, <italic>P</italic> &lt; 0.001). Dropping the Au instead leads to mean MI capturing 71% of the variation (&#x03C1; = 0.84, 95% bootstrap CI = 0.59 to 0.96, <italic>P</italic> &lt; 0.001).</p>
+<fig id="F1" position="float" fig-type="figure"><label>Fig. 1</label><caption><p>Mean DG offers for each population plotted against mean value of MI. Error bars are bootstrapped standard errors (bias corrected and accelerated) on the population mean.</p>
+</caption>
+<graphic xlink:href="327_1480_F1"></graphic></fig>
+<p>On the punishment side, we looked for a relationship between our individual-level measures of punishment, from the UG and TPG, and our theoretically important variable, CS, while controlling for our other eight variables. For both the UG and TPG, we reduced the vector of &#x201C;punish or not punish&#x201D; responses to a single number called a minimum acceptable offer (MAO). This is the lowest offer (&#x2264;50%) for which an individual no longer punishes. Thus, if a player accepts all offers, his or her MAO is zero. If the player punishes offers of 0 and 10% but accepts all higher offers, his or her MAO is set at 20. MAO measures an individual&#x2019;s willingness to punish low offers (<xref ref-type="bibr" rid="R32"><italic>32</italic></xref>).</p>
+<p>To analyze MAOs, we used an ordered logistic regression (OLR) because MAOs are both discrete and bimodally distributed. This model assumes that the dependent variable is discrete and rank ordered, but that the distance between ranks is not meaningful. Because the output of an OLR is nonintuitive (tables S20A and S23A), we have captured the effects of the highly significant (<italic>P </italic>&lt; 0.001) coefficients for CS in <xref ref-type="fig" rid="F2">Fig. 2, A and B</xref>. Holding the other eight variables at their mean values, the figure shows how the distribution of MAOs for the TPG and UG shift with increases in CS. Small communities, the size of foraging bands, are the least willing to punish. As CS increases from 50 to 5000, there is a dramatic shift from a modal MAO of 0 to 50. Our communities&#x2019; sizes range from 20 to 4600 people.</p>
+<fig id="F2" position="float" fig-type="figure"><label>Fig. 2</label><caption><p>Effect of CS on MAOs. Each set of bars shows the distribution of MAOs, ranging discretely from 0 to 50, for different CSs. The coefficients used to create the plot are for the variable CS in an ordered logistic regression containing all eight of our other variables. All variables except CS are held constant at their mean values. The coefficients on CS represented graphically here are 0.052 &#x00B1; 0.0085 (robust standard error, <italic>P</italic> &lt; 0.001, <italic>n</italic> = 227) for the TPG and 0.087 &#x00B1; 0.011 (robust standard error, <italic>P</italic> &lt; 0.001, <italic>n</italic> = 297) for the UG. (<bold>A</bold>) TPG (see table S20A for full regression). (<bold>B</bold>) UG (see table S23A).</p>
+</caption>
+<graphic xlink:href="327_1480_F2"></graphic></fig>
+<p>Theoretical arguments suggest that punishment (MAO) should be related more directly to the natural logarithm of CS, because the effectiveness of reputational systems decays in rough proportion to this variable (<xref ref-type="bibr" rid="R26"><italic>26</italic></xref>, <xref ref-type="bibr" rid="R37"><italic>37</italic></xref>). Consistent with this, the natural logarithm of CS is a better predictor of MAO in both experiments than CS itself (tables S20B to S25B), and this amplifies the effects illustrated in <xref ref-type="fig" rid="F2">Fig. 2</xref> (fig. S4).</p>
+<p>Our theoretical approach makes no predictions about the relationship between punishment and MI, because, for small communities, there are numerous reputational mechanisms (not involving costly punishment) that can sustain equality norms. Similarly, because religion should galvanize the existing mechanisms for norm stabilization, whether participants in a world religion punish more depends entirely on the local stabilization mechanisms, which themselves depend on CS (<xref ref-type="bibr" rid="R38"><italic>38</italic></xref>). Nevertheless, for MAOs in the TPG, we find that WR is associated with significantly (<italic>P </italic>&lt; 0.05) more punishment, although MI reveals no such relationship. None of the other predictors is significant (<italic>P </italic>&lt; 0.05, table S20A). For MAO in the UG (table S23A), income, wealth, and MI all significantly predict lower MAOs (<italic>P </italic>&lt; 0.05). The effect for MI, however, is contingent on having CS in the equation. If CS is dropped, the effect of MI becomes nonsignificant. Thus, unlike CS, none of these other effects is consistent for both MAO measures or across alternative specifications.</p>
+<p>Our analyses for both offers and MAOs are robust to a variety of checks, including alternative model specifications and adjustments to our wealth and income variables to account for local differences in purchasing power (tables S6, S9, S12, S15, S21, and S24). We also included continental-level dummies (Africa, Oceania, South America, and Eurasia) to address concerns about shared cultural phylogenies, and we used clustered robust standard errors (clustering on site) to control for the potential nonindependence of individual observations within our sites (tables S5 to S25). The findings for MI and CS are robust to these checks. However, when continental controls are applied, the effects of WR on offers disappears because of the highly uneven distribution of populations containing individuals with WR = 0 (tables S5, S8, and S11, Model 1). We reran our models for Africa only and generally reconfirmed the above findings (<xref ref-type="bibr" rid="R32"><italic>32</italic></xref>). Nevertheless, because of the rather small sample of individuals with WR = 0, any conclusions about the effect of WR must remain quite tentative (<xref ref-type="bibr" rid="R39"><italic>39</italic></xref>).</p>
+<p><bold>Discussion. </bold>Our results on the relationship between MI and offers extend the findings of our previous project (<xref ref-type="bibr" rid="R29"><italic>29</italic></xref>) in several ways, including using fresh samples, better measures, new experiments, and additional controls. Despite swapping in 10 new sites and using a different protocol, we have replicated our earlier UG findings at both the level of individual sites (in four sites) and in obtaining a positive relationship between UG offers and market integration with a better measure. This relationship is now demonstrated for DG and TPG offers, each of which reveals similarly large effects and is robust to the inclusion of a range of socioeconomic variables not previously measured and to a suite of statistical checks (tables S5 to S25).</p>
+<p>These findings also delineate two additional lines of research. First, our inclusion of participation in a world religion converges with other recent findings (<xref ref-type="bibr" rid="R21"><italic>21</italic></xref>) and tentatively supports the notion that religion may have coevolved with complex societies to facilitate larger-scale interactions. Second, our analyses (tables S18 and S19) open up the question of why, when a third-party punisher is added to a DG to create a TPG, do mean offers usually decrease, the predictive effects of WR disappear (<xref ref-type="table" rid="T2">Table 2</xref>), and economic variables emerge as potent correlates of offers (tables S14 to S16)?</p>
+<p>On the punishment side, our analyses of MAOs are consistent with the idea that as reputational systems break down in larger populations, increasing levels of diffuse costly punishment are required to sustain large harmonious communities. This extends earlier bivariate analyses using population means in the TPG (<xref ref-type="bibr" rid="R40"><italic>40</italic></xref>) and converges with ethnographic data, suggesting that large communities, lacking sufficient and effective punishing mechanisms, fragment into smaller groups as their community sizes reach about 300 people (<xref ref-type="bibr" rid="R41"><italic>41</italic></xref>).</p>
+<p>Although our primary interest here is behavioral fairness, which includes whatever combination of motivations and expectations yields more equal divisions, two features of these results suggest that they may stand when considered as measures of intrinsic (internalized) motivations. First, because no punishment opportunities exist in the DG, this experiment likely provides a purer measure of intrinsic motivations for equal offers. Second, we reran the above offer regressions for UG and TPG offers including each population&#x2019;s mean MAO as an additional predictor variable. If individuals are well calibrated to the threat of punishment posed by their local communities, then adding this variable should (at least partially) remove the impact of any threat of punishment on offers. The inclusion of mean MAO as a predictor variable does not change the coefficients on MI or WR (table S17). Finally, anonymity concerns regarding our experiments and results are taken up in the SOM text, where we discuss our double-blind treatments and related analyses, which indicate that differences in perceived anonymity are unlikely to explain our major findings.</p>
+<p>These findings indicate that people living in small communities lacking market integration or world religions&#x2014;absences that likely characterized all societies until the Holocene&#x2014;display relatively little concern with fairness or punishing unfairness in transactions involving strangers or anonymous others. This result challenges the hypothesis that successful social interaction in large-scale societies&#x2014;and the corresponding experimental findings&#x2014;arise directly from an evolved psychology that mistakenly applies kin and reciprocity-based heuristics to strangers in vast populations (<xref ref-type="bibr" rid="R4"><italic>4</italic></xref>, <xref ref-type="bibr" rid="R5"><italic>5</italic></xref>), without any of the &#x201C;psychological workarounds&#x201D; (<xref ref-type="bibr" rid="R42"><italic>42</italic></xref>) that are created by norms and institutions. Moreover, it is not clear how this hypothesis can explain why we find so much variation among populations in our experimental measures and why this variation is so strongly related to MI, WR, and CS. The mere fact that the largest and most anonymous communities engage in substantially greater punishment relative to the smallest-scale societies, who punish very little, challenges this interpretation.</p>
+<p>Methodologically, our findings suggest caution in interpreting behavioral experiments from industrialized populations as providing direct insights into human nature. Combining our findings with work on the links between behavioral experiments and real life (<xref ref-type="bibr" rid="R31"><italic>31</italic></xref>, <xref ref-type="bibr" rid="R43"><italic>43</italic></xref>, <xref ref-type="bibr" rid="R44"><italic>44</italic></xref>) suggests that such experiments elicit norms, or reflect institutions, that have evolved to facilitate interactions among individuals not engaged in durable relationships. Given this, much current work using behavioral games appears to be studying the interaction between a particular set of norms and our evolved psychology, not tapping this psychology directly.</p>
+<p>Overall, these findings lend support to the idea that the evolution of societal complexity, especially as it has occurred over the last 10 millennia, involved the selective spread of those norms and institutions that best facilitated the successful exchange and interaction in socioeconomic spheres well beyond local networks of durable kin and reciprocity-based relationships. Although differences in environmental affordances probably had a profound impact on the emergence of complex societies across the globe (<xref ref-type="bibr" rid="R2"><italic>2</italic></xref>), the rate-determining step in societal evolution may have involved the assembly of the norms and institutions that are capable of harnessing and extending our evolved social psychology to accommodate life in large, intensely cooperative communities. Recent experimental work among diverse industrialized populations suggests that the gradual honing of these norms and institutions continues in modern societies (<xref ref-type="bibr" rid="R31"><italic>31</italic></xref>).</p>
+</body>
+<back>
+<app-group>
+<app>
+<title>Supporting Online Material</title>
+<supplementary-material>
+<p><ext-link ext-link-type="uri" xlink:href="http://www.sciencemag.org/cgi/content/full/327/5972/1480/DC1">www.sciencemag.org/cgi/content/full/327/5972/1480/DC1</ext-link></p>
+<p>Materials and Methods</p>
+<p>SOM Text</p>
+<p>Figs. S1 to S4</p>
+<p>Tables S1 to S25</p>
+<p>References</p>
+</supplementary-material></app></app-group>
+<ref-list>
+<title>References and Notes</title>
+<ref id="R1"><label>1</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Richerson</surname><given-names>P. J.</given-names></name><name><surname>Boyd</surname><given-names>R.</given-names></name><name><surname>Bettinger</surname><given-names>R. L.</given-names></name></person-group>, 
+<article-title>Was agriculture impossible during the Pleistocene but mandatory during the Holocene? A climate change hypothesis</article-title>. 
+<source>Am. Antiq.</source> 
+<volume>66</volume>, 
+<fpage>387</fpage> (<year>2001</year>). <pub-id pub-id-type="doi">10.2307/2694241</pub-id></citation></ref>
+<ref id="R2"><label>2</label><citation citation-type="book">J. M. Diamond, <italic>Guns, Germs, and Steel: The Fates of Human Societies</italic> (Norton, New York, 1997).</citation></ref>
+<ref id="R3"><label>3</label><citation citation-type="book">C. Camerer, <italic>Behavior Game Theory: Experiments in Strategic Interaction</italic> (Princeton Univ. Press, Princeton, NJ, 2003).</citation></ref>
+<ref id="R4"><label>4</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Burnham</surname><given-names>T. C.</given-names></name><name><surname>Johnson</surname><given-names>D. D.</given-names></name></person-group>, 
+<source>Anal. Kritik</source> 
+<volume>27</volume>, 
+<fpage>113</fpage> (<year>2005</year>).</citation></ref>
+<ref id="R5"><label>5</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Nowak</surname><given-names>M. A.</given-names></name><name><surname>Page</surname><given-names>K. M.</given-names></name><name><surname>Sigmund</surname><given-names>K.</given-names></name></person-group>, 
+<article-title>Fairness versus reason in the ultimatum game.</article-title> 
+<source>Science</source> 
+<volume>289</volume>, 
+<fpage>1773</fpage> (<year>2000</year>). <pub-id pub-id-type="doi">10.1126/science.289.5485.1773</pub-id><pub-id pub-id-type="pmid">10976075</pub-id></citation></ref>
+<ref id="R6"><label>6</label><citation citation-type="book">D. C. North, <italic>Institutions</italic>,<italic> Institutional Change, and Economic Performance</italic> (Cambridge Univ. Press, New York, 1990).</citation></ref>
+<ref id="R7"><label>7</label><citation citation-type="book">S. Bowles, <italic>Microeconomics: Behavior, Institutions, and Evolution</italic> (Princeton Univ. Press, Princeton, NJ, 2004).</citation></ref>
+<ref id="R8"><label>8</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Fehr</surname><given-names>E.</given-names></name><name><surname>Camerer</surname><given-names>C. F.</given-names></name></person-group>, 
+<article-title>Social neuroeconomics: The neural circuitry of social preferences.</article-title> 
+<source>Trends Cogn. Sci.</source> 
+<volume>11</volume>, 
+<fpage>419</fpage> (<year>2007</year>). <pub-id pub-id-type="doi">10.1016/j.tics.2007.09.002</pub-id><pub-id pub-id-type="pmid">17913566</pub-id></citation></ref>
+<ref id="R9"><label>9</label><citation citation-type="book">P. Richerson, R. Boyd, <italic>Not by Genes Alone: How Culture Transformed Human Evolution</italic> (Univ. of Chicago Press, Chicago, 2005).</citation></ref>
+<ref id="R10"><label>10</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Panchanathan</surname><given-names>K.</given-names></name><name><surname>Boyd</surname><given-names>R.</given-names></name></person-group>, 
+<article-title>Indirect reciprocity can stabilize cooperation without the second-order free rider problem.</article-title> 
+<source>Nature</source> 
+<volume>432</volume>, 
+<fpage>499</fpage> (<year>2004</year>). <pub-id pub-id-type="doi">10.1038/nature02978</pub-id><pub-id pub-id-type="pmid">15565153</pub-id></citation></ref>
+<ref id="R11"><label>11</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Gintis</surname><given-names>H.</given-names></name><name><surname>Smith</surname><given-names>E. A.</given-names></name><name><surname>Bowles</surname><given-names>S.</given-names></name></person-group>, 
+<article-title>Costly signaling and cooperation.</article-title> 
+<source>J. Theor. Biol.</source> 
+<volume>213</volume>, 
+<fpage>103</fpage> (<year>2001</year>). <pub-id pub-id-type="doi">10.1006/jtbi.2001.2406</pub-id><pub-id pub-id-type="pmid">11708857</pub-id></citation></ref>
+<ref id="R12"><label>12</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Henrich</surname><given-names>J.</given-names></name><name><surname>Boyd</surname><given-names>R.</given-names></name></person-group>, 
+<article-title>Why people punish defectors. Weak conformist transmission can stabilize costly enforcement of norms in cooperative dilemmas.</article-title> 
+<source>J. Theor. Biol.</source> 
+<volume>208</volume>, 
+<fpage>79</fpage> (<year>2001</year>). <pub-id pub-id-type="doi">10.1006/jtbi.2000.2202</pub-id><pub-id pub-id-type="pmid">11162054</pub-id></citation></ref>
+<ref id="R13"><label>13</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Sigmund</surname><given-names>K.</given-names></name><name><surname>Hauert</surname><given-names>C.</given-names></name><name><surname>Nowak</surname><given-names>M. A.</given-names></name></person-group>, 
+<article-title>Reward and punishment.</article-title> 
+<source>Proc. Natl. Acad. Sci. U.S.A.</source> 
+<volume>98</volume>, 
+<fpage>10757</fpage> (<year>2001</year>). <pub-id pub-id-type="doi">10.1073/pnas.161155698</pub-id><pub-id pub-id-type="pmid">11553811</pub-id></citation></ref>
+<ref id="R14"><label>14</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Boyd</surname><given-names>R.</given-names></name><name><surname>Richerson</surname><given-names>P. J.</given-names></name></person-group>, 
+<article-title>Group beneficial norms can spread rapidly in a structured population.</article-title> 
+<source>J. Theor. Biol.</source> 
+<volume>215</volume>, 
+<fpage>287</fpage> (<year>2002</year>). <pub-id pub-id-type="doi">10.1006/jtbi.2001.2515</pub-id><pub-id pub-id-type="pmid">12054837</pub-id></citation></ref>
+<ref id="R15"><label>15</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Ensminger</surname><given-names>J.</given-names></name><name><surname>Knight</surname><given-names>J.</given-names></name></person-group>, 
+<article-title>Changing social norms: Common property, bridewealth, and clan exogamy</article-title>. 
+<source>Curr. Anthropol.</source> 
+<volume>38</volume>, 
+<fpage>1</fpage> (<year>1997</year>). <pub-id pub-id-type="doi">10.1086/204579</pub-id></citation></ref>
+<ref id="R16"><label>16</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Bowles</surname><given-names>S.</given-names></name></person-group>, 
+<source>J. Econ. Lit.</source> 
+<volume>36</volume>, 
+<fpage>75</fpage> (<year>1998</year>).</citation></ref>
+<ref id="R17"><label>17</label><citation citation-type="book">A. Smith, <italic>The Theory of Moral Sentiments</italic> (Prometheus, New York, 2000).</citation></ref>
+<ref id="R18"><label>18</label><citation citation-type="book">R. Wright, <italic>The Evolution of God</italic> (Little, Brown, Boston, 2009).</citation></ref>
+<ref id="R19"><label>19</label><citation citation-type="book">E. Fehr, J. Henrich, in <italic>Genetic and Cultural Evolution of Cooperation</italic>, P. Hammerstein, Ed. (MIT Press, Cambridge, MA, 2003).</citation></ref>
+<ref id="R20"><label>20</label><citation citation-type="book">A. Shariff, A. Norenzayan, J. Henrich, in <italic>Evolution, Culture and the Human Mind</italic>, M. Schaller, A. Norenzayan, S. Heine, T. Yamaguishi, T. Kameda, Eds. (Psychology Press, New York, 2009), pp. 119&#x2013;136.</citation></ref>
+<ref id="R21"><label>21</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Norenzayan</surname><given-names>A.</given-names></name><name><surname>Shariff</surname><given-names>A. F.</given-names></name></person-group>, 
+<article-title>The origin and evolution of religious prosociality.</article-title> 
+<source>Science</source> 
+<volume>322</volume>, 
+<fpage>58</fpage> (<year>2008</year>). <pub-id pub-id-type="doi">10.1126/science.1158757</pub-id><pub-id pub-id-type="pmid">18832637</pub-id></citation></ref>
+<ref id="R22"><label>22</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Henrich</surname><given-names>J.</given-names></name></person-group>, 
+<article-title>The evolution of costly displays, cooperation and religioncredibility enhancing displays and their implications for cultural evolution</article-title>. 
+<source>Evol. Hum. Behav.</source> 
+<volume>30</volume>, 
+<fpage>244</fpage> (<year>2009</year>). <pub-id pub-id-type="doi">10.1016/j.evolhumbehav.2009.03.005</pub-id></citation></ref>
+<ref id="R23"><label>23</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Roes</surname><given-names>F. L.</given-names></name><name><surname>Raymond</surname><given-names>M.</given-names></name></person-group>, 
+<article-title>Belief in moralizing gods</article-title>. 
+<source>Evol. Hum. Behav.</source> 
+<volume>24</volume>, 
+<fpage>126</fpage> (<year>2003</year>). <pub-id pub-id-type="doi">10.1016/S1090-5138(02)00134-4</pub-id></citation></ref>
+<ref id="R24"><label>24</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Marcus</surname><given-names>J.</given-names></name><name><surname>Flannery</surname><given-names>K. V.</given-names></name></person-group>, 
+<article-title>The coevolution of ritual and society: New <sup>14</sup>C dates from ancient Mexico.</article-title> 
+<source>Proc. Natl. Acad. Sci. U.S.A.</source> 
+<volume>101</volume>, 
+<fpage>18257</fpage> (<year>2004</year>). <pub-id pub-id-type="doi">10.1073/pnas.0408551102</pub-id><pub-id pub-id-type="pmid">15601758</pub-id></citation></ref>
+<ref id="R25">
+<note><label>25</label><p>Diffuse punishment implies that the responsibility for punishing is spread over a large segment of the population.</p>
+</note></ref>
+<ref id="R26"><label>26</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Panchanathan</surname><given-names>K.</given-names></name><name><surname>Boyd</surname><given-names>R.</given-names></name></person-group>, 
+<article-title>A tale of two defectors: The importance of standing for evolution of indirect reciprocity.</article-title> 
+<source>J. Theor. Biol.</source> 
+<volume>224</volume>, 
+<fpage>115</fpage> (<year>2003</year>). <pub-id pub-id-type="doi">10.1016/S0022-5193(03)00154-1</pub-id><pub-id pub-id-type="pmid">12900209</pub-id></citation></ref>
+<ref id="R27"><label>27</label><citation citation-type="book">A. K. Dixit, <italic>Lawlessness and Economics: Alternative Modes of Governance</italic> (Princeton Univ. Press, Princeton, NJ, 2004).</citation></ref>
+<ref id="R28"><label>28</label><citation citation-type="book">J. Henrich <italic>et al</italic>., Eds., <italic>Foundations of Human Sociality: Economic Experiments and Ethnographic Evidence from Fifteen Small-Scale Societies</italic> (Oxford Univ. Press, Oxford, 2004).</citation></ref>
+<ref id="R29"><label>29</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Henrich</surname><given-names>J.</given-names></name><etal /></person-group>., 
+<article-title>&#x201C;Economic man&#x201D; in cross-cultural perspective: Behavioral experiments in 15 small-scale societies.</article-title> 
+<source>Behav. Brain Sci.</source> 
+<volume>28</volume>, 
+<fpage>795</fpage>
+<lpage>, discussion 815</lpage> (<year>2005</year>). <pub-id pub-id-type="doi">10.1017/S0140525X05000142</pub-id><pub-id pub-id-type="pmid">16372952</pub-id></citation></ref>
+<ref id="R30"><label>30</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Henrich</surname><given-names>J.</given-names></name><etal /></person-group>., 
+<article-title>Costly punishment across human societies.</article-title> 
+<source>Science</source> 
+<volume>312</volume>, 
+<fpage>1767</fpage> (<year>2006</year>). <pub-id pub-id-type="doi">10.1126/science.1127333</pub-id><pub-id pub-id-type="pmid">16794075</pub-id></citation></ref>
+<ref id="R31"><label>31</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Herrmann</surname><given-names>B.</given-names></name><name><surname>Th&#x00F6;ni</surname><given-names>C.</given-names></name><name><surname>G&#x00E4;chter</surname><given-names>S.</given-names></name></person-group>, 
+<article-title>Antisocial punishment across societies.</article-title> 
+<source>Science</source> 
+<volume>319</volume>, 
+<fpage>1362</fpage> (<year>2008</year>). <pub-id pub-id-type="doi">10.1126/science.1153808</pub-id><pub-id pub-id-type="pmid">18323447</pub-id></citation></ref>
+<ref id="R32">
+<note><label>32</label><p>Background, methods, and supplemental analyses are available as supporting material on <italic>Science</italic> Online.</p>
+</note></ref>
+<ref id="R33"><label>33</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Fehr</surname><given-names>E.</given-names></name><name><surname>Fischbacher</surname><given-names>U.</given-names></name></person-group>, 
+<article-title>Third-party punishment and social norms</article-title>. 
+<source>Evol. Hum. Behav.</source> 
+<volume>25</volume>, 
+<fpage>63</fpage> (<year>2004</year>). <pub-id pub-id-type="doi">10.1016/S1090-5138(04)00005-4</pub-id></citation></ref>
+<ref id="R34">
+<note><label>34</label><p>Cash has value in all our societies. Everyone wants steel, salt, and sugar, if nothing else.</p>
+</note></ref>
+<ref id="R35"><label>35</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Vohs</surname><given-names>K. D.</given-names></name><name><surname>Mead</surname><given-names>N. L.</given-names></name><name><surname>Goode</surname><given-names>M. R.</given-names></name></person-group>, 
+<article-title>The psychological consequences of money.</article-title> 
+<source>Science</source> 
+<volume>314</volume>, 
+<fpage>1154</fpage> (<year>2006</year>). <pub-id pub-id-type="doi">10.1126/science.1132491</pub-id><pub-id pub-id-type="pmid">17110581</pub-id></citation></ref>
+<ref id="R36">
+<note><label>36</label><p>We found no robust differences among different forms of Christianity (Catholics versus Protestants), or between Christianity and Islam.</p>
+</note></ref>
+<ref id="R37"><label>37</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Cancho</surname><given-names>R. F. I.</given-names></name><name><surname>Sole</surname><given-names>R. V.</given-names></name><name><surname>Kohler</surname><given-names>R.</given-names></name></person-group>, 
+<source>Phys. Rev. E</source> 
+<volume>69</volume>, 
+<fpage>051915</fpage> (<year>2004</year>).</citation></ref>
+<ref id="R38">
+<note><label>38</label><p>Traditional religions may sometimes galvanize local norms (SOM text), but they do not galvanize &#x201C;market norms,&#x201D; which are for interacting with strangers or anonymous others. When religions do underwrite norms, they must operate in concert with the local norm-stabilizing mechanisms.</p>
+</note></ref>
+<ref id="R39">
+<note><label>39</label><p>We did not use fixed effects for communities or populations in any of our regressions, because our theoretical focus is on differences in social norms. Because norms are group-level properties (different locally stable equilibria), much of the relevant norm-related variation occurs between, not within, communities or populations (SOM text).</p>
+</note></ref>
+<ref id="R40"><label>40</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Marlowe</surname><given-names>F. W.</given-names></name><etal /></person-group>., 
+<article-title>More &#x2018;altruistic&#x2019; punishment in larger societies.</article-title> 
+<source>Proc. Biol. Sci.</source> 
+<volume>275</volume>, 
+<fpage>587</fpage> (<year>2008</year>). <pub-id pub-id-type="doi">10.1098/rspb.2007.1517</pub-id><pub-id pub-id-type="pmid">18089534</pub-id></citation></ref>
+<ref id="R41"><label>41</label><citation citation-type="book">A. Forge, in <italic>Man, Settlement and Urbanisation</italic>, P. Ucko, R. Tringham, G. Dimbelby, Eds. (Duckworth, London, 1972), pp. 363&#x2013;376.</citation></ref>
+<ref id="R42"><label>42</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Richerson</surname><given-names>P.</given-names></name><name><surname>Boyd</surname><given-names>R.</given-names></name></person-group>, 
+<article-title>Complex societies</article-title>. 
+<source>Hum. Nat.</source> 
+<volume>10</volume>, 
+<fpage>253</fpage> (<year>1999</year>). <pub-id pub-id-type="doi">10.1007/s12110-999-1004-y</pub-id></citation></ref>
+<ref id="R43"><label>43</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Poppe</surname><given-names>M.</given-names></name></person-group>, 
+<article-title>The specificity of social dilemma situations</article-title>. 
+<source>J. Econ. Psychol.</source> 
+<volume>26</volume>, 
+<fpage>431</fpage> (<year>2005</year>). <pub-id pub-id-type="doi">10.1016/j.joep.2004.12.006</pub-id></citation></ref>
+<ref id="R44"><label>44</label><citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Gurven</surname><given-names>M.</given-names></name><name><surname>Winking</surname><given-names>J.</given-names></name></person-group>, 
+<article-title>Collective action in action: Prosocial behavior in and out of the laboratory</article-title>. 
+<source>Am. Anthropol.</source> 
+<volume>110</volume>, 
+<fpage>179</fpage> (<year>2008</year>). <pub-id pub-id-type="doi">10.1111/j.1548-1433.2008.00024.x</pub-id></citation></ref></ref-list>
+<ack><label>45</label>
+<p>We especially thank the communities that participated 
+in our research. We also thank the National Science Foundation, the MacArthur Norms and Preferences Network, the Max Planck Institute for Social Anthropology, and the Russell Sage Foundation for funding this project. Thanks also to the many audiences and readers who contributed to improving our efforts.</p>
+</ack></back>
+</article>
