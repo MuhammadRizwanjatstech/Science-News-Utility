@@ -10,6 +10,15 @@ function dprint($str) {
     }
 }
 
+/* optimized crop
+ *
+ * generates a thumbnail of desired dimensions from a source image by cropping 
+ * the most "interesting" part of the image, as determined by an edge detection 
+ * filter.
+ *
+ * $w, $h - target dimensions of thumbnail
+ * $image - system path to source image
+ */
 function thumbcrop($image, $w, $h) {
     global $cache;
     // get size of the original
@@ -25,7 +34,6 @@ function thumbcrop($image, $w, $h) {
     $img = new Imagick($image);
     //$oimg->edgeImage(0);
 
-    // optimal crop
     // start with a few parameters
     $edgeradius = 1;
     $nscales = 1;
