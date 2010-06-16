@@ -1,0 +1,23 @@
+colorscheme koehler
+source $VIMRUNTIME/mswin.vim
+set gfn=Lucida_Console:h9:cANSI
+syntax on
+
+set lines=60 columns=80
+set tabstop=4
+set softtabstop=4
+set shiftwidth=4
+set textwidth=80
+set smarttab
+set expandtab
+set number
+filetype plugin indent on
+
+" for moving line(s) up and down in the file
+nnoremap <A-j> :m+<CR>==
+nnoremap <A-k> :m-2<CR>==
+inoremap <A-j> <Esc>:m+<CR>==gi
+inoremap <A-k> <Esc>:m-2<CR>==gi
+vnoremap <A-j> :m'>+<CR>gv=gv
+vnoremap <A-k> :m-2<CR>gv=gv
+

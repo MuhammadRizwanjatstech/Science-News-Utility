@@ -7,38 +7,14 @@
 import re, string, sys
 
 # initialize lookup table with captions and credits
-captions = ["""This unnamed species of lizard from the Liolaemus family in
-            Bolivia could go extinct before scientists have a chance to study
-            it. (Credit: Ignacio De La Riva)""",
-            """Researchers constructed these makeshift "electronic lizards" to
-            mimic a real lizard's light reflectivity and record how hot it would
-            get during different parts of the day. (Credit: Barry Sinervo) """,
-            """Cloud forest habitats in Peru are among the environments in
-            danger of losing lizard species to global warming. (Credit: Ignacio
-            De La Riva)""",
-            """This chameleon in Madagascar, <i>Furcifer lateralis</i>, is
-            already fighting extinction. Further global warming will likely seal
-            its fate. (Credit: Ignacio De La Riva)""",
-            """Madagascar's geckos, including this <i>Phelsuma
-            quadriocellata</i>, are hanging on for life. Global warming could be
-            their nail in the coffin. (Credit: Ignacio De La Riva)""",
-            """The researchers's extinction model was based largely on die-offs
-            of local populations in Mexico of lizards like this <i>Sceloporus
-            bicanthalis</i>. The model fits lizards's extinction patterns
-            worldwide, though. (Credit: Fausto Roberto M&#233;ndez de la
-            Cruz)""",
-            """Even though temperatures in Australia's Uluru-Kata Tjuta National
-            Park are rising modestly, it may be enough to send lizards like this
-            Great Desert Skink (<i>Liopholis kintorei)</i> into extinction.
-            (Credit: Adam Stow)""",
-            """Lizards who bear live young, like this <i>Liolaemus pictus
-            </i>from Chile, are at greater risk of becoming extinct than lizards
-            who lay eggs. (Credit: P. Victoriano)""",
-            """Long, hot hours of daytime might prevent lizards like this
-            <i>Liolaemus tenuis</i> in Central-Southern Chile from foraging
-            enough to sustain their population. (Credit: P. Victoriano)""",
-           ]
-           
+captions = ["""<b>Eye spy</b>. Rather than spinning a cocoon, <i>Ridens panche</i> caterpillars roll up leaves using silken threads. If a bird cuts openthis shelter (<i>top</i>), the caterpillar immediately thrusts a scary back end at the invader (<i>bottom</i>)""",
+            """<b>Two face</b>. Caterpillar patterns can appear different when viewed from different angles, such as these two <i>Cephise nuspesez</i>caterpillars, whose "face" depends on whether a predator approaches from the top or the side""",
+            """<b>Hidden surprise</b>. Unless disturbed, the false eyes of these species stay hidden under skin folds. The caterpillars can thus avoiddisplaying bright, revealing colors until necessary""",
+            """<b>Spot on</b>. Some species display an astonishingly detailed mimicry of snake eyes and scales""",
+            """<b>Dot the eyes</b>. In many cases, even the slightest suggestion of eyes and faces is enough to drive off insect-eating birds""",
+            """<b>Strike a pose</b>. Some caterpillars may establish an s-shaped pose to more closely resemble a snake while thrusting their false head ata bird""",
+            """<b>Not obvious</b>. A casual observer might not notice a caterpillar's eyespot patterns, which are designed to be viewed from a particulardistance and angle. Seen here is an <i>Elymiotis janzen</i> caterpillar from the front (<i>left</i>) and the side (<i>right</i>)"""]
+
 head = '''<?xml version="1.0" encoding="UTF-8"?>
 <gallery>
 <album lgpath="images/" tnpath="tn/" tnsmpath="tnsm/" fspath="fs/" tn="" title="" description="">'''
